@@ -4,6 +4,21 @@ Microsoft Tech Community blog posts
 
 ## 2024
 
+### Defender for Office 365
+
+- [Automated end-user feedback response is now GA](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automated-end-user-feedback-response-is-now-ga/ba-p/4148055)
+- [Email Protection Basics in Microsoft 365 Part Five: Mastering Overrides](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-part-five-mastering/ba-p/4139035)
+- [Enhanced Response Action Experience from Threat Explorer](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/enhanced-response-action-experience-from-threat-explorer/ba-p/4130448)
+- [Attack Simulation Training is now available for GCC High and DoD customers](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/attack-simulation-training-is-now-available-for-gcc-high-and-dod/ba-p/4119717)
+- [https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/attack-simulation-training-is-now-available-for-gcc-high-and-dod/ba-p/4119717](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/copy-simulations-in-attack-simulation-training-is-now-ga/ba-p/4115160)
+- [https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/copy-simulations-in-attack-simulation-training-is-now-ga/ba-p/4115160](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/gone-phishing-tournament-takeaways/ba-p/4082189)
+- [https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/gone-phishing-tournament-takeaways/ba-p/4082189](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/hunting-and-responding-to-qr-code-based-phishing-attacks-with/ba-p/4074730)
+- [https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/hunting-and-responding-to-qr-code-based-phishing-attacks-with/ba-p/4074730](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-persistent-views-and-ux-enhancements-in-threat/ba-p/4075679)
+- [Permissions Management: Defender XDR's RBAC Walkthrough for Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/permissions-management-defender-xdr-s-rbac-walkthrough-for/ba-p/4064288)
+- [https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/permissions-management-defender-xdr-s-rbac-walkthrough-for/ba-p/4064288](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/updates-to-configuration-analyzer-in-microsoft-defender-for/ba-p/4043087)
+- [Learn more about LinkedIn Smart Link Phish Campaigns](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/learn-more-about-linkedin-smart-link-phish-campaigns/ba-p/4037048)
+- [Train your users to be more resilient against QR code phishing](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/train-your-users-to-be-more-resilient-against-qr-code-phishing/ba-p/4022667)
+
 ## 2023
 
 - [Protect your organizations against QR code phishing with Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/protect-your-organizations-against-qr-code-phishing-with/ba-p/4007041)
