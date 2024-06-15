@@ -4,16 +4,23 @@ Microsoft Tech Community blog posts
 
 ## 2024
 
+### Defender for Endpoint
+
+- [Detect suspicious processes running on hidden desktops](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-suspicious-processes-running-on-hidden-desktops/ba-p/4072322)
+- [Simplify triage with the new Alert Timeline](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplify-triage-with-the-new-alert-timeline/ba-p/4152653)
+- [Offline Security Intelligence Update is now GA](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-ga/ba-p/4102370)
+- [Use the new investigation and response capabilities for macOS and Linux](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-investigation-and-response-capabilities-for-macos/ba-p/4054492)
+- [Manage your devices with ease using dynamic rules for device tagging in Microsoft Defender](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-your-devices-with-ease-using-dynamic-rules-for-device/ba-p/4024988)
+
 ### Defender for Office 365
 
 - [Automated end-user feedback response is now GA](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automated-end-user-feedback-response-is-now-ga/ba-p/4148055)
 - [Email Protection Basics in Microsoft 365 Part Five: Mastering Overrides](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-part-five-mastering/ba-p/4139035)
 - [Enhanced Response Action Experience from Threat Explorer](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/enhanced-response-action-experience-from-threat-explorer/ba-p/4130448)
 - [Attack Simulation Training is now available for GCC High and DoD customers](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/attack-simulation-training-is-now-available-for-gcc-high-and-dod/ba-p/4119717)
-- [https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/attack-simulation-training-is-now-available-for-gcc-high-and-dod/ba-p/4119717](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/copy-simulations-in-attack-simulation-training-is-now-ga/ba-p/4115160)
-- [https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/copy-simulations-in-attack-simulation-training-is-now-ga/ba-p/4115160](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/gone-phishing-tournament-takeaways/ba-p/4082189)
-- [https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/gone-phishing-tournament-takeaways/ba-p/4082189](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/hunting-and-responding-to-qr-code-based-phishing-attacks-with/ba-p/4074730)
-- [https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/hunting-and-responding-to-qr-code-based-phishing-attacks-with/ba-p/4074730](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-persistent-views-and-ux-enhancements-in-threat/ba-p/4075679)
+- [Copy simulations in Attack Simulation Training is now GA](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/gone-phishing-tournament-takeaways/ba-p/4082189)
+- [Hunting and responding to QR code-based phishing attacks with Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/hunting-and-responding-to-qr-code-based-phishing-attacks-with/ba-p/4074730)
+- [Announcing persistent views and UX enhancements in Threat Explorer](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-persistent-views-and-ux-enhancements-in-threat/ba-p/4075679)
 - [Permissions Management: Defender XDR's RBAC Walkthrough for Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/permissions-management-defender-xdr-s-rbac-walkthrough-for/ba-p/4064288)
 - [https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/permissions-management-defender-xdr-s-rbac-walkthrough-for/ba-p/4064288](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/updates-to-configuration-analyzer-in-microsoft-defender-for/ba-p/4043087)
 - [Learn more about LinkedIn Smart Link Phish Campaigns](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/learn-more-about-linkedin-smart-link-phish-campaigns/ba-p/4037048)
