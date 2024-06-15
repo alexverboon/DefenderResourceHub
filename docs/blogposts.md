@@ -1,5 +1,7 @@
 # Blogposts
 
+Blogposts from the Microsoft Security Community
+
 - [Microsoft Defender for Endpoint on AWS: Part 3](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-3)
 - [Microsoft Defender for Endpoint on AWS: Part 2](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-2)
 - [Detecting RMM tools using Microsoft Defender for Endpoint](https://www.michalos.net/2023/11/27/detecting-rmm-tools-using-microsoft-defender-for-endpoint/)

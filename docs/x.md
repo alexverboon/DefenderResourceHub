@@ -1,4 +1,4 @@
-# X Users
+# Microsoft Security on X
 
 - [Eshlomo - Advanced Hunting Queries](https://github.com/eshlomo1/WindowsDefenderATP_Advanced_Hunting_Samples_Queries)
 - [NotNinjaCat @RavivTamir](https://twitter.com/RavivTamir)

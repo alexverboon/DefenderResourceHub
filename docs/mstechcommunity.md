@@ -1,6 +1,6 @@
 # Microsoft Tech Community Blog Posts
 
----
+Microsoft Tech Community blog posts
 
 ## 2024
 
@@ -488,7 +488,7 @@
 
 ---
 
-### 2017
+## 2017
 
 - [Windows Defender ATP machine learning and AMSI: Unearthing script-based attacks that ‘live off the land’](https://www.microsoft.com/security/blog/2017/12/04/windows-defender-atp-machine-learning-and-amsi-unearthing-script-based-attacks-that-live-off-the-land/)
 - [Microsoft partners extend Windows Defender ATP across platforms](https://www.microsoft.com/en-us/microsoft-365/blog/2017/11/08/microsoft-partners-extend-windows-defender-atp-across-platforms/)
