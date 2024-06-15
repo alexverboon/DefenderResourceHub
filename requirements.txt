@@ -1,0 +1,18 @@
+flake8
+Jinja2
+mike
+mkdocs-awesome-pages-plugin # enables naive configuration of page titles and their order
+mkdocs-click
+mkdocs-macros-plugin
+mkdocs-material # Material support for MkDocs
+mkdocs  # static site generator for documentation in Markdown
+mkdocs-minify-plugin  # strips whitespaces in HTML markdown documentation pages
+mkdocstrings-python-legacy
+mkdocstrings
+mkdocs-git-revision-date-plugin
+mkdocs-git-authors-plugin
+mkdocs-git-revision-date-localized-plugin
+# mkdocs-table-reader-plugin  # enables automatic CSV imports as a table into a markdown page
+mkdocs-img2fig-plugin  # converts markdown encoded images to HTML figures
+mkdocs-mermaid2-plugin
+mkdocs-glightbox

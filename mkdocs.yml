@@ -1,0 +1,155 @@
+# Most settings taken from https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types
+site_name: "Defender Resource Hub"
+site_url: https://alexverboon.github.io/DefenderResourceHub/
+repo_url: https://github.com/alexverboon/DefenderResourceHub
+
+
+# Left hand Navigation menu
+nav:
+  - About this Project: 'about.md'
+  - Microsoft Tech Community blog posts: mstechcommunity.md
+  - Blog posts: 'blogposts.md'
+  - GitHub: 'GitHub.md'
+  - Podcasts: 'podcasts.md'
+  - X: 'x.md'
+  - Webinars & Videos: 'videos.md'
+  - Ninja Training: 'ninjatraining.md'
+  - Product Documentation: "productdocs.md"
+    
+
+        
+
+# Configuration
+repo_url: https://github.com/alexverboon/DefenderResourceHub
+repo_name: "Defender Resource Hub"
+theme:
+  name: material
+  language: en
+  icon: 
+    repo: fontawesome/brands/git-alt
+    admonition:
+      <type>: octicons/alert-16 # material/alert
+#  custom_dir: !ENV [THEME_DIR, "material"]
+# Default values, taken from mkdocs_theme.yml
+  features:
+    # - content.code.annotate
+    # - content.tabs.link
+    # - header.autohide
+    - navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    #- navigation.sections
+    - navigation.tabs
+    #- navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: cyan
+      accent: cyan
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  # font:
+  #  text: Roboto
+  #  code: Roboto Mono
+  favicon: img/favicon.png
+  icon:
+    logo: logo
+docs_dir: docs
+# Plugins
+plugins:
+  - search
+  #- simple
+  #- simple:
+  #    include_extensions:
+  #    - ".git/**"
+  #- git-authors:
+  #    show_contribution: true
+  #    show_line_count: true
+  #    show_email_address: true
+  #- git-revision-date-localized:
+      # fallback_to_build_date: true
+  #    enable_creation_date: true
+  #    timezone: Australia/Perth
+  #- glightbox:
+  #    auto_caption: true
+  #- social
+  #- awesome-list
+  #- table-reader - DON'T use, relys on pandas, too heavy for this
+  #- img2fig - Not needed
+  # - mermaid2
+  #- macros
+  #- minify 
+
+# Customization
+extra:
+  consent:
+    actions:
+      - accept
+      - manage
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  analytics:
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/thumb-down-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
+    provider: google
+    property: 
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/alexverboon
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/alexverboon
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/verboonalex/
+
+# Markdown Extensions 
+markdown_extensions:
+  - attr_list
+  - meta
+  - md_in_html
+  - admonition
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
