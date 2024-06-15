@@ -1,4 +1,6 @@
-# Podcasts
+# Podcasts & Newsletters
+
+## Podcasts
 
 - [Afternoon Cyber Tea](https://podcasts.apple.com/us/podcast/cybersecurity-becomes-a-business-imperative/id1484676119?i=1000492796621)
 - [Uncovering Hidden Risks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/welcome-to-our-podcast-series-on-uncovering-hidden-risks/ba-p/1726690)
@@ -12,3 +14,8 @@
 - [RunAsRadio](https://runasradio.com/)
 - [Microsoft Security Insights](https://microsoftsecurityinsights.com/)
 - [Security Dojo](https://www.linkedin.com/company/security-dojo-podcast/)
+
+## Newsletters
+
+- [Subscribe to the Weekly Microsoft Sentinel Newsletter from Rod Trent](https://sentinelthisweek.substack.com/)
+- [Subscribe to the Weekly Microsoft Defender Newsletter from Rod Trent](https://microsoftdefender.substack.com/)

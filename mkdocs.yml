@@ -6,15 +6,15 @@ repo_url: https://github.com/alexverboon/DefenderResourceHub
 
 # Left hand Navigation menu
 nav:
-  - About this Project: 'about.md'
   - Microsoft Tech Community blog posts: mstechcommunity.md
   - Blog posts: 'blogposts.md'
   - GitHub: 'GitHub.md'
-  - Podcasts: 'podcasts.md'
+  - Podcasts & Newsletters: 'podcasts.md'
   - X: 'x.md'
   - Webinars & Videos: 'videos.md'
-  - Ninja Training: 'ninjatraining.md'
+  - Learning & Training: 'learn.md'
   - Product Documentation: "productdocs.md"
+  - About this Project: 'about.md'
     
 
         
