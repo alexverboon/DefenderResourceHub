@@ -20,12 +20,11 @@ nav:
     - Microsoft Copilot for Security: 'securitycopilot.md'
     - Microsoft Defender Threat and Vulnerability Management: 'mdtvm.md'
     - Microsoft Threat Intelligence: 'mdti.md'
-  - GitHub: 'GitHub.md'
   - Podcasts & Newsletters: 'podcasts.md'
   - Social Media: 'social.md'
   - Webinars & Videos: 'videos.md'
   - Learning & Training: 'learn.md'
-  - Product Documentation: "productdocs.md"
+  - GitHub: 'GitHub.md'
   - About this Project: 'about.md'
     
 
