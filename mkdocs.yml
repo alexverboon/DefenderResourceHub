@@ -6,7 +6,7 @@ repo_url: https://github.com/alexverboon/DefenderResourceHub
 
 # Left hand Navigation menu
 nav:
-  - Microsoft Security stack: 'mssecurity.md'
+  - Microsoft Security stack:
     - Microsoft Sentinel: 'sentinel.md'
     - Microsoft Defender XDR: 'mdxdr.md'
     - Microsoft Defender for Endpoint: 'mde.md'
