@@ -1,5 +1,10 @@
 # Microsoft Defender for Cloud Apps & App Governance
 
+- [Microsoft Defender for Cloud Apps](https://www.microsoft.com/de-at/security/business/siem-and-xdr/microsoft-defender-cloud-apps)
+- [Microsoft Defender for Cloud Apps documentation](https://learn.microsoft.com/en-us/defender-cloud-apps/)
+- [What's new in Microsoft Defender for Cloud Apps](https://learn.microsoft.com/en-us/defender-cloud-apps/release-notes)
+- [Become a Microsoft Defender for Cloud Apps Ninja!](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-september-2021/ba-p/2751518)
+
 ## Microsoft Tech Community Blogs
 
 - [Microsoft Defender for Cloud Apps’ Shadow IT Discovery Capabilities Now Support MacOS](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-cloud-apps-shadow-it-discovery/ba-p/4159677)
@@ -24,6 +29,7 @@
 
 ## Community Blogs
 
+- [Enforcing Cloud App control with Defender for Cloud Apps](https://medium.com/cloudnsec/enforcing-cloud-app-control-with-defender-for-cloud-apps-aa8dc7a876a1)
 - [Detecting Ransonware with Defender for Cloud Apps](https://cyberdom.blog/2023/08/27/detecting-ransomware-with-defender-for-cloud-apps/)
 - [Deep Diver – Defender for Cloud Apps Malware Detection in Office 365 Workloads](https://samilamppu.com/2022/05/04/deep-diver-defender-for-cloud-apps-malware-detection-in-office-365-workloads/)
 - [Microsoft Sentinel – Insights of Defender for Cloud Apps Data Connector](https://samilamppu.com/2022/03/24/microsoft-sentinel-insights-of-defender-for-cloud-apps-data-connector/)

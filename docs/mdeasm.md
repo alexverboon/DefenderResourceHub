@@ -1,5 +1,9 @@
 # Microsoft Defender External Attack Surface Management
 
+- [Microsoft Defender External Attack Surface Management (EASM)](https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-external-attack-surface-management)
+- [Defender External Attack Surface Management Documentation](https://learn.microsoft.com/en-us/azure/external-attack-surface-management/)
+- [Become a Microsoft Defender External Attack Surface Management Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-external/become-a-microsoft-defender-external-attack-surface-management/ba-p/3743985)
+
 ## Microsoft Tech Community Blogs
 
 - [Leverage Generative AI to expedite attack surface investigations in Defender EASM](https://techcommunity.microsoft.com/t5/microsoft-defender-external/leverage-generative-ai-to-expedite-attack-surface-investigations/ba-p/4110163)
@@ -19,4 +23,8 @@
 - [Data Connectors for Azure Log Analytics and Data Explorer Now in Public Preview](https://techcommunity.microsoft.com/t5/microsoft-defender-external/data-connectors-for-azure-log-analytics-and-data-explorer-now-in/ba-p/3776898)
 - [Welcome to the Microsoft Defender External Attack Surface Management Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-external/welcome-to-the-microsoft-defender-external-attack-surface/ba-p/3698416)
 
-## Community Blogs
+## Community Blogs & Videos
+
+- [Connect Microsoft Defender EASM to Microsoft Sentinel for Incident enrichment](https://derkvanderwoude.medium.com/connect-microsoft-defender-easm-to-microsoft-sentinel-for-incident-enrichment-521efd6dd684)
+- [Introduction into Microsoft Defender EASM (External Attack Surface Management)](https://derkvanderwoude.medium.com/introduction-into-microsoft-defender-easm-external-attack-surface-management-3fdee6ccf256)
+- [Microsoft Defender EASM - External Attack Surface Management](https://www.youtube.com/watch?v=RvV7RZ1puV4)

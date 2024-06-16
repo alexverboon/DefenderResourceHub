@@ -1,5 +1,9 @@
 # Microsoft Defender for IOT/EIOT
 
+- [Microsoft Defender for IoT](https://www.microsoft.com/en-au/security/business/endpoint-security/microsoft-defender-iot)
+- [Microsoft Defender for IoT Documentation](https://learn.microsoft.com/en-us/azure/defender-for-iot/?culture=de-de&country=de)
+- [Microsoft Defender for IoT Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/microsoft-defender-for-iot-ninja-training/ba-p/2428899)
+
 ## Microsoft Tech Community Blogs
 
 - [Introducing Single Sign-On (SSO) for Sensor Console: Enhanced Security and Streamlined Access](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/introducing-single-sign-on-sso-for-sensor-console-enhanced/ba-p/4129156)
@@ -36,3 +40,6 @@
 - [Azure Defender for IoT: Agentless Security for OT](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/azure-defender-for-iot-agentless-security-for-ot/ba-p/1698679)
 
 ## Community Blogs
+
+- [How to setup your own Microsoft Defender for IoT lab](https://derkvanderwoude.medium.com/how-to-setup-your-own-microsoft-defender-for-iot-lab-a2eaee879317)
+- [Exploit IoT devices and how to prevent via MDE | Enterprise IoT](https://derkvanderwoude.medium.com/exploit-iot-devices-and-how-to-prevent-via-mde-enterprise-iot-4afff921b525)

@@ -1,5 +1,11 @@
 # Microsoft Defender XDR
 
+- [Microsoft Defender XDR](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-xdr)
+- [Microsoft Defender XDR Documentation](https://learn.microsoft.com/en-us/defender-xdr/)
+- [What's new in Microsoft Defender XDR](https://learn.microsoft.com/en-us/defender-xdr/whats-new)
+- [Microsoft Sentinel & Defender XDR Virtual Ninja Training](https://adoption.microsoft.com/en-us/ninja-show/)
+- [Train your security staff for Microsoft Defender XDR](https://learn.microsoft.com/en-us/defender-xdr/microsoft-365-defender-train-security-staff)
+
 ## Microsoft Tech Community Blogs
 
 - [Host Microsoft Defender data locally in Switzerland](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-switzerland/ba-p/4141490)
@@ -67,6 +73,7 @@
 
 ## Community Blogs
 
+- [Automatic attack disruption in Microsoft Defender XDR and containing users during Human-operated Attacks](https://jeffreyappel.nl/automatic-attack-disruption-in-microsoft-365-xdr-and-containing-users-during-human-operated-attacks/)
 - [How to use Automatic Attack Disruption in Microsoft 365 Defender (BEC, AiTM & HumOR)](https://jeffreyappel.nl/how-to-use-automatic-attack-disruption-in-microsoft-365-defender-bec-aitm-humor/)
 - [How Applying User Tags Can Help to Improve Microsoft 365 Security](https://blog.admindroid.com/user-tags-in-microsoft-365-defender/)
 - [Here’s how Defender XDR can help you find attackers sooner in your environment | Deception Rules MDE](https://medium.com/@andrecamillo/heres-how-defender-xdr-can-help-you-find-attackers-sooner-in-your-environment-deception-rules-2529f0ecdeeb)

@@ -1,5 +1,10 @@
 # Microsoft Copilot for Security
 
+- [Microsoft Copilot for Security](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-copilot-security)
+- [Microsoft Copilot for Security Documentation](https://learn.microsoft.com/en-us/copilot/security/)
+- [What's new in Microsoft Copilot for Security?](https://learn.microsoft.com/en-us/copilot/security/whats-new-copilot-security)
+- [Microsoft Copilot for Security News and Insights](https://www.microsoft.com/en-us/security/blog/products/microsoft-copilot-for-security/)
+
 ## Microsoft Tech Community Blogs
 
 - [What’s new in Defender: How Copilot for Security can transform your SOC](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-in-defender-how-copilot-for-security-can-transform/ba-p/4084222)
@@ -31,5 +36,8 @@
 - [Securing data in an AI-first world with Microsoft Purview](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/securing-data-in-an-ai-first-world-with-microsoft-purview/ba-p/3981279)
 - [Supercharge security and compliance efficiency with Microsoft Security Copilot in Microsoft Purview](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/supercharge-security-and-compliance-efficiency-with-microsoft/ba-p/3980765)
 
-
 ## Community Blogs
+
+## GitHub
+
+- [Microsoft Copilot For Security Community](https://github.com/Azure/Copilot-For-Security/)

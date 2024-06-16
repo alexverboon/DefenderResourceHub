@@ -1,5 +1,10 @@
 # Microsoft Sentinel
 
+- [Microsoft Sentinel](https://azure.microsoft.com/en-us/products/microsoft-sentinel)
+- [Microsoft Sentinel documentation](https://learn.microsoft.com/en-us/azure/sentinel/)
+- [What's new in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/whats-new)
+- [Become a Microsoft Sentinel Ninja](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
+
 ## Microsoft Tech Community Blogs
 
 - [Debugging Playbooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/debugging-playbooks/ba-p/4165374)
@@ -508,5 +513,13 @@
 
 ## Community Blogs
 
+- [Part 1 : Threat Detection Engineering and Incident Response with AuditD and Sentinel — along how to understand and use AuditD](https://medium.com/@truvis.thornton/threat-detection-engineering-and-incident-response-with-auditd-and-sentinel-along-how-to-understand-bfae8ba03a43)
+- [Part 2: Threat Detection Engineering and Incident Response with AuditD and Sentinel — Combine Events by ID with Laurel before sending to Sentinel as JSON and Parser for event searching and alert building](https://medium.com/@truvis.thornton/part-2-threat-detection-engineering-and-incident-response-with-auditd-and-sentinel-combine-a3384e1164e6)
+- [How to: KQL Parsing AuditD Syslog in Microsoft Sentinel with a function and combining the events by EventID](https://medium.com/@truvis.thornton/how-to-parsing-auditd-syslog-in-microsoft-sentinel-with-a-function-and-combining-the-events-by-eve-a65f418cfef1)
+- [Microsoft Azure Sentinel 101: Automatically add TLP(Traffic Light Pattern) to Incidents with logic apps/playbooks and automation by query tagging.](https://medium.com/@truvis.thornton/microsoft-azure-sentinel-101-automatically-add-tlp-traffic-light-pattern-to-incidents-with-logic-145f810cd978)
+- [Microsoft Azure Sentinel 101: Dynamically update and change Alert/Incident Severity — based on query results with automation or logic apps for all alerts](https://medium.com/@truvis.thornton/microsoft-azure-sentinel-101-dynamically-update-and-change-alert-incident-severity-based-on-5fa0665441c0)
+- [Microsoft Azure Sentinel 101: Update alert descriptions dynamically without limits — Unlimited meta data options with helpful content.](https://medium.com/@truvis.thornton/microsoft-azure-sentinel-101-update-alert-descriptions-dynamically-without-limits-unlimited-f4fc2f857b64)
+- [Maintaining Microsoft Sentinel Analytic Rules in JSON and YAML with GitHub Actions](https://tech.nicolonsky.ch/maintaining-microsoft-sentinel-analytic-rules-in-json-and-yaml-with-github-actions/)
+- [Enriching Microsoft Sentinel tables with eligible Entra directory roles](https://tech.nicolonsky.ch/enriching-microsoft-sentinel-tables-with-eligible-entra-directory-roles/)
 - [Defending Azure Active Directory with Azure Sentinel](https://learnsentinel.blog/2021/10/19/defending-azure-active-directory-with-azure-sentinel/)
 - [Keep an eye on your Azure AD guests with Microsoft Sentinel](https://learnsentinel.blog/2021/11/04/keep-an-eye-on-your-azure-ad-guests-with-microsoft-sentinel/)

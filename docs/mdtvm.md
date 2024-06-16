@@ -1,5 +1,9 @@
 # Microsoft Defender Vulnerability Management
 
+- [Microsoft Defender Vulnerability Management](https://www.microsoft.com/en-gb/security/business/threat-protection/microsoft-defender-vulnerability-management)
+- [Microsoft Defender Vulnerability Management Documentation](https://learn.microsoft.com/en-us/defender-vulnerability-management/)
+- [Become a Microsoft Defender Vulnerability Management Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/become-a-microsoft-defender-vulnerability-management-ninja/ba-p/4003011)
+
 ## Microsoft Tech Community Blogs
 
 - [Defender support for CVE-2024-3400 affecting Palo Alto Networks firewalls](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/defender-support-for-cve-2024-3400-affecting-palo-alto-networks/ba-p/4113917)
@@ -35,10 +39,11 @@
 - [MDATP Threat & Vulnerability Management now publicly available!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-Threat-amp-Vulnerability-Management-now-publicly-available/ba-p/460977)
 - [Introducing a risk-based approach to threat and vulnerability management](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Introducing-a-risk-based-approach-to-threat-and-vulnerability/ba-p/377845)
 
-## Community Blogs
+## Community Blogs & Videos
 
 - [Assessment and Control of Browser Extensions](https://www.verboon.info/2022/06/assessment-and-control-of-browser-extensions/)
 - [Using Defender Vulnerability Management to patch vulnerabilities](https://medium.com/@andrecamillo/using-defender-vulnerability-management-to-patch-vulnerabilities-4e59ebc944bb)
 - [Defender TVM: Configuration Benchmark Management](https://www.bluevoyant.com/blog/defender-tvm-configuration-benchmark-management/)
 - [How to generate a monthly Defender ATP Threat and Vulnerability Report](https://www.verboon.info/2019/11/how-to-generate-a-monthly-defender-atp-threat-and-vulnerability-report/)
 - [Threat & Vulnerability Management – improve client security with MDATP](https://chrisonsecurity.net/2020/05/08/threat-vulnerability-management-improve-client-security-with-mdatp/)
+- [Vulnerability management | Microsoft 365 Defender](https://www.youtube.com/watch?v=G54f7IqUFMU)

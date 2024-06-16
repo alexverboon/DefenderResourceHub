@@ -49,6 +49,9 @@
 - [BertJanCyber](https://twitter.com/BertJanCyber)
 - [Michalis Michalos](https://twitter.com/cyb3rmik3)
 - [Mehmet Ergene](https://twitter.com/Cyb3rMonk)
+- [Derk van der Woude](https://twitter.com/DerkVanDerWoude)
+- [Rogier Dijkman](https://twitter.com/DijkmanRogier)
+- [Nicola Suter](https://twitter.com/nicolonsky)
 
 ## LinkedIn Groups
 

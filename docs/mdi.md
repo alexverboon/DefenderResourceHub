@@ -1,5 +1,10 @@
 # Microsoft Defender for Identity
 
+- [Microsoft Defender for Identity](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity)
+- [Microsoft Defender for Identity Documentation](https://docs.microsoft.com/en-us/defender-for-identity/)
+- [What’s new in Microsoft Defender for Identity](https://docs.microsoft.com/en-us/defender-for-identity/whats-new)
+- [Become a Microsoft Defender for Identity Ninja](https://techcommunity.microsoft.com/t5/security-compliance-identity/microsoft-defender-for-identity-ninja-training/ba-p/2117904)
+
 ## Microsoft Tech Community Blogs
 
 - [Introducing the new PowerShell Module for Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-powershell-module-for-microsoft-defender-for/ba-p/4028734)
@@ -26,6 +31,7 @@
 
 ## Community Blogs
 
+- [Provoking Defender for Identity suspicious certificate usage alerts](https://tech.nicolonsky.ch/provoking-defender-for-identity-suspicious-certificate-usage-alerts/)
 - [Unmasking the shadows the art of threat hunting in Defender for Identity](https://cyberdom.blog/2023/12/09/unmasking-the-shadows-the-art-of-threat-hunting-in-defender-for-identity/)
 - [Article 1 – Tips & Tricks #Investigate with Microsoft Defender for Identity](https://www.linkedin.com/pulse/article-1-tips-tricks-investigate-microsoft-defender-pasquier-ceh/)
 - [Article 2 – Tips & Tricks #Deploy Microsoft Defender for Identity (gMSA Accounts)](https://www.linkedin.com/pulse/article-2-tips-tricks-deploy-microsoft-defender-identity-stevic/)
@@ -33,3 +39,9 @@
 - [How To Hunt For LDAP Reconnaissance Within M365 Defender?](https://m365internals.com/2021/05/22/how-to-hunt-for-ldap-reconnaissance-within-m365-defender/)
 - [Start Having Visibility In Service Accounts With Defender For Identity](https://m365internals.com/2021/03/27/start-having-visibility-in-service-accounts-with-defender-for-identity/)
 - [Using Active Directory Replication Metadata for hunting purposes](https://security-tzu.com/2020/11/09/active-directory-replication-metadata-for-forensics-purposes/)
+- [Active Directory reconnaissance and Microsoft Defender XDR detections](https://derkvanderwoude.medium.com/active-directory-reconnaissance-and-microsoft-defender-xdr-detections-845c0a8322b0)
+
+## Social Media
+
+- [Daniel Naim](https://twitter.com/naimious)
+- [Martin Schvartzman](https://twitter.com/martin77s)

@@ -1,5 +1,10 @@
 # Microsoft Defender for Endpoint
 
+- [Microsoft Defender for Endpoint](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint)
+- [Microsoft Defender for Endpoint Documentation](https://docs.microsoft.com/en-us/windows/security/threat-protection/)
+- [What’s new in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/whats-new-in-microsoft-defender-atp?view=o365-worldwide)
+- [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623)
+
 ## Microsoft Tech Community Blogs
 
 - [Detect suspicious processes running on hidden desktops](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-suspicious-processes-running-on-hidden-desktops/ba-p/4072322)
@@ -14,7 +19,6 @@
 - [Microsoft Defender data can now be hosted locally in Australia](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-data-can-now-be-hosted-locally-in-australia/ba-p/3898337)
 - [Announcing mobile device tagging for iOS and Android](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-mobile-device-tagging-for-ios-and-android/ba-p/3897368)
 - [Optimizing endpoint security with Microsoft Defender for Endpoint's flexible licensing options](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/optimizing-endpoint-security-with-microsoft-defender-for/ba-p/3893746)
-
 - [Use the new eBPF-based sensor for Defender for Endpoint on Linux](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-ebpf-based-sensor-for-defender-for-endpoint-on-linux/ba-p/3873720)
 - [Now in Public Preview: Device isolation and AV scanning for Linux and macOS](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/now-in-public-preview-device-isolation-and-av-scanning-for-linux/ba-p/3869646)
 - [Manage security settings for Windows, macOS, and Linux natively in Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-security-settings-for-windows-macos-and-linux-natively-in/ba-p/3870617)
@@ -29,7 +33,6 @@
 - [Recovering from Attack Surface Reduction rule shortcut deletions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/recovering-from-attack-surface-reduction-rule-shortcut-deletions/ba-p/3716011)
 - [Introducing tamper protection for exclusions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-tamper-protection-for-exclusions/ba-p/3713761)
 - [Disconnected environments, proxies and Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/disconnected-environments-proxies-and-microsoft-defender-for/ba-p/3710502)
-
 - [New network-based detections and improved device discovery using Zeek](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-network-based-detections-and-improved-device-discovery-using/ba-p/3682111)
 - [Announcing new removable storage management features on Windows](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-new-removable-storage-management-features-on-windows/ba-p/3678197)
 - [Use the new Microsoft 365 Defender API for all your alerts](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-microsoft-365-defender-api-for-all-your-alerts/ba-p/3674059)
@@ -38,7 +41,6 @@
 - [Microsoft Defender for Endpoint is now available on Android company-owned personally enabled devices](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-is-now-available-on-android/ba-p/3626100)
 - [Improving device discoverability and classification within MDE using Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/improving-device-discoverability-and-classification-within-mde/ba-p/3625559)
 - [Attack Surface Reduction (ASR) Rules Report 2.0 in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/attack-surface-reduction-asr-rules-report-2-0-in-microsoft-365/ba-p/3618641)
-
 - [How to deploy Attack Surface Reduction rules to Azure VMs using Azure Guest Configurations](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-deploy-attack-surface-reduction-rules-to-azure-vms-using/ba-p/3602433)
 - [Network Protection and Web Protection for macOS and Linux is now in Public Preview!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/network-protection-and-web-protection-for-macos-and-linux-is-now/ba-p/3601576)
 - [Tamper protection on macOS is now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/tamper-protection-on-macos-is-now-generally-available/ba-p/3595422)
@@ -65,7 +67,6 @@
 - [Deprecating the legacy SIEM API](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/deprecating-the-legacy-siem-api/ba-p/3139643)
 - [Microsoft Defender for Endpoint Plan 1 Now Included in M365 E3/A3 Licenses](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-plan-1-now-included-in-m365-e3/ba-p/3060639)
 - [Zero-touch onboarding of Microsoft Defender for Endpoint on iOS now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/zero-touch-onboarding-of-microsoft-defender-for-endpoint-on-ios/ba-p/3038045)
-
 - [Announcing Preview of New Security Management Capabilities for Microsoft Defender for Endpoint.](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-preview-of-new-security-management-capabilities-for/ba-p/3020514)
 - [Evaluation Lab: Expanded OS support & Atomic Red Team simulations](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-expanded-os-support-amp-atomic-red-team/ba-p/2993927)
 - [Announcing the public preview of Microsoft Defender for Endpoint Mobile - Tamper protection](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-the-public-preview-of-microsoft-defender-for-endpoint/ba-p/2971038)
@@ -77,7 +78,6 @@
 - [Announcing live response for macOS and Linux](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-live-response-for-macos-and-linux/ba-p/2864397)
 - [Web content filtering now generally available on Windows](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/web-content-filtering-now-generally-available-on-windows/ba-p/2893357)
 - [Boost protection of your Linux estate with behavior monitoring, extended distro coverage, and more](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/boost-protection-of-your-linux-estate-with-behavior-monitoring/ba-p/2909320)
-
 - [Introducing Microsoft Defender for Endpoint Plan 1](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-microsoft-defender-for-endpoint-plan-1/ba-p/2636641)
 - [Make sure Tamper Protection is turned on](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/make-sure-tamper-protection-is-turned-on/ba-p/2695568)
 - [Announcing Apple M1 native support](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-apple-m1-native-support/ba-p/2685585)
@@ -242,6 +242,7 @@
 
 ## Community Blogs
 
+- [MDE | Deception](https://derkvanderwoude.medium.com/mde-deception-fe8ba2ae8422)
 - [Microsoft Defender for Endpoint on AWS: Part 3](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-3)
 - [Microsoft Defender for Endpoint on AWS: Part 2](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-2)
 - [Detecting RMM tools using Microsoft Defender for Endpoint](https://www.michalos.net/2023/11/27/detecting-rmm-tools-using-microsoft-defender-for-endpoint/)

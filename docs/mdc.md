@@ -1,5 +1,9 @@
 # Microsoft Defender for Cloud
 
+- [Microsoft Defender for Cloud](https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-cloud)
+- [Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
+- [Become a Microsoft Defender for Cloud Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761)
+
 ## Microsoft Tech Community Blogs
 
 - [Cloud security posture and contextualization across cloud boundaries from a single dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-posture-and-contextualization-across-cloud/ba-p/4161703)
@@ -297,3 +301,5 @@
 - [Testing Azure Security Center Detections Capabilities](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/testing-azure-security-center-detections-capabilities/ba-p/166935)
 
 ## Community Blogs
+
+- [AWS Posture Management with Microsoft Defender for Cloud CSPM](https://medium.com/@phaubus/aws-posture-management-with-microsoft-defender-for-cloud-cspm-5d295c6d0023)

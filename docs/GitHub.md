@@ -1,5 +1,9 @@
 # Defender Resources on GitHub
 
+## Copilot for Security
+
+- [Microsoft Copilot For Security Community](https://github.com/Azure/Copilot-For-Security/)
+
 ## Entra ID
 
 - [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)

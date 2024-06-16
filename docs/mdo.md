@@ -1,5 +1,10 @@
 # Microsoft Defender for Office 365
 
+- [Microsoft Defender for Office 365](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-office-365)
+- [Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide)
+- [What’s new in Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365?view=o365-worldwide)
+- [Become a Microsoft Defender for Office 365 Ninja!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-september-2021/ba-p/2685081)
+
 ## Microsoft Tech Community Blogs
 
 - [Automated end-user feedback response is now GA](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automated-end-user-feedback-response-is-now-ga/ba-p/4148055)
@@ -86,5 +91,7 @@
 
 ## Community Blogs
 
+- [How to protect Microsoft Teams with Microsoft 365 Defender](https://jeffreyappel.nl/how-to-protect-microsoft-teams-with-microsoft-365-defender/)
+- [Protect against QR Code phishing with Microsoft Defender products](https://jeffreyappel.nl/protect-against-qr-code-phishing-with-microsoft-defender-products/)
 - [MANAGE OFFICE ATP ALERTS LIKE A BOSS](https://emptydc.com/2020/07/06/manage-office-atp-alerts-like-a-boss/)
 - [MTP Advanced Hunting – Public free E-Mail services](https://www.verboon.info/2020/09/mtp-advanced-hunting-public-free-e-mail-services/)

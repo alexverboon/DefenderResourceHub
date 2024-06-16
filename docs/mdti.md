@@ -1,5 +1,9 @@
 # Microsoft Defender Threat Intelligence
 
+- [Microsoft Defender Threat Intelligence](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-threat-intelligence)
+- [What is Microsoft Defender Threat Intelligence (Defender TI)?](https://learn.microsoft.com/en-us/defender/threat-intelligence/what-is-microsoft-defender-threat-intelligence-defender-ti?culture=en-us&country=us)
+- [Become a Microsoft Defender Threat Intelligence Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965)
+
 ## Microsoft Tech Community Blogs
 
 - [Unleash the Power of Threat Intel: Introducing the MDTI GitHub](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/unleash-the-power-of-threat-intel-introducing-the-mdti-github/ba-p/3884452)
@@ -62,3 +66,8 @@
 - [Welcome to the Microsoft Defender Threat Intelligence Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/welcome-to-the-microsoft-defender-threat-intelligence-tech/ba-p/3648934)
 
 ## Community Blogs
+
+- [Microsoft Defender Threat Intelligence — All you need to get started with the Free Experience!](https://medium.com/cloudnsec/microsoft-defender-threat-intelligence-all-you-need-to-get-started-with-the-free-experience-ba8da0134f87)
+- [Connect Microsoft Defender Threat Intelligence (MDTI ) to Microsoft Sentinel and enrich Incidents via the MDTI API](https://derkvanderwoude.medium.com/connect-microsoft-defender-threat-intelligence-mdti-to-microsoft-sentinel-and-enrich-incidents-46b9ae07c999)
+- [Get Ahead of Attacks with Microsoft Defender Threat Intelligence](https://medium.com/@officegarageitpro/get-ahead-of-attacks-with-microsoft-defender-threat-intelligence-97e1d7e78034)
+- [What innovations should we expect from Microsoft Defender Threat Intelligence (MDTI) in the future?](https://medium.com/@vbcloudboy/what-innovations-should-we-expect-from-microsoft-defender-threat-intelligence-mdti-in-the-future-3f1ff9366ce)
