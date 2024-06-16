@@ -75,9 +75,9 @@ theme:
   # font:
   #  text: Roboto
   #  code: Roboto Mono
-  favicon: img/favicon.png
+  #favicon: img/favicon.png
   icon:
-    logo: logo
+    logo: img/defender.png
 docs_dir: docs
 # Plugins
 plugins:
