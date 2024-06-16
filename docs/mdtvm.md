@@ -32,3 +32,9 @@
 - [Introducing a risk-based approach to threat and vulnerability management](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Introducing-a-risk-based-approach-to-threat-and-vulnerability/ba-p/377845)
 
 ## Community Blogs
+
+- [Assessment and Control of Browser Extensions](https://www.verboon.info/2022/06/assessment-and-control-of-browser-extensions/)
+- [Using Defender Vulnerability Management to patch vulnerabilities](https://medium.com/@andrecamillo/using-defender-vulnerability-management-to-patch-vulnerabilities-4e59ebc944bb)
+- [Defender TVM: Configuration Benchmark Management](https://www.bluevoyant.com/blog/defender-tvm-configuration-benchmark-management/)
+- [How to generate a monthly Defender ATP Threat and Vulnerability Report](https://www.verboon.info/2019/11/how-to-generate-a-monthly-defender-atp-threat-and-vulnerability-report/)
+- [Threat & Vulnerability Management – improve client security with MDATP](https://chrisonsecurity.net/2020/05/08/threat-vulnerability-management-improve-client-security-with-mdatp/)

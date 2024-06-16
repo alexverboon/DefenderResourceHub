@@ -85,3 +85,6 @@
 - [Safe Documents is Generally Available](https://techcommunity.microsoft.com/t5/microsoft-365-blog/safe-documents-is-generally-available/ba-p/1480401)
 
 ## Community Blogs
+
+- [MANAGE OFFICE ATP ALERTS LIKE A BOSS](https://emptydc.com/2020/07/06/manage-office-atp-alerts-like-a-boss/)
+- [MTP Advanced Hunting – Public free E-Mail services](https://www.verboon.info/2020/09/mtp-advanced-hunting-public-free-e-mail-services/)

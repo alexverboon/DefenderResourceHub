@@ -21,3 +21,8 @@
 - [Native support for the discovery of Shadow IT](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-amp-Cloud-App-Security-Integration/m-p/450731#M42)
 
 ## Community Blogs
+
+- [Detecting Ransonware with Defender for Cloud Apps](https://cyberdom.blog/2023/08/27/detecting-ransomware-with-defender-for-cloud-apps/)
+- [Deep Diver – Defender for Cloud Apps Malware Detection in Office 365 Workloads](https://samilamppu.com/2022/05/04/deep-diver-defender-for-cloud-apps-malware-detection-in-office-365-workloads/)
+- [Microsoft Sentinel – Insights of Defender for Cloud Apps Data Connector](https://samilamppu.com/2022/03/24/microsoft-sentinel-insights-of-defender-for-cloud-apps-data-connector/)
+- [Integrate Microsoft Defendr for Endpoint with MCAS](https://www.eshlomo.us/integrate-microsoft-defender-for-endpoint-with-mcas/)

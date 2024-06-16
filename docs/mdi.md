@@ -21,3 +21,11 @@
 - [Announcing Windows Defender Advanced Threat Protection](https://blogs.windows.com/windowsexperience/2016/03/01/announcing-windows-defender-advanced-threat-protection/#ck2Ox6uLppsRGMQF.97)
 
 ## Community Blogs
+
+- [Unmasking the shadows the art of threat hunting in Defender for Identity](https://cyberdom.blog/2023/12/09/unmasking-the-shadows-the-art-of-threat-hunting-in-defender-for-identity/)
+- [Article 1 – Tips & Tricks #Investigate with Microsoft Defender for Identity](https://www.linkedin.com/pulse/article-1-tips-tricks-investigate-microsoft-defender-pasquier-ceh/)
+- [Article 2 – Tips & Tricks #Deploy Microsoft Defender for Identity (gMSA Accounts)](https://www.linkedin.com/pulse/article-2-tips-tricks-deploy-microsoft-defender-identity-stevic/)
+- [Alert changes to sensitive AD groups using MDI](https://cloudbrothers.info/en/alert-sensitive-ad-groups-mdi/)
+- [How To Hunt For LDAP Reconnaissance Within M365 Defender?](https://m365internals.com/2021/05/22/how-to-hunt-for-ldap-reconnaissance-within-m365-defender/)
+- [Start Having Visibility In Service Accounts With Defender For Identity](https://m365internals.com/2021/03/27/start-having-visibility-in-service-accounts-with-defender-for-identity/)
+- [Using Active Directory Replication Metadata for hunting purposes](https://security-tzu.com/2020/11/09/active-directory-replication-metadata-for-forensics-purposes/)

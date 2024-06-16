@@ -64,3 +64,10 @@
 - [Changes in the support case submission experience](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/changes-in-the-support-case-submission-experience/ba-p/1521387)
 
 ## Community Blogs
+
+- [How to use Automatic Attack Disruption in Microsoft 365 Defender (BEC, AiTM & HumOR)](https://jeffreyappel.nl/how-to-use-automatic-attack-disruption-in-microsoft-365-defender-bec-aitm-humor/)
+- [How Applying User Tags Can Help to Improve Microsoft 365 Security](https://blog.admindroid.com/user-tags-in-microsoft-365-defender/)
+- [Here’s how Defender XDR can help you find attackers sooner in your environment | Deception Rules MDE](https://medium.com/@andrecamillo/heres-how-defender-xdr-can-help-you-find-attackers-sooner-in-your-environment-deception-rules-2529f0ecdeeb)
+- [Hunting for Lateral Movement: Local Accounts](https://mergene.medium.com/hunting-for-lateral-movement-local-accounts-bc08742f3d83)
+- [Detecting network beacons via KQL using simple spread stats functions](https://ateixei.medium.com/detecting-network-beacons-via-kql-using-simple-spread-stats-functions-c2f031b0736b)
+- [FalconFriday — Masquerading; LOLBin file renaming— 0xFF0C](https://medium.com/falconforce/falconfriday-masquerading-lolbin-file-renaming-0xff0c-b01e0ab5a95d)
