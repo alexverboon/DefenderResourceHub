@@ -1,6 +1,7 @@
 # Defender Resource Hub
 
-The references included are drawn from a variety of authoritative sources, including directly from Microsoft itself and contributed by knowledgeable community members who are just as passionate about security as you are.
+Welcome to your go-to hub for everything related to the Microsoft Security stack like Microsoft Defender and Microsoft Sentinel.
+The purpose of this project is to provide you with relevant information provided by Microsoft and the cmmmunity.
 
 Alex Verboon
 Microsoft Security MVP

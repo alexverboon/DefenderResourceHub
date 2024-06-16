@@ -6,7 +6,10 @@
 # mdti
 #$rssUrl = 'https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=DefenderThreatIntelligence&size=600'
 # sec copilot
-$rssUrl = "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=SecurityCopilotBlog&size=200"
+#$rssUrl = "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=SecurityCopilotBlog&size=200"
+# iot
+$rssUrl = "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=MicrosoftDefenderIoTBlog&size=400"
+
 $outfile = "c:\temp\rssdump.txt"
 # Fetch the RSS XML data
 $response = Invoke-WebRequest -Uri $rssUrl
