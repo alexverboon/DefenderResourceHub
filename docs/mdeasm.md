@@ -13,7 +13,6 @@
 - [Optimize insights and efficiency with latest Defender EASM features and generative AI integrations](https://techcommunity.microsoft.com/t5/microsoft-defender-external/optimize-insights-and-efficiency-with-latest-defender-easm/ba-p/3976482)
 - [Latest Enhancements Boost Usability, Enhance Your Tools and Workflows](https://techcommunity.microsoft.com/t5/microsoft-defender-external/latest-enhancements-boost-usability-enhance-your-tools-and/ba-p/3818055)
 - [Part 2: Uncovering Trackers Using the Defender EASM API](https://techcommunity.microsoft.com/t5/microsoft-defender-external/part-2-uncovering-trackers-using-the-defender-easm-api/ba-p/3806494)
-- [Seeking Dead and Dying Servers with the MDEASM APIs](https://dtechcommunity.microsoft.com/t5/microsoft-defender-external/seeking-dead-and-dying-servers-with-the-mdeasm-apis/ba-p/3741412)
 - [Identify Digital Assets Vulnerable to Subdomain Takeover](https://techcommunity.microsoft.com/t5/microsoft-defender-external/identify-digital-assets-vulnerable-to-subdomain-takeover/ba-p/3700773)
 - [Seeking Out Dead and Dying Servers](https://techcommunity.microsoft.com/t5/microsoft-defender-external/seeking-out-dead-and-dying-servers/ba-p/3715874)
 - [Latest Engineering Semester Enables Tighter Integrations, Ease of Use](https://techcommunity.microsoft.com/t5/microsoft-defender-external/latest-engineering-semester-enables-tighter-integrations-ease-of/ba-p/3728668)

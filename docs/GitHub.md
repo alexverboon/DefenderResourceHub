@@ -43,7 +43,5 @@
 - [Threat hunting and detection by Cyb3r-Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection)
 - [CGCFAD WDATP-Advanced-Hunting](https://github.com/CGCFAD/WDATP-Advanced-Hunting)
 - [richlilly2004 MDATP hunting queries](https://github.com/richlilly2004/Microsoft-Defender-ATP)
-- [Huy - DebugPrivilege](https://github.com/DebugPrivilege/KQL-Queries)
 - [KQL Tools](https://github.com/microsoft/KqlTools)
-- [Eli Shlomo](https://github.com/eshlomo1/WindowsDefenderATP_Advanced_Hunting_Samples_Queries)
 - [CGCFAD Hunting Queries](https://github.com/CGCFAD/WDATP-Advanced-Hunting)
