@@ -2,7 +2,9 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Host Microsoft Defender data locally in Switzerland](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-switzerland/ba-p/4141490)
 - [Microsoft Defender XDR unified role-based access control (RBAC) model is now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-xdr-unified-role-based-access-control-rbac/ba-p/3993793)
+- [Protect faster with Microsoft Defender XDR’s latest UX enhancements](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-faster-with-microsoft-defender-xdr-s-latest-ux/ba-p/4027497)
 - [Discover, monitor and protect the use of Generative AI apps](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/discover-monitor-and-protect-the-use-of-generative-ai-apps/ba-p/3999228)
 - [Get email notifications for any actions in Defender XDR](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/get-email-notifications-for-any-actions-in-defender-xdr/ba-p/3976330)
 - [Ignite news: XDR in an era of end-user-to-cloud cyberattacks and securing the use of AI](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/ignite-news-xdr-in-an-era-of-end-user-to-cloud-cyberattacks-and/ba-p/3982002)

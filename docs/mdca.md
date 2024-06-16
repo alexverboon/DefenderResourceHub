@@ -2,6 +2,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Defender for Cloud Apps’ Shadow IT Discovery Capabilities Now Support MacOS](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-cloud-apps-shadow-it-discovery/ba-p/4159677)
+- [Defender for Cloud Apps delivers new in-browser protection capabilities via Microsoft Edge](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-cloud-apps-delivers-new-in-browser-protection/ba-p/4129857)
 - [Safeguarding your OAuth apps with App Governance](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/safeguarding-your-oauth-apps-with-app-governance/ba-p/3837343)
 - [Improve your app posture and hygiene using Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/improve-your-app-posture-and-hygiene-using-microsoft-defender/ba-p/3742361)
 - [Protect apps that use non-standard ports with Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/protect-apps-that-use-non-standard-ports-with-defender-for-cloud/ba-p/3685351)

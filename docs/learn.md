@@ -10,3 +10,4 @@
 - [Become a Microsoft Defender Threat Intelligence Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965)
 - [Become a Microsoft Defender External Attack Surface Management Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-external/become-a-microsoft-defender-external-attack-surface-management/ba-p/3743985)
 - [Become a Microsoft Defender for Cloud Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761)
+- [Become a Microsoft Defender Vulnerability Management Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/become-a-microsoft-defender-vulnerability-management-ninja/ba-p/4003011)

@@ -2,6 +2,10 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Introducing the new PowerShell Module for Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-powershell-module-for-microsoft-defender-for/ba-p/4028734)
+- [Identity in focus: Exploring the new ITDR experience within Microsoft Defender](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/identity-in-focus-exploring-the-new-itdr-experience-within/ba-p/4027129)
+- [Easily detect CVE-2024-21427 with Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/easily-detect-cve-2024-21427-with-microsoft-defender-for/ba-p/4117587)
+- [Introducing the new Defender for Identity Health Alert API](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-defender-for-identity-health-alert-api/ba-p/4115756)
 - [Securing AD CS: Microsoft Defender for Identity's Sensor Unveiled](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/securing-ad-cs-microsoft-defender-for-identity-s-sensor-unveiled/ba-p/3980265)
 - [Simplified deployment with Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/simplified-deployment-with-defender-for-identity/ba-p/3966035)
 - [Microsoft Defender for Identity expands its coverage with new AD CS sensor!](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-identity-expands-its-coverage-with-new-ad/ba-p/3894215)

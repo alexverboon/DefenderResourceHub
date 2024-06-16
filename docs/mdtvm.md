@@ -2,6 +2,10 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Defender support for CVE-2024-3400 affecting Palo Alto Networks firewalls](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/defender-support-for-cve-2024-3400-affecting-palo-alto-networks/ba-p/4113917)
+- [Microsoft FAQ and guidance for XZ Utils backdoor](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961)
+- [Defender Vulnerability Management GA in government cloud](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/defender-vulnerability-management-ga-in-government-cloud/ba-p/4101955)
+- [Vulnerable Components Inventory now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/vulnerable-components-inventory-now-in-public-preview/ba-p/4035357)
 - [Hardware & Firmware Assessment to identify devices with AMD processors](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/hardware-amp-firmware-assessment-to-identify-devices-with-amd/ba-p/3909040)
 - [Availability of Defender Vulnerability Management Standalone and Container vulnerability assessments](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/availability-of-defender-vulnerability-management-standalone-and/ba-p/3894735)
 - [Update on Defender Vulnerability Management capabilities in Defender for Servers Plan-2](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/update-on-defender-vulnerability-management-capabilities-in/ba-p/3882311)
