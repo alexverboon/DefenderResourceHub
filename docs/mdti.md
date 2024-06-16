@@ -71,3 +71,11 @@
 - [Connect Microsoft Defender Threat Intelligence (MDTI ) to Microsoft Sentinel and enrich Incidents via the MDTI API](https://derkvanderwoude.medium.com/connect-microsoft-defender-threat-intelligence-mdti-to-microsoft-sentinel-and-enrich-incidents-46b9ae07c999)
 - [Get Ahead of Attacks with Microsoft Defender Threat Intelligence](https://medium.com/@officegarageitpro/get-ahead-of-attacks-with-microsoft-defender-threat-intelligence-97e1d7e78034)
 - [What innovations should we expect from Microsoft Defender Threat Intelligence (MDTI) in the future?](https://medium.com/@vbcloudboy/what-innovations-should-we-expect-from-microsoft-defender-threat-intelligence-mdti-in-the-future-3f1ff9366ce)
+
+## Social Media
+
+- [Microsoft Threat Intelligence](https://twitter.com/MsftSecIntel)
+
+## Podcasts
+
+- [Microsoft Threat Intelligence Podcast](https://open.spotify.com/show/7kaJodHquryFw5YDw0BShj?go=1&sp_cid=55270d6ee6b7c69aedade84e89d3152c&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=359a6a1f2bf54850)
