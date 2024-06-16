@@ -16,5 +16,8 @@
 -[Microsoft Cloud App Security update: March 2021](https://techcommunity.microsoft.com/t5/security-compliance-identity/microsoft-cloud-app-security-update-march-2021/ba-p/2157650)
 - [MCAS: Top 5 Queries You Need to Save](https://techcommunity.microsoft.com/t5/security-compliance-identity/mcas-top-5-queries-you-need-to-save/ba-p/2274518)
 - [Microsoft Cloud App Security: The Hunt in a multi-stage incident](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-cloud-app-security-the-hunt-in-a-multi-stage-incident/ba-p/2193484)
+- [Hunt across cloud app activities with Microsoft 365 Defender advanced hunting](https://techcommunity.microsoft.com/t5/microsoft-365-defender/hunt-across-cloud-app-activities-with-microsoft-365-defender/ba-p/1893857)
+- [Block Access to Unsanctioned Apps using Microsoft Defender ATP & Microsoft Cloud App Security](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/block-access-to-unsanctioned-apps-using-microsoft-defender-atp/ba-p/1122354)
+- [Native support for the discovery of Shadow IT](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-amp-Cloud-App-Security-Integration/m-p/450731#M42)
 
 ## Community Blogs

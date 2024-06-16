@@ -24,5 +24,11 @@
 - [New threat & vulnerability management APIs - create reports, automate, integrate](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-threat-amp-vulnerability-management-apis-create-reports/ba-p/2445813)
 - [Announcing new capabilities on Android and iOS](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-new-capabilities-on-android-and-ios/ba-p/2442730)
 - [Secure configuration assessment for macOS and Linux now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/secure-configuration-assessment-for-macos-and-linux-now-in/ba-p/2320517)
+- [Introducing a new threat and vulnerability management report](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-a-new-threat-and-vulnerability-management-report/ba-p/1827448)
+- [Threat & Vulnerability Management APIs are now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/threat-amp-vulnerability-management-apis-are-now-generally/ba-p/1304615)
+- [Reducing risk with new Threat & Vulnerability Management capabilities](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Reducing-risk-with-new-Threat-amp-Vulnerability-Management/ba-p/978145)
+- [Microsoft’s Threat & Vulnerability Management now helps thousands of customers to discover, prioritize, and remediate vulnerabilities in real time](https://www.microsoft.com/security/blog/2019/07/02/microsofts-threat-vulnerability-management-now-helps-thousands-of-customers-to-discover-prioritize-and-remediate-vulnerabilities-in-real-time/)
+- [MDATP Threat & Vulnerability Management now publicly available!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-Threat-amp-Vulnerability-Management-now-publicly-available/ba-p/460977)
+- [Introducing a risk-based approach to threat and vulnerability management](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Introducing-a-risk-based-approach-to-threat-and-vulnerability/ba-p/377845)
 
 ## Community Blogs

@@ -13,5 +13,7 @@
 - [MDTI Microsoft Sentinel Playbooks](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-mdti-microsoft-sentinel-playbooks/ba-p/3780096)
 - [MDTI APIs in Microsoft Graph](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-apis-in-microsoft-graph/ba-p/3780350)
 - [Launching threat analytics for Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/launching-threat-analytics-for-microsoft-365-defender/ba-p/2232724)
+- [New Threat analytics report shares the latest intelligence on recent nation-state cyber attacks](https://techcommunity.microsoft.com/t5/microsoft-365-defender/new-threat-analytics-report-shares-the-latest-intelligence-on/ba-p/2001095)
+- [Pull in more intelligence and act fast while you hunt](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/pull-in-more-intelligence-and-act-fast-while-you-hunt/ba-p/1578320)
 
 ## Community Blogs

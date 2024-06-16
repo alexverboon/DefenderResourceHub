@@ -77,5 +77,11 @@
 - [New Home for Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/new-home-for-microsoft-defender-for-office-365/ba-p/2176179)
 - [Business Email: Uncompromised – Part Two](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/business-email-uncompromised-part-two/ba-p/2167246)
 - [Business Email: Uncompromised – Part One](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/business-email-uncompromised-part-one/ba-p/2159900)
+- [Additional email data in advanced hunting](https://techcommunity.microsoft.com/t5/microsoft-365-defender/additional-email-data-in-advanced-hunting/ba-p/1985849)
+- [Microsoft Defender for Office 365 investigation improvements coming soon](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-defender-for-office-365-investigation-improvements/ba-p/1947236)
+- [Investigating Alerts in Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/investigating-alerts-in-defender-for-office-365/ba-p/1824188)
+- [Announcing Priority Account Protection in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-priority-account-protection-in-microsoft-defender-for/ba-p/1696385)
+- [Office 365 ATP is now Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/office-365-atp-is-now-microsoft-defender-for-office-365/ba-p/1696529)
+- [Safe Documents is Generally Available](https://techcommunity.microsoft.com/t5/microsoft-365-blog/safe-documents-is-generally-available/ba-p/1480401)
 
 ## Community Blogs

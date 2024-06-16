@@ -49,5 +49,18 @@
 - [Best practices for leveraging Microsoft 365 Defender API's - Episode One](https://techcommunity.microsoft.com/t5/microsoft-365-defender/best-practices-for-leveraging-microsoft-365-defender-api-s/ba-p/2102893)
 - [Get email notifications on new incidents from Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/get-email-notifications-on-new-incidents-from-microsoft-365/ba-p/2012518)
 - [Advanced hunting product name changes](https://techcommunity.microsoft.com/t5/microsoft-365-defender/advanced-hunting-product-name-changes/ba-p/2009233)
+- [Azure Active Directory audit logs now available in Advanced Hunting (public preview)](https://techcommunity.microsoft.com/t5/microsoft-365-defender/azure-active-directory-audit-logs-now-available-in-advanced/ba-p/1999523)
+- [Microsoft 365 Defender connector now in Public Preview for Azure Sentinel](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-connector-now-in-public-preview-for-azure/ba-p/1879675)
+- [Improved incident queue in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/improved-incident-queue-in-microsoft-365-defender/ba-p/1872084)
+- [Self-healing in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/self-healing-in-microsoft-365-defender/ba-p/1729527)
+- [Microsoft delivers unified SIEM and XDR to modernize security operations](https://www.microsoft.com/security/blog/?p=91813)
+- [Say hello to the new Microsoft Threat Protection APIs!](https://techcommunity.microsoft.com/t5/microsoft-365-defender/say-hello-to-the-new-microsoft-threat-protection-apis/ba-p/1669234)
+- [A new look for threat analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/a-new-look-for-threat-analytics/ba-p/1608945)
+- [Microsoft Threat Protection now uses more descriptive incident names](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/microsoft-threat-protection-now-uses-more-descriptive-incident/ba-p/1601520)
+- [See how consolidated incidents improve SOC efficiency through this attack sprawl simulation](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/see-how-consolidated-incidents-improve-soc-efficiency-through/ba-p/1557341)
+- [The Action center in Microsoft Threat Protection – Your one-stop shop for remediation actions](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/the-action-center-in-microsoft-threat-protection-your-one-stop/ba-p/1550178)
+- [Pivot fast and investigate freely with go hunt & other advanced hunting enhancements](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/pivot-fast-and-investigate-freely-with-go-hunt-amp-other/ba-p/1535768)
+- [Multi-tenant access for Managed Security Service Providers](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/multi-tenant-access-for-managed-security-service-providers/ba-p/1533440)
+- [Changes in the support case submission experience](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/changes-in-the-support-case-submission-experience/ba-p/1521387)
 
 ## Community Blogs
