@@ -513,6 +513,8 @@
 
 ## Community Blogs
 
+- [Microsoft Sentinel - Azure LightHouse](https://ryanperr.in/2024/06/17/microsoft-sentinel-azure-lighthouse/)
+- [Microsoft Sentinel - Your First Instance](https://ryanperr.in/2024/01/29/microsoft-sentinel-your-first-instance/)
 - [Part 1 : Threat Detection Engineering and Incident Response with AuditD and Sentinel — along how to understand and use AuditD](https://medium.com/@truvis.thornton/threat-detection-engineering-and-incident-response-with-auditd-and-sentinel-along-how-to-understand-bfae8ba03a43)
 - [Part 2: Threat Detection Engineering and Incident Response with AuditD and Sentinel — Combine Events by ID with Laurel before sending to Sentinel as JSON and Parser for event searching and alert building](https://medium.com/@truvis.thornton/part-2-threat-detection-engineering-and-incident-response-with-auditd-and-sentinel-combine-a3384e1164e6)
 - [How to: KQL Parsing AuditD Syslog in Microsoft Sentinel with a function and combining the events by EventID](https://medium.com/@truvis.thornton/how-to-parsing-auditd-syslog-in-microsoft-sentinel-with-a-function-and-combining-the-events-by-eve-a65f418cfef1)
@@ -523,3 +525,7 @@
 - [Enriching Microsoft Sentinel tables with eligible Entra directory roles](https://tech.nicolonsky.ch/enriching-microsoft-sentinel-tables-with-eligible-entra-directory-roles/)
 - [Defending Azure Active Directory with Azure Sentinel](https://learnsentinel.blog/2021/10/19/defending-azure-active-directory-with-azure-sentinel/)
 - [Keep an eye on your Azure AD guests with Microsoft Sentinel](https://learnsentinel.blog/2021/11/04/keep-an-eye-on-your-azure-ad-guests-with-microsoft-sentinel/)
+
+## Playbooks
+
+- [Synchronize TOR Exit Nodes to Azure AD Named Location List using the free Big Data Cloud API](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks/Update-NamedLocations-TOR)
