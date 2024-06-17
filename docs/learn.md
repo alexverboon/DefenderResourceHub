@@ -2,6 +2,12 @@
 
 - [Get Security Done](https://dcaddick.github.io/gsd_public/GSD/)
 - [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy/start)
+- [Mark's list](https://aka.ms/markslist)
+- [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/adoption/mcra)
+- [The Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/adoption/the-ciso-workshop)
+
+## Ninja Trainings
+
 - [Microsoft Sentinel & Defender XDR Virtual Ninja Training](https://adoption.microsoft.com/en-us/ninja-show/)
 - [Train your security staff for Microsoft Defender XDR](https://learn.microsoft.com/en-us/defender-xdr/microsoft-365-defender-train-security-staff)
 - [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623)

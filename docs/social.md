@@ -25,6 +25,7 @@
 - [Rod Trent](https://twitter.com/rodtrent)
 - [Tomer Teller](https://twitter.com/djteller)
 - [YongRheeMSFT](https://twitter.com/yongrheemsft)
+- [Mark Simos](https://twitter.com/MarkSimos)
 
 ### Community
 
