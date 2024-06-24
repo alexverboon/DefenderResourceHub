@@ -26,6 +26,10 @@
 
 - [MDTI Solutions](https://github.com/Azure/MDTI-Solutions)
 
+## ITDR
+
+- [ITDR - Identity Threat Detection and Response](https://github.com/nicolonsky/ITDR)
+
 ## KQL
 
 - [Microsoft Defender 365 raw data schema - Overview](https://github.com/Iveco/xknow_infosec/blob/main/M365D_tables.md)
@@ -45,3 +49,5 @@
 - [richlilly2004 MDATP hunting queries](https://github.com/richlilly2004/Microsoft-Defender-ATP)
 - [KQL Tools](https://github.com/microsoft/KqlTools)
 - [CGCFAD Hunting Queries](https://github.com/CGCFAD/WDATP-Advanced-Hunting)
+- [Falcon Friday](https://github.com/FalconForceTeam/FalconFriday)
+

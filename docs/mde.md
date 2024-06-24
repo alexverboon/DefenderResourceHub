@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Get more device control flexibility with BitLocker settings in Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-more-device-control-flexibility-with-bitlocker-settings-in/ba-p/4175131)
 - [Detect suspicious processes running on hidden desktops](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-suspicious-processes-running-on-hidden-desktops/ba-p/4072322)
 - [Simplify triage with the new Alert Timeline](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplify-triage-with-the-new-alert-timeline/ba-p/4152653)
 - [Offline Security Intelligence Update is now GA](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-ga/ba-p/4102370)

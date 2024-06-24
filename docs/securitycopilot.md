@@ -9,7 +9,6 @@
 
 - [What’s new in Defender: How Copilot for Security can transform your SOC](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-in-defender-how-copilot-for-security-can-transform/ba-p/4084222)
 - [Operationalizing Microsoft Security Copilot to Reinvent SOC Productivity](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/operationalizing-microsoft-security-copilot-to-reinvent-soc/ba-p/3944877)
-
 - [Microsoft Copilot for Security Attains ISO 27001, 27017, and 27018 Certifications](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-attains-iso-27001-27017-and-27018/ba-p/4161758)
 - [Exploring Copilot for Security to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
 - [Updates to Security Admin permissions for Microsoft Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/updates-to-security-admin-permissions-for-microsoft-copilot-for/ba-p/4140692)
@@ -37,6 +36,8 @@
 - [Supercharge security and compliance efficiency with Microsoft Security Copilot in Microsoft Purview](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/supercharge-security-and-compliance-efficiency-with-microsoft/ba-p/3980765)
 
 ## Community Blogs
+
+- [How to onboard and getting started with Copilot for Security](https://jeffreyappel.nl/how-to-onboard-and-getting-started-with-copilot-for-security/)
 
 ## GitHub
 
