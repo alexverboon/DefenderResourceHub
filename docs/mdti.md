@@ -3,6 +3,7 @@
 - [Microsoft Defender Threat Intelligence](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-threat-intelligence)
 - [What is Microsoft Defender Threat Intelligence (Defender TI)?](https://learn.microsoft.com/en-us/defender/threat-intelligence/what-is-microsoft-defender-threat-intelligence-defender-ti?culture=en-us&country=us)
 - [Become a Microsoft Defender Threat Intelligence Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965)
+- [Security Insider - Threat intelligence and actionable insights to stay ahead](https://www.microsoft.com/en-us/security/security-insider)
 
 ## Microsoft Tech Community Blogs
 
@@ -80,3 +81,5 @@
 ## Podcasts
 
 - [Microsoft Threat Intelligence Podcast](https://open.spotify.com/show/7kaJodHquryFw5YDw0BShj?go=1&sp_cid=55270d6ee6b7c69aedade84e89d3152c&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=359a6a1f2bf54850)
+
+

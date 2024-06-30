@@ -7,6 +7,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Introducing SOC Optimization API](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-soc-optimization-api/ba-p/4176966)
+- [What's New: Create your own codeless data connector](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-create-your-own-codeless-data-connector/ba-p/4174439)
 - [Debugging Playbooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/debugging-playbooks/ba-p/4165374)
 - [Public Preview: Log Analytics Workspace Replication](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/public-preview-log-analytics-workspace-replication/ba-p/4150933)
 - [Configuring archive period for tables at Mass for Data Retention within Log Analytics Workspace](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/configuring-archive-period-for-tables-at-mass-for-data-retention/ba-p/4118220)

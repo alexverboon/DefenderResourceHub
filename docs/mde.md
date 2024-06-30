@@ -243,6 +243,8 @@
 
 ## Community Blogs
 
+- [Keeping an eye on WSL through Microsoft Defender for Endpoint](https://www.michalos.net/2024/06/25/keeping-an-eye-on-wsl-through-microsoft-defender-for-endpoint/)
+- [Isolated an Endpoint? Automate tag adding and notifications](https://www.michalos.net/2024/02/20/isolated-an-endpoint-automate-tag-adding-and-notifications/)
 - [MDE | Deception](https://derkvanderwoude.medium.com/mde-deception-fe8ba2ae8422)
 - [Microsoft Defender for Endpoint on AWS: Part 3](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-3)
 - [Microsoft Defender for Endpoint on AWS: Part 2](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-2)
