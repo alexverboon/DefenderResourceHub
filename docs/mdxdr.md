@@ -5,6 +5,7 @@
 - [What's new in Microsoft Defender XDR](https://learn.microsoft.com/en-us/defender-xdr/whats-new)
 - [Microsoft Sentinel & Defender XDR Virtual Ninja Training](https://adoption.microsoft.com/en-us/ninja-show/)
 - [Train your security staff for Microsoft Defender XDR](https://learn.microsoft.com/en-us/defender-xdr/microsoft-365-defender-train-security-staff)
+- [Microsoft Lern for Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/m365/defender)
 
 ## Microsoft Tech Community Blogs
 

@@ -1,8 +1,8 @@
 # Microsoft Defender for Endpoint
 
 - [Microsoft Defender for Endpoint](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint)
-- [Microsoft Defender for Endpoint Documentation](https://docs.microsoft.com/en-us/windows/security/threat-protection/)
-- [What’s new in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/whats-new-in-microsoft-defender-atp?view=o365-worldwide)
+- [Microsoft Defender for Endpoint Documentation](https://learn.microsoft.com/en-us/defender-endpoint/)
+- [What’s new in Microsoft Defender for Endpoint](https://learn.microsoft.com/en-us/defender-endpoint/whats-new-in-microsoft-defender-endpoint)
 - [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623)
 
 ## Microsoft Tech Community Blogs

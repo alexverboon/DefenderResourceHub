@@ -302,4 +302,5 @@
 
 ## Community Blogs
 
+- [Microsoft Defender for Storage in pills](https://mccybersec.github.io/defender%20for%20cloud/defender-for-Storage-in-pills/)
 - [AWS Posture Management with Microsoft Defender for Cloud CSPM](https://medium.com/@phaubus/aws-posture-management-with-microsoft-defender-for-cloud-cspm-5d295c6d0023)
