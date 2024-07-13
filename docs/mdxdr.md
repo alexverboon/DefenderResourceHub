@@ -74,6 +74,7 @@
 
 ## Community Blogs
 
+- [Enhancing Your Entity Timelines: Sentinel Activities in the Unified Microsoft Defender XDR Portal](https://attackthesoc.com/posts/enhancing-entity-timelines/)
 - [Automatic attack disruption in Microsoft Defender XDR and containing users during Human-operated Attacks](https://jeffreyappel.nl/automatic-attack-disruption-in-microsoft-365-xdr-and-containing-users-during-human-operated-attacks/)
 - [How to use Automatic Attack Disruption in Microsoft 365 Defender (BEC, AiTM & HumOR)](https://jeffreyappel.nl/how-to-use-automatic-attack-disruption-in-microsoft-365-defender-bec-aitm-humor/)
 - [How Applying User Tags Can Help to Improve Microsoft 365 Security](https://blog.admindroid.com/user-tags-in-microsoft-365-defender/)
@@ -81,3 +82,7 @@
 - [Hunting for Lateral Movement: Local Accounts](https://mergene.medium.com/hunting-for-lateral-movement-local-accounts-bc08742f3d83)
 - [Detecting network beacons via KQL using simple spread stats functions](https://ateixei.medium.com/detecting-network-beacons-via-kql-using-simple-spread-stats-functions-c2f031b0736b)
 - [FalconFriday — Masquerading; LOLBin file renaming— 0xFF0C](https://medium.com/falconforce/falconfriday-masquerading-lolbin-file-renaming-0xff0c-b01e0ab5a95d)
+
+## Documentation
+
+- [Details and results of an automatic attack disruption action](https://learn.microsoft.com/en-us/defender-xdr/autoad-results#hunt-for-disable-user-account-actions)

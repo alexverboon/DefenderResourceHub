@@ -56,6 +56,7 @@
 - [Sami Lamppu](https://twitter.com/samilamppu)
 - [Thijs](@thijslecomte)
 - [Yiannis](https://twitter.com/Sec_GroundZero)
+- [Dylan 👾AttacktheSOC](https://twitter.com/dylaninfosec)
 
 ## LinkedIn Groups
 

@@ -27,3 +27,7 @@
 - [Connect Microsoft Defender EASM to Microsoft Sentinel for Incident enrichment](https://derkvanderwoude.medium.com/connect-microsoft-defender-easm-to-microsoft-sentinel-for-incident-enrichment-521efd6dd684)
 - [Introduction into Microsoft Defender EASM (External Attack Surface Management)](https://derkvanderwoude.medium.com/introduction-into-microsoft-defender-easm-external-attack-surface-management-3fdee6ccf256)
 - [Microsoft Defender EASM - External Attack Surface Management](https://www.youtube.com/watch?v=RvV7RZ1puV4)
+
+## GitHub
+
+- [MDEASM Solutions - Fabian Bader](https://github.com/f-bader/MDEASM-Solutions/tree/main/Automation)

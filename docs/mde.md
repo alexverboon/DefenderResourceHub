@@ -3,6 +3,11 @@
 - [Microsoft Defender for Endpoint](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint)
 - [Microsoft Defender for Endpoint Documentation](https://learn.microsoft.com/en-us/defender-endpoint/)
 - [What’s new in Microsoft Defender for Endpoint](https://learn.microsoft.com/en-us/defender-endpoint/whats-new-in-microsoft-defender-endpoint)
+- [What's new in Microsoft Defender for Endpoint on iOS](https://learn.microsoft.com/en-us/defender-endpoint/ios-whatsnew#network-protection)
+- [What's new in Microsoft Defender for Endpoint on Android](https://learn.microsoft.com/en-us/defender-endpoint/android-whatsnew)
+- [What's new in Microsoft Defender for Endpoint on Windows](https://learn.microsoft.com/en-us/defender-endpoint/windows-whatsnew)
+- [What's new in Microsoft Defender for Endpoint on Mac](https://learn.microsoft.com/en-us/defender-endpoint/mac-whatsnew)
+- [What's new in Microsoft Defender for Endpoint on Linux](https://learn.microsoft.com/en-us/defender-endpoint/linux-whatsnew)
 - [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623)
 
 ## Microsoft Tech Community Blogs
@@ -243,9 +248,12 @@
 
 ## Community Blogs
 
+- [Defender for Endpoint, Windows Servers Migration from Configmgr to MDE Management](https://timbeer.com/defender-from-configmgr-to-mde/)
+- [USB Security Using Microsoft Defender for Endpoint](https://timbeer.com/usb-security-using-microsoft-defender-for-endpoint/)
+- [Stack Your Deception: Stacking MDE Deception Rules with Thinkst Canarytokens](https://attackthesoc.com/posts/stacking-your-deception/)
+- [MDE | Deception](https://derkvanderwoude.medium.com/mde-deception-fe8ba2ae8422)
 - [Keeping an eye on WSL through Microsoft Defender for Endpoint](https://www.michalos.net/2024/06/25/keeping-an-eye-on-wsl-through-microsoft-defender-for-endpoint/)
 - [Isolated an Endpoint? Automate tag adding and notifications](https://www.michalos.net/2024/02/20/isolated-an-endpoint-automate-tag-adding-and-notifications/)
-- [MDE | Deception](https://derkvanderwoude.medium.com/mde-deception-fe8ba2ae8422)
 - [Microsoft Defender for Endpoint on AWS: Part 3](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-3)
 - [Microsoft Defender for Endpoint on AWS: Part 2](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-2)
 - [Detecting RMM tools using Microsoft Defender for Endpoint](https://www.michalos.net/2023/11/27/detecting-rmm-tools-using-microsoft-defender-for-endpoint/)
@@ -301,3 +309,7 @@
 - [Microsoft Defender — Detect Hidden Windows Run](https://medium.com/@theoraclewrites/microsoft-defender-detect-hidden-windows-runs-1c8094e072c7)
 - [Detecting SolarWinds SUNBURST IOC, from Microsoft Defender for Endpoint and Azure Sentinel](https://www.kustoking.com/detecting-solarwinds-sunburst-ioc-from-microsoft-defender-for-endpoint-and-azure-sentinel/)
 
+## GitHub
+
+- [MDE_Signature_Update_Detection.ps](https://github.com/ugurkocde/Intune/blob/main/Defender%20for%20Endpoint/MDE_Signature_Update_Detection.ps1)
+- [DefenderMAPS](https://github.com/alexverboon/DefenderMAPS)
