@@ -27,6 +27,7 @@
 - [Connect Microsoft Defender EASM to Microsoft Sentinel for Incident enrichment](https://derkvanderwoude.medium.com/connect-microsoft-defender-easm-to-microsoft-sentinel-for-incident-enrichment-521efd6dd684)
 - [Introduction into Microsoft Defender EASM (External Attack Surface Management)](https://derkvanderwoude.medium.com/introduction-into-microsoft-defender-easm-external-attack-surface-management-3fdee6ccf256)
 - [Microsoft Defender EASM - External Attack Surface Management](https://www.youtube.com/watch?v=RvV7RZ1puV4)
+- [Discover internet-exposed assets with Microsoft Defender EASM in Azure](https://sanna-diana.medium.com/discover-internet-exposed-assets-with-microsoft-defender-easm-in-azure-d899bcad73ee)
 
 ## GitHub
 

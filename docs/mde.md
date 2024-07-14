@@ -12,6 +12,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Common mistakes during Microsoft Defender for Endpoint deployments](https://jeffreyappel.nl/common-mistakes-during-microsoft-defender-for-endpoint-deployments/)
 - [Get more device control flexibility with BitLocker settings in Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-more-device-control-flexibility-with-bitlocker-settings-in/ba-p/4175131)
 - [Detect suspicious processes running on hidden desktops](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-suspicious-processes-running-on-hidden-desktops/ba-p/4072322)
 - [Simplify triage with the new Alert Timeline](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplify-triage-with-the-new-alert-timeline/ba-p/4152653)
@@ -248,6 +249,11 @@
 
 ## Community Blogs
 
+- [Here’s how Defender XDR can help you find attackers sooner in your environment | Deception Rules MDE](https://medium.com/@andrecamillo/heres-how-defender-xdr-can-help-you-find-attackers-sooner-in-your-environment-deception-rules-2529f0ecdeeb)
+- [Microsoft Defender XDR Deception Capabilities](https://medium.com/@m365alikoc/microsoft-defender-xdr-deception-capabilities-e880f78080cd)
+- [Antivirus exclusions and ASR](https://blog.sec-labs.com/2024/03/antivirus-exclusions-and-asr/)
+- [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
+- [FalconFriday — Detecting MMC abuse using GrimResource  with MDE— 0xFF24](https://falconforce.nl/falconfriday-detecting-mmc-abuse-using-grimresource-with-mde-0xff24/)
 - [Defender for Endpoint, Windows Servers Migration from Configmgr to MDE Management](https://timbeer.com/defender-from-configmgr-to-mde/)
 - [USB Security Using Microsoft Defender for Endpoint](https://timbeer.com/usb-security-using-microsoft-defender-for-endpoint/)
 - [Stack Your Deception: Stacking MDE Deception Rules with Thinkst Canarytokens](https://attackthesoc.com/posts/stacking-your-deception/)

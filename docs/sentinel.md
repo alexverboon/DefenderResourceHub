@@ -515,6 +515,11 @@
 
 ## Community Blogs
 
+- [Secure your Microsoft Sentinel playbooks with managed identities](https://koosg.medium.com/secure-your-microsoft-sentinel-playbooks-with-managed-identities-fce1f232df3a)
+- [Split up your logs with $pl1tR](https://koosg.medium.com/split-up-your-logs-with-pl1tr-3ab3c76e3125)
+- [Unlimited Advanced Hunting for Microsoft 365 Defender with Azure Data Explorer](https://koosg.medium.com/unlimited-advanced-hunting-for-microsoft-365-defender-with-azure-data-explorer-646b08307b75)
+- [Unlimited Advanced Hunting for Microsoft 365 Defender with Azure Data Explorer – Part II](https://koosg.medium.com/unlimited-advanced-hunting-for-microsoft-365-defender-with-azure-data-explorer-4fc30574cf29)
+- [Microsoft Sentinel ASIM Parser demystified](https://www.wpninjas.ch/2024/03/microsoft-sentinel-asim-parser-demystified/)
 - [Microsoft Sentinel - Azure LightHouse](https://ryanperr.in/2024/06/17/microsoft-sentinel-azure-lighthouse/)
 - [Microsoft Sentinel - Your First Instance](https://ryanperr.in/2024/01/29/microsoft-sentinel-your-first-instance/)
 - [Part 1 : Threat Detection Engineering and Incident Response with AuditD and Sentinel — along how to understand and use AuditD](https://medium.com/@truvis.thornton/threat-detection-engineering-and-incident-response-with-auditd-and-sentinel-along-how-to-understand-bfae8ba03a43)
@@ -543,3 +548,4 @@
 - [Microsoft Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
 - [Microsoft Sentinel Triage AssistanT (STAT)](https://github.com/briandelmsft/SentinelAutomationModules)
 - [Microsoft Sentinel - SEC Operations](https://github.com/eshlomo1/Microsoft-Sentinel-SecOps)
+- [Log Splitr](https://github.com/TheCloudScout/log-splitr)

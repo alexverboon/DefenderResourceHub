@@ -57,6 +57,8 @@
 - [Thijs](@thijslecomte)
 - [Yiannis](https://twitter.com/Sec_GroundZero)
 - [Dylan 👾AttacktheSOC](https://twitter.com/dylaninfosec)
+- [Samik Roy](https://twitter.com/roy_samik)
+- [Thomas Kurth](https://twitter.com/ThomasKurth_ch)
 
 ## LinkedIn Groups
 
