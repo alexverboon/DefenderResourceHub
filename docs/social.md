@@ -26,6 +26,7 @@
 - [Tomer Teller](https://twitter.com/djteller)
 - [YongRheeMSFT](https://twitter.com/yongrheemsft)
 - [Mark Simos](https://twitter.com/MarkSimos)
+- [Yuri Diogenes](https://twitter.com/yuridiogenes)
 
 ### Community
 

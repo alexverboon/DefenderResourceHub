@@ -304,3 +304,16 @@
 
 - [Microsoft Defender for Storage in pills](https://mccybersec.github.io/defender%20for%20cloud/defender-for-Storage-in-pills/)
 - [AWS Posture Management with Microsoft Defender for Cloud CSPM](https://medium.com/@phaubus/aws-posture-management-with-microsoft-defender-for-cloud-cspm-5d295c6d0023)
+
+## Videos & Podcasts
+
+- [Defender for Cloud in the Field](https://www.youtube.com/playlist?list=PL3ZTgFEc7LysiX4PfHhdJPR7S8mGO14YS)
+- [Microsoft Defender for Cloud with Yuri Diogenes](https://runasradio.com/Shows/Show/937)
+
+## Books & Whitepapers
+
+- [Implementing a cloud-native application protection platform (CNAPP) strategy](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Implementing-A-Cloud-Native-Application-Protection-Strategy-Ebook.pdf)
+
+## Social Media
+
+- [Yuri Diogenes](https://twitter.com/yuridiogenes)

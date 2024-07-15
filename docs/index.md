@@ -10,5 +10,6 @@ You will find the following type of information:
 - List of blog posts published by the community, Microsoft MVPs and others
 - Social Media
 - GitHub repositories
+- Books
 
  ![](./img/defender.png)
