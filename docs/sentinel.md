@@ -542,6 +542,7 @@
 ## GitHub
 
 - [Sentinel TI Upload Toolkit](https://github.com/alexverboon/SentinelTIUploadToolkit)
+- [API samples](https://github.com/Azure/azure-rest-api-specs/tree/main/specification/securityinsights/resource-manager/Microsoft.SecurityInsights)
 - [Microsoft Sentinel and Microsoft 365 Defender](https://github.com/Azure/Azure-Sentinel)
 - [Microsoft Sentinel To-Go!](https://github.com/OTRF/Microsoft-Sentinel2Go)
 - [Sentinel ATT&CK](https://github.com/netevert/sentinel-attack)
@@ -549,3 +550,8 @@
 - [Microsoft Sentinel Triage AssistanT (STAT)](https://github.com/briandelmsft/SentinelAutomationModules)
 - [Microsoft Sentinel - SEC Operations](https://github.com/eshlomo1/Microsoft-Sentinel-SecOps)
 - [Log Splitr](https://github.com/TheCloudScout/log-splitr)
+
+## Learning and Training
+
+- [Optimizing Your Security Operations: Manage Your Data, Costs and Protections with SOC Optimizations](https://www.youtube.com/watch?v=Uk9x60grT-o)
+- [Optimizing your SOC's threat coverage and data value](https://www.youtube.com/watch?v=b0rbPZwBuc0)

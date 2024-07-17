@@ -41,5 +41,10 @@
 
 ## Community Blogs
 
+- [Microsoft IT/OT convergence in Defender XDR (New) and Sentinel](https://derkvanderwoude.medium.com/microsoft-it-ot-convergence-in-defender-xdr-new-and-sentinel-4ccbf07d6770)
 - [How to setup your own Microsoft Defender for IoT lab](https://derkvanderwoude.medium.com/how-to-setup-your-own-microsoft-defender-for-iot-lab-a2eaee879317)
 - [Exploit IoT devices and how to prevent via MDE | Enterprise IoT](https://derkvanderwoude.medium.com/exploit-iot-devices-and-how-to-prevent-via-mde-enterprise-iot-4afff921b525)
+
+## GitHub
+
+- [D4IOT PowerShell Module](https://github.com/samikroy/D4IOT)

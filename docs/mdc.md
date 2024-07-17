@@ -6,6 +6,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Power BI and Microsoft Defender for Cloud](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-power-bi-and-microsoft-defender-for-cloud/ba-p/4190041)
 - [Cloud security posture and contextualization across cloud boundaries from a single dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-posture-and-contextualization-across-cloud/ba-p/4161703)
 - [Monthly news - June 2024](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-june-2024/ba-p/4159552)
 - [Best Practices to Manage and Mitigate Security Recommendations](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/best-practices-to-manage-and-mitigate-security-recommendations/ba-p/4153869)
