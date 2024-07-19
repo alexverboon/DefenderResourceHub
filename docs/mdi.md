@@ -31,6 +31,7 @@
 
 ## Community Blogs
 
+- [Microsoft Defender for Identity Access Key Vulnerability](https://thalpius.com/2024/07/18/microsoft-defender-for-identity-access-key-vulnerability/)
 - [Provoking Defender for Identity suspicious certificate usage alerts](https://tech.nicolonsky.ch/provoking-defender-for-identity-suspicious-certificate-usage-alerts/)
 - [Unmasking the shadows the art of threat hunting in Defender for Identity](https://cyberdom.blog/2023/12/09/unmasking-the-shadows-the-art-of-threat-hunting-in-defender-for-identity/)
 - [Article 1 – Tips & Tricks #Investigate with Microsoft Defender for Identity](https://www.linkedin.com/pulse/article-1-tips-tricks-investigate-microsoft-defender-pasquier-ceh/)
@@ -41,7 +42,27 @@
 - [Using Active Directory Replication Metadata for hunting purposes](https://security-tzu.com/2020/11/09/active-directory-replication-metadata-for-forensics-purposes/)
 - [Active Directory reconnaissance and Microsoft Defender XDR detections](https://derkvanderwoude.medium.com/active-directory-reconnaissance-and-microsoft-defender-xdr-detections-845c0a8322b0)
 
+### Recommended Actions
+
+- [Microsoft Defender for Identity Recommended Actions: Unsecure Domain configurations](https://thalpius.com/2023/06/09/microsoft-defender-for-identity-recommended-actions-resolve-unsecure-domain-configurations/)
+- [Microsoft Defender for Identity Recommended Actions: Unsecure Account Attributes](https://thalpius.com/2023/06/19/microsoft-defender-for-identity-recommended-actions-unsecure-account-attributes/)
+- [Microsoft Defender for Identity Recommended Actions: Remove dormant accounts from sensitive groups](https://thalpius.com/2023/07/11/microsoft-defender-for-identity-recommended-actions-remove-dormant-accounts-from-sensitive-groups/)
+- [Microsoft Defender for Identity Recommended Actions: Protect and manage local admin passwords with laps](https://thalpius.com/2023/08/17/microsoft-defender-for-identity-recommended-actions-protect-and-manage-local-admin-passwords-with-microsoft-laps/)
+- [Microsoft Defender for Identity Recommended Actions: Configure VPN Integration](https://thalpius.com/2023/12/06/microsoft-defender-for-identity-recommended-actions-configure-vpn-integration/)
+- [Microsoft Defender for Identity Recommended Actions: Reduce lateral movement path risk to sensitive entities](https://thalpius.com/2024/01/15/microsoft-defender-for-identity-recommended-actions-reduce-lateral-movement-path-risk-to-sensitive-entities/)
+- [Microsoft Defender for Identity Recommended Actions: Stop Clear Text Credentials Exposure](https://thalpius.com/2024/01/23/microsoft-defender-for-identity-recommended-actions-stop-clear-text-credentials-exposure/)
+- [Microsoft Defender for Identity Recommended Actions: Disable Print Spooler on Domain Controllers](https://thalpius.com/2024/02/16/microsoft-defender-for-identity-recommended-actions-disable-print-spooler-service-on-domain-controllers/)
+- [Microsoft Defender for Identity Recommended Actions: Stop Weak cipher usage](https://thalpius.com/2024/03/10/microsoft-defender-for-identity-recommended-actions-disable-print-spooler-service-on-domain-controllers-2/)
+- [Microsoft Defender for Identity Recommended Actions: Remove Unsecure SID History Attributes from entities](https://thalpius.com/2024/04/13/microsoft-defender-for-identity-recommended-actions-remove-unsecure-sid-history-attributes-from-entities/)
+- [Microsoft Defender for Identity Recommended Actions:Unsecure Kerberos Delegation](https://thalpius.com/2024/05/31/microsoft-defender-for-identity-recommended-actions-unsecure-kerberos-delegation/)
+- [Microsoft Defender for Identity Recommended Actions: Install MDI Sensor on all Domain Controllers](https://thalpius.com/2024/06/05/microsoft-defender-for-identity-recommended-actions-install-defender-for-identity-sensor-on-all-domain-controllers/)
+
 ## Social Media
 
 - [Daniel Naim](https://twitter.com/naimious)
 - [Martin Schvartzman](https://twitter.com/martin77s)
+
+## GitHub
+
+- [Raymond Roethof - Defender for Identity Tools](https://github.com/thalpius?tab=repositories)
+- [Defender for Identity Sizing Tool](https://github.com/microsoft/Microsoft-Defender-for-Identity-Sizing-Tool)

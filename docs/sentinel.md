@@ -515,6 +515,7 @@
 
 ## Community Blogs
 
+- [SOC Optimization in Microsoft Sentinel](https://www.modernsecurity.nl/soc-optimization-in-microsoft-sentinel/)
 - [Secure your Microsoft Sentinel playbooks with managed identities](https://koosg.medium.com/secure-your-microsoft-sentinel-playbooks-with-managed-identities-fce1f232df3a)
 - [Split up your logs with $pl1tR](https://koosg.medium.com/split-up-your-logs-with-pl1tr-3ab3c76e3125)
 - [Unlimited Advanced Hunting for Microsoft 365 Defender with Azure Data Explorer](https://koosg.medium.com/unlimited-advanced-hunting-for-microsoft-365-defender-with-azure-data-explorer-646b08307b75)

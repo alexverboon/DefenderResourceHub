@@ -249,6 +249,7 @@
 
 ## Community Blogs
 
+- [Microsoft Defender for Endpoint on Linux — Manual Scan Tips](https://medium.com/cloudnsec/microsoft-defender-for-endpoint-on-linux-manual-scan-tips-15dc31629f11)
 - [Here’s how Defender XDR can help you find attackers sooner in your environment | Deception Rules MDE](https://medium.com/@andrecamillo/heres-how-defender-xdr-can-help-you-find-attackers-sooner-in-your-environment-deception-rules-2529f0ecdeeb)
 - [Microsoft Defender XDR Deception Capabilities](https://medium.com/@m365alikoc/microsoft-defender-xdr-deception-capabilities-e880f78080cd)
 - [Antivirus exclusions and ASR](https://blog.sec-labs.com/2024/03/antivirus-exclusions-and-asr/)

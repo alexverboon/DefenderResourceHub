@@ -5,6 +5,7 @@
 - [Mark's list](https://aka.ms/markslist)
 - [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/adoption/mcra)
 - [The Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/adoption/the-ciso-workshop)
+- [Zero Trust Lab](https://microsoft.github.io/ztlabguide/)
 
 ## Ninja Trainings
 
