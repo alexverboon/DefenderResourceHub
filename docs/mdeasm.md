@@ -31,4 +31,5 @@
 
 ## GitHub
 
+- [MDEASM Solutons - MIcrosoft](https://github.com/Azure/MDEASM-Solutions)
 - [MDEASM Solutions - Fabian Bader](https://github.com/f-bader/MDEASM-Solutions/tree/main/Automation)
