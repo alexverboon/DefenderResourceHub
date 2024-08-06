@@ -542,6 +542,7 @@
 
 ## GitHub
 
+- [Microsoft Azure Log Analytics Table Retention Update Script](https://github.com/thatlazyadmin/DeathStarScriptHub/tree/main/Microsoft%20Sentinel/UpdateLogAnalyticsTableRetention)
 - [Sentinel TI Upload Toolkit](https://github.com/alexverboon/SentinelTIUploadToolkit)
 - [API samples](https://github.com/Azure/azure-rest-api-specs/tree/main/specification/securityinsights/resource-manager/Microsoft.SecurityInsights)
 - [Microsoft Sentinel and Microsoft 365 Defender](https://github.com/Azure/Azure-Sentinel)

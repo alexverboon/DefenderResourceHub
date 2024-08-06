@@ -8,7 +8,16 @@
 # sec copilot
 #$rssUrl = "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=SecurityCopilotBlog&size=200"
 # iot
-$rssUrl = "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=MicrosoftDefenderIoTBlog&size=400"
+#$rssUrl = "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=MicrosoftDefenderIoTBlog&size=400"
+# entra ID
+#$rssurl = 'https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=6042109320470044639&board=Identity&size=2000'
+# ca kenneth
+#$rssUrl = "https://www.vansurksum.com/category/conditional-access/feed/?posts_per_page=500"
+# chronlund
+$rssUrl = 'https://danielchronlund.com/category/conditional-access/feed/?posts_per_page=500'
+
+
+
 
 $outfile = "c:\temp\rssdump.txt"
 # Fetch the RSS XML data

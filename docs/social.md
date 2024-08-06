@@ -9,6 +9,7 @@
 - [Microsoft Defender XDR](https://twitter.com/msftdefenderxdr)
 - [Microsoft Threat Intelligence](https://twitter.com/MsftSecIntel)
 - [Microsoft Bluehat](https://twitter.com/MSFTBlueHat)
+- [Microsoft EntraID](https://twitter.com/azuread)
 
 - [Corina Feuerstein](https://twitter.com/corinaf)
 - [Dan Michelson](https://twitter.com/danm332)
@@ -27,6 +28,7 @@
 - [YongRheeMSFT](https://twitter.com/yongrheemsft)
 - [Mark Simos](https://twitter.com/MarkSimos)
 - [Yuri Diogenes](https://twitter.com/yuridiogenes)
+- [Merill Fernando](https://twitter.com/merill)
 
 ### Community
 
@@ -60,6 +62,8 @@
 - [Dylan 👾AttacktheSOC](https://twitter.com/dylaninfosec)
 - [Samik Roy](https://twitter.com/roy_samik)
 - [Thomas Kurth](https://twitter.com/ThomasKurth_ch)
+- [Kenneth van Surksum](https://x.com/kennethvs)
+- [Daniel Chronlund](https://twitter.com/DanielChronlund)
 
 ## LinkedIn Groups
 

@@ -249,6 +249,8 @@
 
 ## Community Blogs
 
+- [Analyzing MDE Network Inspections](https://hybridbrothers.com/analyzing-mde-network-inspections/)
+- [How to check for a healthy Defender for Endpoint environment?](https://jeffreyappel.nl/how-to-check-for-a-healthy-defender-for-endpoint-environment/)
 - [Microsoft Defender for Endpoint on Linux — Manual Scan Tips](https://medium.com/cloudnsec/microsoft-defender-for-endpoint-on-linux-manual-scan-tips-15dc31629f11)
 - [Here’s how Defender XDR can help you find attackers sooner in your environment | Deception Rules MDE](https://medium.com/@andrecamillo/heres-how-defender-xdr-can-help-you-find-attackers-sooner-in-your-environment-deception-rules-2529f0ecdeeb)
 - [Microsoft Defender XDR Deception Capabilities](https://medium.com/@m365alikoc/microsoft-defender-xdr-deception-capabilities-e880f78080cd)

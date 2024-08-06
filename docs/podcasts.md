@@ -26,3 +26,4 @@
 - [Kusto Insights](https://kustoinsights.substack.com/)
 - [Subscribe to the Weekly Microsoft Sentinel Newsletter from Rod Trent](https://sentinelthisweek.substack.com/)
 - [Subscribe to the Weekly Microsoft Defender Newsletter from Rod Trent](https://microsoftdefender.substack.com/)
+- [Entra News](https://entra.news/)
