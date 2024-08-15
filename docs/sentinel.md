@@ -7,6 +7,13 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Sentinel & Cyberint Threat Intel Integration Guide](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-amp-cyberint-threat-intel-integration-guide/ba-p/4211883)
+- [Frequently asked questions about the unified security operations platform](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/frequently-asked-questions-about-the-unified-security-operations/ba-p/4212048)
+- [Enhancing Security Monitoring: Integrating GitLab Cloud Edition with Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhancing-security-monitoring-integrating-gitlab-cloud-edition/ba-p/4208519)
+- [Microsoft Sentinel All-In-One now available for Azure Government](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-all-in-one-now-available-for-azure-government/ba-p/4204981)
+- [Unified Security Operations Platform - Technical FAQ!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unified-security-operations-platform-technical-faq/ba-p/4189136)
+- [What's new: Run playbooks on incidents on-demand going GA in unified platform](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-run-playbooks-on-incidents-on-demand-going-ga-in/ba-p/4188713)
+- [Using Cribl Stream to ingest logs into Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-cribl-stream-to-ingest-logs-into-microsoft-sentinel/ba-p/4179790)
 - [Introducing SOC Optimization API](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-soc-optimization-api/ba-p/4176966)
 - [What's New: Create your own codeless data connector](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-create-your-own-codeless-data-connector/ba-p/4174439)
 - [Debugging Playbooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/debugging-playbooks/ba-p/4165374)
