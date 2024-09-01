@@ -525,6 +525,7 @@
 
 ## Community Blogs
 
+- [Sentinel Automation Part 2: Automate CISA Known Exploited Vulnerability Notifications](https://kqlquery.com/posts/automatic-cisa-vulnerability-notifications/)
 - [Optimize Microsoft Sentinel Log Retention with Azure Data Explorer](https://charbelnemnom.com/optimize-microsoft-sentinel-log-retention-adx/?utm_content=cmp-true)
 - [Ingest Firewall logs into Sentinel Auxiliary Logs tier using Logstash with only $0.10/GB](https://www.linkedin.com/pulse/ingest-firewall-logs-sentinel-auxiliary-tier-using-logstash-lauren-57djf/)
 - [Demistifying Microssoft Sentinel Multi-Tier logging](https://charbelnemnom.com/microsoft-sentinel-multi-tier-logging/)

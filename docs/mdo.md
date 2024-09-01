@@ -96,6 +96,7 @@
 
 ## Community Blogs
 
+- [Microsoft gains on Email Security Market](https://thecloudtechnologist.com/2024/06/25/microsoft-gains-on-email-security-market/)
 - [How to protect Microsoft Teams with Microsoft 365 Defender](https://jeffreyappel.nl/how-to-protect-microsoft-teams-with-microsoft-365-defender/)
 - [Protect against QR Code phishing with Microsoft Defender products](https://jeffreyappel.nl/protect-against-qr-code-phishing-with-microsoft-defender-products/)
 - [MANAGE OFFICE ATP ALERTS LIKE A BOSS](https://emptydc.com/2020/07/06/manage-office-atp-alerts-like-a-boss/)
