@@ -1734,6 +1734,8 @@
 
 ## Community Blogs
 
+- [From Intune to EntraID – Add custom data to the Extension Attributes](https://ugurkoc.de/from-intune-to-entraid-add-custom-data-to-the-extension-attributes/)
+
 ### Conditional Access
 
 ***Kenneth van Surksum***

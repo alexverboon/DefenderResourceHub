@@ -76,6 +76,7 @@
 
 ## Community Blogs
 
+- [Audit Defender XDR Activities](https://kqlquery.com/posts/audit-defender-xdr/)
 - [Enhancing Your Entity Timelines: Sentinel Activities in the Unified Microsoft Defender XDR Portal](https://attackthesoc.com/posts/enhancing-entity-timelines/)
 - [Automatic attack disruption in Microsoft Defender XDR and containing users during Human-operated Attacks](https://jeffreyappel.nl/automatic-attack-disruption-in-microsoft-365-xdr-and-containing-users-during-human-operated-attacks/)
 - [How to use Automatic Attack Disruption in Microsoft 365 Defender (BEC, AiTM & HumOR)](https://jeffreyappel.nl/how-to-use-automatic-attack-disruption-in-microsoft-365-defender-bec-aitm-humor/)
