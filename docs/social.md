@@ -10,6 +10,7 @@
 - [Microsoft Threat Intelligence](https://twitter.com/MsftSecIntel)
 - [Microsoft Bluehat](https://twitter.com/MSFTBlueHat)
 - [Microsoft EntraID](https://twitter.com/azuread)
+- [Azure Data Explorer](https://x.com/AzDataExplorer)
 
 - [Corina Feuerstein](https://twitter.com/corinaf)
 - [Dan Michelson](https://twitter.com/danm332)
@@ -65,8 +66,13 @@
 - [Kenneth van Surksum](https://x.com/kennethvs)
 - [Daniel Chronlund](https://twitter.com/DanielChronlund)
 - [Joe Stocker](https://twitter.com/ITguySoCal)
+- [Ugur Koc](https://twitter.com/UgurKocDe)
+- [Stefan Schörling](https://x.com/stefanschorling?lang=en)
 
 ## LinkedIn Groups
 
 - [Microsoft Defender](https://www.linkedin.com/groups/12401063/)
 - [Microsoft Sentinel](https://www.linkedin.com/groups/8768381/)
+- [KQL Cafe](https://www.linkedin.com/groups/14053778/)
+- [Microsoft Security Community](https://www.linkedin.com/groups/13640774/)
+- [Microsoft Copilot for Security Community](https://www.linkedin.com/groups/14345161/)
