@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Defender for Cloud Apps’ Shadow IT Discovery Capabilities Now Support MacOS](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-cloud-apps-shadow-it-discovery/ba-p/4159677)
 - [Data Protection Made a Breeze: MDA integration in Edge for Business](https://cloudbrothers.info/en/data-protection-breeze-mda-integration-edge-business/)
 - [Microsoft Defender for Cloud Apps’ Shadow IT Discovery Capabilities Now Support MacOS](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-cloud-apps-shadow-it-discovery/ba-p/4159677)
 - [Defender for Cloud Apps delivers new in-browser protection capabilities via Microsoft Edge](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-cloud-apps-delivers-new-in-browser-protection/ba-p/4129857)

@@ -2,6 +2,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Critical Cloud Assets: Identifying and Protecting the Crown Jewels of your Cloud](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/critical-cloud-assets-identifying-and-protecting-the-crown/ba-p/4222198)
 - [Introducing Microsoft Security Exposure Management](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-microsoft-security-exposure-management/ba-p/4080907)
 - [Microsoft Security Exposure Management Graph: unveiling the power](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-security-exposure-management-graph-unveiling-the-power/ba-p/4148546)
 - [Respond to trending threats and adopt zero-trust with Exposure Management](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/respond-to-trending-threats-and-adopt-zero-trust-with-exposure/ba-p/4130133)

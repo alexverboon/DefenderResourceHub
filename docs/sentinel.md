@@ -7,6 +7,9 @@
 
 ## Microsoft Tech Community Blogs
 
+- [What's new: Multi-tenancy in the unified security operations platform experience  in Public Preview](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-multi-tenancy-in-the-unified-security-operations/ba-p/4225658)
+- [Comprehensive coverage and cost-savings with Microsoft Sentinel’s new data tier](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/comprehensive-coverage-and-cost-savings-with-microsoft-sentinel/ba-p/4223293)
+- [Revolutionizing log collection with Azure Monitor Agent](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/revolutionizing-log-collection-with-azure-monitor-agent/ba-p/4218129)
 - [Microsoft Sentinel & Cyberint Threat Intel Integration Guide](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-amp-cyberint-threat-intel-integration-guide/ba-p/4211883)
 - [Frequently asked questions about the unified security operations platform](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/frequently-asked-questions-about-the-unified-security-operations/ba-p/4212048)
 - [Enhancing Security Monitoring: Integrating GitLab Cloud Edition with Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhancing-security-monitoring-integrating-gitlab-cloud-edition/ba-p/4208519)
@@ -522,6 +525,10 @@
 
 ## Community Blogs
 
+- [Optimize Microsoft Sentinel Log Retention with Azure Data Explorer](https://charbelnemnom.com/optimize-microsoft-sentinel-log-retention-adx/?utm_content=cmp-true)
+- [Ingest Firewall logs into Sentinel Auxiliary Logs tier using Logstash with only $0.10/GB](https://www.linkedin.com/pulse/ingest-firewall-logs-sentinel-auxiliary-tier-using-logstash-lauren-57djf/)
+- [Demistifying Microssoft Sentinel Multi-Tier logging](https://charbelnemnom.com/microsoft-sentinel-multi-tier-logging/)
+- [Deep Dive into Microsoft Sentinel Summary Rules](https://modernsecops.com/p/implementing-sentinel-summary-rules)
 - [SOC Optimization in Microsoft Sentinel](https://www.modernsecurity.nl/soc-optimization-in-microsoft-sentinel/)
 - [Secure your Microsoft Sentinel playbooks with managed identities](https://koosg.medium.com/secure-your-microsoft-sentinel-playbooks-with-managed-identities-fce1f232df3a)
 - [Split up your logs with $pl1tR](https://koosg.medium.com/split-up-your-logs-with-pl1tr-3ab3c76e3125)
@@ -549,6 +556,7 @@
 
 ## GitHub
 
+- [GitHub Repo from Seyed A Nouraie](https://github.com/seyed-nouraie/SecOps?tab=readme-ov-file)
 - [Microsoft Azure Log Analytics Table Retention Update Script](https://github.com/thatlazyadmin/DeathStarScriptHub/tree/main/Microsoft%20Sentinel/UpdateLogAnalyticsTableRetention)
 - [Sentinel TI Upload Toolkit](https://github.com/alexverboon/SentinelTIUploadToolkit)
 - [API samples](https://github.com/Azure/azure-rest-api-specs/tree/main/specification/securityinsights/resource-manager/Microsoft.SecurityInsights)

@@ -8,6 +8,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Face Check is now generally available](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/face-check-is-now-generally-available/ba-p/4175880)
+- [Public preview: Microsoft Entra ID FIDO2 provisioning APIs](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-microsoft-entra-id-fido2-provisioning-apis/ba-p/4062699)
 - [Migrate ADAL apps to MSAL with enhanced insights](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/migrate-adal-apps-to-msal-with-enhanced-insights/ba-p/4194361)
 - [Microsoft Entra Suite now generally available](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-suite-now-generally-available/ba-p/2520427)
 - [Microsoft Security Service Edge now generally available](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-security-service-edge-now-generally-available/ba-p/3847828)

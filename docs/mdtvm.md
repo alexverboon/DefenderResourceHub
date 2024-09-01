@@ -6,6 +6,10 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Research Analysis and Guidance: Ensuring Android Security Update Adoption](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/research-analysis-and-guidance-ensuring-android-security-update/ba-p/4216714)
+- [Enhancing vulnerability prioritization with asset context and EPSS - Now in Public Preview.](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/enhancing-vulnerability-prioritization-with-asset-context-and/ba-p/4212480)
+- [Using Export API with Defender Vulnerability Management](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/using-export-api-with-defender-vulnerability-management/ba-p/4191046)
+- [Guidance for handling “regreSSHion” (CVE-2024-6387) using Microsoft Security capabilities](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/guidance-for-handling-regresshion-cve-2024-6387-using-microsoft/ba-p/4185940)
 - [Defender support for CVE-2024-3400 affecting Palo Alto Networks firewalls](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/defender-support-for-cve-2024-3400-affecting-palo-alto-networks/ba-p/4113917)
 - [Microsoft FAQ and guidance for XZ Utils backdoor](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961)
 - [Defender Vulnerability Management GA in government cloud](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/defender-vulnerability-management-ga-in-government-cloud/ba-p/4101955)

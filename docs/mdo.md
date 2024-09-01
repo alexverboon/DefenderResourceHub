@@ -7,6 +7,11 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Secure architecture design – How Defender for Office 365 protects against EchoSpoofing](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/secure-architecture-design-how-defender-for-office-365-protects/ba-p/4225358)
+- [Automate Tenant Allow/Block List entries](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automate-tenant-allow-block-list-entries/ba-p/4213201)
+- [Announcing Microsoft Defender for Office 365 API’s for retrieving threat data and remediating emails](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-microsoft-defender-for-office-365-api-s-for/ba-p/4199777)
+- [Announcing quarantine release integration in Microsoft Defender for Office 365 hunting experience!!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-quarantine-release-integration-in-microsoft-defender/ba-p/4198601)
+- [Introducing Bulk Senders Insight: Optimizing Bulk Email Management for Enterprises](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-bulk-senders-insight-optimizing-bulk-email/ba-p/4193963)
 - [Automated end-user feedback response is now GA](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automated-end-user-feedback-response-is-now-ga/ba-p/4148055)
 - [Email Protection Basics in Microsoft 365 Part Five: Mastering Overrides](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-part-five-mastering/ba-p/4139035)
 - [Enhanced Response Action Experience from Threat Explorer](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/enhanced-response-action-experience-from-threat-explorer/ba-p/4130448)

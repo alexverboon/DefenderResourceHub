@@ -7,6 +7,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Protect and Detect: Microsoft Defender for Identity Expands to Entra Connect Server](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-and-detect-microsoft-defender-for-identity-expands-to/ba-p/4226165)
+- [Defender for Identity PowerShell module update](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-identity-powershell-module-update/ba-p/4208525)
 - [Introducing the new PowerShell Module for Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-powershell-module-for-microsoft-defender-for/ba-p/4028734)
 - [Identity in focus: Exploring the new ITDR experience within Microsoft Defender](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/identity-in-focus-exploring-the-new-itdr-experience-within/ba-p/4027129)
 - [Easily detect CVE-2024-21427 with Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/easily-detect-cve-2024-21427-with-microsoft-defender-for/ba-p/4117587)

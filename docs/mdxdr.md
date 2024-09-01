@@ -9,6 +9,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Host Microsoft Defender data locally in India](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-india/ba-p/4215053)
+- [Cybersecurity incident correlation in the unified security operations platform](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/cybersecurity-incident-correlation-in-the-unified-security/ba-p/4214394)
 - [Host Microsoft Defender data locally in Switzerland](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-switzerland/ba-p/4141490)
 - [Microsoft Defender XDR unified role-based access control (RBAC) model is now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-xdr-unified-role-based-access-control-rbac/ba-p/3993793)
 - [Protect faster with Microsoft Defender XDR’s latest UX enhancements](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-faster-with-microsoft-defender-xdr-s-latest-ux/ba-p/4027497)

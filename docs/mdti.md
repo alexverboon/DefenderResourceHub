@@ -7,6 +7,9 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Introducing the MDTI Article Digest](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-article-digest/ba-p/4223917)
+- [Introducing the MDTI Premium Data Connector for Sentinel](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-premium-data-connector-for-sentinel/ba-p/4220346)
+- [More Threat Intelligence Content In MDTI, TA Enables Better Security Outcomes](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/more-threat-intelligence-content-in-mdti-ta-enables-better/ba-p/4177542)
 - [Copilot for Security TI Embedded Experience in Defender XDR is now GA](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/copilot-for-security-ti-embedded-experience-in-defender-xdr-is/ba-p/4114858)
 - [Unleash the Power of Threat Intel: Introducing the MDTI GitHub](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/unleash-the-power-of-threat-intel-introducing-the-mdti-github/ba-p/3884452)
 - [New Threat Actor Intel Profiles Added to Defender TI](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-threat-actor-intel-profiles-added-to-defender-ti/ba-p/3841181)

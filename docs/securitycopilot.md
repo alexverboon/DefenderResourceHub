@@ -7,6 +7,12 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Learn how to customize and optimize Copilot for Security with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147)
+- [Harnessing the power of KQL Plugins for enhanced security insights with Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/harnessing-the-power-of-kql-plugins-for-enhanced-security/ba-p/4221891)
+- [Extending Microsoft Copilot for Security Capabilities with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267)
+- [Microsoft Copilot for Security Now Covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174)
+- [Using Microsoft Graph as a Microsoft Copilot for Security Plugin with Delegated Access](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/using-microsoft-graph-as-a-microsoft-copilot-for-security-plugin/ba-p/4198148)
+- [How to build a Copilot for Security API Plugin – Part 2](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-build-a-copilot-for-security-api-plugin-part-2/ba-p/4163829)
 - [What’s new in Defender: How Copilot for Security can transform your SOC](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/what-s-new-in-defender-how-copilot-for-security-can-transform/ba-p/4084222)
 - [Operationalizing Microsoft Security Copilot to Reinvent SOC Productivity](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/operationalizing-microsoft-security-copilot-to-reinvent-soc/ba-p/3944877)
 - [Microsoft Copilot for Security Attains ISO 27001, 27017, and 27018 Certifications](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-attains-iso-27001-27017-and-27018/ba-p/4161758)

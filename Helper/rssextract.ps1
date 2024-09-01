@@ -1,21 +1,34 @@
 ﻿# Define the URL of the RSS feed
 # Sentinel
-#$rssUrl = "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=MicrosoftSentinelBlog&size=600"
+#$rssUrl = "https://t#echcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=MicrosoftSentinelBlog&size=20"
 # Defender for Cloud
-#$rssUrl = 'https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=MicrosoftDefenderCloudBlog&size=600'
+#$rssUrl = 'https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=MicrosoftDefenderCloudBlog&size=20'
 # mdti
-#$rssUrl = 'https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=DefenderThreatIntelligence&size=600'
+#$rssUrl = 'https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=DefenderThreatIntelligence&size=20'
 # sec copilot
-#$rssUrl = "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=SecurityCopilotBlog&size=200"
+#$rssUrl = "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=SecurityCopilotBlog&size=20"
 # iot
-#$rssUrl = "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=MicrosoftDefenderIoTBlog&size=400"
+#$rssUrl = "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1596964823266872039&board=MicrosoftDefenderIoTBlog&size=20"
 # entra ID
-#$rssurl = 'https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=6042109320470044639&board=Identity&size=2000'
+#$rssurl = 'https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=6042109320470044639&board=Identity&size=20'
 # ca kenneth
 #$rssUrl = "https://www.vansurksum.com/category/conditional-access/feed/?posts_per_page=500"
 # chronlund
-$rssUrl = 'https://danielchronlund.com/category/conditional-access/feed/?posts_per_page=500'
+#$rssUrl = 'https://danielchronlund.com/category/conditional-access/feed/?posts_per_page=500'
+# MDE
+#$rssurl = 'https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MicrosoftDefenderATPBlog&size=20'
+# EASM
+#$rssUrl = 'https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=DefenderExternalAttackSurfaceMgmtBlog&size=20'
+# tvm
+#$rssUrl = 'https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=860249516929499341&board=Vulnerability-Management&size=25'
+# xdr
+#$rssUrl = 'https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=860249516929499341&board=MicrosoftThreatProtectionBlog&size=25'
 
+# mdo
+#$rssUrl =  'https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=860249516929499341&board=MicrosoftDefenderforOffice365Blog&size=25'
+
+# security and compliance
+$rssUrl = 'https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=860249516929499341&board=MicrosoftSecurityandCompliance&size=40'
 
 
 

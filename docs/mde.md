@@ -12,7 +12,9 @@
 
 ## Microsoft Tech Community Blogs
 
-- [Common mistakes during Microsoft Defender for Endpoint deployments](https://jeffreyappel.nl/common-mistakes-during-microsoft-defender-for-endpoint-deployments/)
+- [Microsoft Defender for Endpoint’s Safe Deployment Practices](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-s-safe-deployment-practices/ba-p/4220342)
+- [Detect compromised RDP sessions with Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-compromised-rdp-sessions-with-microsoft-defender-for/ba-p/4201003)
+- [Reduce friction and protect faster with simplified Android onboarding](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/reduce-friction-and-protect-faster-with-simplified-android/ba-p/4206049)
 - [Get more device control flexibility with BitLocker settings in Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-more-device-control-flexibility-with-bitlocker-settings-in/ba-p/4175131)
 - [Detect suspicious processes running on hidden desktops](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-suspicious-processes-running-on-hidden-desktops/ba-p/4072322)
 - [Simplify triage with the new Alert Timeline](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplify-triage-with-the-new-alert-timeline/ba-p/4152653)
@@ -249,6 +251,7 @@
 
 ## Community Blogs
 
+- [Common mistakes during Microsoft Defender for Endpoint deployments](https://jeffreyappel.nl/common-mistakes-during-microsoft-defender-for-endpoint-deployments/)
 - [Analyzing MDE Network Inspections](https://hybridbrothers.com/analyzing-mde-network-inspections/)
 - [How to check for a healthy Defender for Endpoint environment?](https://jeffreyappel.nl/how-to-check-for-a-healthy-defender-for-endpoint-environment/)
 - [Microsoft Defender for Endpoint on Linux — Manual Scan Tips](https://medium.com/cloudnsec/microsoft-defender-for-endpoint-on-linux-manual-scan-tips-15dc31629f11)

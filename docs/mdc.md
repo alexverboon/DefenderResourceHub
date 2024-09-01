@@ -6,6 +6,11 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Detect Container Drift with Microsoft Defender for Containers](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/detect-container-drift-with-microsoft-defender-for-containers/ba-p/4232044)
+- [Securing Multi-Cloud Gen AI workloads using Azure Native Solutions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-multi-cloud-gen-ai-workloads-using-azure-native/ba-p/4222728)
+- [Using Defender XDR Portal to hunt for Kubernetes security issues](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/using-defender-xdr-portal-to-hunt-for-kubernetes-security-issues/ba-p/4217741)
+- [Leveraging Azure native tooling to hunt Kubernetes security issues](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/leveraging-azure-native-tooling-to-hunt-kubernetes-security/ba-p/4217705)
+- [Monthly News - August 2024](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-august-2024/ba-p/4210674)
 - [Microsoft Power BI and Microsoft Defender for Cloud](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-power-bi-and-microsoft-defender-for-cloud/ba-p/4190041)
 - [Cloud security posture and contextualization across cloud boundaries from a single dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-posture-and-contextualization-across-cloud/ba-p/4161703)
 - [Monthly news - June 2024](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-june-2024/ba-p/4159552)
