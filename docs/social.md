@@ -64,6 +64,7 @@
 - [Thomas Kurth](https://twitter.com/ThomasKurth_ch)
 - [Kenneth van Surksum](https://x.com/kennethvs)
 - [Daniel Chronlund](https://twitter.com/DanielChronlund)
+- [Joe Stocker](https://twitter.com/ITguySoCal)
 
 ## LinkedIn Groups
 

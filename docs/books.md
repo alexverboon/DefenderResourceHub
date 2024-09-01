@@ -32,4 +32,8 @@
 
 [Order here](https://www.packtpub.com/en-ch/product/microsoft-defender-for-endpoint-in-depth-9781804615461)
 
+## Securing Microsoft 365
 
+![Securing Microsoft 365](/docs/img/books/book_securingms365joe.png)
+
+[Order here](https://thecloudtechnologist.com/book/)
