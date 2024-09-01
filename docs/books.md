@@ -34,6 +34,6 @@
 
 ## Securing Microsoft 365
 
-![Securing Microsoft 365](/docs/img/books/book_securingms365joe.png)
+![Securing Microsoft 365](./img/books/book_securingms365joe.png)
 
 [Order here](https://thecloudtechnologist.com/book/)
