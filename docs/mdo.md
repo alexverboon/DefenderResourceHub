@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [How your submissions to Defender for Office 365 are processed behind-the-scenes](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/how-your-submissions-to-defender-for-office-365-are-processed/ba-p/4231551)
 - [Secure architecture design – How Defender for Office 365 protects against EchoSpoofing](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/secure-architecture-design-how-defender-for-office-365-protects/ba-p/4225358)
 - [Automate Tenant Allow/Block List entries](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automate-tenant-allow-block-list-entries/ba-p/4213201)
 - [Announcing Microsoft Defender for Office 365 API’s for retrieving threat data and remediating emails](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-microsoft-defender-for-office-365-api-s-for/ba-p/4199777)

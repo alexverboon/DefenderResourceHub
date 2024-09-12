@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Defender for Identity: the critical role of identities in automatic attack disruption](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-identity-the-critical-role-of-identities/ba-p/4236688)
 - [Protect and Detect: Microsoft Defender for Identity Expands to Entra Connect Server](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-and-detect-microsoft-defender-for-identity-expands-to/ba-p/4226165)
 - [Defender for Identity PowerShell module update](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-identity-powershell-module-update/ba-p/4208525)
 - [Introducing the new PowerShell Module for Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/introducing-the-new-powershell-module-for-microsoft-defender-for/ba-p/4028734)

@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Hunting with Microsoft Graph activity logs](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-with-microsoft-graph-activity-logs/ba-p/4234632)
 - [What's new: Multi-tenancy in the unified security operations platform experience  in Public Preview](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-multi-tenancy-in-the-unified-security-operations/ba-p/4225658)
 - [Comprehensive coverage and cost-savings with Microsoft Sentinel’s new data tier](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/comprehensive-coverage-and-cost-savings-with-microsoft-sentinel/ba-p/4223293)
 - [Revolutionizing log collection with Azure Monitor Agent](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/revolutionizing-log-collection-with-azure-monitor-agent/ba-p/4218129)
@@ -525,6 +526,7 @@
 
 ## Community Blogs
 
+- [Microsoft Sentinel Summary KQL deep dive (From Beginner to Advanced KQL)](https://modernsecops.com/p/microsoft-sentinel-summary-kql-deep-dive?utm_source=linkedin&utm_medium=organic_post&utm_campaign=summary_kql)
 - [Sentinel Automation Part 2: Automate CISA Known Exploited Vulnerability Notifications](https://kqlquery.com/posts/automatic-cisa-vulnerability-notifications/)
 - [Optimize Microsoft Sentinel Log Retention with Azure Data Explorer](https://charbelnemnom.com/optimize-microsoft-sentinel-log-retention-adx/?utm_content=cmp-true)
 - [Ingest Firewall logs into Sentinel Auxiliary Logs tier using Logstash with only $0.10/GB](https://www.linkedin.com/pulse/ingest-firewall-logs-sentinel-auxiliary-tier-using-logstash-lauren-57djf/)

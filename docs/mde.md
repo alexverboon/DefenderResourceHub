@@ -251,6 +251,7 @@
 
 ## Community Blogs
 
+- [Microsoft Defender for Endpoint Deployment rings](https://github.com/mattnovitsch/M365/wiki/Microsoft-Defender-for-Endpoint-Deployment-rings)
 - [Common mistakes during Microsoft Defender for Endpoint deployments](https://jeffreyappel.nl/common-mistakes-during-microsoft-defender-for-endpoint-deployments/)
 - [Analyzing MDE Network Inspections](https://hybridbrothers.com/analyzing-mde-network-inspections/)
 - [How to check for a healthy Defender for Endpoint environment?](https://jeffreyappel.nl/how-to-check-for-a-healthy-defender-for-endpoint-environment/)
