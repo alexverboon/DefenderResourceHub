@@ -6,6 +6,9 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Monthly News - October 2024](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-october-2024/ba-p/4260397)
+- [Introducing the new File Integrity Monitoring with Defender for Endpoint integration](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-new-file-integrity-monitoring-with-defender-for/ba-p/4252051)
+- [Monthly News - September 2024](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-september-2024/ba-p/4235917)
 - [Detect Container Drift with Microsoft Defender for Containers](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/detect-container-drift-with-microsoft-defender-for-containers/ba-p/4232044)
 - [Securing Multi-Cloud Gen AI workloads using Azure Native Solutions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-multi-cloud-gen-ai-workloads-using-azure-native/ba-p/4222728)
 - [Using Defender XDR Portal to hunt for Kubernetes security issues](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/using-defender-xdr-portal-to-hunt-for-kubernetes-security-issues/ba-p/4217741)

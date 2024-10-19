@@ -7,6 +7,26 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Copilot for Security Achieves HITRUST Certification](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-achieves-hitrust-certification/ba-p/4262303)
+- [Case Study: Harnessing Copilot for Security in Defending Against Cyberthreats](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/case-study-harnessing-copilot-for-security-in-defending-against/ba-p/4251623)
+- [Use LogicApps and Copilot for Security to auto-process ISAC Emails](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/use-logicapps-and-copilot-for-security-to-auto-process-isac/ba-p/4243882)
+- [Harnessing the power of KQL Plugins for enhanced security insights with Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/harnessing-the-power-of-kql-plugins-for-enhanced-security/ba-p/4221891)
+- [Extending Microsoft Copilot for Security Capabilities with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267)
+- [Microsoft Copilot for Security Now Covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174)
+- [Using Microsoft Graph as a Microsoft Copilot for Security Plugin with Delegated Access](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/using-microsoft-graph-as-a-microsoft-copilot-for-security-plugin/ba-p/4198148)
+- [How to build a Copilot for Security API Plugin – Part 2](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-build-a-copilot-for-security-api-plugin-part-2/ba-p/4163829)
+- [Microsoft Copilot for Security Attains ISO 27001, 27017, and 27018 Certifications](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-attains-iso-27001-27017-and-27018/ba-p/4161758)
+- [Exploring Copilot for Security to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
+- [Updates to Security Admin permissions for Microsoft Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/updates-to-security-admin-permissions-for-microsoft-copilot-for/ba-p/4140692)
+- [What’s New? – Security Copilot Azure logic app Connector](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/what-s-new-security-copilot-azure-logic-app-connector/ba-p/4127939)
+- [Azure Web Application Firewall(WAF) integration in Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/azure-web-application-firewall-waf-integration-in-copilot-for/ba-p/4147911)
+- [Azure Firewall integration in Copilot for Security: protect networks at machine speed with Gen AI](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/azure-firewall-integration-in-copilot-for-security-protect/ba-p/4145396)
+- [Unifying security tools with Copilot for Security's partner ecosystem](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/unifying-security-tools-with-copilot-for-security-s-partner/ba-p/4130963)
+- [LeVar Burton joins Vasu Jakkal to share his hope for transformative technologies like generative AI](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/levar-burton-joins-vasu-jakkal-to-share-his-hope-for/ba-p/4122825)
+- [How to Become a Microsoft Copilot for Security Ninja: The Complete Level 400 Training](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-become-a-microsoft-copilot-for-security-ninja-the/ba-p/4106928)
+- [Unleash the Power of Microsoft Copilot for Security: Introducing the Copilot for Security GitHub](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/unleash-the-power-of-microsoft-copilot-for-security-introducing/ba-p/4109184)
+- [Microsoft Copilot for Security Defender XDR Plugin Overview](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-defender-xdr-plugin-overview/ba-p/4114033)
+- [Microsoft Copilot for Security Purview Plugin Overview](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-purview-plugin-overview/ba-p/4114046)
 - [Learn how to customize and optimize Copilot for Security with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147)
 - [Harnessing the power of KQL Plugins for enhanced security insights with Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/harnessing-the-power-of-kql-plugins-for-enhanced-security/ba-p/4221891)
 - [Extending Microsoft Copilot for Security Capabilities with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267)
@@ -43,6 +63,7 @@
 
 ## Community Blogs
 
+- [AI & Security: Introduction (Part 1)](https://emptydc.com/2024/10/10/ai-security-introduction-part-1/)
 - [How to onboard and getting started with Copilot for Security](https://jeffreyappel.nl/how-to-onboard-and-getting-started-with-copilot-for-security/)
 
 ## GitHub

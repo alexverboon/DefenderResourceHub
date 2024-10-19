@@ -7,6 +7,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [New Copilot for Security Plugin Name Reflects Broader Capabilities](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-copilot-for-security-plugin-name-reflects-broader/ba-p/4258810)
+- [MDTI for Government Now Available](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-for-government-now-available/ba-p/4258823)
 - [Introducing the MDTI Article Digest](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-article-digest/ba-p/4223917)
 - [Introducing the MDTI Premium Data Connector for Sentinel](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-premium-data-connector-for-sentinel/ba-p/4220346)
 - [More Threat Intelligence Content In MDTI, TA Enables Better Security Outcomes](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/more-threat-intelligence-content-in-mdti-ta-enables-better/ba-p/4177542)

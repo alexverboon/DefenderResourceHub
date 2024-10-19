@@ -7,6 +7,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Use community queries to hunt more effectively across email and collaboration threats](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/use-community-queries-to-hunt-more-effectively-across-email-and/ba-p/4254664)
+- [Improve end user resilience against QR code phishing](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/improve-end-user-resilience-against-qr-code-phishing/ba-p/4225742)
 - [How your submissions to Defender for Office 365 are processed behind-the-scenes](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/how-your-submissions-to-defender-for-office-365-are-processed/ba-p/4231551)
 - [Secure architecture design – How Defender for Office 365 protects against EchoSpoofing](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/secure-architecture-design-how-defender-for-office-365-protects/ba-p/4225358)
 - [Automate Tenant Allow/Block List entries](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automate-tenant-allow-block-list-entries/ba-p/4213201)

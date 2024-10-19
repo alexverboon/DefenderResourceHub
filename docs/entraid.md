@@ -8,6 +8,13 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Security announcements and demos at Authenticate 2024](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-security-announcements-and-demos-at-authenticate-2024/ba-p/4263029)
+- [What's new in Microsoft Entra - September 2024](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-september-2024/ba-p/4253153)
+- [Explore the key benefits of Microsoft Entra Private Access](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/explore-the-key-benefits-of-microsoft-entra-private-access/ba-p/3905449)
+- [Join us at the Microsoft Entra Suite Showcase!](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/join-us-at-the-microsoft-entra-suite-showcase/ba-p/4250628)
+- [Microsoft Entra Internet Access now generally available](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-internet-access-now-generally-available/ba-p/3922547)
+- [Omdia’s perspective on Microsoft’s SSE solution](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/omdia-s-perspective-on-microsoft-s-sse-solution/ba-p/4237794)
+- [MFA enforcement for Microsoft Entra admin center sign-in coming soon](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/mfa-enforcement-for-microsoft-entra-admin-center-sign-in-coming/ba-p/4230849)
 - [Face Check is now generally available](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/face-check-is-now-generally-available/ba-p/4175880)
 - [Public preview: Microsoft Entra ID FIDO2 provisioning APIs](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-microsoft-entra-id-fido2-provisioning-apis/ba-p/4062699)
 - [Migrate ADAL apps to MSAL with enhanced insights](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/migrate-adal-apps-to-msal-with-enhanced-insights/ba-p/4194361)

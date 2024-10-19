@@ -12,6 +12,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Security settings management is available for multi-tenant environments in Microsoft Defender XDR](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/security-settings-management-is-available-for-multi-tenant/ba-p/4250996)
 - [Microsoft Defender for Endpoint’s Safe Deployment Practices](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-s-safe-deployment-practices/ba-p/4220342)
 - [Detect compromised RDP sessions with Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-compromised-rdp-sessions-with-microsoft-defender-for/ba-p/4201003)
 - [Reduce friction and protect faster with simplified Android onboarding](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/reduce-friction-and-protect-faster-with-simplified-android/ba-p/4206049)
@@ -251,6 +252,9 @@
 
 ## Community Blogs
 
+- [Unleash The Power Of DeviceTvmInfoGathering](https://kqlquery.com/posts/devicetvminfogathering/)
+- [Peeking Behind the Curtain: Finding Defender’s Exclusions](https://blog.fndsec.net/2024/10/04/uncovering-exclusion-paths-in-microsoft-defender-a-security-research-insight/)
+- [Manage Defender for Endpoint for Windows, macOS, and Linux via Security settings management](https://jeffreyappel.nl/manage-mde-for-windows-macos-and-linux-via-security-settings-management/)
 - [Microsoft Defender for Endpoint Deployment rings](https://github.com/mattnovitsch/M365/wiki/Microsoft-Defender-for-Endpoint-Deployment-rings)
 - [Common mistakes during Microsoft Defender for Endpoint deployments](https://jeffreyappel.nl/common-mistakes-during-microsoft-defender-for-endpoint-deployments/)
 - [Analyzing MDE Network Inspections](https://hybridbrothers.com/analyzing-mde-network-inspections/)

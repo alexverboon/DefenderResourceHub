@@ -7,6 +7,17 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Save money on your Sentinel ingestion costs with Data Collection Rules](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/save-money-on-your-sentinel-ingestion-costs-with-data-collection/ba-p/4270256)
+- [What to do if your Sentinel Data Connector shows as [DEPRECATED]](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-to-do-if-your-sentinel-data-connector-shows-as-deprecated/ba-p/4270346)
+- [Cowrie honeypot and its Integration with Microsoft Sentinel.](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/cowrie-honeypot-and-its-integration-with-microsoft-sentinel/ba-p/4258349)
+- [Introducing the Use Cases Mapper workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-use-cases-mapper-workbook/ba-p/4202058)
+- [Level Up Your Security Skills with the New Microsoft Sentinel Ninja Training!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/level-up-your-security-skills-with-the-new-microsoft-sentinel/ba-p/4260106)
+- [What's New: Global Search in Unified Security Operations platform includes Sentinel user and devices](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-global-search-in-unified-security-operations-platform/ba-p/4255122)
+- [Detecting AiTM Phishing via 3rd-Party Network events in Unified Security Operations Platform](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-aitm-phishing-via-3rd-party-network-events-in-unified/ba-p/4224653)
+- [The power of Data Collection Rules: Detect Disabling Windows Defender Real-Time Protection](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-detect-disabling-windows/ba-p/4236540)
+- [The power of Data Collection Rules: Monitoring PowerShell usage](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-monitoring-powershell-usage/ba-p/4236527)
+- [SIEM Migration Update: Now Migrate with contextual depth in translations with Microsoft Sentinel!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/siem-migration-update-now-migrate-with-contextual-depth-in/ba-p/4241234)
+- [The power of Data Collection Rules: Collecting events for advanced use cases in Microsoft USOP](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-collecting-events-for/ba-p/4236486)
 - [Hunting with Microsoft Graph activity logs](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-with-microsoft-graph-activity-logs/ba-p/4234632)
 - [What's new: Multi-tenancy in the unified security operations platform experience  in Public Preview](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-multi-tenancy-in-the-unified-security-operations/ba-p/4225658)
 - [Comprehensive coverage and cost-savings with Microsoft Sentinel’s new data tier](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/comprehensive-coverage-and-cost-savings-with-microsoft-sentinel/ba-p/4223293)
@@ -526,6 +537,7 @@
 
 ## Community Blogs
 
+- [Use Cases For Sentinel Summary Rules](https://kqlquery.com/posts/sentinel-summary-rules/)
 - [Microsoft Sentinel Summary KQL deep dive (From Beginner to Advanced KQL)](https://modernsecops.com/p/microsoft-sentinel-summary-kql-deep-dive?utm_source=linkedin&utm_medium=organic_post&utm_campaign=summary_kql)
 - [Sentinel Automation Part 2: Automate CISA Known Exploited Vulnerability Notifications](https://kqlquery.com/posts/automatic-cisa-vulnerability-notifications/)
 - [Optimize Microsoft Sentinel Log Retention with Azure Data Explorer](https://charbelnemnom.com/optimize-microsoft-sentinel-log-retention-adx/?utm_content=cmp-true)
