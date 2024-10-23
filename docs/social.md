@@ -34,6 +34,7 @@
 ### Community
 
 - [Alex Verboon](https://twitter.com/alexverboon)
+- [Fabian Bader](https://x.com/fabian_bader)
 - [Alex Benoit](https://twitter.com/ITPirate)
 - [Amar Hasayen](https://twitter.com/ammarhasayen)
 - [Ashwin Patil](https://twitter.com/ashwinpatil)
