@@ -34,6 +34,7 @@
 
 ## Community Blogs
 
+- [Microsoft Defender for Identity Bulk Operation](https://thalpius.com/2024/11/13/microsoft-defender-for-identity-bulk-operation/)
 - [Microsoft Defender for Identity Access Key Vulnerability](https://thalpius.com/2024/07/18/microsoft-defender-for-identity-access-key-vulnerability/)
 - [Provoking Defender for Identity suspicious certificate usage alerts](https://tech.nicolonsky.ch/provoking-defender-for-identity-suspicious-certificate-usage-alerts/)
 - [Unmasking the shadows the art of threat hunting in Defender for Identity](https://cyberdom.blog/2023/12/09/unmasking-the-shadows-the-art-of-threat-hunting-in-defender-for-identity/)

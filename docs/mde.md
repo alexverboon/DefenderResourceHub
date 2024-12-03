@@ -12,6 +12,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [The unified agent now combines protection across endpoints, OT devices, identities, and DLP](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/the-unified-agent-now-combines-protection-across-endpoints-ot-devices-identities/4303805)
 - [Security settings management is available for multi-tenant environments in Microsoft Defender XDR](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/security-settings-management-is-available-for-multi-tenant/ba-p/4250996)
 - [Microsoft Defender for Endpoint’s Safe Deployment Practices](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-s-safe-deployment-practices/ba-p/4220342)
 - [Detect compromised RDP sessions with Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-compromised-rdp-sessions-with-microsoft-defender-for/ba-p/4201003)
@@ -252,6 +253,10 @@
 
 ## Community Blogs
 
+- [Silencing Microsoft Defender for Endpoint using firewall rules](https://medium.com/csis-techblog/silencing-microsoft-defender-for-endpoint-using-firewall-rules-3839a8bf8d18)
+- [EDR Silencers and Beyond: Exploring Methods to Block EDR Communication - Part 1](https://cloudbrothers.info/edr-silencers-exploring-methods-block-edr-communication-part-1/)
+- [EDR Silencer and Beyond: Exploring Methods to Block EDR Communication - Part 2](https://academy.bluraven.io/blog/edr-silencer-and-beyond-exploring-methods-to-block-edr-communication-part-2)
+- [Silencing the EDR Silencers](https://www.huntress.com/blog/silencing-the-edr-silencers)
 - [Unleash The Power Of DeviceTvmInfoGathering](https://kqlquery.com/posts/devicetvminfogathering/)
 - [Peeking Behind the Curtain: Finding Defender’s Exclusions](https://blog.fndsec.net/2024/10/04/uncovering-exclusion-paths-in-microsoft-defender-a-security-research-insight/)
 - [Manage Defender for Endpoint for Windows, macOS, and Linux via Security settings management](https://jeffreyappel.nl/manage-mde-for-windows-macos-and-linux-via-security-settings-management/)
@@ -330,3 +335,4 @@
 
 - [MDE_Signature_Update_Detection.ps](https://github.com/ugurkocde/Intune/blob/main/Defender%20for%20Endpoint/MDE_Signature_Update_Detection.ps1)
 - [DefenderMAPS](https://github.com/alexverboon/DefenderMAPS)
+- [Nuke It From Orbit](https://github.com/lkarlslund/nifo)

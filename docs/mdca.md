@@ -36,3 +36,9 @@
 - [Deep Diver – Defender for Cloud Apps Malware Detection in Office 365 Workloads](https://samilamppu.com/2022/05/04/deep-diver-defender-for-cloud-apps-malware-detection-in-office-365-workloads/)
 - [Microsoft Sentinel – Insights of Defender for Cloud Apps Data Connector](https://samilamppu.com/2022/03/24/microsoft-sentinel-insights-of-defender-for-cloud-apps-data-connector/)
 - [Integrate Microsoft Defendr for Endpoint with MCAS](https://www.eshlomo.us/integrate-microsoft-defender-for-endpoint-with-mcas/)
+
+## GitHub
+
+- [Collection of useful resources for MDA/ Defender for Cloud Apps / DfCA / MCAS](https://github.com/jkerai1/SoftwareCertificates/tree/main/Bulk-IOC-CSVs/MDA#block-user-agents)
+- [MCAS Toolbox](https://github.com/alexverboon/MCASToolbox)
+- [MCAS Powershell Module [Unofficial]](https://github.com/microsoft/MCAS)

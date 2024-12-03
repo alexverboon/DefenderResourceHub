@@ -9,6 +9,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Ignite news: What's new in Microsoft Defender XDR?](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/ignite-news-whats-new-in-microsoft-defender-xdr/4303104)
 - [Host Microsoft Defender data locally in India](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-india/ba-p/4215053)
 - [Cybersecurity incident correlation in the unified security operations platform](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/cybersecurity-incident-correlation-in-the-unified-security/ba-p/4214394)
 - [Host Microsoft Defender data locally in Switzerland](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-switzerland/ba-p/4141490)
@@ -76,6 +77,7 @@
 
 ## Community Blogs
 
+- [Unlimited Advanced Hunting for Microsoft 365 Defender with Azure Data Explorer](https://github.com/TheCloudScout/m365defender-adx)
 - [Audit Defender XDR Activities](https://kqlquery.com/posts/audit-defender-xdr/)
 - [Enhancing Your Entity Timelines: Sentinel Activities in the Unified Microsoft Defender XDR Portal](https://attackthesoc.com/posts/enhancing-entity-timelines/)
 - [Automatic attack disruption in Microsoft Defender XDR and containing users during Human-operated Attacks](https://jeffreyappel.nl/automatic-attack-disruption-in-microsoft-365-xdr-and-containing-users-during-human-operated-attacks/)

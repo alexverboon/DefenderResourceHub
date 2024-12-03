@@ -6,6 +6,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [The unified agent now combines protection across endpoints, OT devices, identities, and DLP](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/the-unified-agent-now-combines-protection-across-endpoints-ot-devices-identities/4303805)
 - [Research Analysis and Guidance: Ensuring Android Security Update Adoption](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/research-analysis-and-guidance-ensuring-android-security-update/ba-p/4216714)
 - [Enhancing vulnerability prioritization with asset context and EPSS - Now in Public Preview.](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/enhancing-vulnerability-prioritization-with-asset-context-and/ba-p/4212480)
 - [Using Export API with Defender Vulnerability Management](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/using-export-api-with-defender-vulnerability-management/ba-p/4191046)
@@ -45,6 +46,7 @@
 
 ## Community Blogs & Videos
 
+- [Microsoft Defender Vulnerability Management, exploring the add-on superpowers (part 1)](https://www.michalos.net/2024/10/20/microsoft-defender-vulnerability-management-exploring-the-add-on-superpowers-part-1/)
 - [Assessment and Control of Browser Extensions](https://www.verboon.info/2022/06/assessment-and-control-of-browser-extensions/)
 - [Using Defender Vulnerability Management to patch vulnerabilities](https://medium.com/@andrecamillo/using-defender-vulnerability-management-to-patch-vulnerabilities-4e59ebc944bb)
 - [Defender TVM: Configuration Benchmark Management](https://www.bluevoyant.com/blog/defender-tvm-configuration-benchmark-management/)

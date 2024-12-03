@@ -7,6 +7,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Ignite: Redefining email security with LLMs to tackle a new era of social engineering](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-ignite-redefining-email-security-with-llms-to-tackle-a-new-era-of-soci/4302421)
+- [Create targeted attack simulation training campaigns with dynamic groups](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/create-targeted-attack-simulation-training-campaigns-with-dynamic-groups/4287637)
 - [Use community queries to hunt more effectively across email and collaboration threats](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/use-community-queries-to-hunt-more-effectively-across-email-and/ba-p/4254664)
 - [Improve end user resilience against QR code phishing](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/improve-end-user-resilience-against-qr-code-phishing/ba-p/4225742)
 - [How your submissions to Defender for Office 365 are processed behind-the-scenes](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/how-your-submissions-to-defender-for-office-365-are-processed/ba-p/4231551)

@@ -6,6 +6,7 @@
 - [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/adoption/mcra)
 - [The Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/adoption/the-ciso-workshop)
 - [Zero Trust Lab](https://microsoft.github.io/ztlabguide/)
+- [Zero Trust Workshop: Advance your knowledge with an online resource](https://www.microsoft.com/en-us/security/blog/2024/11/06/zero-trust-workshop-advance-your-knowledge-with-an-online-resource/)
 
 ## Ninja Trainings
 
@@ -25,3 +26,7 @@
 ## Microsoft Airlift
 
 - [Microsoft Airlift](https://airlift.microsoft.com/home_public)
+
+## Interactive Lab Simulations
+
+- [SC-200 Interactive Lab Simulations - Microsoft Security Operations Analyst](https://mslabs.cloudguides.com/guides/SC-200%20Lab%20Simulations%20-%20Microsoft%20Security%20Operations%20Analyst)

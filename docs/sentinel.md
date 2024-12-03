@@ -7,6 +7,10 @@
 
 ## Microsoft Tech Community Blogs
 
+- [How Microsoft’s leading SIEM is getting even better](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/how-microsoft%E2%80%99s-leading-siem-is-getting-even-better/4304327)
+- [Leave no data behind: Using summary rules to store data cost effectively in Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/leave-no-data-behind-using-summary-rules-to-store-data-cost-effectively-in-micro/4296785)
+- [What’s New: Exciting new Microsoft Sentinel Connectors Announcement - Ignite 2024](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-exciting-new-microsoft-sentinel-connectors-announcement---ignite-2024/4294146)
+- [Deploy Microsoft Sentinel using Bicep](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/deploy-microsoft-sentinel-using-bicep/4270970)
 - [Save money on your Sentinel ingestion costs with Data Collection Rules](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/save-money-on-your-sentinel-ingestion-costs-with-data-collection/ba-p/4270256)
 - [What to do if your Sentinel Data Connector shows as [DEPRECATED]](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-to-do-if-your-sentinel-data-connector-shows-as-deprecated/ba-p/4270346)
 - [Cowrie honeypot and its Integration with Microsoft Sentinel.](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/cowrie-honeypot-and-its-integration-with-microsoft-sentinel/ba-p/4258349)
@@ -537,6 +541,10 @@
 
 ## Community Blogs
 
+- [Restricting Deletions of Incidents in Sentinel](https://www.linkedin.com/pulse/restricting-deletions-incidents-sentinel-jay-kerai-da9te/)
+- [Monitoring your DevOps platform](https://jamescook.dev/connect-azure-devops-sentinel)
+- [Azure DevOps Auditing with Sentinel](https://cyberdom.blog/azure-devops-auditing-with-microsoft-sentinel/)
+- [Azure DevOps Service security monitoring using Azure Sentinel](https://www.criticalstart.com/azure-devops-service-security-monitoring-using-azure-sentinel/)
 - [Use Cases For Sentinel Summary Rules](https://kqlquery.com/posts/sentinel-summary-rules/)
 - [Microsoft Sentinel Summary KQL deep dive (From Beginner to Advanced KQL)](https://modernsecops.com/p/microsoft-sentinel-summary-kql-deep-dive?utm_source=linkedin&utm_medium=organic_post&utm_campaign=summary_kql)
 - [Sentinel Automation Part 2: Automate CISA Known Exploited Vulnerability Notifications](https://kqlquery.com/posts/automatic-cisa-vulnerability-notifications/)
@@ -582,6 +590,7 @@
 - [Microsoft Sentinel Triage AssistanT (STAT)](https://github.com/briandelmsft/SentinelAutomationModules)
 - [Microsoft Sentinel - SEC Operations](https://github.com/eshlomo1/Microsoft-Sentinel-SecOps)
 - [Log Splitr](https://github.com/TheCloudScout/log-splitr)
+- [Azure DevOps detection rules](https://github.com/alexverboon/Hunting-Queries-Detection-Rules/tree/main/AzureDevOps)
 
 ## Learning and Training
 

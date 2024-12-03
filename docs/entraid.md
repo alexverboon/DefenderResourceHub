@@ -1742,6 +1742,7 @@
 ## Community Blogs
 
 - [From Intune to EntraID – Add custom data to the Extension Attributes](https://ugurkoc.de/from-intune-to-entraid-add-custom-data-to-the-extension-attributes/)
+- [Privilege escalation using Azure Service principal](https://laythchebbi.com/index.php/2024/09/01/privilege-escalation-using-azure-service-principal/)
 
 ### Conditional Access
 
