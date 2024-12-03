@@ -8,6 +8,13 @@
 
 ## Microsoft Tech Community Blogs
 
+- [What’s new in Microsoft’s Security Service Edge solution](https://techcommunity.microsoft.com/blog/identity/what%E2%80%99s-new-in-microsoft%E2%80%99s-security-service-edge-solution/3847827)
+- [Security Copilot is now embedded in Microsoft Entra](https://techcommunity.microsoft.com/blog/identity/security-copilot-is-now-embedded-in-microsoft-entra/4289387)
+- [Defeating Adversary-in-the-Middle phishing attacks](https://techcommunity.microsoft.com/blog/identity/defeating-adversary-in-the-middle-phishing-attacks/1751777)
+- [Built-in security controls for external-facing apps](https://techcommunity.microsoft.com/blog/identity/built-in-security-controls-for-external-facing-apps/4175879)
+- [Update to security defaults](https://techcommunity.microsoft.com/blog/identity/update-to-security-defaults/4044868)
+- [Manage Microsoft Entra ID role assignments with Microsoft Entra ID Governance](https://techcommunity.microsoft.com/blog/identity/manage-microsoft-entra-id-role-assignments-with-microsoft-entra-id-governance/4120307)
+- [The latest enhancements in Microsoft Authenticator](https://techcommunity.microsoft.com/blog/identity/the-latest-enhancements-in-microsoft-authenticator/4078807)
 - [Microsoft Security announcements and demos at Authenticate 2024](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-security-announcements-and-demos-at-authenticate-2024/ba-p/4263029)
 - [What's new in Microsoft Entra - September 2024](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-september-2024/ba-p/4253153)
 - [Explore the key benefits of Microsoft Entra Private Access](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/explore-the-key-benefits-of-microsoft-entra-private-access/ba-p/3905449)

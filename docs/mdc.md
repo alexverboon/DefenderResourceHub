@@ -6,6 +6,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Prevent malware from spreading by scanning cloud storage accounts on-demand](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/prevent-malware-from-spreading-by-scanning-cloud-storage-accounts-on-demand/4336608)
 - [Monthly News - October 2024](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-october-2024/ba-p/4260397)
 - [Introducing the new File Integrity Monitoring with Defender for Endpoint integration](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-new-file-integrity-monitoring-with-defender-for/ba-p/4252051)
 - [Monthly News - September 2024](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-september-2024/ba-p/4235917)
@@ -326,3 +327,7 @@
 ## Social Media
 
 - [Yuri Diogenes](https://twitter.com/yuridiogenes)
+
+## GitHub
+
+- [Defender for Cloud - Community Repository](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main)
