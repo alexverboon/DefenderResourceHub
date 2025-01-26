@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Build custom email security reports and dashboards with workbooks in Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/build-custom-email-security-reports-and-dashboards-with-workbooks-in-microsoft-s/4352242)
 - [Microsoft Ignite: Redefining email security with LLMs to tackle a new era of social engineering](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-ignite-redefining-email-security-with-llms-to-tackle-a-new-era-of-soci/4302421)
 - [Create targeted attack simulation training campaigns with dynamic groups](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/create-targeted-attack-simulation-training-campaigns-with-dynamic-groups/4287637)
 - [Use community queries to hunt more effectively across email and collaboration threats](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/use-community-queries-to-hunt-more-effectively-across-email-and/ba-p/4254664)
