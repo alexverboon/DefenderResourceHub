@@ -7,6 +7,17 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Announcing Public Preview: New STIX Objects in Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/announcing-public-preview-new-stix-objects-in-microsoft-sentinel/4369164)
+- [What’s new: Find the Sentinel content you need using AI search](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-find-the-sentinel-content-you-need-using-ai-search/4304741)
+- [Improve SecOps collaboration with case management](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/improve-secops-collaboration-with-case-management/4369044)
+- [Ingesting Palo Alto Cortex XDR Logs into Microsoft Sentinel with the Updated CCP Connector](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/ingesting-palo-alto-cortex-xdr-logs-into-microsoft-sentinel-with-the-updated-ccp/4366555)
+- [Whats New: Bicep Support in Microsoft Sentinel Repositories](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/whats-new-bicep-support-in-microsoft-sentinel-repositories/4358490)
+- [How to successfully evaluate the SAP for Sentinel solution and implement it in production (Part 2)](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and-implement-it-in-p/4364324)
+- [How to successfully evaluate the SAP for Sentinel solution and implement it in production (Part 1)](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and-implement-it-in-p/4357962)
+- [Unified coverage management across SIEM and XDR in SOC optimization](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/unified-coverage-management-across-siem-and-xdr-in-soc-optimization/4363810)
+- [Introducing SOC Optimization Recommendations Based on Similar Organizations](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-soc-optimization-recommendations-based-on-similar-organizations/4358766)
+- [Go agentless with Microsoft Sentinel for SAP](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/go-agentless-with-microsoft-sentinel-for-sap/4357873)
+- [What's New: View Microsoft Sentinel Workbooks Directly from Unified SOC Operations Platform](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/whats-new-view-microsoft-sentinel-workbooks-directly-from-unified-soc-operations/4356094)
 - [How Microsoft’s leading SIEM is getting even better](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/how-microsoft%E2%80%99s-leading-siem-is-getting-even-better/4304327)
 - [Leave no data behind: Using summary rules to store data cost effectively in Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/leave-no-data-behind-using-summary-rules-to-store-data-cost-effectively-in-micro/4296785)
 - [What’s New: Exciting new Microsoft Sentinel Connectors Announcement - Ignite 2024](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-exciting-new-microsoft-sentinel-connectors-announcement---ignite-2024/4294146)
