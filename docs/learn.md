@@ -7,6 +7,7 @@
 - [The Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/adoption/the-ciso-workshop)
 - [Zero Trust Lab](https://microsoft.github.io/ztlabguide/)
 - [Zero Trust Workshop: Advance your knowledge with an online resource](https://www.microsoft.com/en-us/security/blog/2024/11/06/zero-trust-workshop-advance-your-knowledge-with-an-online-resource/)
+- [Microsoft Security enablement Hub](https://adoption.microsoft.com/en-us/microsoft-security/)
 
 ## Ninja Trainings
 
