@@ -1,6 +1,28 @@
 
 # Defenders - Social Media
 
+## Defenders on Bluesky
+
+- [Alex Verboon](https://bsky.app/profile/vacyber.bsky.social)
+- [Fabian Bader](https://bsky.app/profile/fabian.bader.cloud)
+- [BertJanCyber](https://bsky.app/profile/bertjancyber.bsky.social)
+- [Michaelis Michalos](https://bsky.app/profile/cyb3rmik3.bsky.social)
+- [Gianni](https://bsky.app/profile/kustoking.com)
+- [Thomas Naunheim](https://bsky.app/profile/naunheim.cloud)
+- [Sami Lamppu](https://bsky.app/profile/samilamppu.bsky.social)
+- [Alex Benoit](https://bsky.app/profile/itpirate.bsky.social)
+- [Frans Oudendorp](https://bsky.app/profile/oudendorp.nl)
+- [SwiftOnSecurity](https://bsky.app/profile/swiftonsecurity.com)
+- [Rod Trent](https://bsky.app/profile/rodtrent.bsky.social)
+- [Merill Fernando](https://bsky.app/profile/merill.net)
+- [Nathan McNulty](https://bsky.app/profile/nathanmcnulty.com)
+- [Mehmet Ergene](https://bsky.app/profile/cyb3rmonk.bsky.social)
+- [Steven Lim](https://bsky.app/profile/stevenlim.bsky.social)
+- [Ugur Koc](https://bsky.app/profile/ugurkoc.de)
+- [Olaf Hartong](https://bsky.app/profile/olafhartong.nl)
+- [Maarten Goet](https://bsky.app/profile/maartengoet.com)
+- [Ru Campell](https://bsky.app/profile/campbell.scot)
+
 ## Defenders on X
 
 ### Microsoft
@@ -69,6 +91,7 @@
 - [Joe Stocker](https://twitter.com/ITguySoCal)
 - [Ugur Koc](https://twitter.com/UgurKocDe)
 - [Stefan Schörling](https://x.com/stefanschorling?lang=en)
+- [Aura](https://x.com/SecurityAura)
 
 ## LinkedIn Groups
 
@@ -77,3 +100,4 @@
 - [KQL Cafe](https://www.linkedin.com/groups/14053778/)
 - [Microsoft Security Community](https://www.linkedin.com/groups/13640774/)
 - [Microsoft Copilot for Security Community](https://www.linkedin.com/groups/14345161/)
+- [Microsoft Intelligent Security Association](https://www.linkedin.com/groups/13707284/)
