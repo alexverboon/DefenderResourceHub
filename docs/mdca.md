@@ -4,6 +4,7 @@
 - [Microsoft Defender for Cloud Apps documentation](https://learn.microsoft.com/en-us/defender-cloud-apps/)
 - [What's new in Microsoft Defender for Cloud Apps](https://learn.microsoft.com/en-us/defender-cloud-apps/release-notes)
 - [Become a Microsoft Defender for Cloud Apps Ninja!](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-september-2021/ba-p/2751518)
+- [Microsoft Defender for Cloud Apps - Tech Community](https://techcommunity.microsoft.com/category/microsoft-defender-for-cloud/discussions/microsoftdefendercloudapps)
 
 ## Microsoft Tech Community Blogs
 
@@ -40,5 +41,6 @@
 ## GitHub
 
 - [Collection of useful resources for MDA/ Defender for Cloud Apps / DfCA / MCAS](https://github.com/jkerai1/SoftwareCertificates/tree/main/Bulk-IOC-CSVs/MDA#block-user-agents)
-- [MCAS Toolbox](https://github.com/alexverboon/MCASToolbox)
+- [MCAS Toolbox (Archived)](https://github.com/alexverboon/MCASToolbox)
 - [MCAS Powershell Module [Unofficial]](https://github.com/microsoft/MCAS)
+- [Microsoft Defender for Cloud Apps - Toolkit](https://github.com/alexverboon/Defender-for-Cloud-Apps-Toolbox)
