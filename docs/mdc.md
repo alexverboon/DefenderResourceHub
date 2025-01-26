@@ -6,6 +6,13 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Defender for Cloud - Elevating Runtime Protection](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-defender-for-cloud---elevating-runtime-protection/4285436)
+- [Considerations for risk identification and prioritization in Defender for Cloud](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/considerations-for-risk-identification-and-prioritization-in-defender-for-cloud/4359616)
+- [Microsoft Defender for Cloud Named a Leader in Frost Radar™ for CNAPP for the Second Year in a Row!](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-defender-for-cloud-named-a-leader-in-frost-radar%E2%84%A2-for-cnapp-for-the-se/4358036)
+- [Strategy to Execution: Operationalizing Microsoft Defender CSPM](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/strategy-to-execution-operationalizing-microsoft-defender-cspm/4357354)
+- [AKS Security Dashboard](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/aks-security-dashboard/4356754)
+- [Elevate Your Container Posture: From Agentless Discovery to Risk Prioritization](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/elevate-your-container-posture-from-agentless-discovery-to-risk-prioritization/4352572)
+- [Important Update: Deprecation of “Bring Your Own License” in Microsoft Defender for Cloud](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/important-update-deprecation-of-%E2%80%9Cbring-your-own-license%E2%80%9D-in-microsoft-defender-f/4341477)
 - [Prevent malware from spreading by scanning cloud storage accounts on-demand](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/prevent-malware-from-spreading-by-scanning-cloud-storage-accounts-on-demand/4336608)
 - [Monthly News - October 2024](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-october-2024/ba-p/4260397)
 - [Introducing the new File Integrity Monitoring with Defender for Endpoint integration](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-new-file-integrity-monitoring-with-defender-for/ba-p/4252051)
@@ -319,6 +326,9 @@
 
 - [Defender for Cloud in the Field](https://www.youtube.com/playlist?list=PL3ZTgFEc7LysiX4PfHhdJPR7S8mGO14YS)
 - [Microsoft Defender for Cloud with Yuri Diogenes](https://runasradio.com/Shows/Show/937)
+- [Cloud Detection Response experience | Defender for Cloud in the Field #55](https://youtu.be/ZjipKystggM?si=bUsNihtbYIhcv6sn)
+- [Improvements in Container’s Posture Management | Defender for Cloud in the Field #56](https://youtu.be/vK9qxsVMOU4?si=v3BuOhNGFSRXcD-D)
+- [Secure your AI applications from code to runtime | Defender for Cloud in the Field In the Field #50](https://youtu.be/9KxXlXu8kCI?si=zJK0xYXLvMuSolpN)
 
 ## Books & Whitepapers
 
@@ -330,4 +340,6 @@
 
 ## GitHub
 
+- [Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud)
 - [Defender for Cloud - Community Repository](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main)
+- [Defender-for-Cloud-Attack-Simulation](https://github.com/microsoft/Defender-for-Cloud-Attack-Simulation)
