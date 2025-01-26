@@ -17,5 +17,6 @@
 
 ## Community Blogs
 
+- [How to use Microsoft Security Exposure Management (XSPM)](https://jeffreyappel.nl/how-to-use-microsoft-security-exposure-management-xspm/)
 - [Practical Protection: Reducing Your Attack Surface With Microsoft Security Exposure Management](https://practical365.com/microsoft-security-exposure-management/)
 - [Microsoft Security Exposure Management #XSPM](https://derkvanderwoude.medium.com/microsoft-security-exposure-management-xspm-81022f4507b3)
