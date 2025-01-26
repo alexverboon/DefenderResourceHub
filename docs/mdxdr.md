@@ -9,6 +9,9 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Hyperscale ML threat intelligence for early detection & disruption](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/hyperscale-ml-threat-intelligence-for-early-detection--disruption/4359763)
+- [Web Scale Graph Mining for Cyber Threat Intelligence](https://arxiv.org/abs/2411.06239)
+- [Case management to improve SecOps Collaboration](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/case-management-to-improve-secops-collaboration/4369625)
 - [Ignite news: What's new in Microsoft Defender XDR?](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/ignite-news-whats-new-in-microsoft-defender-xdr/4303104)
 - [Host Microsoft Defender data locally in India](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/host-microsoft-defender-data-locally-in-india/ba-p/4215053)
 - [Cybersecurity incident correlation in the unified security operations platform](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/cybersecurity-incident-correlation-in-the-unified-security/ba-p/4214394)
