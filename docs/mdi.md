@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Introducing the new Defender for Identity sensor management API](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/introducing-the-new-defender-for-identity-sensor-management-api/4367164)
 - [Microsoft Defender for Identity: the critical role of identities in automatic attack disruption](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-identity-the-critical-role-of-identities/ba-p/4236688)
 - [Protect and Detect: Microsoft Defender for Identity Expands to Entra Connect Server](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/protect-and-detect-microsoft-defender-for-identity-expands-to/ba-p/4226165)
 - [Defender for Identity PowerShell module update](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/defender-for-identity-powershell-module-update/ba-p/4208525)
