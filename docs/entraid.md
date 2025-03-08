@@ -8,6 +8,12 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Simplify frontline workers’ sign-in experience with QR code authentication](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/simplify-frontline-workers%E2%80%99-sign-in-experience-with-qr-code-authentication/3822034)
+- [New Microsoft-managed policies to raise your identity security posture](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/new-microsoft-managed-policies-to-raise-your-identity-security-posture/4286758)
+- [Microsoft Entra PowerShell module now generally available](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/microsoft-entra-powershell-module-now-generally-available/4365718)
+- [Top 3 Priorities for Proactive Identity and Access Security in 2025](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/top-3-priorities-for-proactive-identity-and-access-security-in-2025/4371044)
+- [Customize authentication experiences and URL domains for external apps](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/customize-authentication-experiences-and-url-domains-for-external-apps/3627347)
+- [New Identity Secure Score recommendations in General Availability](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/new-identity-secure-score-recommendations-in-general-availability/4369133)
 - [What’s new in Microsoft’s Security Service Edge solution](https://techcommunity.microsoft.com/blog/identity/what%E2%80%99s-new-in-microsoft%E2%80%99s-security-service-edge-solution/3847827)
 - [Security Copilot is now embedded in Microsoft Entra](https://techcommunity.microsoft.com/blog/identity/security-copilot-is-now-embedded-in-microsoft-entra/4289387)
 - [Defeating Adversary-in-the-Middle phishing attacks](https://techcommunity.microsoft.com/blog/identity/defeating-adversary-in-the-middle-phishing-attacks/1751777)
@@ -1748,6 +1754,12 @@
 
 ## Community Blogs
 
+- [QR code authentication: a new simplified sign-in experience for frontline workers - Janic Verboon](https://www.basevision.ch/microsoft-entra-qr-code/)
+- [External Collaboration Settings with Application Permissions](https://suryendub.github.io/2024-12-21-extCollaboration/)
+- [Using Maester and HRProvisioningTests to Unit Test Your HR DrivenProvisioning](https://suryendub.github.io/2024-12-21-Using-Maester-and-HRProvisioningTests-UnitTest-HR-DrivenProvisioning/)
+- [Require Sign in every time a user activates role membership in Entra ID](https://suryendub.github.io/2024-02-26-SignInEveryTimeRoleActivation/)
+- [Require Re-authentication for Registering Security Info](https://suryendub.github.io/2024-02-27-RequireReAuthenticationForAddingAuthenticationMethods/)
+- [Deploy Conditional Access Policies for a Zero Trust Architecture Framework using Terraform and GitHub Actions](https://suryendub.github.io/2023-11-09-ca-zero-trust-terraform/)
 - [From Intune to EntraID – Add custom data to the Extension Attributes](https://ugurkoc.de/from-intune-to-entraid-add-custom-data-to-the-extension-attributes/)
 - [Privilege escalation using Azure Service principal](https://laythchebbi.com/index.php/2024/09/01/privilege-escalation-using-azure-service-principal/)
 
@@ -1755,6 +1767,8 @@
 
 ***Kenneth van Surksum***
 
+- [Navigating New Authentication Methods: SMS for Password Reset, Not for MFA](https://www.vansurksum.com/2025/01/24/navigating-new-authentication-methods-sms-for-password-reset-not-for-mfa/)
+- [Protecting your Break Glass accounts in Entra now that MFA gets enforced on more and more Admin portals](https://www.vansurksum.com/2025/01/08/protecting-your-break-glass-accounts-in-entra-now-that-mfa-gets-enforced-on-more-and-more-admin-portals/)
 - [December 2022 update of the conditional access demystified whitepaper and workflow cheat sheet.](https://www.vansurksum.com/2022/12/15/december-2022-update-of-the-conditional-access-demystified-whitepaper-and-workflow-cheat-sheet/?utm_source=rss&utm_medium=rss&utm_campaign=december-2022-update-of-the-conditional-access-demystified-whitepaper-and-workflow-cheat-sheet)
 - [Conditional Access public preview functionality reviewed (22H2) – Part 3: Granular control for external user types](https://www.vansurksum.com/2022/11/25/conditional-access-public-preview-functionality-reviewed-22h2-part-3-granular-control-for-external-user-types/?utm_source=rss&utm_medium=rss&utm_campaign=conditional-access-public-preview-functionality-reviewed-22h2-part-3-granular-control-for-external-user-types)
 - [Conditional Access public preview functionality reviewed (22H2) – Part 2: Conditional Access filters for Apps and Workload Identities](https://www.vansurksum.com/2022/11/23/conditional-access-public-preview-functionality-reviewed-22h2-part-2-conditional-access-filters-for-apps-and-workload-identities/?utm_source=rss&utm_medium=rss&utm_campaign=conditional-access-public-preview-functionality-reviewed-22h2-part-2-conditional-access-filters-for-apps-and-workload-identities)
@@ -1778,6 +1792,7 @@
 
 ***Daniel Chronlund***
 
+- [Conditional Access Gallery – Point, Select, and Deploy in Minutes](https://danielchronlund.com/2024/11/21/conditional-access-gallery-point-select-and-deploy-in-minutes/)
 - [Conditional Access ‘What If’ Simulation with PowerShell](https://danielchronlund.com/2023/11/24/conditional-access-what-if-simulation-with-powershell/)
 - [Easy Bulk Management of Entra ID Conditional Access Policies](https://danielchronlund.com/2023/10/06/easy-bulk-management-of-entra-id-conditional-access-policies/)
 - [How To Deploy a Complete Entra ID Conditional Access PoC in Under 5 Minutes](https://danielchronlund.com/2023/09/29/how-to-deploy-a-complete-entra-id-conditional-access-poc-in-under-5-minutes/)
@@ -1798,6 +1813,10 @@
 
 ## GitHub
 
+- [Maester](https://github.com/maester365/maester)
 - [Daniel Chronlund](https://github.com/DanielChronlund)
 - [Nicola Suter - Conditional Access Documentation](https://github.com/nicolonsky/ConditionalAccessDocumentation)
 - [Microsoft Entra](https://github.com/orgs/AzureAD/repositories)
+- [Awesome Entra](https://github.com/merill/awesome-entra)
+- [HAWK](https://github.com/T0pCyber/hawk)
+- [CAPs](https://github.com/techBrandon/CAPs)
