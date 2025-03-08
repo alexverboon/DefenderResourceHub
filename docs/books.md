@@ -32,6 +32,12 @@
 
 [Order here](https://www.packtpub.com/en-ch/product/microsoft-defender-for-endpoint-in-depth-9781804615461)
 
+## Microsoft Defender for Identity in Depth ##
+
+![Microsoft Defender for Identity in Depth](./img//books/defenderforidentityindepth.png)
+
+[Order here](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835884492)
+
 ## Securing Microsoft 365
 
 ![Securing Microsoft 365](./img/books/book_securingms365joe.png)
