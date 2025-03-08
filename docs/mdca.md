@@ -8,6 +8,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Get visibility into your DeepSeek use with Defender for Cloud Apps](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/get-visibility-into-your-deepseek-use-with-defender-for-cloud-apps/4372520)
 - [Microsoft Defender for Cloud Apps’ Shadow IT Discovery Capabilities Now Support MacOS](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-cloud-apps-shadow-it-discovery/ba-p/4159677)
 - [Data Protection Made a Breeze: MDA integration in Edge for Business](https://cloudbrothers.info/en/data-protection-breeze-mda-integration-edge-business/)
 - [Microsoft Defender for Cloud Apps’ Shadow IT Discovery Capabilities Now Support MacOS](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-cloud-apps-shadow-it-discovery/ba-p/4159677)
@@ -32,6 +33,9 @@
 
 ## Community Blogs
 
+- [How to check for OAuth apps with specific Graph permissions assigned](https://jeffreyappel.nl/how-to-check-for-oauth-apps-with-specific-graph-permissions-assigned/)
+- [How to secure OAuth apps with App Governance in Defender XDR](https://jeffreyappel.nl/how-to-secure-oauth-apps-with-app-governance-in-defender-xdr/)
+- [Block apps (discovered/ shadow IT) with Defender for Cloud Apps and Defender for Endpoint](https://jeffreyappel.nl/block-apps-discovered-shadow-it-with-defender-for-cloud-apps-and-defender-for-endpoint/)
 - [Enforcing Cloud App control with Defender for Cloud Apps](https://medium.com/cloudnsec/enforcing-cloud-app-control-with-defender-for-cloud-apps-aa8dc7a876a1)
 - [Detecting Ransonware with Defender for Cloud Apps](https://cyberdom.blog/2023/08/27/detecting-ransomware-with-defender-for-cloud-apps/)
 - [Deep Diver – Defender for Cloud Apps Malware Detection in Office 365 Workloads](https://samilamppu.com/2022/05/04/deep-diver-defender-for-cloud-apps-malware-detection-in-office-365-workloads/)
@@ -42,5 +46,6 @@
 
 - [Collection of useful resources for MDA/ Defender for Cloud Apps / DfCA / MCAS](https://github.com/jkerai1/SoftwareCertificates/tree/main/Bulk-IOC-CSVs/MDA#block-user-agents)
 - [MCAS Toolbox (Archived)](https://github.com/alexverboon/MCASToolbox)
+- [Defender-for-Cloud-Apps - Toolbox](https://github.com/alexverboon/Defender-for-Cloud-Apps-Toolbox)
 - [MCAS Powershell Module [Unofficial]](https://github.com/microsoft/MCAS)
 - [Microsoft Defender for Cloud Apps - Toolkit](https://github.com/alexverboon/Defender-for-Cloud-Apps-Toolbox)
