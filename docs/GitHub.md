@@ -51,3 +51,7 @@
 - [CGCFAD Hunting Queries](https://github.com/CGCFAD/WDATP-Advanced-Hunting)
 - [Falcon Friday](https://github.com/FalconForceTeam/FalconFriday)
 - [https://github.com/cyb3rmik3/KQL-threat-hunting-queries](https://github.com/cyb3rmik3/KQL-threat-hunting-queries)
+
+## Threat Hunting
+
+- [PowerShell-Hunter](https://github.com/MHaggis/PowerShell-Hunter)
