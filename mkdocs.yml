@@ -21,6 +21,7 @@ nav:
     - Microsoft Copilot for Security: 'securitycopilot.md'
     - Microsoft Defender Threat and Vulnerability Management: 'mdtvm.md'
     - Microsoft Threat Intelligence: 'mdti.md'
+    - Microsoft Azure Network Security: 'azurenetworksecurity.md'
   - Podcasts & Newsletters: 'podcasts.md'
   - Social Media: 'social.md'
   - Webinars & Videos: 'videos.md'
