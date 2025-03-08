@@ -12,6 +12,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Block malicious command lines with Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/block-malicious-command-lines-with-microsoft-defender-for-endpoint/4373943)
 - [Get greater visibility with aggregated reporting of endpoint telemetry signals](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/get-greater-visibility-with-aggregated-reporting-of-endpoint-telemetry-signals/4366712)
 - [Defender for Endpoint extends support to ARM-based Linux servers](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/defender-for-endpoint-extends-support-to-arm-based-linux-servers/4364066)
 - [Protect your single-core Linux servers with Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/protect-your-single-core-linux-servers-with-defender/4356966)
@@ -256,6 +257,7 @@
 
 ## Community Blogs
 
+- [Comparing Web Filtering and Security: Microsoft Entra Internet Access (Global Secure Access) vs. Microsoft Defender for Endpoint (MDE)](https://www.vansurksum.com/2025/01/28/comparing-web-filtering-and-security-microsoft-entra-internet-access-global-secure-access-vs-microsoft-defender-for-endpoint-mde/)
 - [Working with tamper protection on Windows devices to protect security settings](https://petervanderwoude.nl/post/tag/microsoft-defender-for-endpoint/)
 - [Jeffrey Appel - Defender for Endpoint blogs](https://jeffreyappel.nl/tag/defender-for-endpoint/)
 - [Silencing Microsoft Defender for Endpoint using firewall rules](https://medium.com/csis-techblog/silencing-microsoft-defender-for-endpoint-using-firewall-rules-3839a8bf8d18)
@@ -342,3 +344,4 @@
 - [DefenderMAPS](https://github.com/alexverboon/DefenderMAPS)
 - [Nuke It From Orbit](https://github.com/lkarlslund/nifo)
 - [MDE Troubleshooter](https://github.com/ThomasVrhydn/MDE-troubleshooter)
+- [Powershell Digital Forensics & Incident Response](https://github.com/Bert-JanP/Incident-Response-Powershell)
