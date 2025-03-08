@@ -7,6 +7,9 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Integrating Fluent Bit with Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/integrating-fluent-bit-with-microsoft-sentinel/4377725)
+- [Introducing Threat Intelligence Ingestion Rules](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-threat-intelligence-ingestion-rules/4379019)
+- [Introducing the Unified Device Timeline Experience in Microsoft SIEM + XDR](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-the-unified-device-timeline-experience-in-microsoft-siem--xdr/4372047)
 - [Announcing Public Preview: New STIX Objects in Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/announcing-public-preview-new-stix-objects-in-microsoft-sentinel/4369164)
 - [What’s new: Find the Sentinel content you need using AI search](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-find-the-sentinel-content-you-need-using-ai-search/4304741)
 - [Improve SecOps collaboration with case management](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/improve-secops-collaboration-with-case-management/4369044)
