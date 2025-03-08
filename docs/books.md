@@ -38,6 +38,8 @@
 
 [Order here](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835884492)
 
+[Code](https://github.com/PacktPublishing/Microsoft-Defender-for-Identity-in-Depth)
+
 ## Securing Microsoft 365
 
 ![Securing Microsoft 365](./img/books/book_securingms365joe.png)
