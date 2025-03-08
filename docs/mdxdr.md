@@ -9,6 +9,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Monthly news - February 2025](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/monthly-news---february-2025/4373271)
 - [Hyperscale ML threat intelligence for early detection & disruption](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/hyperscale-ml-threat-intelligence-for-early-detection--disruption/4359763)
 - [Web Scale Graph Mining for Cyber Threat Intelligence](https://arxiv.org/abs/2411.06239)
 - [Case management to improve SecOps Collaboration](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/case-management-to-improve-secops-collaboration/4369625)
@@ -94,3 +95,7 @@
 ## Documentation
 
 - [Details and results of an automatic attack disruption action](https://learn.microsoft.com/en-us/defender-xdr/autoad-results#hunt-for-disable-user-account-actions)
+
+## Other Sources
+
+- [EDR Telemetry](https://www.edr-telemetry.com/index.html)
