@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Built-in report button is available in Microsoft Outlook across platforms](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/built-in-report-button-is-available-in-microsoft-outlook-across-platforms/4388434)
 - [Build custom email security reports and dashboards with workbooks in Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/build-custom-email-security-reports-and-dashboards-with-workbooks-in-microsoft-s/4352242)
 - [Microsoft Ignite: Redefining email security with LLMs to tackle a new era of social engineering](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-ignite-redefining-email-security-with-llms-to-tackle-a-new-era-of-soci/4302421)
 - [Create targeted attack simulation training campaigns with dynamic groups](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/create-targeted-attack-simulation-training-campaigns-with-dynamic-groups/4287637)
@@ -102,6 +103,7 @@
 
 ## Community Blogs
 
+- [AiTM/ MFA phishing attacks in combination with “new” Microsoft protections (2025 edition)](https://jeffreyappel.nl/aitm-mfa-phishing-attacks-in-combination-with-new-microsoft-protections-2023-edt/)
 - [Microsoft gains on Email Security Market](https://thecloudtechnologist.com/2024/06/25/microsoft-gains-on-email-security-market/)
 - [How to protect Microsoft Teams with Microsoft 365 Defender](https://jeffreyappel.nl/how-to-protect-microsoft-teams-with-microsoft-365-defender/)
 - [Protect against QR Code phishing with Microsoft Defender products](https://jeffreyappel.nl/protect-against-qr-code-phishing-with-microsoft-defender-products/)
