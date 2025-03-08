@@ -3,9 +3,19 @@
 - [Microsoft Defender for Cloud](https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-cloud)
 - [Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
 - [Become a Microsoft Defender for Cloud Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761)
+- [What's new in Defender for Cloud features](https://docs.azure.cn/en-us/defender-for-cloud/release-notes)
+- [What's new in Defender for Cloud recommendations, alerts, and incidents](https://docs.azure.cn/en-us/defender-for-cloud/release-notes-recommendations-alerts)
 
 ## Microsoft Tech Community Blogs
 
+- [Integrating Security into DevOps Workflows with Microsoft Defender CSPM](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/integrating-security-into-devops-workflows-with-microsoft-defender-cspm/4388094)
+- [Strengthening Cloud Compliance and Governance with Microsoft Defender CSPM](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/strengthening-cloud-compliance-and-governance-with-microsoft-defender-cspm/4385215)
+- [Secure containers software supply chain across the SDLC](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/secure-containers-software-supply-chain-across-the-sdlc/4384925)
+- [New and enhanced multicloud regulatory compliance standards in Defender for Cloud](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/new-and-enhanced-multicloud-regulatory-compliance-standards-in-defender-for-clou/4382616)
+- [Protecting Azure AI Workloads using Threat Protection for AI in Defender for Cloud](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/protecting-azure-ai-workloads-using-threat-protection-for-ai-in-defender-for-clo/4378474)
+- [Unveiling Kubernetes lateral movement and attack paths with Microsoft Defender for Cloud](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/unveiling-kubernetes-lateral-movement-and-attack-paths-with-microsoft-defender-f/4374958)
+- [Boost Security with API Security Posture Management](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/boost-security-with-api-security-posture-management/4372385)
+- [Bringing AppSec and CloudSec Together: Microsoft Defender for Cloud Integrates with Endor Labs](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/bringing-appsec-and-cloudsec-together-microsoft-defender-for-cloud-integrates-wi/4372366)
 - [Microsoft Defender for Cloud - Elevating Runtime Protection](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-defender-for-cloud---elevating-runtime-protection/4285436)
 - [Considerations for risk identification and prioritization in Defender for Cloud](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/considerations-for-risk-identification-and-prioritization-in-defender-for-cloud/4359616)
 - [Microsoft Defender for Cloud Named a Leader in Frost Radar™ for CNAPP for the Second Year in a Row!](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-defender-for-cloud-named-a-leader-in-frost-radar%E2%84%A2-for-cnapp-for-the-se/4358036)
@@ -319,6 +329,9 @@
 
 ## Community Blogs
 
+- [Understanding Microsoft CNAPP: How Defender for Cloud Secures Your Multicloud Workloads](https://www.basevision.ch/understanding-microsoft-cnapp-how-defender-for-cloud-secures-your-multicloud-workloads/)
+- [Configure File Integrity Monitoring (FIM) using Defender for Endpoint](https://jeffreyappel.nl/configure-file-integrity-monitoring-fim-using-defender-for-endpoint/)
+- [How to protect Azure storage accounts (Blob) using Defender for Storage](https://jeffreyappel.nl/how-to-protect-azure-storage-accounts-blob-using-defender-for-storage/)
 - [Microsoft Defender for Storage in pills](https://mccybersec.github.io/defender%20for%20cloud/defender-for-Storage-in-pills/)
 - [AWS Posture Management with Microsoft Defender for Cloud CSPM](https://medium.com/@phaubus/aws-posture-management-with-microsoft-defender-for-cloud-cspm-5d295c6d0023)
 
