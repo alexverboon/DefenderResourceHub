@@ -22,6 +22,7 @@
 - [Olaf Hartong](https://bsky.app/profile/olafhartong.nl)
 - [Maarten Goet](https://bsky.app/profile/maartengoet.com)
 - [Ru Campell](https://bsky.app/profile/campbell.scot)
+- [Suryendu Bhattacharyya](https://bsky.app/profile/crookedbong.bsky.social)
 
 ## Defenders on X
 
