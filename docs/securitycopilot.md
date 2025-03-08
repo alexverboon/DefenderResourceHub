@@ -7,6 +7,16 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Empowering Security Copilot with NL2KQL: Transforming Natural Language into Insightful KQL queries](https://techcommunity.microsoft.com/blog/securitycopilotblog/empowering-security-copilot-with-nl2kql-transforming-natural-language-into-insig/4388930)
+- [Azure Lighthouse support for MSSP use of Security Copilot Sentinel scenarios in Public Preview](https://techcommunity.microsoft.com/blog/securitycopilotblog/azure-lighthouse-support-for-mssp-use-of-security-copilot-sentinel-scenarios-in-/4384386)
+- [Next-Gen Device Incident Investigation & Threat Hunting with Custom Plugins](https://techcommunity.microsoft.com/blog/securitycopilotblog/next-gen-device-incident-investigation--threat-hunting-with-custom-plugins/4374397)
+- [Accelerating the Anomalous Sign-Ins detection with Microsoft Entra ID and Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/accelerating-the-anomalous-sign-ins-detection-with-microsoft-entra-id-and-securi/4365435)
+- [Boost SOC automation with AI: Speed up incident triage with Security Copilot and Microsoft Sentinel](https://techcommunity.microsoft.com/blog/securitycopilotblog/boost-soc-automation-with-ai-speed-up-incident-triage-with-security-copilot-and-/4368798)
+- [Hunt for identity-based threats with Security Copilot and Microsoft Sentinel](https://techcommunity.microsoft.com/blog/securitycopilotblog/hunt-for-identity-based-threats-with-security-copilot-and-microsoft-sentinel/4366739)
+- [KQL Migrator powered by Microsoft Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/kql-migrator-powered-by-microsoft-security-copilot/4358554)
+- [Leveraging ASIM-based KQL plugins in Microsoft Security Copilot for investigation scenarios](https://techcommunity.microsoft.com/blog/securitycopilotblog/leveraging-asim-based-kql-plugins-in-microsoft-security-copilot-for-investigatio/4357680)
+- [Monitor User Activities and System Events with Security Copilot and Microsoft Sentinel](https://techcommunity.microsoft.com/blog/securitycopilotblog/monitor-user-activities-and-system-events-with-security-copilot-and-microsoft-se/4303368)
+- [Identity forensics with Copilot for Security Identity Analyst Plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
 - [Microsoft Copilot for Security Achieves HITRUST Certification](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-achieves-hitrust-certification/ba-p/4262303)
 - [Case Study: Harnessing Copilot for Security in Defending Against Cyberthreats](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/case-study-harnessing-copilot-for-security-in-defending-against/ba-p/4251623)
 - [Use LogicApps and Copilot for Security to auto-process ISAC Emails](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/use-logicapps-and-copilot-for-security-to-auto-process-isac/ba-p/4243882)
@@ -63,9 +73,17 @@
 
 ## Community Blogs
 
+- [Team Copilot](https://teamcopilot.nl/)
 - [AI & Security: Introduction (Part 1)](https://emptydc.com/2024/10/10/ai-security-introduction-part-1/)
 - [How to onboard and getting started with Copilot for Security](https://jeffreyappel.nl/how-to-onboard-and-getting-started-with-copilot-for-security/)
 
 ## GitHub
 
 - [Microsoft Copilot For Security Community](https://github.com/Azure/Copilot-For-Security/)
+
+## Learning & Training
+
+- [Enhance security operations by using Microsoft Security Copilot](https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/)
+- [Learn Live: Get started with Microsoft Copilot for Security](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-copilot-for-security/)
+- [How to Become a Microsoft Security Copilot Ninja: The Complete Level 400 Training](https://techcommunity.microsoft.com/blog/securitycopilotblog/how-to-become-a-microsoft-security-copilot-ninja-the-complete-level-400-training/4106928)
+- [LinkedIn Learn - Security Copilot](https://www.linkedin.com/learning/topics/microsoft-security-copilot)
