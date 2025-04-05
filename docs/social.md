@@ -57,6 +57,8 @@
 ### Community
 
 - [Alex Verboon](https://twitter.com/alexverboon)
+- [Alex Benoit](https://x.com/ITPirate)
+- [Aura](https://x.com/SecurityAura)
 - [Fabian Bader](https://x.com/fabian_bader)
 - [Alex Benoit](https://twitter.com/ITPirate)
 - [Amar Hasayen](https://twitter.com/ammarhasayen)
@@ -76,6 +78,7 @@
 - [Matt Soseman](https://twitter.com/SosemanMatt)
 - [Michalis Michalos](https://twitter.com/cyb3rmik3)
 - [Mehmet Ergene](https://twitter.com/Cyb3rMonk)
+- [Nathan McNulty](https://x.com/nathanmcnulty)
 - [Nicola Suter](https://twitter.com/nicolonsky)
 - [Olaf Hartong](https://twitter.com/olafhartong)
 - [Oliver Kieselbach](https://twitter.com/okieselb)
@@ -91,8 +94,9 @@
 - [Daniel Chronlund](https://twitter.com/DanielChronlund)
 - [Joe Stocker](https://twitter.com/ITguySoCal)
 - [Ugur Koc](https://twitter.com/UgurKocDe)
+- [William Francillette](https://x.com/WillTheFrenchie)
 - [Stefan Schörling](https://x.com/stefanschorling?lang=en)
-- [Aura](https://x.com/SecurityAura)
+- [Toby G](https://x.com/noodlemctwoodle?ref=sentinel.blog)
 
 ## LinkedIn Groups
 

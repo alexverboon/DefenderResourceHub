@@ -257,6 +257,7 @@
 
 ## Community Blogs
 
+- [MDE: Why and how to use Device Groups?](https://www.french365connection.co.uk/post/mde-why-and-how-to-use-device-groups)
 - [Comparing Web Filtering and Security: Microsoft Entra Internet Access (Global Secure Access) vs. Microsoft Defender for Endpoint (MDE)](https://www.vansurksum.com/2025/01/28/comparing-web-filtering-and-security-microsoft-entra-internet-access-global-secure-access-vs-microsoft-defender-for-endpoint-mde/)
 - [Working with tamper protection on Windows devices to protect security settings](https://petervanderwoude.nl/post/tag/microsoft-defender-for-endpoint/)
 - [Jeffrey Appel - Defender for Endpoint blogs](https://jeffreyappel.nl/tag/defender-for-endpoint/)

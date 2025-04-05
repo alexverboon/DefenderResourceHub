@@ -7,6 +7,9 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Strengthening Email Ecosystem: Outlook’s New Requirements for High‐Volume Senders](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/strengthening-email-ecosystem-outlook%E2%80%99s-new-requirements-for-high%E2%80%90volume-senders/4399730)
+- [General Availability for Collaboration Security for Microsoft Teams](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/general-availability-for-collaboration-security-for-microsoft-teams/4393040)
+- [Strengthening Email Security: Our New Approach to Non-RFC Compliant Emails](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/strengthening-email-security-our-new-approach-to-non-rfc-compliant-emails/4338306)
 - [Built-in report button is available in Microsoft Outlook across platforms](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/built-in-report-button-is-available-in-microsoft-outlook-across-platforms/4388434)
 - [Build custom email security reports and dashboards with workbooks in Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/build-custom-email-security-reports-and-dashboards-with-workbooks-in-microsoft-s/4352242)
 - [Microsoft Ignite: Redefining email security with LLMs to tackle a new era of social engineering](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-ignite-redefining-email-security-with-llms-to-tackle-a-new-era-of-soci/4302421)

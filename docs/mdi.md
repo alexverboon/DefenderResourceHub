@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Defender for Identity has announced the public preview of a new service account discovery module that automatically identifies and classifies service accounts in Active Directory](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/discover-and-protect-service-accounts-with-microsoft-defender-for-identity/4395347)
 - [Securing Identities: 10 recommendations for building a stronger identity security posture](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/securing-identities-10-recommendations-for-building-a-stronger-identity-security/4371879)
 - [Introducing the new Defender for Identity sensor management API](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/introducing-the-new-defender-for-identity-sensor-management-api/4367164)
 - [Microsoft Defender for Identity: the critical role of identities in automatic attack disruption](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-identity-the-critical-role-of-identities/ba-p/4236688)
@@ -36,6 +37,7 @@
 
 ## Community Blogs
 
+- [MDI: Notes from the Field](https://www.french365connection.co.uk/post/mdi-notes-from-the-field)
 - [Microsoft Defender for Identity Bulk Operation](https://thalpius.com/2024/11/13/microsoft-defender-for-identity-bulk-operation/)
 - [Microsoft Defender for Identity Access Key Vulnerability](https://thalpius.com/2024/07/18/microsoft-defender-for-identity-access-key-vulnerability/)
 - [Provoking Defender for Identity suspicious certificate usage alerts](https://tech.nicolonsky.ch/provoking-defender-for-identity-suspicious-certificate-usage-alerts/)

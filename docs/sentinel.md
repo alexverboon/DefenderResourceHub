@@ -7,6 +7,11 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Multi-workspace for Multi-tenant is now in Public Preview in Microsoft's Unified SecOps Platform](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in-microsofts-unified-/4398229)
+- [Multi Workspace for Single tenant is now in Public Preview in Microsoft’s unified SecOps platform](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/multi-workspace-for-single-tenant-is-now-in-public-preview-in-microsoft%E2%80%99s-unifie/4398228)
+- [Microsoft Sentinel Project Deployment Tracker](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-project-deployment-tracker/4394174)
+- [New capabilities coming to Microsoft Sentinel this Spring](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/new-capabilities-coming-to-microsoft-sentinel-this-spring/4390357)
+- [Automating Azure Resource Diagnostics Log Forwarding Between Tenants with PowerShell](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/automating-azure-resource-diagnostics-log-forwarding-between-tenants-with-powers/4395966)
 - [Integrating Fluent Bit with Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/integrating-fluent-bit-with-microsoft-sentinel/4377725)
 - [Introducing Threat Intelligence Ingestion Rules](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-threat-intelligence-ingestion-rules/4379019)
 - [Introducing the Unified Device Timeline Experience in Microsoft SIEM + XDR](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-the-unified-device-timeline-experience-in-microsoft-siem--xdr/4372047)
@@ -555,6 +560,8 @@
 
 ## Community Blogs
 
+- [Sentinel-ThreatIntelIndicators-Migration](https://github.com/nicolonsky/ITDR/blob/main/Queries/Sentinel-ThreatIntelIndicators-Migration.md)
+- [Automating Security: Creating Microsoft Sentinel Watchlists from Entra ID Group Membership](https://sentinel.blog/automating-security-creating-microsoft-sentinel-watchlists-from-entra-id-group-membership/)
 - [Restricting Deletions of Incidents in Sentinel](https://www.linkedin.com/pulse/restricting-deletions-incidents-sentinel-jay-kerai-da9te/)
 - [Monitoring your DevOps platform](https://jamescook.dev/connect-azure-devops-sentinel)
 - [Azure DevOps Auditing with Sentinel](https://cyberdom.blog/azure-devops-auditing-with-microsoft-sentinel/)
@@ -593,6 +600,7 @@
 
 ## GitHub
 
+- [SentinelBlog](https://github.com/noodlemctwoodle/sentinel.blog)
 - [GitHub Repo from Seyed A Nouraie](https://github.com/seyed-nouraie/SecOps?tab=readme-ov-file)
 - [Microsoft Azure Log Analytics Table Retention Update Script](https://github.com/thatlazyadmin/DeathStarScriptHub/tree/main/Microsoft%20Sentinel/UpdateLogAnalyticsTableRetention)
 - [Sentinel TI Upload Toolkit](https://github.com/alexverboon/SentinelTIUploadToolkit)

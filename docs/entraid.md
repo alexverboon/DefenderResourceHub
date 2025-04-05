@@ -1754,6 +1754,7 @@
 
 ## Community Blogs
 
+- [Managing Restricted Groups with Access Packages](https://nathanmcnulty.com/blog/2025/04/managing-restricted-groups-with-access-packages/)
 - [QR code authentication: a new simplified sign-in experience for frontline workers - Janic Verboon](https://www.basevision.ch/microsoft-entra-qr-code/)
 - [External Collaboration Settings with Application Permissions](https://suryendub.github.io/2024-12-21-extCollaboration/)
 - [Using Maester and HRProvisioningTests to Unit Test Your HR DrivenProvisioning](https://suryendub.github.io/2024-12-21-Using-Maester-and-HRProvisioningTests-UnitTest-HR-DrivenProvisioning/)
@@ -1820,3 +1821,7 @@
 - [Awesome Entra](https://github.com/merill/awesome-entra)
 - [HAWK](https://github.com/T0pCyber/hawk)
 - [CAPs](https://github.com/techBrandon/CAPs)
+
+## Podcasts
+
+- [Entra Chat](https://podcasts.apple.com/gb/podcast/entra-chat/id1801200012)

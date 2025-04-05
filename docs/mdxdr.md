@@ -9,6 +9,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Case Management is now Generally Available](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/case-management-is-now-generally-available/4398558)
+
 - [Monthly news - February 2025](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/monthly-news---february-2025/4373271)
 - [Hyperscale ML threat intelligence for early detection & disruption](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/hyperscale-ml-threat-intelligence-for-early-detection--disruption/4359763)
 - [Web Scale Graph Mining for Cyber Threat Intelligence](https://arxiv.org/abs/2411.06239)

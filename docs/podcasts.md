@@ -4,6 +4,7 @@
 
 ### Microsoft
 
+- [Entra Chat](https://podcasts.apple.com/gb/podcast/entra-chat/id1801200012)
 - [Afternoon Cyber Tea](https://podcasts.apple.com/us/podcast/cybersecurity-becomes-a-business-imperative/id1484676119?i=1000492796621)
 - [Uncovering Hidden Risks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/welcome-to-our-podcast-series-on-uncovering-hidden-risks/ba-p/1726690)
 - [Azure Security Podcast](https://open.spotify.com/show/6AZVRZWttZdYkvlSAXjiGK)
