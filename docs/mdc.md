@@ -8,6 +8,19 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Connecting Defender for Cloud with Jira](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/connecting-defender-for-cloud-with-jira/4411691)
+- [Plug, Play, and Prey: The security risks of the Model Context Protocol](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/plug-play-and-prey-the-security-risks-of-the-model-context-protocol/4410829)
+- [From visibility to action: The power of cloud detection and response](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/from-visibility-to-action-the-power-of-cloud-detection-and-response/4411280)
+- [The Risk of Default Configuration: How Out-of-the-Box Helm Charts Can Breach Your Cluster](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/the-risk-of-default-configuration-how-out-of-the-box-helm-charts-can-breach-your/4409560)
+- [Guidance for handling CVE-2025-31324 using Microsoft Security capabilities](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/guidance-for-handling-cve-2025-31324-using-microsoft-security-capabilities/4409413)
+- [General Availability of on-demand scanning in Defender for Storage](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/general-availability-of-on-demand-scanning-in-defender-for-storage/4409365)
+- [Protecting Your Azure Key Vault: Why Azure RBAC Is Critical for Security](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/protecting-your-azure-key-vault-why-azure-rbac-is-critical-for-security/4407848)
+- [Protect what matters to your organization using filtering in Defender for Storage](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/protect-what-matters-to-your-organization-using-filtering-in-defender-for-storag/4402993)
+- [Guidance for handling CVE-2025-30065 using Microsoft Security capabilities](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/guidance-for-handling-cve-2025-30065-using-microsoft-security-capabilities/4401362)
+- [The Future of CIEM in Microsoft Defender for Cloud](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/the-future-of-ciem-in-microsoft-defender-for-cloud/4398169)
+- [Securing your organization from 'IngressNightmare' using Microsoft Security capabilities](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/securing-your-organization-from-ingressnightmare-using-microsoft-security-capabi/4397844)
+- [All Key Vaults Are Critical, But Some Are More Critical Than Others: Finding the Crown Jewels](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/all-key-vaults-are-critical-but-some-are-more-critical-than-others-finding-the-c/4396706)
+- [New innovations to protect custom AI applications with Defender for Cloud](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/new-innovations-to-protect-custom-ai-applications-with-defender-for-cloud/4396277)
 - [Integrating Security into DevOps Workflows with Microsoft Defender CSPM](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/integrating-security-into-devops-workflows-with-microsoft-defender-cspm/4388094)
 - [Strengthening Cloud Compliance and Governance with Microsoft Defender CSPM](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/strengthening-cloud-compliance-and-governance-with-microsoft-defender-cspm/4385215)
 - [Secure containers software supply chain across the SDLC](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/secure-containers-software-supply-chain-across-the-sdlc/4384925)
@@ -329,6 +342,7 @@
 
 ## Community Blogs
 
+- [AZURE PENTESTING — EXPLOITING THE ANONYMOUS ACCESS TO THE BLOB STORAGE — Draft Eng — Updated :)](https://braropad.medium.com/azure-pentesting-exploiting-the-anonymous-access-to-the-blob-storage-draft-english-d80f3831a590)
 - [Understanding Microsoft CNAPP: How Defender for Cloud Secures Your Multicloud Workloads](https://www.basevision.ch/understanding-microsoft-cnapp-how-defender-for-cloud-secures-your-multicloud-workloads/)
 - [Configure File Integrity Monitoring (FIM) using Defender for Endpoint](https://jeffreyappel.nl/configure-file-integrity-monitoring-fim-using-defender-for-endpoint/)
 - [How to protect Azure storage accounts (Blob) using Defender for Storage](https://jeffreyappel.nl/how-to-protect-azure-storage-accounts-blob-using-defender-for-storage/)
@@ -356,3 +370,5 @@
 - [Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud)
 - [Defender for Cloud - Community Repository](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main)
 - [Defender-for-Cloud-Attack-Simulation](https://github.com/microsoft/Defender-for-Cloud-Attack-Simulation)
+- [Threat Matrix for Storage Services](https://microsoft.github.io/Threat-matrix-for-storage-services/)
+- [Azure Threat Research Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
