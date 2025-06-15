@@ -97,6 +97,8 @@
 ## Documentation
 
 - [Details and results of an automatic attack disruption action](https://learn.microsoft.com/en-us/defender-xdr/autoad-results#hunt-for-disable-user-account-actions)
+- [How Microsoft names threat actors](https://learn.microsoft.com/en-gb/unified-secops-platform/microsoft-threat-actor-naming)
+- [Defender Setup Guides](https://setup.cloud.microsoft/defender)
 
 ## Other Sources
 

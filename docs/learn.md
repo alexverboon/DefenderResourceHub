@@ -32,3 +32,7 @@
 ## Interactive Lab Simulations
 
 - [SC-200 Interactive Lab Simulations - Microsoft Security Operations Analyst](https://mslabs.cloudguides.com/guides/SC-200%20Lab%20Simulations%20-%20Microsoft%20Security%20Operations%20Analyst)
+
+## Entra
+
+- [Microsoft Entra Suite: Comprehensive Zero Trust user access at your fingertips](https://www.youtube.com/watch?v=olAqPx7CTcM&list=PLmAptfqzxVEXzNRk276m5ssJk4YOM1H3w)

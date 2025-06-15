@@ -12,6 +12,9 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Behavior monitoring is now generally available for Microsoft Defender for Endpoint on macOS](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/behavior-monitoring-is-now-generally-available-for-microsoft-defender-for-endpoi/4415697)
+- [Manage global exclusion policies for Linux across both AV and EDR](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/manage-global-exclusion-policies-for-linux-across-both-av-and-edr/4420127)
+- [Discover how automatic attack disruption protects critical assets while ensuring business continuity](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/discover-how-automatic-attack-disruption-protects-critical-assets-while-ensuring/4416597)
 - [Block malicious command lines with Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/block-malicious-command-lines-with-microsoft-defender-for-endpoint/4373943)
 - [Get greater visibility with aggregated reporting of endpoint telemetry signals](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/get-greater-visibility-with-aggregated-reporting-of-endpoint-telemetry-signals/4366712)
 - [Defender for Endpoint extends support to ARM-based Linux servers](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/defender-for-endpoint-extends-support-to-arm-based-linux-servers/4364066)
@@ -257,6 +260,7 @@
 
 ## Community Blogs
 
+- [Deploy Endpoint Security policies to Linux Servers via Intune with Security Settings Management](https://www.linkedin.com/pulse/part-2-deploy-endpoint-security-policies-linux-via-anton-willoughby-xfvwc/)
 - [MDE: Why and how to use Device Groups?](https://www.french365connection.co.uk/post/mde-why-and-how-to-use-device-groups)
 - [Comparing Web Filtering and Security: Microsoft Entra Internet Access (Global Secure Access) vs. Microsoft Defender for Endpoint (MDE)](https://www.vansurksum.com/2025/01/28/comparing-web-filtering-and-security-microsoft-entra-internet-access-global-secure-access-vs-microsoft-defender-for-endpoint-mde/)
 - [Working with tamper protection on Windows devices to protect security settings](https://petervanderwoude.nl/post/tag/microsoft-defender-for-endpoint/)
@@ -341,6 +345,8 @@
 
 ## GitHub
 
+- [MDEAutomator](https://github.com/msdirtbag/MDEAutomator)
+- [Defender AV Performance Monitoring and Tuning](https://github.com/nathanmcnulty/nathanmcnulty/tree/master/DefenderForEndpoint/Performance)
 - [MDE_Signature_Update_Detection.ps](https://github.com/ugurkocde/Intune/blob/main/Defender%20for%20Endpoint/MDE_Signature_Update_Detection.ps1)
 - [DefenderMAPS](https://github.com/alexverboon/DefenderMAPS)
 - [Nuke It From Orbit](https://github.com/lkarlslund/nifo)

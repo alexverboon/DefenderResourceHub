@@ -560,6 +560,7 @@
 
 ## Community Blogs
 
+- [Revolutionizing Threat Intelligence in Microsoft Sentinel: Transitioning to Enhanced Modeling and Advanced Threat Hunting](https://charbelnemnom.com/sentinel-threat-intelligence-advanced-modeling/)
 - [Sentinel-ThreatIntelIndicators-Migration](https://github.com/nicolonsky/ITDR/blob/main/Queries/Sentinel-ThreatIntelIndicators-Migration.md)
 - [Automating Security: Creating Microsoft Sentinel Watchlists from Entra ID Group Membership](https://sentinel.blog/automating-security-creating-microsoft-sentinel-watchlists-from-entra-id-group-membership/)
 - [Restricting Deletions of Incidents in Sentinel](https://www.linkedin.com/pulse/restricting-deletions-incidents-sentinel-jay-kerai-da9te/)
@@ -600,6 +601,7 @@
 
 ## GitHub
 
+- [Microsoft Sentinel Scout](https://github.com/samikroy/ms-sentinel-scout/)
 - [SentinelBlog](https://github.com/noodlemctwoodle/sentinel.blog)
 - [GitHub Repo from Seyed A Nouraie](https://github.com/seyed-nouraie/SecOps?tab=readme-ov-file)
 - [Microsoft Azure Log Analytics Table Retention Update Script](https://github.com/thatlazyadmin/DeathStarScriptHub/tree/main/Microsoft%20Sentinel/UpdateLogAnalyticsTableRetention)

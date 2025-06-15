@@ -80,6 +80,7 @@
 ## GitHub
 
 - [Microsoft Copilot For Security Community](https://github.com/Azure/Copilot-For-Security/)
+- [AI Red Teaming Playground Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs)
 
 ## Learning & Training
 

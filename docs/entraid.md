@@ -5,9 +5,12 @@
 - [Microsoft Entra ID documentation](https://learn.microsoft.com/en-us/entra/identity/)
 - [What's new in Microsoft Entra ID?](https://learn.microsoft.com/en-us/entra/fundamentals/whats-new)
 - [Entra News](https://entra.news/)
+- [Microsoft Entra Suite: Comprehensive Zero Trust user access at your fingertips](https://www.youtube.com/watch?v=olAqPx7CTcM&list=PLmAptfqzxVEXzNRk276m5ssJk4YOM1H3w)
 
 ## Microsoft Tech Community Blogs
 
+- [New policy enhancement tools in Entra Conditional Access](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/new-policy-enhancement-tools-in-entra-conditional-access/4418866)
+- [Advanced deployment guide for Conditional Access Policy templates](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/advanced-deployment-guide-for-conditional-access-policy-templates/4406767)
 - [Simplify frontline workers’ sign-in experience with QR code authentication](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/simplify-frontline-workers%E2%80%99-sign-in-experience-with-qr-code-authentication/3822034)
 - [New Microsoft-managed policies to raise your identity security posture](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/new-microsoft-managed-policies-to-raise-your-identity-security-posture/4286758)
 - [Microsoft Entra PowerShell module now generally available](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/microsoft-entra-powershell-module-now-generally-available/4365718)
@@ -1821,7 +1824,18 @@
 - [Awesome Entra](https://github.com/merill/awesome-entra)
 - [HAWK](https://github.com/T0pCyber/hawk)
 - [CAPs](https://github.com/techBrandon/CAPs)
+- [Conditional-Access-Validator](https://github.com/jasperbaes/Conditional-Access-Validator)
+- [M365AdminAccessReviewer](https://github.com/notEricaZelic/M365AdminAccessReviewer)
+- [Conditional access Baseline](https://github.com/j0eyv/ConditionalAccessBaseline)
 
 ## Podcasts
 
 - [Entra Chat](https://podcasts.apple.com/gb/podcast/entra-chat/id1801200012)
+
+## Tools
+
+- [Entra ID Admin Roles Report](https://rksolutions.nl/entra-id-admin-roles-report/?utm_source=substack&utm_medium=email)
+
+## Secure Configuration
+
+- [Draft secure baselines for Microsoft Azure and M365](https://www.securitybydefault.org/publications/draft-secure-baselines-for-Azure-and-M365)
