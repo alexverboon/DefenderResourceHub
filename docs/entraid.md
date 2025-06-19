@@ -1835,6 +1835,7 @@
 ## Tools
 
 - [Entra ID Admin Roles Report](https://rksolutions.nl/entra-id-admin-roles-report/?utm_source=substack&utm_medium=email)
+- [AAGUIDs](https://aaguid.nicolasuter.ch/)
 
 ## Secure Configuration
 
