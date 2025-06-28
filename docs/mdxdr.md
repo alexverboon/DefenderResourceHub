@@ -103,3 +103,8 @@
 ## Other Sources
 
 - [EDR Telemetry](https://www.edr-telemetry.com/index.html)
+
+## Attack Simulations & Testing
+
+- [Microsoft Defender for Endpoint - demonstration scenarios](https://learn.microsoft.com/en-us/defender-endpoint/defender-endpoint-demonstrations)
+- [Attack surface reduction rules demonstrations](https://learn.microsoft.com/en-us/defender-endpoint/defender-endpoint-demonstration-attack-surface-reduction-rules#test-files)
