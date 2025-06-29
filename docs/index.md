@@ -12,7 +12,7 @@ You will find the following type of information:
 - GitHub repositories
 - Books
 
- ![](./img/drh.png)
+ ![](./img/drhjune2025.png)
 
  Alex Verboon
  Microsoft Security MVP

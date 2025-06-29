@@ -73,6 +73,7 @@
 
 ## Community Blogs
 
+- [Automated incident triage with Security Copilot and Microsoft Sentinel/ Defender XDR](https://jeffreyappel.nl/automated-incident-triage-with-security-copilot-and-microsoft-sentinel-defender-xdr/)
 - [Team Copilot](https://teamcopilot.nl/)
 - [AI & Security: Introduction (Part 1)](https://emptydc.com/2024/10/10/ai-security-introduction-part-1/)
 - [How to onboard and getting started with Copilot for Security](https://jeffreyappel.nl/how-to-onboard-and-getting-started-with-copilot-for-security/)
