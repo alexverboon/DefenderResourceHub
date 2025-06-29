@@ -7,6 +7,10 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Using parameterized functions with KQL-based custom plugins in Microsoft Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/using-parameterized-functions-with-kql-based-custom-plugins-in-microsoft-securit/4419286)
+- [Automating Phishing Email Triage with Microsoft Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/automating-phishing-email-triage-with-microsoft-security-copilot/4416559)
+- [Busting myths on Microsoft Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/busting-myths-on-microsoft-security-copilot/4414844)
+- [Using Security Copilot to Proactively Identify and Prioritize Vulnerabilities](https://techcommunity.microsoft.com/blog/securitycopilotblog/using-security-copilot-to-proactively-identify-and-prioritize-vulnerabilities/4404560)
 - [Empowering Security Copilot with NL2KQL: Transforming Natural Language into Insightful KQL queries](https://techcommunity.microsoft.com/blog/securitycopilotblog/empowering-security-copilot-with-nl2kql-transforming-natural-language-into-insig/4388930)
 - [Azure Lighthouse support for MSSP use of Security Copilot Sentinel scenarios in Public Preview](https://techcommunity.microsoft.com/blog/securitycopilotblog/azure-lighthouse-support-for-mssp-use-of-security-copilot-sentinel-scenarios-in-/4384386)
 - [Next-Gen Device Incident Investigation & Threat Hunting with Custom Plugins](https://techcommunity.microsoft.com/blog/securitycopilotblog/next-gen-device-incident-investigation--threat-hunting-with-custom-plugins/4374397)
