@@ -93,6 +93,8 @@
 
 ## Community Blogs
 
+- [Hunting Through APIs](https://kqlquery.com/posts/hunting-api-kql/)
+- [Investigating ClickFix Incidents](https://kqlquery.com/posts/investigate-clickfix/)
 - [Insights from the trenches: building audit capacity for Microsoft Sentinel & Defender XDR](https://www.michalos.net/2025/06/20/insights-from-the-trenches-building-audit-capacity-for-microsoft-sentinel-defender-xdr/)
 - [Effective strategies for fighting redirectors with UrlClickEvents, UrlChain, & DeviceNetworkEvents](https://www.michalos.net/2025/03/09/effective-strategies-for-fighting-redirectors-with-urlclickevents-urlchain-devicenetworkevents/)
 - [Unlimited Advanced Hunting for Microsoft 365 Defender with Azure Data Explorer](https://github.com/TheCloudScout/m365defender-adx)
@@ -115,6 +117,7 @@
 ## Other Sources
 
 - [EDR Telemetry](https://www.edr-telemetry.com/index.html)
+- [GraphWeaver: Billion-Scale Cybersecurity Incident Correlation](https://arxiv.org/abs/2406.01842)
 
 ## Attack Simulations & Testing
 

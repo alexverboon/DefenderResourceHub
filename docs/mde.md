@@ -260,6 +260,7 @@
 
 ## Community Blogs
 
+- [Detecting Vulnerable Drivers (a.k.a. LOLDrivers) the Right Way Using Microsoft Defender for Endpoint](https://academy.bluraven.io/blog/detecting-vulnerable-drivers-using-defender-for-endpoint-kql)
 - [The Hitchhiker's Guide to Microsoft Defender for Endpoint exclusions](https://cloudbrothers.info/guide-to-defender-exclusions/)
 - [Deploy Endpoint Security policies to Linux Servers via Intune with Security Settings Management](https://www.linkedin.com/pulse/part-2-deploy-endpoint-security-policies-linux-via-anton-willoughby-xfvwc/)
 - [MDE: Why and how to use Device Groups?](https://www.french365connection.co.uk/post/mde-why-and-how-to-use-device-groups)
