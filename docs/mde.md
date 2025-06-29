@@ -260,6 +260,7 @@
 
 ## Community Blogs
 
+- [The Hitchhiker's Guide to Microsoft Defender for Endpoint exclusions](https://cloudbrothers.info/guide-to-defender-exclusions/)
 - [Deploy Endpoint Security policies to Linux Servers via Intune with Security Settings Management](https://www.linkedin.com/pulse/part-2-deploy-endpoint-security-policies-linux-via-anton-willoughby-xfvwc/)
 - [MDE: Why and how to use Device Groups?](https://www.french365connection.co.uk/post/mde-why-and-how-to-use-device-groups)
 - [Comparing Web Filtering and Security: Microsoft Entra Internet Access (Global Secure Access) vs. Microsoft Defender for Endpoint (MDE)](https://www.vansurksum.com/2025/01/28/comparing-web-filtering-and-security-microsoft-entra-internet-access-global-secure-access-vs-microsoft-defender-for-endpoint-mde/)
