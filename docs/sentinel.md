@@ -563,6 +563,8 @@
 
 ## Community Blogs
 
+- [SentinelCodeGuard: Revolutionising Microsoft Sentinel Rule Development](https://sentinel.blog/sentinelcodeguard-revolutionizing-microsoft-sentinel-rule-development/)
+- [Simplifying Azure Log Analytics Table Retention Management: A Modern Approach](https://sentinel.blog/simplifying-azure-log-analytics-table-retention-management-a-modern-approach/)
 - [Automate IP enrichment in Microsoft Sentinel incidents with IP Quality Score (IPQS)](https://www.michalos.net/2025/01/02/automate-ip-enrichment-in-microsoft-sentinel-incidents-with-ip-quality-score-ipqs/)
 - [Revolutionizing Threat Intelligence in Microsoft Sentinel: Transitioning to Enhanced Modeling and Advanced Threat Hunting](https://charbelnemnom.com/sentinel-threat-intelligence-advanced-modeling/)
 - [Sentinel-ThreatIntelIndicators-Migration](https://github.com/nicolonsky/ITDR/blob/main/Queries/Sentinel-ThreatIntelIndicators-Migration.md)
