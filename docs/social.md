@@ -88,6 +88,7 @@
 - [Ru Campell](https://twitter.com/rucam365)
 - [Sami Lamppu](https://twitter.com/samilamppu)
 - [Thijs](@thijslecomte)
+- [Thomas Naunheim](https://www.linkedin.com/in/thomasnaunheim/)
 - [Yiannis](https://twitter.com/Sec_GroundZero)
 - [Dylan 👾AttacktheSOC](https://twitter.com/dylaninfosec)
 - [Samik Roy](https://twitter.com/roy_samik)
@@ -99,6 +100,7 @@
 - [William Francillette](https://x.com/WillTheFrenchie)
 - [Stefan Schörling](https://x.com/stefanschorling?lang=en)
 - [Toby G](https://x.com/noodlemctwoodle?ref=sentinel.blog)
+- [Wesley van den Heuvel](https://x.com/wjpvandenheuvel)
 
 ## LinkedIn Groups
 
