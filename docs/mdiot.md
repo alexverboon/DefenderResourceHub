@@ -6,6 +6,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Sensor Disconnection Notifications with Microsoft Defender for IoT and Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftdefenderiotblog/sensor-disconnection-notifications-with-microsoft-defender-for-iot-and-microsoft/4375517)
+
 - [Make OT security a core part of your SOC strategy with Microsoft Defender XDR](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/make-ot-security-a-core-part-of-your-soc-strategy-with-microsoft/ba-p/4185702)
 - [Introducing Single Sign-On (SSO) for Sensor Console: Enhanced Security and Streamlined Access](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/introducing-single-sign-on-sso-for-sensor-console-enhanced/ba-p/4129156)
 - [Analyze IoT/OT device firmware with Microsoft Defender for IoT](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/analyze-iot-ot-device-firmware-with-microsoft-defender-for-iot/ba-p/3853474)

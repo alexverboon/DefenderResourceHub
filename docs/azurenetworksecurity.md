@@ -6,6 +6,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Azure WAF Integration in Security Copilot is Now Generally Available](https://techcommunity.microsoft.com/blog/azurenetworksecurityblog/azure-waf-integration-in-security-copilot-is-now-generally-available/4422055)
 - [Getting Started with Azure Firewall REST API: A Step-by-Step Guide – Part I](https://techcommunity.microsoft.com/blog/azurenetworksecurityblog/getting-started-with-azure-firewall-rest-api-a-step-by-step-guide-%E2%80%93-part-i/4390715)
 - [Protecting the Public IPs of Secured Virtual Hub Azure Firewalls against DDoS Attacks](https://techcommunity.microsoft.com/blog/azurenetworksecurityblog/protecting-the-public-ips-of-secured-virtual-hub-azure-firewalls-against-ddos-at/4387435)
 - [Comprehensive Guide to Monitoring Azure WAF Metrics and Logs](https://techcommunity.microsoft.com/blog/azurenetworksecurityblog/comprehensive-guide-to-monitoring-azure-waf-metrics-and-logs/4378260)

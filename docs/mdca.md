@@ -8,6 +8,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Protect SaaS apps from OAuth threats with attack path, advanced hunting and more](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/protect-saas-apps-from-oauth-threats-with-attack-path-advanced-hunting-and-more/4395997)
 - [Get visibility into your DeepSeek use with Defender for Cloud Apps](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/get-visibility-into-your-deepseek-use-with-defender-for-cloud-apps/4372520)
 - [Microsoft Defender for Cloud Apps’ Shadow IT Discovery Capabilities Now Support MacOS](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-cloud-apps-shadow-it-discovery/ba-p/4159677)
 - [Data Protection Made a Breeze: MDA integration in Edge for Business](https://cloudbrothers.info/en/data-protection-breeze-mda-integration-edge-business/)

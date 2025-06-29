@@ -4,9 +4,12 @@
 - [Microsoft Sentinel documentation](https://learn.microsoft.com/en-us/azure/sentinel/)
 - [What's new in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/whats-new)
 - [Become a Microsoft Sentinel Ninja](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
+- [The Definitive SIEM Buyer’s Guide](https://marketingassets.microsoft.com/gdc/gdcDFk38S/original)
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Sentinel: Repositories, the Future of Content-as-Code & Best Practices​](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-repositories-the-future-of-content-as-code--best-practices%E2%80%8B/4422936)
+- [Exciting Announcements: New Data Connectors Released Using the Codeless Connector Framework](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/exciting-announcements-new-data-connectors-released-using-the-codeless-connector/4421104)
 - [Multi-workspace for Multi-tenant is now in Public Preview in Microsoft's Unified SecOps Platform](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in-microsofts-unified-/4398229)
 - [Multi Workspace for Single tenant is now in Public Preview in Microsoft’s unified SecOps platform](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/multi-workspace-for-single-tenant-is-now-in-public-preview-in-microsoft%E2%80%99s-unifie/4398228)
 - [Microsoft Sentinel Project Deployment Tracker](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-project-deployment-tracker/4394174)
@@ -620,3 +623,7 @@
 
 - [Optimizing Your Security Operations: Manage Your Data, Costs and Protections with SOC Optimizations](https://www.youtube.com/watch?v=Uk9x60grT-o)
 - [Optimizing your SOC's threat coverage and data value](https://www.youtube.com/watch?v=b0rbPZwBuc0)
+
+### Documentation
+
+- [Migrate from the HTTP Data Collector API to the Log Ingestion API to send data to Azure Monitor Logs](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/custom-logs-migrate)

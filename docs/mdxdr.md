@@ -9,8 +9,18 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Case management now supports multiple tenants in Microsoft Defender experience](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/case-management-now-supports-multiple-tenants-in-microsoft-defender-experience/4425329)
+- [Introducing TITAN-Powered Recommendations in Security Copilot Guided Response](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/introducing-titan-powered-recommendations-in-security-copilot-guided-response/4416350)
+- [From on-premises to cloud: Graph-powered detection of hybrid attacks with Microsoft exposure graph](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/from-on-premises-to-cloud-graph-powered-detection-of-hybrid-attacks-with-microso/4416295)
+- [The Best of Microsoft Sentinel — Now in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/the-best-of-microsoft-sentinel-%E2%80%94-now-in-microsoft-defender/4415822)
+- [Announcing File Attachments for Case Management](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/announcing-file-attachments-for-case-management/4408881)
+- [Unified Security Summary: Enhancing Visibility and Value](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/unified-security-summary-enhancing-visibility-and-value/4411302)
+- [Empowering SOC Analysts: Investigating Identity Threats with Microsoft Defender XDR](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/empowering-soc-analysts-investigating-identity-threats-with-microsoft-defender-x/4398225)
+- [Announcing Rich Text for Case Management](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/announcing-rich-text-for-case-management/4405855)
+- [Level up your defense: protect against attacks using stale user accounts](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/level-up-your-defense-protect-against-attacks-using-stale-user-accounts/4386290)
+- [Defending Against OAuth-Based Attacks with Automatic Attack Disruption](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/defending-against-oauth-based-attacks-with-automatic-attack-disruption/4384381)
+- [Automatic attack disruption: Enhanced containment for critical assets and shadow IT](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/automatic-attack-disruption-enhanced-containment-for-critical-assets-and-shadow-/4402157)
 - [Case Management is now Generally Available](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/case-management-is-now-generally-available/4398558)
-
 - [Monthly news - February 2025](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/monthly-news---february-2025/4373271)
 - [Hyperscale ML threat intelligence for early detection & disruption](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/hyperscale-ml-threat-intelligence-for-early-detection--disruption/4359763)
 - [Web Scale Graph Mining for Cyber Threat Intelligence](https://arxiv.org/abs/2411.06239)

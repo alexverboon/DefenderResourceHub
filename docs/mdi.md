@@ -9,6 +9,8 @@
 
 - [Scope Identity Protection with Defender for Identity](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/new-scope-identity-protection-with-defender-for-identity/4422968)
 - [Microsoft Defender for Identity has announced the public preview of a new service account discovery module that automatically identifies and classifies service accounts in Active Directory](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/discover-and-protect-service-accounts-with-microsoft-defender-for-identity/4395347)
+- [Expanding the Identity perimeter: the rise of non-human identities](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/expanding-the-identity-perimeter-the-rise-of-non-human-identities/4418953)
+- [Discover and protect Service Accounts with Microsoft Defender for Identity](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/discover-and-protect-service-accounts-with-microsoft-defender-for-identity/4395347)
 - [Securing Identities: 10 recommendations for building a stronger identity security posture](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/securing-identities-10-recommendations-for-building-a-stronger-identity-security/4371879)
 - [Introducing the new Defender for Identity sensor management API](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/introducing-the-new-defender-for-identity-sensor-management-api/4367164)
 - [Microsoft Defender for Identity: the critical role of identities in automatic attack disruption](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-identity-the-critical-role-of-identities/ba-p/4236688)

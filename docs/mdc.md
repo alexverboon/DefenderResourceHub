@@ -8,6 +8,12 @@
 
 ## Microsoft Tech Community Blogs
 
+- [New feature in Defender for Storage: Optional Index Tags](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/new-feature-in-defender-for-storage-optional-index-tags/4427987)
+- [Optimizing Resource Allocation with Microsoft Defender CSPM](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/optimizing-resource-allocation-with-microsoft-defender-cspm/4427785)
+- [Microsoft Named a Leader in the IDC MarketScape for CNAPP: Key Takeaways for Security Buyers](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-named-a-leader-in-the-idc-marketscape-for-cnapp-key-takeaways-for-secu/4427071)
+- [Unlocking API visibility: Defender for Cloud Expands API security to Function Apps and Logic Apps](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/unlocking-api-visibility-defender-for-cloud-expands-api-security-to-function-app/4426864)
+- [Performing Advanced Risk Hunting in Defender for Cloud](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/performing-advanced-risk-hunting-in-defender-for-cloud/4420633)
+- [Enhancements for protecting hosted SQL servers across clouds and hybrid environments](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/enhancements-for-protecting-hosted-sql-servers-across-clouds-and-hybrid-environm/4414783)
 - [Connecting Defender for Cloud with Jira](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/connecting-defender-for-cloud-with-jira/4411691)
 - [Plug, Play, and Prey: The security risks of the Model Context Protocol](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/plug-play-and-prey-the-security-risks-of-the-model-context-protocol/4410829)
 - [From visibility to action: The power of cloud detection and response](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/from-visibility-to-action-the-power-of-cloud-detection-and-response/4411280)

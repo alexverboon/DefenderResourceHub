@@ -9,6 +9,10 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Important Update: Azure AD Graph retirement](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/important-update-azure-ad-graph-retirement/4364990)
+- [Important Update: AzureAD PowerShell retirement](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/important-update-azuread-powershell-retirement/4364989)
+- [OAuth consent phishing explained and prevented](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/oauth-consent-phishing-explained-and-prevented/4423357)
+- [Getting started with the Microsoft Entra Suite](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/getting-started-with-the-microsoft-entra-suite/4422972)
 - [New policy enhancement tools in Entra Conditional Access](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/new-policy-enhancement-tools-in-entra-conditional-access/4418866)
 - [Advanced deployment guide for Conditional Access Policy templates](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/advanced-deployment-guide-for-conditional-access-policy-templates/4406767)
 - [Simplify frontline workers’ sign-in experience with QR code authentication](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/simplify-frontline-workers%E2%80%99-sign-in-experience-with-qr-code-authentication/3822034)
@@ -1757,6 +1761,9 @@
 
 ## Community Blogs
 
+- [What is Tier Zero — Part 1](https://posts.specterops.io/what-is-tier-zero-part-1-e0da9b7cdfca)
+- [What is Tier Zero — Part 2](https://posts.specterops.io/what-is-tier-zero-part-2-6e1d14fddcaf)
+- [Beyond the GUI: Properly Securing Your Admin Apps with Custom Security Attributes in Entra ID](https://www.linkedin.com/pulse/beyond-gui-properly-securing-your-admin-apps-custom-security-lawalt-akwlf/)
 - [Managing Restricted Groups with Access Packages](https://nathanmcnulty.com/blog/2025/04/managing-restricted-groups-with-access-packages/)
 - [QR code authentication: a new simplified sign-in experience for frontline workers - Janic Verboon](https://www.basevision.ch/microsoft-entra-qr-code/)
 - [External Collaboration Settings with Application Permissions](https://suryendub.github.io/2024-12-21-extCollaboration/)
@@ -1814,6 +1821,7 @@
 - [Kenneth van Surksum](https://x.com/kennethvs)
 - [Daniel Chronlund](https://twitter.com/DanielChronlund)
 - [Nicola Suter](https://twitter.com/nicolonsky)
+- [Thomas Naunheim](https://www.linkedin.com/in/thomasnaunheim/)
 
 ## GitHub
 
@@ -1827,6 +1835,8 @@
 - [Conditional-Access-Validator](https://github.com/jasperbaes/Conditional-Access-Validator)
 - [M365AdminAccessReviewer](https://github.com/notEricaZelic/M365AdminAccessReviewer)
 - [Conditional access Baseline](https://github.com/j0eyv/ConditionalAccessBaseline)
+- [Microsoft Zero Trust Assessment V2 - Private Preview](https://github.com/microsoft/zerotrustassessment/blob/psnext/src/powershell/doc/readme.md)
+- [Microsoft Zero Trust Assessment Code](https://github.com/microsoft/zerotrustassessment/tree/psnext/src/powershell)
 
 ## Podcasts
 
@@ -1836,6 +1846,13 @@
 
 - [Entra ID Admin Roles Report](https://rksolutions.nl/entra-id-admin-roles-report/?utm_source=substack&utm_medium=email)
 - [AAGUIDs](https://aaguid.nicolasuter.ch/)
+- [Microsoft 365 Message Center Archive](https://mc.merill.net/)
+- [Tier 0 Table](https://github.com/SpecterOps/TierZeroTable/)
+
+## EntraOps Classification and Automation
+
+- [EntraOps Classification Files](https://github.com/cloud-architekt/azureprivilegediam)
+- [Community Project “EntraOps”](https://www.entraops.com)
 
 ## Secure Configuration
 
