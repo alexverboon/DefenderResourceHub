@@ -563,6 +563,7 @@
 
 ## Community Blogs
 
+- [Automate IP enrichment in Microsoft Sentinel incidents with IP Quality Score (IPQS)](https://www.michalos.net/2025/01/02/automate-ip-enrichment-in-microsoft-sentinel-incidents-with-ip-quality-score-ipqs/)
 - [Revolutionizing Threat Intelligence in Microsoft Sentinel: Transitioning to Enhanced Modeling and Advanced Threat Hunting](https://charbelnemnom.com/sentinel-threat-intelligence-advanced-modeling/)
 - [Sentinel-ThreatIntelIndicators-Migration](https://github.com/nicolonsky/ITDR/blob/main/Queries/Sentinel-ThreatIntelIndicators-Migration.md)
 - [Automating Security: Creating Microsoft Sentinel Watchlists from Entra ID Group Membership](https://sentinel.blog/automating-security-creating-microsoft-sentinel-watchlists-from-entra-id-group-membership/)

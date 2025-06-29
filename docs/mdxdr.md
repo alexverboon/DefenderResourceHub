@@ -93,6 +93,8 @@
 
 ## Community Blogs
 
+- [Insights from the trenches: building audit capacity for Microsoft Sentinel & Defender XDR](https://www.michalos.net/2025/06/20/insights-from-the-trenches-building-audit-capacity-for-microsoft-sentinel-defender-xdr/)
+- [Effective strategies for fighting redirectors with UrlClickEvents, UrlChain, & DeviceNetworkEvents](https://www.michalos.net/2025/03/09/effective-strategies-for-fighting-redirectors-with-urlclickevents-urlchain-devicenetworkevents/)
 - [Unlimited Advanced Hunting for Microsoft 365 Defender with Azure Data Explorer](https://github.com/TheCloudScout/m365defender-adx)
 - [Audit Defender XDR Activities](https://kqlquery.com/posts/audit-defender-xdr/)
 - [Enhancing Your Entity Timelines: Sentinel Activities in the Unified Microsoft Defender XDR Portal](https://attackthesoc.com/posts/enhancing-entity-timelines/)
