@@ -75,6 +75,7 @@
 - [Huy](https://twitter.com/DebugPrivilege)
 - [Jan Geisbauer](https://twitter.com/janvonkirchheim)
 - [Jeffrey Appel](https://twitter.com/JeffreyAppel7)
+- [Loris Ambrozzo](https://x.com/LorisAmbrozzo)
 - [Maarten Goet](https://twitter.com/maarten_goet)
 - [Matias Borg](https://twitter.com/MattiasBorg82)
 - [Matt Soseman](https://twitter.com/SosemanMatt)

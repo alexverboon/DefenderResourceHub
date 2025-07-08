@@ -93,6 +93,7 @@
 
 ## Community Blogs
 
+- [Insight into the Azure Instance Metadata Service from an attacker and defender perspective](https://lorisambrozzo.medium.com/insight-into-the-azure-instance-metadata-service-from-an-attacker-and-defender-perspective-64275955fdf4)
 - [Hunting Through APIs](https://kqlquery.com/posts/hunting-api-kql/)
 - [Investigating ClickFix Incidents](https://kqlquery.com/posts/investigate-clickfix/)
 - [Insights from the trenches: building audit capacity for Microsoft Sentinel & Defender XDR](https://www.michalos.net/2025/06/20/insights-from-the-trenches-building-audit-capacity-for-microsoft-sentinel-defender-xdr/)
