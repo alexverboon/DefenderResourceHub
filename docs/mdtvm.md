@@ -53,3 +53,7 @@
 - [How to generate a monthly Defender ATP Threat and Vulnerability Report](https://www.verboon.info/2019/11/how-to-generate-a-monthly-defender-atp-threat-and-vulnerability-report/)
 - [Threat & Vulnerability Management – improve client security with MDATP](https://chrisonsecurity.net/2020/05/08/threat-vulnerability-management-improve-client-security-with-mdatp/)
 - [Vulnerability management | Microsoft 365 Defender](https://www.youtube.com/watch?v=G54f7IqUFMU)
+
+[GitHub]
+
+- [Microsoft Defender ATP PowerBI reports samples](https://github.com/microsoft/MicrosoftDefenderForEndpoint-PowerBI)

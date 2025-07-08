@@ -36,3 +36,7 @@
 ## Entra
 
 - [Microsoft Entra Suite: Comprehensive Zero Trust user access at your fingertips](https://www.youtube.com/watch?v=olAqPx7CTcM&list=PLmAptfqzxVEXzNRk276m5ssJk4YOM1H3w)
+
+## Microsoft Cybersecurity Architect (SC-100)
+
+- [Video Training](https://www.youtube.com/playlist?list=PLahhVEj9XNTfRZMathQ5fn1akTwV7R3w_)
