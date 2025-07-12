@@ -40,6 +40,7 @@
 
 ## Community Blogs
 
+- [Shedding Light on Dormant Sensitive Accounts](https://medium.com/@verboonalex/shedding-light-on-dormant-sensitive-accounts-5a443ff2b6f2)
 - [MDI: Notes from the Field](https://www.french365connection.co.uk/post/mdi-notes-from-the-field)
 - [Microsoft Defender for Identity Bulk Operation](https://thalpius.com/2024/11/13/microsoft-defender-for-identity-bulk-operation/)
 - [Microsoft Defender for Identity Access Key Vulnerability](https://thalpius.com/2024/07/18/microsoft-defender-for-identity-access-key-vulnerability/)
@@ -77,3 +78,7 @@
 
 - [Raymond Roethof - Defender for Identity Tools](https://github.com/thalpius?tab=repositories)
 - [Defender for Identity Sizing Tool](https://github.com/microsoft/Microsoft-Defender-for-Identity-Sizing-Tool)
+
+## Documentation
+
+- [Microsoft Defender for Identity sensor v3.x prerequisites (Preview)](https://learn.microsoft.com/en-us/defender-for-identity/deploy/prerequisites-sensor-version-3)
