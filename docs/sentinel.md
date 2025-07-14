@@ -563,6 +563,7 @@
 
 ## Community Blogs
 
+- [SentinelCodeGuard: A Journey from Concept to VS Code Plugin](https://sentinel.blog/sentinelcodeguard-a-journey-from-concept-to-vs-code-plugin/)
 - [SentinelCodeGuard: Revolutionising Microsoft Sentinel Rule Development](https://sentinel.blog/sentinelcodeguard-revolutionizing-microsoft-sentinel-rule-development/)
 - [Simplifying Azure Log Analytics Table Retention Management: A Modern Approach](https://sentinel.blog/simplifying-azure-log-analytics-table-retention-management-a-modern-approach/)
 - [Automate IP enrichment in Microsoft Sentinel incidents with IP Quality Score (IPQS)](https://www.michalos.net/2025/01/02/automate-ip-enrichment-in-microsoft-sentinel-incidents-with-ip-quality-score-ipqs/)

@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Protection Against Email Bombs with Microsoft Defender for Office 365](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/protection-against-email-bombs-with-microsoft-defender-for-office-365/4418048)
 - [Introducing the Microsoft Defender for Office 365 ICES vendor ecosystem](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/introducing-the-microsoft-defender-for-office-365-ices-vendor-ecosystem/4424817)
 - [Auto-Remediation of Malicious Messages in Automated Investigation and Response (AIR) is GA](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/auto-remediation-of-malicious-messages-in-automated-investigation-and-response-a/4418047?previewMessage=true)
 - [Part 2: Build custom email security reports and dashboards with workbooks in Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/part-2-build-custom-email-security-reports-and-dashboards-with-workbooks-in-micr/4411303)

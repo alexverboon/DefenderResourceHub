@@ -1761,6 +1761,7 @@
 
 ## Community Blogs
 
+- [How to Secure Redirect URIs in Microsoft Entra ID Applications](https://ourcloudnetwork.com/how-to-secure-redirect-uris-in-microsoft-entra-id-applications/)
 - [What is Tier Zero — Part 1](https://posts.specterops.io/what-is-tier-zero-part-1-e0da9b7cdfca)
 - [What is Tier Zero — Part 2](https://posts.specterops.io/what-is-tier-zero-part-2-6e1d14fddcaf)
 - [Beyond the GUI: Properly Securing Your Admin Apps with Custom Security Attributes in Entra ID](https://www.linkedin.com/pulse/beyond-gui-properly-securing-your-admin-apps-custom-security-lawalt-akwlf/)
@@ -1844,6 +1845,7 @@
 
 ## Tools
 
+- [Create a free Enterprise App Permissions report in Microsoft Entra](https://ourcloudnetwork.com/create-a-free-enterprise-app-permissions-report-in-microsoft-entra/)
 - [Entra ID Admin Roles Report](https://rksolutions.nl/entra-id-admin-roles-report/?utm_source=substack&utm_medium=email)
 - [AAGUIDs](https://aaguid.nicolasuter.ch/)
 - [Microsoft 365 Message Center Archive](https://mc.merill.net/)
