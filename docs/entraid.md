@@ -1761,6 +1761,7 @@
 
 ## Community Blogs
 
+- [Entra: Retrieve Entra Connect Version Information](https://www.french365connection.co.uk/post/entra-retrieve-entra-connect-version-information)
 - [How to Secure Redirect URIs in Microsoft Entra ID Applications](https://ourcloudnetwork.com/how-to-secure-redirect-uris-in-microsoft-entra-id-applications/)
 - [What is Tier Zero — Part 1](https://posts.specterops.io/what-is-tier-zero-part-1-e0da9b7cdfca)
 - [What is Tier Zero — Part 2](https://posts.specterops.io/what-is-tier-zero-part-2-6e1d14fddcaf)
@@ -1838,6 +1839,7 @@
 - [Conditional access Baseline](https://github.com/j0eyv/ConditionalAccessBaseline)
 - [Microsoft Zero Trust Assessment V2 - Private Preview](https://github.com/microsoft/zerotrustassessment/blob/psnext/src/powershell/doc/readme.md)
 - [Microsoft Zero Trust Assessment Code](https://github.com/microsoft/zerotrustassessment/tree/psnext/src/powershell)
+- [Hunt domains with Seamless SSO enabled in Entra ID Connect](https://github.com/HybridBrothers/Hunting-Queries-Detection-Rules/blob/main/Entra%20ID/HuntDomainsWithSeamlessSsoEnabled.md)
 
 ## Podcasts
 

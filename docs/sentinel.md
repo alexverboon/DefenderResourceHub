@@ -8,6 +8,14 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Sentinel’s AI-driven UEBA ushers in the next era of behavioral analytics](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel%E2%80%99s-ai-driven-ueba-ushers-in-the-next-era-of-behavioral-analyti/4448390)
+- [How to: Ingest Splunk alert data to Microsoft Sentinel SIEM](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/how-to-ingest-splunk-alert-data-to-microsoft-sentinel-siem/4449027)
+- [Table Talk: Sentinel’s New ThreatIntel Tables Explained](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/table-talk-sentinel%E2%80%99s-new-threatintel-tables-explained/4440273)
+- [Automating Microsoft Sentinel: Playbook Fundamentals](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/automating-microsoft-sentinel-playbook-fundamentals/4424475)
+- [Automating Watchlists in Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/automating-watchlists-in-microsoft-sentinel/4432054)
+- [Planning your move to Microsoft Defender portal for all Microsoft Sentinel customers](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/planning-your-move-to-microsoft-defender-portal-for-all-microsoft-sentinel-custo/4432055)
+- [Introducing Summary Rules Templates: Streamlining Data Aggregation in Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-summary-rules-templates-streamlining-data-aggregation-in-microsoft-s/4428779)
+- [Manage cases from across tenants in one place](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/manage-cases-from-across-tenants-in-one-place/4425326)
 - [Microsoft Sentinel: Repositories, the Future of Content-as-Code & Best Practices​](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-repositories-the-future-of-content-as-code--best-practices%E2%80%8B/4422936)
 - [Exciting Announcements: New Data Connectors Released Using the Codeless Connector Framework](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/exciting-announcements-new-data-connectors-released-using-the-codeless-connector/4421104)
 - [Multi-workspace for Multi-tenant is now in Public Preview in Microsoft's Unified SecOps Platform](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in-microsofts-unified-/4398229)

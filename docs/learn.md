@@ -8,9 +8,11 @@
 - [Zero Trust Lab](https://microsoft.github.io/ztlabguide/)
 - [Zero Trust Workshop: Advance your knowledge with an online resource](https://www.microsoft.com/en-us/security/blog/2024/11/06/zero-trust-workshop-advance-your-knowledge-with-an-online-resource/)
 - [Microsoft Security enablement Hub](https://adoption.microsoft.com/en-us/microsoft-security/)
+- [Microsoft Defender Experts: S.T.A.R.](https://www.youtube.com/playlist?app=desktop&list=PLmAptfqzxVEXNqF--ySIIb5Kl4AdDv2Ud)
 
 ## Ninja Trainings
 
+- [Microsoft Security Exposure Management Ninja Training](https://techcommunity.microsoft.com/blog/securityexposuremanagement/microsoft-security-exposure-management-ninja-training/4444285)
 - [Welcome to the Microsoft Incident Response Ninja Hub](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594)
 - [Microsoft Sentinel & Defender XDR Virtual Ninja Training](https://adoption.microsoft.com/en-us/ninja-show/)
 - [Train your security staff for Microsoft Defender XDR](https://learn.microsoft.com/en-us/defender-xdr/microsoft-365-defender-train-security-staff)

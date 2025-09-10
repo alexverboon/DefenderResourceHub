@@ -9,6 +9,16 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Protect Copilot Studio AI Agents in Real Time with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/protect-copilot-studio-ai-agents-in-real-time-with-microsoft-defender/4446560)
+- [Protect against OAuth Attacks in Salesforce with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/protect-against-oauth-attacks-in-salesforce-with-microsoft-defender/4450584)
+- [Custom detection rules get a boost—explore what’s new in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/custom-detection-rules-get-a-boost%E2%80%94explore-what%E2%80%99s-new-in-microsoft-defender/4443602)
+- [Leaving the key under the doormat: How Microsoft Defender uses AI to spot exposed credentials](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/leaving-the-key-under-the-doormat-how-microsoft-defender-uses-ai-to-spot-exposed/4439870)
+- [Announcing Public Preview: Phishing Triage Agent in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/announcing-public-preview-phishing-triage-agent-in-microsoft-defender/4438301)
+- [Discover risks in AI model providers and MCP servers with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/discover-risks-in-ai-model-providers-and-mcp-servers-with-microsoft-defender/4440050)
+- [Microsoft Sentinel’s New Data Lake: Cut Costs & Boost Threat Detection](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-sentinel%E2%80%99s-new-data-lake-cut-costs--boost-threat-detection/4445281)
+- [Microsoft Sentinel data lake pricing (preview)](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-sentinel-data-lake-pricing-preview/4433919)
+- [Introducing Microsoft Sentinel data lake](https://techcommunity.microsoft.com/blog/microsoft-security-blog/introducing-microsoft-sentinel-data-lake/4434280)
+- [Discover and govern ChatGPT and other AI apps accessing Microsoft 365 with Defender for Cloud Apps](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/discover-and-govern-chatgpt-and-other-ai-apps-accessing-microsoft-365-with-defen/4433435)
 - [Case management now supports multiple tenants in Microsoft Defender experience](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/case-management-now-supports-multiple-tenants-in-microsoft-defender-experience/4425329)
 - [Introducing TITAN-Powered Recommendations in Security Copilot Guided Response](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/introducing-titan-powered-recommendations-in-security-copilot-guided-response/4416350)
 - [From on-premises to cloud: Graph-powered detection of hybrid attacks with Microsoft exposure graph](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/from-on-premises-to-cloud-graph-powered-detection-of-hybrid-attacks-with-microso/4416295)
@@ -93,6 +103,8 @@
 
 ## Community Blogs
 
+- [Detect security policy changes](https://www.lousec.be/ad/detect-security-policy-changes/)
+- [Windows Defender: Threat Hunting Campaign Ideas](https://www.linkedin.com/pulse/windows-defender-threat-hunting-campaign-ideas-adair-collins-lefze/)
 - [Microsoft Defender: Detecting Bumblebee Malware](https://www.linkedin.com/pulse/microsoft-defender-detecting-bumblebee-malware-adair-collins-dqc1e/)
 - [Microsoft Defender: Hunting ScreenConnect](https://www.linkedin.com/pulse/microsoft-defender-hunting-screenconnect-adair-collins-hq3xe/)
 - [Insights from the trenches: building audit capacity for Microsoft Sentinel & Defender XDR](https://www.michalos.net/2025/06/20/insights-from-the-trenches-building-audit-capacity-for-microsoft-sentinel-defender-xdr/)
@@ -117,6 +129,7 @@
 - [Details and results of an automatic attack disruption action](https://learn.microsoft.com/en-us/defender-xdr/autoad-results#hunt-for-disable-user-account-actions)
 - [How Microsoft names threat actors](https://learn.microsoft.com/en-gb/unified-secops-platform/microsoft-threat-actor-naming)
 - [Defender Setup Guides](https://setup.cloud.microsoft/defender)
+- [Modern Security Operations](https://securitypartners.transform.microsoft.com/modern-security-operations)
 
 ## Other Sources
 
@@ -127,3 +140,9 @@
 
 - [Microsoft Defender for Endpoint - demonstration scenarios](https://learn.microsoft.com/en-us/defender-endpoint/defender-endpoint-demonstrations)
 - [Attack surface reduction rules demonstrations](https://learn.microsoft.com/en-us/defender-endpoint/defender-endpoint-demonstration-attack-surface-reduction-rules#test-files)
+
+## Monthly News
+
+- [Monthly news - September 2025](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/monthly-news---september-2025/4450292)
+- [Monthly news - August 2025](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/monthly-news---august-2025/4441024)
+- [Monthly news - July 2025](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/monthly-news---july-2025/4428862)

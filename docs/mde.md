@@ -260,6 +260,7 @@
 
 ## Community Blogs
 
+- [IoC's in Defender for Endpoint](https://www.indefent.com/iocs-in-defender-for-endpoint/)
 - [Isolation Exclusion Rules: Fixing Microsoft Teams & Outlook Communication During Isolation](https://www.lousec.be/mde/isolation-exclusion-rules-fixing-microsoft-teams-outlook-communication-during-isolation/)
 - [Detecting Vulnerable Drivers (a.k.a. LOLDrivers) the Right Way Using Microsoft Defender for Endpoint](https://academy.bluraven.io/blog/detecting-vulnerable-drivers-using-defender-for-endpoint-kql)
 - [The Hitchhiker's Guide to Microsoft Defender for Endpoint exclusions](https://cloudbrothers.info/guide-to-defender-exclusions/)
@@ -355,3 +356,4 @@
 - [Nuke It From Orbit](https://github.com/lkarlslund/nifo)
 - [MDE Troubleshooter](https://github.com/ThomasVrhydn/MDE-troubleshooter)
 - [Powershell Digital Forensics & Incident Response](https://github.com/Bert-JanP/Incident-Response-Powershell)
+- [Defender for Endpoint docs](https://github.com/MicrosoftDocs/defender-docs/tree/public/defender-endpoint)
