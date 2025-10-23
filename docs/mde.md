@@ -12,6 +12,9 @@
 
 ## Microsoft Tech Community Blogs
 
+- [End of Windows 10 Support: What Defender Customers Need to Know](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/end-of-windows-10-support-what-defender-customers-need-to-know/4461349)
+- [Multi-tenant endpoint security policies distribution is now in Public Preview](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/multi-tenant-endpoint-security-policies-distribution-is-now-in-public-preview/4439929)
+- [Maintain connectivity for essential services with selective network isolation](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/maintain-connectivity-for-essential-services-with-selective-network-isolation/4422938)
 - [Behavior monitoring is now generally available for Microsoft Defender for Endpoint on macOS](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/behavior-monitoring-is-now-generally-available-for-microsoft-defender-for-endpoi/4415697)
 - [Manage global exclusion policies for Linux across both AV and EDR](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/manage-global-exclusion-policies-for-linux-across-both-av-and-edr/4420127)
 - [Discover how automatic attack disruption protects critical assets while ensuring business continuity](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/discover-how-automatic-attack-disruption-protects-critical-assets-while-ensuring/4416597)
@@ -260,6 +263,10 @@
 
 ## Community Blogs
 
+- [Tracking a device’s IP assignments with MDE’s DeviceNetworkInfo table](https://medium.com/@cybureauocracy/tracking-a-devices-ip-assignments-with-mde-s-devicenetworkinfo-table-430270ca539e)
+- [MDE’s DeviceNetworkEvents table [Part 2 — Connection* ActionTypes]](https://medium.com/@cybureauocracy/mdes-devicenetworkevents-table-part-2-connection-actiontypes-1c5ee20d2fc4)
+- [Understanding MDE’s DeviceNetworkEvents table for SOC analysts [Part 1 — Overview]](https://medium.com/@cybureauocracy/mdes-devicenetworkevents-table-for-soc-analysts-part-1-overview-094ca99b50c9)
+- [P5: Live Response in MDE](https://secureazcloud.com/microsoft-security/f/p5-live-response-in-mde?blogcategory=DEFENDER+FOR+ENDPOINT)
 - [IoC's in Defender for Endpoint](https://www.indefent.com/iocs-in-defender-for-endpoint/)
 - [Isolation Exclusion Rules: Fixing Microsoft Teams & Outlook Communication During Isolation](https://www.lousec.be/mde/isolation-exclusion-rules-fixing-microsoft-teams-outlook-communication-during-isolation/)
 - [Detecting Vulnerable Drivers (a.k.a. LOLDrivers) the Right Way Using Microsoft Defender for Endpoint](https://academy.bluraven.io/blog/detecting-vulnerable-drivers-using-defender-for-endpoint-kql)
@@ -357,3 +364,4 @@
 - [MDE Troubleshooter](https://github.com/ThomasVrhydn/MDE-troubleshooter)
 - [Powershell Digital Forensics & Incident Response](https://github.com/Bert-JanP/Incident-Response-Powershell)
 - [Defender for Endpoint docs](https://github.com/MicrosoftDocs/defender-docs/tree/public/defender-endpoint)
+- [Microsoft Vulnerable Driver Block Lists](https://github.com/Cyb3r-Monk/Microsoft-Vulnerable-Driver-Block-Lists)

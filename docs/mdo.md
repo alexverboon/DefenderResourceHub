@@ -7,6 +7,9 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Defender for Office 365: Migration & Onboarding](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-defender-for-office-365-migration--onboarding/4462906)
+- [Protection against multi-modal attacks with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/protection-against-multi-modal-attacks-with-microsoft-defender/4438786)
+- [Submissions Response Using AI for Enhanced Result Explainability](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/submissions-response-using-ai-for-enhanced-result-explainability/4423843)
 - [Protection Against Email Bombs with Microsoft Defender for Office 365](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/protection-against-email-bombs-with-microsoft-defender-for-office-365/4418048)
 - [Introducing the Microsoft Defender for Office 365 ICES vendor ecosystem](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/introducing-the-microsoft-defender-for-office-365-ices-vendor-ecosystem/4424817)
 - [Auto-Remediation of Malicious Messages in Automated Investigation and Response (AIR) is GA](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/auto-remediation-of-malicious-messages-in-automated-investigation-and-response-a/4418047?previewMessage=true)

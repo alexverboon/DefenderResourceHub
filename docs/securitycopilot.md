@@ -93,3 +93,4 @@
 - [Learn Live: Get started with Microsoft Copilot for Security](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-copilot-for-security/)
 - [How to Become a Microsoft Security Copilot Ninja: The Complete Level 400 Training](https://techcommunity.microsoft.com/blog/securitycopilotblog/how-to-become-a-microsoft-security-copilot-ninja-the-complete-level-400-training/4106928)
 - [LinkedIn Learn - Security Copilot](https://www.linkedin.com/learning/topics/microsoft-security-copilot)
+- [Security Copilot Skilling Series](https://www.youtube.com/watch?v=Rfx_4nMko1o&list=PLmAptfqzxVEWGjqfUaMx9R2DjPjrXrfjK)

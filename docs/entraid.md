@@ -1761,6 +1761,9 @@
 
 ## Community Blogs
 
+- [Detect threats using GraphAPIAuditEvents - Part 3](https://cloudbrothers.info/detect-threats-graphapiauditevents-part-3/)
+- [Detect threats using Microsoft Graph activity logs - Part 2](https://cloudbrothers.info/detect-threats-microsoft-graph-logs-part-2/)
+- [Detect threats using Microsoft Graph activity logs - Part 1](https://cloudbrothers.info/detect-threats-microsoft-graph-logs-part-1/)
 - [Entra: Retrieve Entra Connect Version Information](https://www.french365connection.co.uk/post/entra-retrieve-entra-connect-version-information)
 - [How to Secure Redirect URIs in Microsoft Entra ID Applications](https://ourcloudnetwork.com/how-to-secure-redirect-uris-in-microsoft-entra-id-applications/)
 - [What is Tier Zero — Part 1](https://posts.specterops.io/what-is-tier-zero-part-1-e0da9b7cdfca)

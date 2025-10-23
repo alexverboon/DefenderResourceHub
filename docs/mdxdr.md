@@ -103,6 +103,7 @@
 
 ## Community Blogs
 
+- [Remove old or orphaned Sentinels from the XDR Streaming API](https://cloudbrothers.info/remove-orphaned-sentinels-xdr-streaming-api/)
 - [Detect security policy changes](https://www.lousec.be/ad/detect-security-policy-changes/)
 - [Windows Defender: Threat Hunting Campaign Ideas](https://www.linkedin.com/pulse/windows-defender-threat-hunting-campaign-ideas-adair-collins-lefze/)
 - [Microsoft Defender: Detecting Bumblebee Malware](https://www.linkedin.com/pulse/microsoft-defender-detecting-bumblebee-malware-adair-collins-dqc1e/)
@@ -135,6 +136,7 @@
 
 - [EDR Telemetry](https://www.edr-telemetry.com/index.html)
 - [GraphWeaver: Billion-Scale Cybersecurity Incident Correlation](https://arxiv.org/abs/2406.01842)
+- [(Microsoft XDR table schema](https://xdrinternals.com/)
 
 ## Attack Simulations & Testing
 

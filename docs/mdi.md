@@ -7,6 +7,9 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Monthly news - October 2025](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/monthly-news---october-2025/4458349)
+- [How Microsoft Defender helps security teams detect prompt injection attacks in Microsoft 365 Copilot](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/how-microsoft-defender-helps-security-teams-detect-prompt-injection-attacks-in-m/4457047)
+- [Announcing General Availability: Unified identity and endpoint sensor](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/announcing-general-availability-unified-identity-and-endpoint-sensor/4463585)
 - [Scope Identity Protection with Defender for Identity](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/new-scope-identity-protection-with-defender-for-identity/4422968)
 - [Microsoft Defender for Identity has announced the public preview of a new service account discovery module that automatically identifies and classifies service accounts in Active Directory](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/discover-and-protect-service-accounts-with-microsoft-defender-for-identity/4395347)
 - [Expanding the Identity perimeter: the rise of non-human identities](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/expanding-the-identity-perimeter-the-rise-of-non-human-identities/4418953)

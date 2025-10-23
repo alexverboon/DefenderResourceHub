@@ -8,6 +8,14 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Introducing Microsoft Sentinel graph (Public Preview)](https://techcommunity.microsoft.com/blog/microsoft-security-blog/introducing-microsoft-sentinel-graph-public-preview/4456368)
+- [Microsoft Sentinel data lake is now generally available](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-sentinel-data-lake-is-now-generally-available/4456342)
+- [New bi-directional export for TI in Microsoft Sentinel and strategic Cyware partnership](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/new-bi-directional-export-for-ti-in-microsoft-sentinel-and-strategic-cyware-part/4457947)
+- [6 truths about migrating Microsoft Sentinel to the Defender portal](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/6-truths-about-migrating-microsoft-sentinel-to-the-defender-portal/4460437)
+- [Microsoft Sentinel data lake FAQ](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-data-lake-faq/4457728)
+- [App Assure's Sentinel promise now extends to Microsoft Sentinel data lake](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/app-assures-sentinel-promise-now-extends-to-microsoft-sentinel-data-lake/4454612)
+- [Microsoft Sentinel and Defender: ITSM Integrations Explained](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-and-defender-itsm-integrations-explained/4457282)
+- [Automate Security Workflows in Microsoft Sentinel with BlinkOps](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/automate-security-workflows-in-microsoft-sentinel-with-blinkops/4454575)
 - [Microsoft Sentinel’s AI-driven UEBA ushers in the next era of behavioral analytics](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel%E2%80%99s-ai-driven-ueba-ushers-in-the-next-era-of-behavioral-analyti/4448390)
 - [How to: Ingest Splunk alert data to Microsoft Sentinel SIEM](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/how-to-ingest-splunk-alert-data-to-microsoft-sentinel-siem/4449027)
 - [Table Talk: Sentinel’s New ThreatIntel Tables Explained](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/table-talk-sentinel%E2%80%99s-new-threatintel-tables-explained/4440273)
@@ -571,6 +579,7 @@
 
 ## Community Blogs
 
+- [Protecting Your Microsoft Sentinel Solution from Deletion or Corruption](https://cybermohr.ghost.io/2025/05/28/protecting-your-microsoft-sentinel-solution-from-deletion-or-corruption/)
 - [SentinelCodeGuard: A Journey from Concept to VS Code Plugin](https://sentinel.blog/sentinelcodeguard-a-journey-from-concept-to-vs-code-plugin/)
 - [SentinelCodeGuard: Revolutionising Microsoft Sentinel Rule Development](https://sentinel.blog/sentinelcodeguard-revolutionizing-microsoft-sentinel-rule-development/)
 - [Simplifying Azure Log Analytics Table Retention Management: A Modern Approach](https://sentinel.blog/simplifying-azure-log-analytics-table-retention-management-a-modern-approach/)

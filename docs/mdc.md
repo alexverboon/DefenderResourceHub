@@ -8,6 +8,10 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Securing GenAI Workloads in Azure: A Complete Guide to Monitoring and Threat Protection - AIO11Y](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/securing-genai-workloads-in-azure-a-complete-guide-to-monitoring-and-threat-prot/4463145)
+- [Secure AI by Design Series: Embedding Security and Governance Across the AI Lifecycle](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/secure-ai-by-design-series-embedding-security-and-governance-across-the-ai-lifec/4457200)
+- [Defender for Storage: Malware Automated Remediation - From Security to Protection](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/defender-for-storage-malware-automated-remediation---from-security-to-protection/4457040)
+- [Automated Remediation for Malware Detection - Defender for Storage](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/automated-remediation-for-malware-detection---defender-for-storage/4454641)
 - [New feature in Defender for Storage: Optional Index Tags](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/new-feature-in-defender-for-storage-optional-index-tags/4427987)
 - [Optimizing Resource Allocation with Microsoft Defender CSPM](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/optimizing-resource-allocation-with-microsoft-defender-cspm/4427785)
 - [Microsoft Named a Leader in the IDC MarketScape for CNAPP: Key Takeaways for Security Buyers](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-named-a-leader-in-the-idc-marketscape-for-cnapp-key-takeaways-for-secu/4427071)
