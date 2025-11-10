@@ -34,6 +34,8 @@
 
 ## Community Blogs
 
+- [Mastering Policies in Defender for Cloud Apps: A Deep Dive for the SOC Trenches](https://www.itprofessor.cloud/defender-for-cloud-apps-policy-management-deep-dive/)
+- [A SOC Analyst's Introduction to Defender for Cloud Apps](https://www.itprofessor.cloud/defender-for-cloud-apps-shadow-it-guide/)
 - [How to check for OAuth apps with specific Graph permissions assigned](https://jeffreyappel.nl/how-to-check-for-oauth-apps-with-specific-graph-permissions-assigned/)
 - [How to secure OAuth apps with App Governance in Defender XDR](https://jeffreyappel.nl/how-to-secure-oauth-apps-with-app-governance-in-defender-xdr/)
 - [Block apps (discovered/ shadow IT) with Defender for Cloud Apps and Defender for Endpoint](https://jeffreyappel.nl/block-apps-discovered-shadow-it-with-defender-for-cloud-apps-and-defender-for-endpoint/)

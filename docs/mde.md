@@ -263,6 +263,7 @@
 
 ## Community Blogs
 
+- [Guidance on how to manage products updates for Defender for Server on Linux distributions](https://vertho.tech/2025/08/27/guidance-on-how-to-manage-products-updates-for-defender-for-server-on-linux-distributions/)
 - [Tracking a device’s IP assignments with MDE’s DeviceNetworkInfo table](https://medium.com/@cybureauocracy/tracking-a-devices-ip-assignments-with-mde-s-devicenetworkinfo-table-430270ca539e)
 - [MDE’s DeviceNetworkEvents table [Part 2 — Connection* ActionTypes]](https://medium.com/@cybureauocracy/mdes-devicenetworkevents-table-part-2-connection-actiontypes-1c5ee20d2fc4)
 - [Understanding MDE’s DeviceNetworkEvents table for SOC analysts [Part 1 — Overview]](https://medium.com/@cybureauocracy/mdes-devicenetworkevents-table-for-soc-analysts-part-1-overview-094ca99b50c9)
@@ -365,3 +366,9 @@
 - [Powershell Digital Forensics & Incident Response](https://github.com/Bert-JanP/Incident-Response-Powershell)
 - [Defender for Endpoint docs](https://github.com/MicrosoftDocs/defender-docs/tree/public/defender-endpoint)
 - [Microsoft Vulnerable Driver Block Lists](https://github.com/Cyb3r-Monk/Microsoft-Vulnerable-Driver-Block-Lists)
+- [Deploying Defender for Endpoint for macOS using Microsoft Intune](https://github.com/yujiaoMSFT/Microsoft-Defender-For-Endpoint/blob/main/macOS/Deploy-MDE-macOS-with-Intune/readme.md)
+- [MDE Monitoring App](https://github.com/chlaplan/MDE-Monitoring-App)
+
+## Simulations
+
+- [Microsoft Defender for Endpoint - demonstration scenarios](https://learn.microsoft.com/en-us/defender-endpoint/defender-endpoint-demonstrations)

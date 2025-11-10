@@ -352,6 +352,7 @@
 
 ## Community Blogs
 
+- [Hunting Ransomware in Storage Accounts (When You Can't Afford Defender)](https://www.itprofessor.cloud/sentinel-storage-account-ransomware-hunting/)
 - [AI workload threat protection in Microsoft Defender for Cloud](https://jeffreyappel.nl/ai-workload-threat-protection-in-microsoft-defender-for-cloud/)
 - [AZURE PENTESTING — EXPLOITING THE ANONYMOUS ACCESS TO THE BLOB STORAGE — Draft Eng — Updated :)](https://braropad.medium.com/azure-pentesting-exploiting-the-anonymous-access-to-the-blob-storage-draft-english-d80f3831a590)
 - [Understanding Microsoft CNAPP: How Defender for Cloud Secures Your Multicloud Workloads](https://www.basevision.ch/understanding-microsoft-cnapp-how-defender-for-cloud-secures-your-multicloud-workloads/)

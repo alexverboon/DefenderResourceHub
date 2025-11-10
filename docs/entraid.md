@@ -1761,6 +1761,9 @@
 
 ## Community Blogs
 
+- [Disable Entra Connect Seamless SSO – Step-by-Step Guide](https://www.cloudcoffee.ch/microsoft-azure/disable-entra-connect-seamless-sso/)
+- [Some policies I use in Conditional Access](https://conditionalaccess.uk/some-policies-i-use-in-conditional-access/)
+- [Token Theft to Account Takeover: How a Stolen Entra ID Token Can Bypass Two-Factor Authentication (MFA)](https://medium.com/@benj_774/token-theft-to-account-takeover-how-a-stolen-entra-id-token-can-bypass-two-factor-authentication-7d3e37311134)
 - [Detect threats using GraphAPIAuditEvents - Part 3](https://cloudbrothers.info/detect-threats-graphapiauditevents-part-3/)
 - [Detect threats using Microsoft Graph activity logs - Part 2](https://cloudbrothers.info/detect-threats-microsoft-graph-logs-part-2/)
 - [Detect threats using Microsoft Graph activity logs - Part 1](https://cloudbrothers.info/detect-threats-microsoft-graph-logs-part-1/)
@@ -1855,6 +1858,7 @@
 - [AAGUIDs](https://aaguid.nicolasuter.ch/)
 - [Microsoft 365 Message Center Archive](https://mc.merill.net/)
 - [Tier 0 Table](https://github.com/SpecterOps/TierZeroTable/)
+- [https://www.entradocumentation.com/](https://www.entradocumentation.com/)
 
 ## EntraOps Classification and Automation
 

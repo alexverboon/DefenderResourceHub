@@ -9,6 +9,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Custom detections are now the unified experience for creating detections in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/custom-detections-are-now-the-unified-experience-for-creating-detections-in-micr/4463875)
+- [How Microsoft Defender helps security teams detect prompt injection attacks in Microsoft 365 Copilot](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/how-microsoft-defender-helps-security-teams-detect-prompt-injection-attacks-in-m/4457047)
 - [Protect Copilot Studio AI Agents in Real Time with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/protect-copilot-studio-ai-agents-in-real-time-with-microsoft-defender/4446560)
 - [Protect against OAuth Attacks in Salesforce with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/protect-against-oauth-attacks-in-salesforce-with-microsoft-defender/4450584)
 - [Custom detection rules get a boost—explore what’s new in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/custom-detection-rules-get-a-boost%E2%80%94explore-what%E2%80%99s-new-in-microsoft-defender/4443602)
@@ -103,6 +105,7 @@
 
 ## Community Blogs
 
+- [The ultimate Defender XDR RBAC visualization](https://vertho.tech/2025/09/29/the-ultimate-defender-xdr-rbac-visualization/)
 - [Remove old or orphaned Sentinels from the XDR Streaming API](https://cloudbrothers.info/remove-orphaned-sentinels-xdr-streaming-api/)
 - [Detect security policy changes](https://www.lousec.be/ad/detect-security-policy-changes/)
 - [Windows Defender: Threat Hunting Campaign Ideas](https://www.linkedin.com/pulse/windows-defender-threat-hunting-campaign-ideas-adair-collins-lefze/)
@@ -137,6 +140,7 @@
 - [EDR Telemetry](https://www.edr-telemetry.com/index.html)
 - [GraphWeaver: Billion-Scale Cybersecurity Incident Correlation](https://arxiv.org/abs/2406.01842)
 - [(Microsoft XDR table schema](https://xdrinternals.com/)
+- [Defender XDR RBAC](https://vertho.tech/rbac-xdr/)
 
 ## Attack Simulations & Testing
 

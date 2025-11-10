@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Announcing General Availability: Unified identity and endpoint sensor](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/announcing-general-availability-unified-identity-and-endpoint-sensor/4463585)
 - [Monthly news - October 2025](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/monthly-news---october-2025/4458349)
 - [How Microsoft Defender helps security teams detect prompt injection attacks in Microsoft 365 Copilot](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/how-microsoft-defender-helps-security-teams-detect-prompt-injection-attacks-in-m/4457047)
 - [Announcing General Availability: Unified identity and endpoint sensor](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/announcing-general-availability-unified-identity-and-endpoint-sensor/4463585)

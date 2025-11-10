@@ -8,6 +8,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Using Microsoft Sentinel MCP Server with GitHub Copilot for AI-Powered Threat Hunting](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/using-microsoft-sentinel-mcp-server-with-github-copilot-for-ai-powered-threat-hu/4464980)
 - [Introducing Microsoft Sentinel graph (Public Preview)](https://techcommunity.microsoft.com/blog/microsoft-security-blog/introducing-microsoft-sentinel-graph-public-preview/4456368)
 - [Microsoft Sentinel data lake is now generally available](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-sentinel-data-lake-is-now-generally-available/4456342)
 - [New bi-directional export for TI in Microsoft Sentinel and strategic Cyware partnership](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/new-bi-directional-export-for-ti-in-microsoft-sentinel-and-strategic-cyware-part/4457947)
@@ -579,6 +580,9 @@
 
 ## Community Blogs
 
+- [Boost Your TI: Integrating Free AlienVault OTX IOCs into Microsoft Sentinel](https://medium.com/@benj_774/boost-your-ti-integrating-free-alienvault-otx-iocs-into-microsoft-sentinel-02d6a743ddb9)
+- [Sentinel Watchlists: A Diamond in the rough](https://medium.com/@benj_774/sentinel-watchlists-a-diamond-in-the-rough-16f214f24416)
+- [The KQL User Audit Playbook: Your Template for Investigations](https://www.itprofessor.cloud/kql-user-audit-playbook/)
 - [Protecting Your Microsoft Sentinel Solution from Deletion or Corruption](https://cybermohr.ghost.io/2025/05/28/protecting-your-microsoft-sentinel-solution-from-deletion-or-corruption/)
 - [SentinelCodeGuard: A Journey from Concept to VS Code Plugin](https://sentinel.blog/sentinelcodeguard-a-journey-from-concept-to-vs-code-plugin/)
 - [SentinelCodeGuard: Revolutionising Microsoft Sentinel Rule Development](https://sentinel.blog/sentinelcodeguard-revolutionizing-microsoft-sentinel-rule-development/)
