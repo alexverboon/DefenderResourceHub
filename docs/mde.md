@@ -12,6 +12,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Ignite 2025: Microsoft Defender now prevents threats on endpoints during an attack](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/ignite-2025-microsoft-defender-now-prevents-threats-on-endpoints-during-an-attac/4470805)
+
 - [End of Windows 10 Support: What Defender Customers Need to Know](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/end-of-windows-10-support-what-defender-customers-need-to-know/4461349)
 - [Multi-tenant endpoint security policies distribution is now in Public Preview](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/multi-tenant-endpoint-security-policies-distribution-is-now-in-public-preview/4439929)
 - [Maintain connectivity for essential services with selective network isolation](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/maintain-connectivity-for-essential-services-with-selective-network-isolation/4422938)

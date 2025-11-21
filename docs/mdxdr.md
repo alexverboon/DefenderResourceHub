@@ -9,6 +9,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Ignite 2025: What's new in Microsoft Defender?](https://techcommunity.microsoft.com/blog/MicrosoftThreatProtectionBlog/ignite-2025-whats-new-in-microsoft-defender/4469996)
 - [Custom detections are now the unified experience for creating detections in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/custom-detections-are-now-the-unified-experience-for-creating-detections-in-micr/4463875)
 - [How Microsoft Defender helps security teams detect prompt injection attacks in Microsoft 365 Copilot](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/how-microsoft-defender-helps-security-teams-detect-prompt-injection-attacks-in-m/4457047)
 - [Protect Copilot Studio AI Agents in Real Time with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/protect-copilot-studio-ai-agents-in-real-time-with-microsoft-defender/4446560)
