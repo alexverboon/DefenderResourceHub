@@ -106,6 +106,7 @@
 
 ## Community Blogs
 
+- [Migrating Microsoft Sentinel to Microsoft Defender XDR](https://infernux.no/blog/migratingsentineltodefenderxdr/)
 - [The ultimate Defender XDR RBAC visualization](https://vertho.tech/2025/09/29/the-ultimate-defender-xdr-rbac-visualization/)
 - [Remove old or orphaned Sentinels from the XDR Streaming API](https://cloudbrothers.info/remove-orphaned-sentinels-xdr-streaming-api/)
 - [Detect security policy changes](https://www.lousec.be/ad/detect-security-policy-changes/)

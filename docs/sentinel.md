@@ -8,6 +8,19 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Announcing AI Entity Analyzer in Microsoft Sentinel MCP Server - Public Preview](https://techcommunity.microsoft.com/blog/microsoft-security-blog/announcing-ai-entity-analyzer-in-microsoft-sentinel-mcp-server---public-preview/4476230)
+- [Microsoft Sentinel Platform: Audit Logs and Where to Find Them](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-platform-audit-logs-and-where-to-find-them/4481838)
+- [Managing Microsoft Sentinel and Microsoft Defender XDR permissions in Microsoft Defender portal](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/managing-microsoft-sentinel-and-microsoft-defender-xdr-permissions-in-microsoft-/4480583)
+- [Call to Action: Migrate Your Classic Alert‑trigger Automations to Automation Rules Before March 2026](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/call-to-action-migrate-your-classic-alert%E2%80%91trigger-automations-to-automation-rule/4479137)
+- [Efficiently process high volume logs and optimize costs with Microsoft Sentinel data lake](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/efficiently-process-high-volume-logs-and-optimize-costs-with-microsoft-sentinel-/4478110)
+- [What’s New in Microsoft Sentinel: December 2025](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-in-microsoft-sentinel-december-2025/4477063)
+- [Build less, secure more: Simplify security data management with Microsoft Sentinel data lake](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/build-less-secure-more-simplify-security-data-management-with-microsoft-sentinel/4474792)
+- [New Compliance Solutions in Microsoft Sentinel: HIPAA & GDPR Reports](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/new-compliance-solutions-in-microsoft-sentinel-hipaa--gdpr-reports/4470452)
+- [Ignite 2025: New Microsoft Sentinel Connectors Announcement](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/ignite-2025-new-microsoft-sentinel-connectors-announcement/4454613)
+- [Detect more, spend less: the future of threat intelligence correlation](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/detect-more-spend-less-the-future-of-threat-intelligence-correlation/4468661)
+- [Operationalizing the Sentinel data lake: A Practitioner’s Guide](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/operationalizing-the-sentinel-data-lake-a-practitioner%E2%80%99s-guide/4466042)
+- [Automating IOC hunts in Microsoft Sentinel data lake](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/automating-ioc-hunts-in-microsoft-sentinel-data-lake/4467113)
+- [What’s New in Microsoft Sentinel: November 2025](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-in-microsoft-sentinel-november-2025/4466061)
 - [Using Microsoft Sentinel MCP Server with GitHub Copilot for AI-Powered Threat Hunting](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/using-microsoft-sentinel-mcp-server-with-github-copilot-for-ai-powered-threat-hu/4464980)
 - [Introducing Microsoft Sentinel graph (Public Preview)](https://techcommunity.microsoft.com/blog/microsoft-security-blog/introducing-microsoft-sentinel-graph-public-preview/4456368)
 - [Microsoft Sentinel data lake is now generally available](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-sentinel-data-lake-is-now-generally-available/4456342)

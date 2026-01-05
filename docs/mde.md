@@ -9,11 +9,11 @@
 - [What's new in Microsoft Defender for Endpoint on Mac](https://learn.microsoft.com/en-us/defender-endpoint/mac-whatsnew)
 - [What's new in Microsoft Defender for Endpoint on Linux](https://learn.microsoft.com/en-us/defender-endpoint/linux-whatsnew)
 - [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623)
+- [Defender for Endpoint - Error Codes](https://github.com/MicrosoftDocs/defender-docs/blob/public/defender-endpoint/event-error-codes.md)
 
 ## Microsoft Tech Community Blogs
 
 - [Ignite 2025: Microsoft Defender now prevents threats on endpoints during an attack](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/ignite-2025-microsoft-defender-now-prevents-threats-on-endpoints-during-an-attac/4470805)
-
 - [End of Windows 10 Support: What Defender Customers Need to Know](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/end-of-windows-10-support-what-defender-customers-need-to-know/4461349)
 - [Multi-tenant endpoint security policies distribution is now in Public Preview](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/multi-tenant-endpoint-security-policies-distribution-is-now-in-public-preview/4439929)
 - [Maintain connectivity for essential services with selective network isolation](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/maintain-connectivity-for-essential-services-with-selective-network-isolation/4422938)
@@ -265,6 +265,11 @@
 
 ## Community Blogs
 
+- [Bind Link – EDR Tampering](https://ipurple.team/2025/12/01/bind-link-edr-tampering/)
+- [Modern Security for Legacy Systems](https://medium.com/@verboonalex/modern-security-for-legacy-systems-0cb96f95a949)
+- [What is Microsoft Defender for Endpoint, for the Endpoint](https://kostaskoutrou.github.io/2025/12/17/what-is-mde.html)
+- [Microsoft Defender for Endpoint Internal 0x06 — Custom Collection](https://medium.com/falconforce/microsoft-defender-for-endpoint-internal-0x06-custom-collection-81fc1042b87c)
+- [Defender for Endpoint - Custom Data Collection Rules](https://infernux.no/blog/defenderforendpoint-customdatacollectionrules/)
 - [Guidance on how to manage products updates for Defender for Server on Linux distributions](https://vertho.tech/2025/08/27/guidance-on-how-to-manage-products-updates-for-defender-for-server-on-linux-distributions/)
 - [Tracking a device’s IP assignments with MDE’s DeviceNetworkInfo table](https://medium.com/@cybureauocracy/tracking-a-devices-ip-assignments-with-mde-s-devicenetworkinfo-table-430270ca539e)
 - [MDE’s DeviceNetworkEvents table [Part 2 — Connection* ActionTypes]](https://medium.com/@cybureauocracy/mdes-devicenetworkevents-table-part-2-connection-actiontypes-1c5ee20d2fc4)
@@ -370,6 +375,8 @@
 - [Microsoft Vulnerable Driver Block Lists](https://github.com/Cyb3r-Monk/Microsoft-Vulnerable-Driver-Block-Lists)
 - [Deploying Defender for Endpoint for macOS using Microsoft Intune](https://github.com/yujiaoMSFT/Microsoft-Defender-For-Endpoint/blob/main/macOS/Deploy-MDE-macOS-with-Intune/readme.md)
 - [MDE Monitoring App](https://github.com/chlaplan/MDE-Monitoring-App)
+- [TelemetryCollectionManager](https://github.com/FalconForceTeam/TelemetryCollectionManager)
+- [MISP2Defender](https://github.com/cudeso/misp2defender)
 
 ## Simulations
 

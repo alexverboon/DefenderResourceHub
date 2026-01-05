@@ -9,6 +9,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Ignite’25 Spotlight: Announcing Microsoft Baseline security mode](https://techcommunity.microsoft.com/blog/microsoft_365blog/ignite%E2%80%9925-spotlight-announcing-microsoft-baseline-security-mode/4469709#community-4469709-authentication)
 - [Important Update: Azure AD Graph retirement](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/important-update-azure-ad-graph-retirement/4364990)
 - [Important Update: AzureAD PowerShell retirement](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/important-update-azuread-powershell-retirement/4364989)
 - [OAuth consent phishing explained and prevented](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/oauth-consent-phishing-explained-and-prevented/4423357)
@@ -1859,6 +1860,7 @@
 - [Microsoft 365 Message Center Archive](https://mc.merill.net/)
 - [Tier 0 Table](https://github.com/SpecterOps/TierZeroTable/)
 - [https://www.entradocumentation.com/](https://www.entradocumentation.com/)
+- [Conditional Access Documenter](https://idpowertoys.merill.net/ca)
 
 ## EntraOps Classification and Automation
 

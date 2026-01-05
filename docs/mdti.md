@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Detect more, spend less: the future of threat intelligence correlation](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/detect-more-spend-less-the-future-of-threat-intelligence-correlation/4468661)
 - [New Copilot for Security Plugin Name Reflects Broader Capabilities](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-copilot-for-security-plugin-name-reflects-broader/ba-p/4258810)
 - [MDTI for Government Now Available](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/mdti-for-government-now-available/ba-p/4258823)
 - [Introducing the MDTI Article Digest](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/introducing-the-mdti-article-digest/ba-p/4223917)
