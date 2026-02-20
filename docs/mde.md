@@ -13,6 +13,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Introducing library management in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/introducing-library-management-in-microsoft-defender/4494434)
 - [Ignite 2025: Microsoft Defender now prevents threats on endpoints during an attack](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/ignite-2025-microsoft-defender-now-prevents-threats-on-endpoints-during-an-attac/4470805)
 - [End of Windows 10 Support: What Defender Customers Need to Know](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/end-of-windows-10-support-what-defender-customers-need-to-know/4461349)
 - [Multi-tenant endpoint security policies distribution is now in Public Preview](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/multi-tenant-endpoint-security-policies-distribution-is-now-in-public-preview/4439929)
@@ -377,6 +378,7 @@
 - [MDE Monitoring App](https://github.com/chlaplan/MDE-Monitoring-App)
 - [TelemetryCollectionManager](https://github.com/FalconForceTeam/TelemetryCollectionManager)
 - [MISP2Defender](https://github.com/cudeso/misp2defender)
+- [MAPS Cloud Scanner](https://github.com/HackingLZ/maps_scanner)
 
 ## Simulations
 
