@@ -1,0 +1,1809 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://alexverboon.github.io/DefenderResourceHub/mde/">
+      
+      
+        <link rel="prev" href="../mdxdr/">
+      
+      
+        <link rel="next" href="../mdi/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.2">
+    
+    
+      
+        <title>Microsoft Defender for Endpoint - Defender Resource Hub</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+  
+  
+    
+      
+      
+    
+  
+  
+  <style>:root{--md-admonition-icon--<type>:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2016%2016%22%3E%3Cpath%20d%3D%22M6.457%201.047c.659-1.234%202.427-1.234%203.086%200l6.082%2011.378A1.75%201.75%200%200%201%2014.082%2015H1.918a1.75%201.75%200%200%201-1.543-2.575Zm1.763.707a.25.25%200%200%200-.44%200L1.698%2013.132a.25.25%200%200%200%20.22.368h12.164a.25.25%200%200%200%20.22-.368Zm.53%203.996v2.5a.75.75%200%200%201-1.5%200v-2.5a.75.75%200%200%201%201.5%200M9%2011a1%201%200%201%201-2%200%201%201%200%200%201%202%200%22/%3E%3C/svg%3E');}</style>
+
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#microsoft-defender-for-endpoint" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Defender Resource Hub" class="md-header__button md-logo" aria-label="Defender Resource Hub" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Defender Resource Hub
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Microsoft Defender for Endpoint
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="cyan"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/alexverboon/DefenderResourceHub" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Defender Resource Hub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../entraid/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Microsoft Security stack
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../podcasts/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Podcasts & Newsletters
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../social/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Social Media
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../videos/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Webinars & Videos
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../learn/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Learning & Training
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../books/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Books
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../GitHub/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  GitHub
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../about/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  About this Project
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Defender Resource Hub" class="md-nav__button md-logo" aria-label="Defender Resource Hub" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Defender Resource Hub
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/alexverboon/DefenderResourceHub" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Defender Resource Hub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Security stack
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Microsoft Security stack
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../entraid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft EntraID
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sentinel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Sentinel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../xspm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Security Exposure Management
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdxdr/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender XDR
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Endpoint
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Endpoint
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#microsoft-tech-community-blogs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Microsoft Tech Community Blogs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community-blogs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Community Blogs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#github" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GitHub
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#simulations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Simulations
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Identity
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Office 365
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdca/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Cloud Apps
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Cloud
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdiot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for IoT
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdeasm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender External Attack Surface Management
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../securitycopilot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Copilot for Security
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdtvm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender Threat and Vulnerability Management
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdti/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Threat Intelligence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../azurenetworksecurity/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Azure Network Security
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../podcasts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Podcasts & Newsletters
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../social/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Social Media
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../videos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webinars & Videos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../learn/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learning & Training
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../books/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Books
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../GitHub/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    GitHub
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About this Project
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#microsoft-tech-community-blogs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Microsoft Tech Community Blogs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community-blogs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Community Blogs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#github" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GitHub
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#simulations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Simulations
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="microsoft-defender-for-endpoint">Microsoft Defender for Endpoint</h1>
+<ul>
+<li><a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint">Microsoft Defender for Endpoint</a></li>
+<li><a href="https://learn.microsoft.com/en-us/defender-endpoint/">Microsoft Defender for Endpoint Documentation</a></li>
+<li><a href="https://learn.microsoft.com/en-us/defender-endpoint/whats-new-in-microsoft-defender-endpoint">What’s new in Microsoft Defender for Endpoint</a></li>
+<li><a href="https://learn.microsoft.com/en-us/defender-endpoint/ios-whatsnew#network-protection">What's new in Microsoft Defender for Endpoint on iOS</a></li>
+<li><a href="https://learn.microsoft.com/en-us/defender-endpoint/android-whatsnew">What's new in Microsoft Defender for Endpoint on Android</a></li>
+<li><a href="https://learn.microsoft.com/en-us/defender-endpoint/windows-whatsnew">What's new in Microsoft Defender for Endpoint on Windows</a></li>
+<li><a href="https://learn.microsoft.com/en-us/defender-endpoint/mac-whatsnew">What's new in Microsoft Defender for Endpoint on Mac</a></li>
+<li><a href="https://learn.microsoft.com/en-us/defender-endpoint/linux-whatsnew">What's new in Microsoft Defender for Endpoint on Linux</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623">Become a Microsoft Defender for Endpoint Ninja</a></li>
+<li><a href="https://github.com/MicrosoftDocs/defender-docs/blob/public/defender-endpoint/event-error-codes.md">Defender for Endpoint - Error Codes</a></li>
+</ul>
+<h2 id="microsoft-tech-community-blogs">Microsoft Tech Community Blogs</h2>
+<ul>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/introducing-library-management-in-microsoft-defender/4494434">Introducing library management in Microsoft Defender</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/ignite-2025-microsoft-defender-now-prevents-threats-on-endpoints-during-an-attac/4470805">Ignite 2025: Microsoft Defender now prevents threats on endpoints during an attack</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/end-of-windows-10-support-what-defender-customers-need-to-know/4461349">End of Windows 10 Support: What Defender Customers Need to Know</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/multi-tenant-endpoint-security-policies-distribution-is-now-in-public-preview/4439929">Multi-tenant endpoint security policies distribution is now in Public Preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/maintain-connectivity-for-essential-services-with-selective-network-isolation/4422938">Maintain connectivity for essential services with selective network isolation</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/behavior-monitoring-is-now-generally-available-for-microsoft-defender-for-endpoi/4415697">Behavior monitoring is now generally available for Microsoft Defender for Endpoint on macOS</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/manage-global-exclusion-policies-for-linux-across-both-av-and-edr/4420127">Manage global exclusion policies for Linux across both AV and EDR</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/discover-how-automatic-attack-disruption-protects-critical-assets-while-ensuring/4416597">Discover how automatic attack disruption protects critical assets while ensuring business continuity</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/block-malicious-command-lines-with-microsoft-defender-for-endpoint/4373943">Block malicious command lines with Microsoft Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/get-greater-visibility-with-aggregated-reporting-of-endpoint-telemetry-signals/4366712">Get greater visibility with aggregated reporting of endpoint telemetry signals</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/defender-for-endpoint-extends-support-to-arm-based-linux-servers/4364066">Defender for Endpoint extends support to ARM-based Linux servers</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/protect-your-single-core-linux-servers-with-defender/4356966">Protect your single-core Linux servers with Defender</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/the-unified-agent-now-combines-protection-across-endpoints-ot-devices-identities/4303805">The unified agent now combines protection across endpoints, OT devices, identities, and DLP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/security-settings-management-is-available-for-multi-tenant/ba-p/4250996">Security settings management is available for multi-tenant environments in Microsoft Defender XDR</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-s-safe-deployment-practices/ba-p/4220342">Microsoft Defender for Endpoint’s Safe Deployment Practices</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-compromised-rdp-sessions-with-microsoft-defender-for/ba-p/4201003">Detect compromised RDP sessions with Microsoft Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/reduce-friction-and-protect-faster-with-simplified-android/ba-p/4206049">Reduce friction and protect faster with simplified Android onboarding</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-more-device-control-flexibility-with-bitlocker-settings-in/ba-p/4175131">Get more device control flexibility with BitLocker settings in Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detect-suspicious-processes-running-on-hidden-desktops/ba-p/4072322">Detect suspicious processes running on hidden desktops</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplify-triage-with-the-new-alert-timeline/ba-p/4152653">Simplify triage with the new Alert Timeline</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/offline-security-intelligence-update-is-now-ga/ba-p/4102370">Offline Security Intelligence Update is now GA</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-investigation-and-response-capabilities-for-macos/ba-p/4054492">Use the new investigation and response capabilities for macOS and Linux</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-your-devices-with-ease-using-dynamic-rules-for-device/ba-p/4024988">Manage your devices with ease using dynamic rules for device tagging in Microsoft Defender</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/get-greater-flexibility-across-ios-deployments-with-user/ba-p/4002544">Get greater flexibility across iOS deployments with User Enrollment support in Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-news-augment-your-edr-with-deception-tactics-to-catch/ba-p/3982253">Ignite News: Augment your EDR with deception tactics to catch adversaries early</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/simplified-security-settings-management-is-now-generally/ba-p/3975158">Simplified security settings management is now generally available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-a-streamlined-device-connectivity-experience-for/ba-p/3956236">Announcing a streamlined device connectivity experience for Microsoft Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-data-can-now-be-hosted-locally-in-australia/ba-p/3898337">Microsoft Defender data can now be hosted locally in Australia</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-mobile-device-tagging-for-ios-and-android/ba-p/3897368">Announcing mobile device tagging for iOS and Android</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/optimizing-endpoint-security-with-microsoft-defender-for/ba-p/3893746">Optimizing endpoint security with Microsoft Defender for Endpoint's flexible licensing options</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-ebpf-based-sensor-for-defender-for-endpoint-on-linux/ba-p/3873720">Use the new eBPF-based sensor for Defender for Endpoint on Linux</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/now-in-public-preview-device-isolation-and-av-scanning-for-linux/ba-p/3869646">Now in Public Preview: Device isolation and AV scanning for Linux and macOS</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-security-settings-for-windows-macos-and-linux-natively-in/ba-p/3870617">Manage security settings for Windows, macOS, and Linux natively in Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-the-monthly-security-summary-report-for-microsoft/ba-p/3840628">Announcing the monthly security summary report for Microsoft Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discovering-internet-facing-devices-using-microsoft-defender-for/ba-p/3778975">Discovering internet-facing devices using Microsoft Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/enrich-your-advanced-hunting-experience-using-network-layer/ba-p/3794693">Enrich your advanced hunting experience using network layer signals from Zeek</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-and-disconnected-environments-cloud/ba-p/3786540">Defender for Endpoint and disconnected environments. Cloud-centric networking decisions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-awarded-best-advanced-protection-for-corporate-and/ba-p/3765332">Microsoft awarded Best Advanced Protection for Corporate and Consumer Users by AV-TEST</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-and-disconnected-environments-which-proxy/ba-p/3738899">Defender for Endpoint and disconnected environments. Which proxy configuration wins?</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/push-asr-rules-with-security-settings-management-on-microsoft/ba-p/3635129">Push ASR rules with Security Settings Management on Microsoft Defender for Endpoint managed devices</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-device-isolation-support-for-linux/ba-p/3676400">Announcing device isolation support for Linux</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/recovering-from-attack-surface-reduction-rule-shortcut-deletions/ba-p/3716011">Recovering from Attack Surface Reduction rule shortcut deletions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-tamper-protection-for-exclusions/ba-p/3713761">Introducing tamper protection for exclusions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/disconnected-environments-proxies-and-microsoft-defender-for/ba-p/3710502">Disconnected environments, proxies and Microsoft Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-network-based-detections-and-improved-device-discovery-using/ba-p/3682111">New network-based detections and improved device discovery using Zeek</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-new-removable-storage-management-features-on-windows/ba-p/3678197">Announcing new removable storage management features on Windows</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-microsoft-365-defender-api-for-all-your-alerts/ba-p/3674059">Use the new Microsoft 365 Defender API for all your alerts</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detecting-and-remediating-command-and-control-attacks-at-the/ba-p/3650607">Detecting and remediating command and control attacks at the network layer</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/tamper-protection-will-be-turned-on-for-all-enterprise-customers/ba-p/3616478">Tamper protection will be turned on for all enterprise customers</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-is-now-available-on-android/ba-p/3626100">Microsoft Defender for Endpoint is now available on Android company-owned personally enabled devices</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/improving-device-discoverability-and-classification-within-mde/ba-p/3625559">Improving device discoverability and classification within MDE using Defender for Identity</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/attack-surface-reduction-asr-rules-report-2-0-in-microsoft-365/ba-p/3618641">Attack Surface Reduction (ASR) Rules Report 2.0 in Microsoft 365 Defender</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-deploy-attack-surface-reduction-rules-to-azure-vms-using/ba-p/3602433">How to deploy Attack Surface Reduction rules to Azure VMs using Azure Guest Configurations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/network-protection-and-web-protection-for-macos-and-linux-is-now/ba-p/3601576">Network Protection and Web Protection for macOS and Linux is now in Public Preview!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/tamper-protection-on-macos-is-now-generally-available/ba-p/3595422">Tamper protection on macOS is now generally available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-device-health-reporting-for-microsoft-defender-for-endpoint/ba-p/3589287">New Device Health Reporting for Microsoft Defender for Endpoint is now in Public Preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-file-page-enhancements-in-microsoft-defender-for/ba-p/3584004">Announcing File page enhancements in Microsoft Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-the-new-alert-suppression-experience/ba-p/3562719">Introducing the new alert suppression experience</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/mobile-network-protection-in-microsoft-defender-for-endpoint-on/ba-p/3559121">Mobile Network Protection in Microsoft Defender for Endpoint on Android &amp; iOS now in Public Preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/prevent-compromised-unmanaged-devices-from-moving-laterally-in/ba-p/3482134">Prevent compromised unmanaged devices from moving laterally in your organization with “Contain”</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/mobile-device-support-is-now-available-for-us-government/ba-p/3472590">Mobile device support is now available for US Government Customers using Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/hunting-for-network-signatures-in-microsoft-defender-for/ba-p/3429520">Hunting for network signatures in Microsoft Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-new-domain-joined-devices-support-in-public/ba-p/3427622">Evaluation Lab: new domain-joined devices support in Public Preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/troubleshooting-mode-for-microsoft-defender-for-endpoint-now/ba-p/3347344">Troubleshooting mode for Microsoft Defender for Endpoint now Generally Available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-the-public-preview-of-defender-for-endpoint-personal/ba-p/3370979">Announcing the public preview of Defender for Endpoint personal profile for Android Enterprise</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/security-settings-management-in-microsoft-defender-for-endpoint/ba-p/3356970">Security Settings Management in Microsoft Defender for Endpoint is now generally available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/tamper-protection-is-now-available-on-macos/ba-p/3289643">Tamper Protection is now available on macOS</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/device-inventory-the-evolution-of-the-endpoint-view/ba-p/3301557">Device Inventory - The evolution of the endpoint view</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/enhanced-antimalware-protection-in-microsoft-defender-for/ba-p/3290320">Enhanced Antimalware Protection in Microsoft Defender for Endpoint Android</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/enhanced-antimalware-engine-capabilities-for-linux-and-macos/ba-p/3292003">Enhanced antimalware engine capabilities for Linux and macOS</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-reporting-functionality-for-device-control-and-windows/ba-p/3290601">New Reporting Functionality for Device Control and Windows Defender Firewall</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/unified-submissions-in-microsoft-365-defender-now-generally/ba-p/3270770">Unified submissions in Microsoft 365 Defender now Generally Available!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-expanded-support-and-functionality-for-live-response/ba-p/3178432">Announcing expanded support and functionality for Live Response APIs</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-against-ransomware-with-microsoft-defender-for/ba-p/3243941">Defending against ransomware with Microsoft Defender for Endpoint and Intel TDT: A Case Study</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/the-splunk-add-on-for-microsoft-security-is-now-available/ba-p/3171272">The Splunk Add-on for Microsoft Security is now available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/deprecating-the-legacy-siem-api/ba-p/3139643">Deprecating the legacy SIEM API</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-plan-1-now-included-in-m365-e3/ba-p/3060639">Microsoft Defender for Endpoint Plan 1 Now Included in M365 E3/A3 Licenses</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/zero-touch-onboarding-of-microsoft-defender-for-endpoint-on-ios/ba-p/3038045">Zero-touch onboarding of Microsoft Defender for Endpoint on iOS now in public preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-preview-of-new-security-management-capabilities-for/ba-p/3020514">Announcing Preview of New Security Management Capabilities for Microsoft Defender for Endpoint.</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-expanded-os-support-amp-atomic-red-team/ba-p/2993927">Evaluation Lab: Expanded OS support &amp; Atomic Red Team simulations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-the-public-preview-of-microsoft-defender-for-endpoint/ba-p/2971038">Announcing the public preview of Microsoft Defender for Endpoint Mobile - Tamper protection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ai-driven-adaptive-protection-in-microsoft-defender-for-endpoint/ba-p/2966491">AI-driven adaptive protection in Microsoft Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-plan-1-now-generally-available/ba-p/2966231">Microsoft Defender for Endpoint Plan 1 Now Generally Available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-performance-analyzer-for-microsoft-defender-antivirus/ba-p/2713911">Announcing performance analyzer for Microsoft Defender Antivirus</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/device-control-device-installation-update/ba-p/2734428">Device Control Device Installation update</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-windows-server-2012-r2-and-2016/ba-p/2783292">Defending Windows Server 2012 R2 and 2016</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-live-response-for-macos-and-linux/ba-p/2864397">Announcing live response for macOS and Linux</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/web-content-filtering-now-generally-available-on-windows/ba-p/2893357">Web content filtering now generally available on Windows</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/boost-protection-of-your-linux-estate-with-behavior-monitoring/ba-p/2909320">Boost protection of your Linux estate with behavior monitoring, extended distro coverage, and more</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-microsoft-defender-for-endpoint-plan-1/ba-p/2636641">Introducing Microsoft Defender for Endpoint Plan 1</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/make-sure-tamper-protection-is-turned-on/ba-p/2695568">Make sure Tamper Protection is turned on</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-apple-m1-native-support/ba-p/2685585">Announcing Apple M1 native support</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/public-preview-custom-file-ioc-enhancements-and-api-schema/ba-p/2676997">Public Preview: Custom file IoC enhancements and API schema update</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/best-practices-for-optimizing-custom-indicators/ba-p/2670357">Best practices for optimizing custom indicators</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623">Microsoft Defender for Endpoint Ninja Training: August 2021 update</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/deepsurface-integrates-with-microsoft-s-vulnerability-management/ba-p/2544600">DeepSurface integrates with Microsoft's vulnerability management capabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/download-quarantined-files-now-in-public-preview/ba-p/2581160">Download quarantined files now in public preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/protect-your-removable-storage-and-printers-with-microsoft/ba-p/2324806">Protect your removable storage and printers with Microsoft Defender for Endpoint</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-live-response-api-public-preview/ba-p/2537833">Announcing live response API public preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-updates-device-renewal-and-new-simulations/ba-p/2519691">Evaluation lab updates: device renewal and new simulations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/endpoint-discovery-navigating-your-way-through-unmanaged-devices/ba-p/2248909">Endpoint Discovery - Navigating your way through unmanaged devices</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/network-device-discovery-and-vulnerability-assessments/ba-p/2267548">Network device discovery and vulnerability assessments</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/configuring-exclusions-for-splunk-on-redhat-linux-7-9/ba-p/2261914">Configuring exclusions for Splunk on RedHat Linux 7.9</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-threat-and-vulnerability-management-experiences-in-microsoft/ba-p/2233284">New threat and vulnerability management experiences in Microsoft 365 security</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/enhancing-linux-antivirus-with-behavior-monitoring-capabilities/ba-p/2226705">Enhancing Linux antivirus with behavior monitoring capabilities!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/mac-updates-control-your-usb-devices-with-microsoft-defender-for/ba-p/2224439">Mac updates: Control your USB devices with Microsoft Defender for Endpoint on Mac!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/migrate-advanced-hunting-from-microsoft-defender-for-endpoint-to/ba-p/2214499">Migrate advanced hunting from Microsoft Defender for Endpoint to Microsoft 365 Defender</a>
+-<a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-a-global-switch-for-tamper-protection/ba-p/2192490">Announcing a global switch for tamper protection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/investigating-the-print-spooler-eop-exploitation/ba-p/2166463">Investigating the Print Spooler EoP exploitation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/advanced-hunting-updates-to-threat-and-vulnerability-management/ba-p/2162584">Advanced hunting: updates to threat and vulnerability management tables</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/one-app-for-vpn-and-mobile-threat-defense/ba-p/2170142">One app for VPN and mobile threat defense</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/delivering-world-class-secops-experiences/ba-p/2170092">Delivering world class SecOps experiences</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/mitre-att-amp-ck-techniques-now-available-in-the-device-timeline/ba-p/2136788">MITRE ATT&amp;CK Techniques now available in the device timeline</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/protecting-sensitive-information-on-devices/ba-p/2143555">Protecting sensitive information on devices</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-antivirus-12-reasons-why-you-need-it/ba-p/2115116">Microsoft Defender Antivirus: 12 reasons why you need it</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/extending-threat-and-vulnerability-management-to-more-devices/ba-p/2111253">Extending threat and vulnerability management to more devices</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/windows-virtual-desktop-support-is-now-generally-available/ba-p/2103712">Windows Virtual Desktop support is now generally available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-3/ba-p/1964073">How to use tagging effectively (Part 3)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-automation-defaults-are-changing/ba-p/2068744">Microsoft Defender for Endpoint: Automation defaults are changing</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/edr-for-linux-is-now-generally-available/ba-p/2048539">EDR for Linux is now generally available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-2/ba-p/1962008">How to use tagging effectively (Part 2)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058">How to use tagging effectively (Part 1)</a>
+-<a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-edr-in-block-mode-general-availability/ba-p/1972064">Announcing EDR in block mode general availability</a>
+-<a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-on-ios-is-generally-available/ba-p/1962420">Microsoft Defender for Endpoint on iOS is generally available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/edr-for-linux-is-now-available-in-public-preview/ba-p/1890536">EDR for Linux is now available in public preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-adds-depth-and-breadth-to-threat/ba-p/1695824">Microsoft Defender for Endpoint adds depth and breadth to threat defense across platforms</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-atp-for-mac-is-moving-to-system-extensions/ba-p/1608736">Microsoft Defender ATP for Mac is moving to system extensions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/how-behavioral-blocking-amp-containment-stops-post-exploitation/ba-p/1619501">How behavioral blocking &amp; containment stops post-exploitation tools like BloodHound, Kerberoasting</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-edr-in-block-mode-stopping-attacks-in-their-tracks/ba-p/1596617">Introducing EDR in block mode: Stopping attacks in their tracks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-an-improved-timeline-investigation-with-event/ba-p/1580569">Introducing an improved timeline investigation with event flagging</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-high-value-asset-tagging-in-microsoft-defender-atp/ba-p/1521459">Announcing high value asset tagging in Microsoft Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/sha-2-signing-enforcement-on-windows-7-and-windows-server-2008/ba-p/1519584">SHA-2 signing enforcement on Windows 7 and Windows Server 2008 R2</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-awarded-a-perfect-5-star-rating-by-sc/ba-p/1511340">Microsoft Defender ATP awarded a perfect 5-star rating by SC Media</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-event-timeline-an-innovative-new-way-to-manage-your/ba-p/1505208">Introducing event timeline – an innovative, new way to manage your security exposure</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/an-update-on-web-content-filtering/ba-p/1505445">An update on Web Content Filtering</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/configuring-microsoft-defender-antivirus-for-non-persistent-vdi/ba-p/1489633">Configuring Microsoft Defender Antivirus for non-persistent VDI machines</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/improving-defenses-against-exchange-server-compromise/ba-p/1487410">Improving defenses against Exchange server compromise</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-for-linux-is-now-generally-available/ba-p/1482344">Microsoft Defender ATP for Linux is now generally available!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-microsoft-defender-atp-for-android/ba-p/1480787">Announcing Microsoft Defender ATP for Android</a></li>
+<li><a href="https://www.microsoft.com/security/blog/2020/05/01/microsoft-threat-protection-leads-real-world-detection-mitre-attck-evaluation/">Microsoft Threat Protection leads in real-world detection in MITRE ATT&amp;CK evaluation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/a-deeper-dive-into-the-apt29-mitre-att-amp-ck-evaluation/ba-p/1476134">A deeper dive into the APT29 MITRE ATT&amp;CK evaluation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-has-a-new-uefi-scanner/ba-p/1472290">Microsoft Defender ATP has a new UEFI scanner</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/new-partnerships-with-innovative-leaders-helps-you-fight/ba-p/1467697">New partnerships with innovative leaders helps you fight advanced threats!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/say-hello-to-the-new-alert-page-in-microsoft-defender-atp/ba-p/1463673">Say hello to the new alert page in Microsoft Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/migrate-the-old-power-bi-app-to-microsoft-defender-atp-power-bi/ba-p/1439572">Migrate the old Power BI App to Microsoft Defender ATP Power BI templates!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-evaluation-lab-breach-amp-attack/ba-p/1406088">Microsoft Defender ATP evaluation lab breach &amp; attack simulators are now available in public preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-4/ba-p/1384425">Demystifying attack surface reduction rules - Part 4</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/defending-networks-against-human-operated-ransomware/ba-p/1384282">Defending networks against human-operated ransomware</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/automate-the-boring-for-your-soc-with-automatic-investigation/ba-p/1381038">Automate the boring for your SOC with automatic investigation and remediation!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/indicators-enhancements-allow-block-by-certificates-amp-more/ba-p/1377586">Indicators enhancements: Allow/Block by certificates &amp; more</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-3/ba-p/1360968">Demystifying attack surface reduction rules - Part 3</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/onboarding-and-servicing-non-persistent-vdi-machines-with/ba-p/1360721">Onboarding and servicing non-persistent VDI machines with Microsoft Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/harden-endpoint-security-for-covid-19-and-working-from-home-with/ba-p/1343641">Harden endpoint security for COVID-19 and working from home with Threat &amp; Vulnerability Management</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/deploy-microsoft-defender-atp-for-mac-in-just-a-few-clicks/ba-p/1341619">Deploy Microsoft Defender ATP for Mac in just a few clicks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/mitre-att-amp-ck-evaluation-results/ba-p/1334208">MITRE ATT&amp;CK evaluation results</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-2/ba-p/1326565">Demystifying attack surface reduction rules - Part 2</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-1/ba-p/1306420">Demystifying attack surface reduction rules - Part 1</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/live-response-for-earlier-versions-of-windows-is-now-in-public/ba-p/1282156">Live response for earlier versions of Windows is now in public preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/secure-your-remote-workforce-with-microsoft-defender-atp/ba-p/1271806">Secure your remote workforce with Microsoft Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/secure-configuration-assessment-sca-for-windows-server-now-in/ba-p/1243885">Secure Configuration Assessment (SCA) for Windows Server now in public preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-service-notification-improvements/ba-p/1244625">Microsoft Defender ATP service notification improvements</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/connect-the-dots-using-a-device-network-overview-power-bi-report/ba-p/1238287">Connect the dots using a device network overview Power BI report</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/raw-data-export-announcing-microsoft-defender-atp-streaming-api/ba-p/1235500">Raw data export: Announcing Microsoft Defender ATP Streaming API GA</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-for-linux-is-coming-and-a-sneak-peek-into/ba-p/1192251">Microsoft Defender ATP for Linux is coming! ...And a sneak peek into what’s next</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/enable-tamper-protection-in-threat-amp-vulnerability-management/ba-p/1182920">Enable tamper protection in Threat &amp; Vulnerability Management to increase your security posture</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/put-regulation-fears-to-rest-when-deploying-microsoft-defender/ba-p/1170187">Put regulation fears to rest when deploying Microsoft Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/web-content-filtering-with-microsoft-defender-atp-now-in-public/ba-p/1132287">Web content filtering with Microsoft Defender ATP now in public preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/extending-microsoft-defender-atp-network-of-partners/ba-p/1130867">Extending Microsoft Defender ATP network of partners</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/enforcement-of-tls-1-2-for-connections-to-microsoft-defender-atp/ba-p/1085358">Enforcement of TLS 1.2 for connections to Microsoft Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/edr-capabilities-for-macos-have-now-arrived/ba-p/1047801">EDR capabilities for macOS have now arrived</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-atp/advanced-hunting-data-schema-changes/ba-p/1043914">Advanced hunting data schema changes</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Short-amp-sweet-educational-videos-for-Microsoft-Defender-ATP/ba-p/1021978">Short &amp; sweet educational videos for Microsoft Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Create-custom-reports-using-Microsoft-Defender-ATP-APIs-and/ba-p/1007684">Create custom reports using Microsoft Defender ATP APIs and Power BI</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Recordings-now-online-Microsoft-Defender-ATP-sessions-from/ba-p/1003687">Recordings now online: Microsoft Defender ATP sessions from #MSIgnite 2019</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-for-Mac-EDR-in-Public-Preview/ba-p/985879">Microsoft Defender ATP for Mac - EDR in Public Preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/How-insights-from-system-attestation-and-advanced-hunting-can/ba-p/969252">How insights from system attestation and advanced hunting can improve enterprise security</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-sessions-at-MSIgnite-2019/ba-p/916836">Microsoft Defender ATP sessions at #MSIgnite 2019</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Tamper-protection-now-generally-available-for-Microsoft-Defender/ba-p/911482">Tamper protection now generally available for Microsoft Defender ATP customers</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Manage-Windows-Defender-Firewall-with-Microsoft-Defender-ATP-and/ba-p/894414">Manage Windows Defender Firewall with Microsoft Defender ATP and Intune</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Forrester-names-Microsoft-a-Leader-in-2019-Endpoint-Security/ba-p/874462">Forrester names Microsoft a Leader in 2019 Endpoint Security Suites Wave</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Enhanced-visibility-into-web-threats-with-Microsoft-Defender-ATP/ba-p/882978">Enhanced visibility into web threats with Microsoft Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-EDR-support-for-Windows-Server-2008-R2/ba-p/876819">Microsoft Defender ATP EDR support for Windows Server 2008 R2 now generally available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/New-API-Explorer-and-Connected-applications/ba-p/860562">New! API Explorer and Connected applications</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/MITRE-ATT-amp-CK-technique-info-in-Microsoft-Defender-ATP-alerts/ba-p/856835">MITRE ATT&amp;CK technique info in Microsoft Defender ATP alerts</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-supports-custom-IOCs-for-URLs-IP/ba-p/847007">Microsoft Defender ATP supports custom IOCs for URLs, IP addresses, and domains</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Enhance-your-SOC-with-Microsoft-Defender-ATP-Automatic/ba-p/848946">Enhance your SOC with Microsoft Defender ATP Automatic Investigation and Remediation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Test-security-products-the-right-way-and-find-new-protection/ba-p/848857">Test security products the right way and find new protection features with MDATP evaluation lab</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Advanced-hunting-updates-USB-events-machine-level-actions-and/ba-p/824152">Advanced hunting updates: USB events, machine-level actions, and schema changes</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Gartner-names-Microsoft-a-Leader-in-2019-Endpoint-Protection/ba-p/820426">Gartner names Microsoft a Leader in 2019 Endpoint Protection Platforms Magic Quadrant</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-Ask-Me-Anything-August-2019-Summary/ba-p/807446">Microsoft Defender ATP 'Ask Me Anything' August 2019 - Summary</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Migrate-your-custom-Threat-Intelligence-TI-to-indicators/ba-p/790048">Migrate your custom Threat Intelligence (TI) to indicators!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/The-Golden-Hour-remake-Defining-metrics-for-a-successful/ba-p/782014">The Golden Hour remake - Defining metrics for a successful security operations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Download-files-for-in-depth-investigation/ba-p/782078">Download files for in-depth investigation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/MDATP-Streaming-API-Public-Preview-DIY-example/ba-p/769427">MDATP Streaming API - Public Preview - DIY example</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-Evaluation-lab-is-now-available-in-public/ba-p/770271?_lrsc=c4534f64-d451-4314-9b28-8925fb70f2b8">Microsoft Defender ATP Evaluation lab is now available in public preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-alert-categories-are-now-aligned-with/ba-p/732748">Microsoft Defender ATP alert categories are now aligned with MITRE ATT&amp;CK!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-automation-amp-cloud-app-discovery-now/ba-p/722590">Microsoft Defender ATP automation &amp; cloud app discovery now available in previous Windows 10 builds!</a></li>
+<li><a href="https://www.microsoft.com/security/blog/2019/06/24/inside-out-get-to-know-the-advanced-technologies-at-the-core-of-microsoft-defender-atp-next-generation-protection/">Inside out: Get to know the advanced technologies at the core of Microsoft Defender ATP next generation protection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-Python-automation-Automate-machine-isolation-with-Python/ba-p/664077">MDATP Python automation - Automate machine isolation with Python script</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-unified-indicators-of-compromise-IoCs/ba-p/656415">Microsoft Defender ATP unified indicators of compromise (IoCs) experience</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-for-Mac-now-in-open-public-preview/ba-p/634603">Microsoft Defender ATP for Mac now in open public preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Incident-response-at-your-fingertips-with-Microsoft-Defender-ATP/ba-p/614894">Incident response at your fingertips with Microsoft Defender ATP live response</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-and-Malware-Information-Sharing-Platform/m-p/576648#M92">Microsoft Defender ATP and Malware Information Sharing Platform integration</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Updates-to-attack-surface-reduction-rules-for-Office-apps/ba-p/568951">Updates to attack surface reduction rules for Office apps</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Pushing-custom-Indicator-of-Compromise-IoCs-to-Microsoft/m-p/532203#M81">Pushing custom Indicator of Compromise (IoCs) to Microsoft Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-third-party-solution-integrations/ba-p/532042">Microsoft Defender ATP third-party solution integrations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Threat-Experts-reaches-general-availability/ba-p/502493">Microsoft Threat Experts reaches general availability</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Protecting-disconnected-devices-with-Microsoft-Defender-ATP/ba-p/500341">Protecting disconnected devices with Microsoft Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Tamper-protection-in-Microsoft-Defender-ATP/ba-p/389571">Tamper protection in Microsoft Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Announcing-Microsoft-Defender-ATP-for-Mac/ba-p/378010">Announcing Microsoft Defender ATP for Mac</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Palo-Alto-Networks-and-WDATP-ad-hoc-integration/m-p/375077#M15">Palo Alto Networks and WDATP ad-hoc integration</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MITRE-evaluation-highlights-industry-leading-EDR-capabilities-in/ba-p/369831">MITRE evaluation highlights industry-leading EDR capabilities in Windows Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automate-Windows-Defender-ATP-response-action-Machine-isolation/m-p/362701#M8">Automate Windows Defender ATP response action: Machine isolation</a></li>
+<li><a href="https://blogs.technet.microsoft.com/yongrhee/2019/02/24/windows-10-windows-defender-exploit-guard-attack-surface-reduction-rules/">Windows 10: Windows Defender Exploit Guard-Attack Surface Reduction rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Ticketing-system-integration-Alert-update-API/ba-p/352191">Ticketing system integration – Alert update API</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Help-protect-the-exec-go-with-the-Flow/ba-p/345597">Help protect the exec – go with the Flow!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-API-Hello-World-or-using-a-simple-PowerShell-script-to/ba-p/326813">WDATP API “Hello World” (or using a simple PowerShell script to pull alerts via WDATP APIs)</a></li>
+<li><a href="https://www.microsoft.com/security/blog/2019/01/17/windows-defender-atp-integrates-with-microsoft-information-protection-to-discover-protect-and-monitor-sensitive-data-on-windows-devices/">Microsoft Defender ATP integrates with Microsoft Information Protection to discover, protect, and monitor sensitive data on Windows devices</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-built-in-threat-summary-and-health/ba-p/392088">Microsoft Defender ATP built-in threat summary and health reports</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-Windows-Defender-ATP-November-2018/ba-p/289112">What’s new in Windows Defender ATP, November 2018</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/New-Windows-Defender-ATP-Incidents-narrate-the-end-to-end-attack/ba-p/282666">New! Windows Defender ATP Incidents narrate the end-to-end attack story</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automating-investigation-and-response-for-memory-based-attacks/ba-p/276354">Automating investigation and response for memory-based attacks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/SecOps-is-more-effective-thanks-to-Microsoft-Windows-Defender/ba-p/272925">SecOps is more effective thanks to Microsoft Windows Defender Advanced Threat Protection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/Microsoft-Cloud-App-Security-and-Windows-Defender-ATP-better/ba-p/263265">Microsoft Cloud App Security and Windows Defender ATP - better together</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-September-2018-preview-features-are-out/ba-p/242254">WDATP September 2018 preview features are out</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Downloads-originating-from-email-links/ba-p/239594">Hunting tip of the month: Downloads originating from email links</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Optimized-reporting-latency-and-expedite-mode/ba-p/229208">Optimized reporting latency and expedite mode</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Interpreting-Exploit-Guard-ASR-audit-alerts/ba-p/228366">Interpreting Exploit Guard ASR audit alerts</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Improve-your-defensive-posture-with-Exploit-Guard-ASR/ba-p/224947">Improve your defensive posture with Exploit Guard ASR</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Advanced-hunting-now-includes-network-adapters-information/ba-p/224402">Advanced hunting now includes network adapters information</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Browser-downloads/ba-p/220454">Hunting tip of the month: Browser downloads</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Getting-Started-with-Windows-Defender-ATP-Advanced-Hunting/ba-p/215835">Getting Started with Windows Defender ATP Advanced Hunting</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-PowerShell-commands/ba-p/210898">Hunting tip of the month: PowerShell commands</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-the-WDATP-Portal/ba-p/200828">What’s new in the WDATP Portal?</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/">Protecting Windows Server with Windows Defender ATP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-security-and/enhancing-conditional-access-with-machine-risk-data-from-windows/ba-p/250559#:~:text=Conditional%20access%20uses%20a%20combination,automated%20action%20to%20remediate%20attacks">Enhancing conditional access with machine-risk data from Windows Defender Advanced Threat Protection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/New-demo-Advanced-Threat-Protection-across-Windows-10-and-Office/ba-p/167039">New demo: Advanced Threat Protection across Windows 10 and Office</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/Windows-10-security/Exploit-Guard-Network-Protection/m-p/161624">Exploit Guard - Network Protection</a></li>
+<li><a href="https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/announcing-windows-defender-atp-support-for-windows-7-and-windows-8-1/">Announcing: Windows Defender ATP support for Windows 7 and Windows 8.1</a></li>
+<li><a href="https://www.microsoft.com/security/blog/2017/12/04/windows-defender-atp-machine-learning-and-amsi-unearthing-script-based-attacks-that-live-off-the-land/">Windows Defender ATP machine learning and AMSI: Unearthing script-based attacks that ‘live off the land’</a></li>
+<li><a href="https://www.microsoft.com/en-us/microsoft-365/blog/2017/11/08/microsoft-partners-extend-windows-defender-atp-across-platforms/">Microsoft partners extend Windows Defender ATP across platforms</a></li>
+<li><a href="https://www.microsoft.com/en-us/itshowcase/windows-defender-atp-helps-analysts-investigate-and-respond-to-threats">Windows Defender ATP helps analysts investigate and respond to threats</a></li>
+<li><a href="https://blogs.windows.com/windowsexperience/2017/09/07/windows-defender-atp-windows-10-fall-creators-update-now-open-public-preview/#rco1WMWZ8mUM1GiW.97">Windows Defender ATP Windows 10 Fall Creators Update now open for public preview</a></li>
+<li><a href="https://www.microsoft.com/security/blog/2017/08/03/windows-defender-atp-machine-learning-detecting-new-and-unusual-breach-activity/">Windows Defender ATP machine learning: Detecting new and unusual breach activity</a></li>
+<li><a href="https://www.microsoft.com/security/blog/2017/06/27/whats-new-in-windows-defender-atp-fall-creators-update/">Windows Defender ATP Fall Creators Update</a></li>
+<li><a href="https://news.microsoft.com/2017/06/08/microsoft-signs-agreement-to-acquire-hexadite/">Microsoft signs agreement to acquire Hexadite</a></li>
+<li><a href="https://www.microsoft.com/security/blog/2017/05/04/windows-defender-atp-thwarts-operation-wilysupply-software-supply-chain-cyberattack/">Windows Defender ATP thwarts Operation WilySupply software supply chain cyberattack</a></li>
+<li><a href="https://community.windows.com/en-us/stories/the-story-of-windows-defender">The Story of Windows Defender</a></li>
+<li><a href="https://www.microsoft.com/security/blog/2015/06/09/windows-10-to-offer-application-developers-new-malware-defenses/">Windows 10 to offer application developers new malware defenses</a></li>
+<li><a href="https://blogs.technet.microsoft.com/antimalware/2005/11/04/whats-in-a-name-a-lot-announcing-windows-defender/">What’s in a name?? A lot!! Announcing Windows Defender!</a></li>
+</ul>
+<h2 id="community-blogs">Community Blogs</h2>
+<ul>
+<li><a href="https://ipurple.team/2025/12/01/bind-link-edr-tampering/">Bind Link – EDR Tampering</a></li>
+<li><a href="https://medium.com/@verboonalex/modern-security-for-legacy-systems-0cb96f95a949">Modern Security for Legacy Systems</a></li>
+<li><a href="https://kostaskoutrou.github.io/2025/12/17/what-is-mde.html">What is Microsoft Defender for Endpoint, for the Endpoint</a></li>
+<li><a href="https://medium.com/falconforce/microsoft-defender-for-endpoint-internal-0x06-custom-collection-81fc1042b87c">Microsoft Defender for Endpoint Internal 0x06 — Custom Collection</a></li>
+<li><a href="https://infernux.no/blog/defenderforendpoint-customdatacollectionrules/">Defender for Endpoint - Custom Data Collection Rules</a></li>
+<li><a href="https://vertho.tech/2025/08/27/guidance-on-how-to-manage-products-updates-for-defender-for-server-on-linux-distributions/">Guidance on how to manage products updates for Defender for Server on Linux distributions</a></li>
+<li><a href="https://medium.com/@cybureauocracy/tracking-a-devices-ip-assignments-with-mde-s-devicenetworkinfo-table-430270ca539e">Tracking a device’s IP assignments with MDE’s DeviceNetworkInfo table</a></li>
+<li><a href="https://medium.com/@cybureauocracy/mdes-devicenetworkevents-table-part-2-connection-actiontypes-1c5ee20d2fc4">MDE’s DeviceNetworkEvents table [Part 2 — Connection* ActionTypes]</a></li>
+<li><a href="https://medium.com/@cybureauocracy/mdes-devicenetworkevents-table-for-soc-analysts-part-1-overview-094ca99b50c9">Understanding MDE’s DeviceNetworkEvents table for SOC analysts [Part 1 — Overview]</a></li>
+<li><a href="https://secureazcloud.com/microsoft-security/f/p5-live-response-in-mde?blogcategory=DEFENDER+FOR+ENDPOINT">P5: Live Response in MDE</a></li>
+<li><a href="https://www.indefent.com/iocs-in-defender-for-endpoint/">IoC's in Defender for Endpoint</a></li>
+<li><a href="https://www.lousec.be/mde/isolation-exclusion-rules-fixing-microsoft-teams-outlook-communication-during-isolation/">Isolation Exclusion Rules: Fixing Microsoft Teams &amp; Outlook Communication During Isolation</a></li>
+<li><a href="https://academy.bluraven.io/blog/detecting-vulnerable-drivers-using-defender-for-endpoint-kql">Detecting Vulnerable Drivers (a.k.a. LOLDrivers) the Right Way Using Microsoft Defender for Endpoint</a></li>
+<li><a href="https://cloudbrothers.info/guide-to-defender-exclusions/">The Hitchhiker's Guide to Microsoft Defender for Endpoint exclusions</a></li>
+<li><a href="https://www.linkedin.com/pulse/part-2-deploy-endpoint-security-policies-linux-via-anton-willoughby-xfvwc/">Deploy Endpoint Security policies to Linux Servers via Intune with Security Settings Management</a></li>
+<li><a href="https://www.french365connection.co.uk/post/mde-why-and-how-to-use-device-groups">MDE: Why and how to use Device Groups?</a></li>
+<li><a href="https://www.vansurksum.com/2025/01/28/comparing-web-filtering-and-security-microsoft-entra-internet-access-global-secure-access-vs-microsoft-defender-for-endpoint-mde/">Comparing Web Filtering and Security: Microsoft Entra Internet Access (Global Secure Access) vs. Microsoft Defender for Endpoint (MDE)</a></li>
+<li><a href="https://petervanderwoude.nl/post/tag/microsoft-defender-for-endpoint/">Working with tamper protection on Windows devices to protect security settings</a></li>
+<li><a href="https://jeffreyappel.nl/tag/defender-for-endpoint/">Jeffrey Appel - Defender for Endpoint blogs</a></li>
+<li><a href="https://medium.com/csis-techblog/silencing-microsoft-defender-for-endpoint-using-firewall-rules-3839a8bf8d18">Silencing Microsoft Defender for Endpoint using firewall rules</a></li>
+<li><a href="https://cloudbrothers.info/edr-silencers-exploring-methods-block-edr-communication-part-1/">EDR Silencers and Beyond: Exploring Methods to Block EDR Communication - Part 1</a></li>
+<li><a href="https://academy.bluraven.io/blog/edr-silencer-and-beyond-exploring-methods-to-block-edr-communication-part-2">EDR Silencer and Beyond: Exploring Methods to Block EDR Communication - Part 2</a></li>
+<li><a href="https://www.huntress.com/blog/silencing-the-edr-silencers">Silencing the EDR Silencers</a></li>
+<li><a href="https://kqlquery.com/posts/devicetvminfogathering/">Unleash The Power Of DeviceTvmInfoGathering</a></li>
+<li><a href="https://blog.fndsec.net/2024/10/04/uncovering-exclusion-paths-in-microsoft-defender-a-security-research-insight/">Peeking Behind the Curtain: Finding Defender’s Exclusions</a></li>
+<li><a href="https://jeffreyappel.nl/manage-mde-for-windows-macos-and-linux-via-security-settings-management/">Manage Defender for Endpoint for Windows, macOS, and Linux via Security settings management</a></li>
+<li><a href="https://github.com/mattnovitsch/M365/wiki/Microsoft-Defender-for-Endpoint-Deployment-rings">Microsoft Defender for Endpoint Deployment rings</a></li>
+<li><a href="https://jeffreyappel.nl/common-mistakes-during-microsoft-defender-for-endpoint-deployments/">Common mistakes during Microsoft Defender for Endpoint deployments</a></li>
+<li><a href="https://hybridbrothers.com/analyzing-mde-network-inspections/">Analyzing MDE Network Inspections</a></li>
+<li><a href="https://jeffreyappel.nl/how-to-check-for-a-healthy-defender-for-endpoint-environment/">How to check for a healthy Defender for Endpoint environment?</a></li>
+<li><a href="https://medium.com/cloudnsec/microsoft-defender-for-endpoint-on-linux-manual-scan-tips-15dc31629f11">Microsoft Defender for Endpoint on Linux — Manual Scan Tips</a></li>
+<li><a href="https://medium.com/@andrecamillo/heres-how-defender-xdr-can-help-you-find-attackers-sooner-in-your-environment-deception-rules-2529f0ecdeeb">Here’s how Defender XDR can help you find attackers sooner in your environment | Deception Rules MDE</a></li>
+<li><a href="https://medium.com/@m365alikoc/microsoft-defender-xdr-deception-capabilities-e880f78080cd">Microsoft Defender XDR Deception Capabilities</a></li>
+<li><a href="https://blog.sec-labs.com/2024/03/antivirus-exclusions-and-asr/">Antivirus exclusions and ASR</a></li>
+<li><a href="https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world">An unexpected journey into Microsoft Defender's signature World</a></li>
+<li><a href="https://falconforce.nl/falconfriday-detecting-mmc-abuse-using-grimresource-with-mde-0xff24/">FalconFriday — Detecting MMC abuse using GrimResource  with MDE— 0xFF24</a></li>
+<li><a href="https://timbeer.com/defender-from-configmgr-to-mde/">Defender for Endpoint, Windows Servers Migration from Configmgr to MDE Management</a></li>
+<li><a href="https://timbeer.com/usb-security-using-microsoft-defender-for-endpoint/">USB Security Using Microsoft Defender for Endpoint</a></li>
+<li><a href="https://attackthesoc.com/posts/stacking-your-deception/">Stack Your Deception: Stacking MDE Deception Rules with Thinkst Canarytokens</a></li>
+<li><a href="https://derkvanderwoude.medium.com/mde-deception-fe8ba2ae8422">MDE | Deception</a></li>
+<li><a href="https://www.michalos.net/2024/06/25/keeping-an-eye-on-wsl-through-microsoft-defender-for-endpoint/">Keeping an eye on WSL through Microsoft Defender for Endpoint</a></li>
+<li><a href="https://www.michalos.net/2024/02/20/isolated-an-endpoint-automate-tag-adding-and-notifications/">Isolated an Endpoint? Automate tag adding and notifications</a></li>
+<li><a href="https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-3">Microsoft Defender for Endpoint on AWS: Part 3</a></li>
+<li><a href="https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-2">Microsoft Defender for Endpoint on AWS: Part 2</a></li>
+<li><a href="https://www.michalos.net/2023/11/27/detecting-rmm-tools-using-microsoft-defender-for-endpoint/">Detecting RMM tools using Microsoft Defender for Endpoint</a></li>
+<li><a href="https://www.iansresearch.com/resources/all-blogs/post/security-blog/2023/08/10/microsoft-defender-for-endpoint-settings-checklist">Microsoft Defender for Endpoint Settings Checklist</a></li>
+<li><a href="https://andrecamillo.medium.com/heres-how-defender-xdr-can-help-you-find-attackers-sooner-in-your-environment-deception-rules-2529f0ecdeeb">Microsoft Defender for Endpoint Internals 0x05 — Telemetry for sensitive actions</a></li>
+<li><a href="https://medium.com/falconforce/microsoft-defender-for-endpoint-internals-0x04-timeline-3f01282839e4">Microsoft Defender for Endpoint Internals 0x04 — Timeline telemetry</a></li>
+<li><a href="https://medium.com/falconforce/microsoft-defender-for-endpoint-internals-0x03-mde-telemetry-unreliability-and-log-augmentation-ec6e7e5f406f">Microsoft Defender for Endpoint Internals 0x03 — MDE telemetry unreliability and log augmentation</a></li>
+<li><a href="https://medium.com/falconforce/microsoft-defender-fr-endpoint-internals-0x02-audit-settings-and-telemetry-1d0af3ebfb27">Microsoft Defender for Endpoint Internals 0x02 — Audit Settings and Telemetry</a></li>
+<li><a href="https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347">Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01</a></li>
+<li><a href="https://medium.com/microsoftazure/migrating-from-microsoft-defender-for-endpoint-servers-to-defender-for-cloud-server-plan-5da79c8fa985">Migrating from Microsoft Defender for Endpoint (Servers) to Defender for Cloud Server Plan</a></li>
+<li><a href="https://medium.com/@s12deff/bypass-windows-defender-executing-shellcode-using-freeloaderinjector-7deeba8796e2">Bypass Windows Defender Executing Shellcode using FreeLoaderInjector</a></li>
+<li><a href="https://medium.com/falconforce/tagged/defender-for-endpoint">Defender for Endpoint - FalconForce</a></li>
+<li><a href="https://campbell.scot/mde-comparison-feb-2023/">[Feb 2023] Ultimate Comparison of Defender for Endpoint Features by OS</a></li>
+<li><a href="https://jeffreyappel.nl/tag/mde-series/">Microsoft Defender for Endpoint blog Series</a></li>
+<li><a href="https://jeffreyappel.nl/microsoft-defender-for-endpoint-series-defender-vulnerability-management-part5/">Microsoft Defender for Endpoint series – Defender Vulnerability Management – Part5</a></li>
+<li><a href="https://practical365.com/handling-inactive-devices-in-microsoft-defender-for-endpoint/">Handling Inactive Devices in Microsoft Defender for Endpoint</a></li>
+<li><a href="https://jeffreyappel.nl/microsoft-defender-for-endpoint-series-what-is-defender-for-endpoint-part1/">Microsoft Defender for Endpoint series – What is Defender for Endpoint? – Part1</a></li>
+<li><a href="https://www.itpromentor.com/unboxing-microsoft-defender-for-business-part-1-simplified-configuration-process/">Unboxing Microsoft Defender for Business, Part 1: Simplified configuration process</a></li>
+<li><a href="https://campbell.scot/march-22-defender-for-endpoint-feature-comparison/">Updated March 2022: Ultimate Comparison of Defender for Endpoint Features by Operating System</a></li>
+<li><a href="https://emptydc.com/2022/03/27/mde-hunting-101/">MDE HUNTING 101</a></li>
+<li><a href="https://jeffreyappel.nl/managing-microsoft-defender-for-endpoint-with-the-new-security-management-feature-in-mem/">Managing Microsoft Defender for Endpoint with the new Security Management feature in MEM</a></li>
+<li><a href="https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347">Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01</a></li>
+<li><a href="https://cloudbrothers.info/en/automated-response-c2-traffic-devices/">Automated response to C2 traffic on your devices</a></li>
+<li><a href="https://www.verboon.info/2021/10/defender-for-endpoint-unified-solution-for-windows-server-2012-r2-and-2016-part1/">Defender for Endpoint – unified solution for Windows Server 2012 R2 and 2016 (Part1)</a></li>
+<li><a href="https://jeffreyappel.nl/enabling-and-configure-web-content-filtering-in-microsoft-defender-for-endpoint-mde/">Enabling and configuring Web content filtering in Microsoft Defender for Endpoint (MDE)</a></li>
+<li><a href="https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws">Microsoft Defender for Endpoint on AWS: Part 1</a></li>
+<li><a href="https://www.verboon.info/2021/08/use-advanced-hunting-to-identify-defender-clients-with-outdated-definitions/">Use advanced hunting to Identify Defender clients with outdated definitions</a></li>
+<li><a href="https://blog.ciaops.com/2021/06/15/using-the-defender-for-endpoint-api-and-powershell/">Using the Defender for Endpoint API and PowerShell</a></li>
+<li><a href="https://m365internals.com/2021/05/14/using-microsoft-defender-for-endpoint-during-investigation/">Using Microsoft Defender For Endpoint During Investigation</a></li>
+<li><a href="https://www.verboon.info/2019/05/retrieving-windows-defender-exploit-guard-windows-event-logs-with-powershell/">Retrieving Windows Defender Exploit Guard Windows Event logs with PowerShell</a></li>
+<li><a href="http://blog.sec-labs.com/2019/04/defender-atp-and-powerbi/">Defender ATP and PowerBI</a></li>
+<li><a href="http://blog.sec-labs.com/2019/05/hunting-for-usb-rubber-ducky-bad-usb-with-atp/">Hunting for USB Rubber Ducky/ Bad USB with ATP</a></li>
+<li><a href="http://blog.sec-labs.com/2019/04/hunting-windows-defender-exploit-guard-with-atp/">Hunting Windows Defender Exploit Guard with ATP</a></li>
+<li><a href="https://chrisonsecurity.net/2019/10/22/automate-mdatp-response-with-microsoft-flow/">Automate MDATP response with Microsoft Flow</a>  </li>
+<li><a href="https://medium.com/@maarten.goet/windows-defender-atp-harnessing-the-collective-intelligence-of-the-infosec-community-for-threat-1758ec987db8">Windows Defender ATP: harnessing the collective intelligence of the InfoSec community for threat hunting</a></li>
+<li><a href="https://emptydc.com/2019/10/16/mdatp-talking-to-the-user/">MDATP: talking to the User</a></li>
+<li><a href="https://www.siriussecurity.nl/blog/2019/10/1/examining-access-token-privileges-with-mdatp-and-kusto">Examining access token privileges with MDATP and Kusto</a></li>
+<li><a href="http://blog.sec-labs.com/2019/10/hunting-for-minint-security-audit-block-in-registry/">Hunting for MiniNt security audit block in registry</a></li>
+<li><a href="https://www.verboon.info/2020/04/how-to-create-your-defender-atp-admin-audit-log-dashboard/">How to create your Defender ATP Admin Audit Log Dashboard</a></li>
+<li><a href="https://yongrhee.wordpress.com/2020/04/11/microsoft-defender-antivirus-mdav-cloud-protection-cloud-delivered-protection-aka-maps/">Microsoft Defender Antivirus (MDAV) “Cloud Protection” (Cloud-Delivered Protection aka MAPS)</a></li>
+<li><a href="https://emptydc.com/2020/01/27/block-it/">BLOCK IT.</a></li>
+<li><a href="https://emptydc.com/2020/04/07/deep-dive-forensics-via-mdatp-live-response/">DEEP DIVE: FORENSICS VIA MDATP LIVE RESPONSE</a></li>
+<li><a href="https://chrisonsecurity.net/2020/02/01/microsoft-defender-atp-network-control-made-easy/">Microsoft Defender ATP – network control made easy</a></li>
+<li><a href="https://chrisonsecurity.net/2020/02/27/microsoft-defender-atp-for-linux/">Microsoft Defender ATP for Linux</a></li>
+<li><a href="https://campbell.scot/microsoft-defender-atp-web-content-filtering-migrate-rules-from-existing-security-software/">Microsoft Defender ATP Web Content Filtering – Migrate Rules from Existing Security Software</a></li>
+<li><a href="https://campbell.scot/microsoft-defender-atp-web-content-filtering-administration-limitations-and-user-experience/">Microsoft Defender ATP Web Content Filtering – Administration, Limitations, and User Experience</a></li>
+<li><a href="https://emptydc.com/2020/06/17/mdatp-%f0%9f%92%99-thor/">MDATP 💙 THOR</a></li>
+<li><a href="https://thecollective.eu/blog/assigning-mdatp-tags-through-the-machine-name-logged-on-user-with-logic-apps/">Assigning MDATP tags through the machine name &amp; logged on user with Logic Apps</a></li>
+<li><a href="https://www.verboon.info/2020/09/hunting-for-local-group-membership-changes/">Hunting for Local Group Membership changes</a></li>
+<li><a href="https://blog.thinformatics.com/2020/08/showcasing-some-endpoint-detection-response-features-of-microsoft-defender-atp/">Showcasing some Endpoint Detection &amp; Response Features of Microsoft Defender ATP</a></li>
+<li><a href="https://chrisonsecurity.net/2020/06/24/microsoft-defender-atp-for-android/">Microsoft Defender ATP for Android</a></li>
+<li><a href="https://emptydc.com/2021/02/25/gundog/">Gundog</a></li>
+<li><a href="https://medium.com/@theoraclewrites/microsoft-defender-detect-hidden-windows-runs-1c8094e072c7">Microsoft Defender — Detect Hidden Windows Run</a></li>
+<li><a href="https://www.kustoking.com/detecting-solarwinds-sunburst-ioc-from-microsoft-defender-for-endpoint-and-azure-sentinel/">Detecting SolarWinds SUNBURST IOC, from Microsoft Defender for Endpoint and Azure Sentinel</a></li>
+</ul>
+<h2 id="github">GitHub</h2>
+<ul>
+<li><a href="https://github.com/msdirtbag/MDEAutomator">MDEAutomator</a></li>
+<li><a href="https://github.com/nathanmcnulty/nathanmcnulty/tree/master/DefenderForEndpoint/Performance">Defender AV Performance Monitoring and Tuning</a></li>
+<li><a href="https://github.com/ugurkocde/Intune/blob/main/Defender%20for%20Endpoint/MDE_Signature_Update_Detection.ps1">MDE_Signature_Update_Detection.ps</a></li>
+<li><a href="https://github.com/alexverboon/DefenderMAPS">DefenderMAPS</a></li>
+<li><a href="https://github.com/lkarlslund/nifo">Nuke It From Orbit</a></li>
+<li><a href="https://github.com/ThomasVrhydn/MDE-troubleshooter">MDE Troubleshooter</a></li>
+<li><a href="https://github.com/Bert-JanP/Incident-Response-Powershell">Powershell Digital Forensics &amp; Incident Response</a></li>
+<li><a href="https://github.com/MicrosoftDocs/defender-docs/tree/public/defender-endpoint">Defender for Endpoint docs</a></li>
+<li><a href="https://github.com/Cyb3r-Monk/Microsoft-Vulnerable-Driver-Block-Lists">Microsoft Vulnerable Driver Block Lists</a></li>
+<li><a href="https://github.com/yujiaoMSFT/Microsoft-Defender-For-Endpoint/blob/main/macOS/Deploy-MDE-macOS-with-Intune/readme.md">Deploying Defender for Endpoint for macOS using Microsoft Intune</a></li>
+<li><a href="https://github.com/chlaplan/MDE-Monitoring-App">MDE Monitoring App</a></li>
+<li><a href="https://github.com/FalconForceTeam/TelemetryCollectionManager">TelemetryCollectionManager</a></li>
+<li><a href="https://github.com/cudeso/misp2defender">MISP2Defender</a></li>
+<li><a href="https://github.com/HackingLZ/maps_scanner">MAPS Cloud Scanner</a></li>
+</ul>
+<h2 id="simulations">Simulations</h2>
+<ul>
+<li><a href="https://learn.microsoft.com/en-us/defender-endpoint/defender-endpoint-demonstrations">Microsoft Defender for Endpoint - demonstration scenarios</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/alexverboon" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/alexverboon" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M459.4 151.7c.3 4.5.3 9.1.3 13.6 0 138.7-105.6 298.6-298.6 298.6-59.5 0-114.7-17.2-161.1-47.1 8.4 1 16.6 1.3 25.3 1.3 49.1 0 94.2-16.6 130.3-44.8-46.1-1-84.8-31.2-98.1-72.8 6.5 1 13 1.6 19.8 1.6 9.4 0 18.8-1.3 27.6-3.6-48.1-9.7-84.1-52-84.1-103v-1.3c14 7.8 30.2 12.7 47.4 13.3-28.3-18.8-46.8-51-46.8-87.4 0-19.5 5.2-37.4 14.3-53C87.4 130.8 165 172.4 252.1 176.9c-1.6-7.8-2.6-15.9-2.6-24C249.5 95.1 296.3 48 354.4 48c30.2 0 57.5 12.7 76.7 33.1 23.7-4.5 46.5-13.3 66.6-25.3-7.8 24.4-24.4 44.8-46.1 57.8 21.1-2.3 41.6-8.1 60.4-16.2-14.3 20.8-32.2 39.3-52.6 54.3"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/in/verboonalex/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77m282.1 320h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.expand", "navigation.indexes", "navigation.instant", "navigation.tabs", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../js/clarity.js"></script>
+      
+    
+  </body>
+</html>

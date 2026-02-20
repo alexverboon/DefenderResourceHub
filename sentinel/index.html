@@ -1,0 +1,2147 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://alexverboon.github.io/DefenderResourceHub/sentinel/">
+      
+      
+        <link rel="prev" href="../entraid/">
+      
+      
+        <link rel="next" href="../xspm/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.2">
+    
+    
+      
+        <title>Microsoft Sentinel - Defender Resource Hub</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+  
+  
+    
+      
+      
+    
+  
+  
+  <style>:root{--md-admonition-icon--<type>:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2016%2016%22%3E%3Cpath%20d%3D%22M6.457%201.047c.659-1.234%202.427-1.234%203.086%200l6.082%2011.378A1.75%201.75%200%200%201%2014.082%2015H1.918a1.75%201.75%200%200%201-1.543-2.575Zm1.763.707a.25.25%200%200%200-.44%200L1.698%2013.132a.25.25%200%200%200%20.22.368h12.164a.25.25%200%200%200%20.22-.368Zm.53%203.996v2.5a.75.75%200%200%201-1.5%200v-2.5a.75.75%200%200%201%201.5%200M9%2011a1%201%200%201%201-2%200%201%201%200%200%201%202%200%22/%3E%3C/svg%3E');}</style>
+
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#microsoft-sentinel" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Defender Resource Hub" class="md-header__button md-logo" aria-label="Defender Resource Hub" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Defender Resource Hub
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Microsoft Sentinel
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="cyan"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/alexverboon/DefenderResourceHub" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Defender Resource Hub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../entraid/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Microsoft Security stack
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../podcasts/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Podcasts & Newsletters
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../social/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Social Media
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../videos/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Webinars & Videos
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../learn/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Learning & Training
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../books/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Books
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../GitHub/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  GitHub
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../about/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  About this Project
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Defender Resource Hub" class="md-nav__button md-logo" aria-label="Defender Resource Hub" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Defender Resource Hub
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/alexverboon/DefenderResourceHub" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Defender Resource Hub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Security stack
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Microsoft Security stack
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../entraid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft EntraID
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Sentinel
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Sentinel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#microsoft-tech-community-blogs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Microsoft Tech Community Blogs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community-blogs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Community Blogs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#playbooks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Playbooks
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#github" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GitHub
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-and-training" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Learning and Training
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning and Training">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#documentation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Documentation
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../xspm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Security Exposure Management
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdxdr/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender XDR
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mde/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Endpoint
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Identity
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Office 365
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdca/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Cloud Apps
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Cloud
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdiot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for IoT
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdeasm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender External Attack Surface Management
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../securitycopilot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Copilot for Security
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdtvm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender Threat and Vulnerability Management
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdti/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Threat Intelligence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../azurenetworksecurity/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Azure Network Security
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../podcasts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Podcasts & Newsletters
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../social/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Social Media
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../videos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webinars & Videos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../learn/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learning & Training
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../books/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Books
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../GitHub/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    GitHub
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About this Project
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#microsoft-tech-community-blogs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Microsoft Tech Community Blogs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community-blogs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Community Blogs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#playbooks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Playbooks
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#github" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GitHub
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-and-training" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Learning and Training
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning and Training">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#documentation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Documentation
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="microsoft-sentinel">Microsoft Sentinel</h1>
+<ul>
+<li><a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel">Microsoft Sentinel</a></li>
+<li><a href="https://learn.microsoft.com/en-us/azure/sentinel/">Microsoft Sentinel documentation</a></li>
+<li><a href="https://learn.microsoft.com/en-us/azure/sentinel/whats-new">What's new in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310">Become a Microsoft Sentinel Ninja</a></li>
+<li><a href="https://marketingassets.microsoft.com/gdc/gdcDFk38S/original">The Definitive SIEM Buyer’s Guide</a></li>
+</ul>
+<h2 id="microsoft-tech-community-blogs">Microsoft Tech Community Blogs</h2>
+<ul>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoft-security-blog/announcing-ai-entity-analyzer-in-microsoft-sentinel-mcp-server---public-preview/4476230">Announcing AI Entity Analyzer in Microsoft Sentinel MCP Server - Public Preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-platform-audit-logs-and-where-to-find-them/4481838">Microsoft Sentinel Platform: Audit Logs and Where to Find Them</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/managing-microsoft-sentinel-and-microsoft-defender-xdr-permissions-in-microsoft-/4480583">Managing Microsoft Sentinel and Microsoft Defender XDR permissions in Microsoft Defender portal</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/call-to-action-migrate-your-classic-alert%E2%80%91trigger-automations-to-automation-rule/4479137">Call to Action: Migrate Your Classic Alert‑trigger Automations to Automation Rules Before March 2026</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/efficiently-process-high-volume-logs-and-optimize-costs-with-microsoft-sentinel-/4478110">Efficiently process high volume logs and optimize costs with Microsoft Sentinel data lake</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-in-microsoft-sentinel-december-2025/4477063">What’s New in Microsoft Sentinel: December 2025</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/build-less-secure-more-simplify-security-data-management-with-microsoft-sentinel/4474792">Build less, secure more: Simplify security data management with Microsoft Sentinel data lake</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/new-compliance-solutions-in-microsoft-sentinel-hipaa--gdpr-reports/4470452">New Compliance Solutions in Microsoft Sentinel: HIPAA &amp; GDPR Reports</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/ignite-2025-new-microsoft-sentinel-connectors-announcement/4454613">Ignite 2025: New Microsoft Sentinel Connectors Announcement</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/detect-more-spend-less-the-future-of-threat-intelligence-correlation/4468661">Detect more, spend less: the future of threat intelligence correlation</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/operationalizing-the-sentinel-data-lake-a-practitioner%E2%80%99s-guide/4466042">Operationalizing the Sentinel data lake: A Practitioner’s Guide</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/automating-ioc-hunts-in-microsoft-sentinel-data-lake/4467113">Automating IOC hunts in Microsoft Sentinel data lake</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-in-microsoft-sentinel-november-2025/4466061">What’s New in Microsoft Sentinel: November 2025</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/using-microsoft-sentinel-mcp-server-with-github-copilot-for-ai-powered-threat-hu/4464980">Using Microsoft Sentinel MCP Server with GitHub Copilot for AI-Powered Threat Hunting</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoft-security-blog/introducing-microsoft-sentinel-graph-public-preview/4456368">Introducing Microsoft Sentinel graph (Public Preview)</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-sentinel-data-lake-is-now-generally-available/4456342">Microsoft Sentinel data lake is now generally available</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/new-bi-directional-export-for-ti-in-microsoft-sentinel-and-strategic-cyware-part/4457947">New bi-directional export for TI in Microsoft Sentinel and strategic Cyware partnership</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/6-truths-about-migrating-microsoft-sentinel-to-the-defender-portal/4460437">6 truths about migrating Microsoft Sentinel to the Defender portal</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-data-lake-faq/4457728">Microsoft Sentinel data lake FAQ</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/app-assures-sentinel-promise-now-extends-to-microsoft-sentinel-data-lake/4454612">App Assure's Sentinel promise now extends to Microsoft Sentinel data lake</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-and-defender-itsm-integrations-explained/4457282">Microsoft Sentinel and Defender: ITSM Integrations Explained</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/automate-security-workflows-in-microsoft-sentinel-with-blinkops/4454575">Automate Security Workflows in Microsoft Sentinel with BlinkOps</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel%E2%80%99s-ai-driven-ueba-ushers-in-the-next-era-of-behavioral-analyti/4448390">Microsoft Sentinel’s AI-driven UEBA ushers in the next era of behavioral analytics</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/how-to-ingest-splunk-alert-data-to-microsoft-sentinel-siem/4449027">How to: Ingest Splunk alert data to Microsoft Sentinel SIEM</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/table-talk-sentinel%E2%80%99s-new-threatintel-tables-explained/4440273">Table Talk: Sentinel’s New ThreatIntel Tables Explained</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/automating-microsoft-sentinel-playbook-fundamentals/4424475">Automating Microsoft Sentinel: Playbook Fundamentals</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/automating-watchlists-in-microsoft-sentinel/4432054">Automating Watchlists in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/planning-your-move-to-microsoft-defender-portal-for-all-microsoft-sentinel-custo/4432055">Planning your move to Microsoft Defender portal for all Microsoft Sentinel customers</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-summary-rules-templates-streamlining-data-aggregation-in-microsoft-s/4428779">Introducing Summary Rules Templates: Streamlining Data Aggregation in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/manage-cases-from-across-tenants-in-one-place/4425326">Manage cases from across tenants in one place</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-repositories-the-future-of-content-as-code--best-practices%E2%80%8B/4422936">Microsoft Sentinel: Repositories, the Future of Content-as-Code &amp; Best Practices​</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/exciting-announcements-new-data-connectors-released-using-the-codeless-connector/4421104">Exciting Announcements: New Data Connectors Released Using the Codeless Connector Framework</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in-microsofts-unified-/4398229">Multi-workspace for Multi-tenant is now in Public Preview in Microsoft's Unified SecOps Platform</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/multi-workspace-for-single-tenant-is-now-in-public-preview-in-microsoft%E2%80%99s-unifie/4398228">Multi Workspace for Single tenant is now in Public Preview in Microsoft’s unified SecOps platform</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-project-deployment-tracker/4394174">Microsoft Sentinel Project Deployment Tracker</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/new-capabilities-coming-to-microsoft-sentinel-this-spring/4390357">New capabilities coming to Microsoft Sentinel this Spring</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/automating-azure-resource-diagnostics-log-forwarding-between-tenants-with-powers/4395966">Automating Azure Resource Diagnostics Log Forwarding Between Tenants with PowerShell</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/integrating-fluent-bit-with-microsoft-sentinel/4377725">Integrating Fluent Bit with Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-threat-intelligence-ingestion-rules/4379019">Introducing Threat Intelligence Ingestion Rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-the-unified-device-timeline-experience-in-microsoft-siem--xdr/4372047">Introducing the Unified Device Timeline Experience in Microsoft SIEM + XDR</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/announcing-public-preview-new-stix-objects-in-microsoft-sentinel/4369164">Announcing Public Preview: New STIX Objects in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-find-the-sentinel-content-you-need-using-ai-search/4304741">What’s new: Find the Sentinel content you need using AI search</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/improve-secops-collaboration-with-case-management/4369044">Improve SecOps collaboration with case management</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/ingesting-palo-alto-cortex-xdr-logs-into-microsoft-sentinel-with-the-updated-ccp/4366555">Ingesting Palo Alto Cortex XDR Logs into Microsoft Sentinel with the Updated CCP Connector</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/whats-new-bicep-support-in-microsoft-sentinel-repositories/4358490">Whats New: Bicep Support in Microsoft Sentinel Repositories</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and-implement-it-in-p/4364324">How to successfully evaluate the SAP for Sentinel solution and implement it in production (Part 2)</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/how-to-successfully-evaluate-the-sap-for-sentinel-solution-and-implement-it-in-p/4357962">How to successfully evaluate the SAP for Sentinel solution and implement it in production (Part 1)</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/unified-coverage-management-across-siem-and-xdr-in-soc-optimization/4363810">Unified coverage management across SIEM and XDR in SOC optimization</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-soc-optimization-recommendations-based-on-similar-organizations/4358766">Introducing SOC Optimization Recommendations Based on Similar Organizations</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/go-agentless-with-microsoft-sentinel-for-sap/4357873">Go agentless with Microsoft Sentinel for SAP</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/whats-new-view-microsoft-sentinel-workbooks-directly-from-unified-soc-operations/4356094">What's New: View Microsoft Sentinel Workbooks Directly from Unified SOC Operations Platform</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/how-microsoft%E2%80%99s-leading-siem-is-getting-even-better/4304327">How Microsoft’s leading SIEM is getting even better</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/leave-no-data-behind-using-summary-rules-to-store-data-cost-effectively-in-micro/4296785">Leave no data behind: Using summary rules to store data cost effectively in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-exciting-new-microsoft-sentinel-connectors-announcement---ignite-2024/4294146">What’s New: Exciting new Microsoft Sentinel Connectors Announcement - Ignite 2024</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftsentinelblog/deploy-microsoft-sentinel-using-bicep/4270970">Deploy Microsoft Sentinel using Bicep</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/save-money-on-your-sentinel-ingestion-costs-with-data-collection/ba-p/4270256">Save money on your Sentinel ingestion costs with Data Collection Rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-to-do-if-your-sentinel-data-connector-shows-as-deprecated/ba-p/4270346">What to do if your Sentinel Data Connector shows as [DEPRECATED]</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/cowrie-honeypot-and-its-integration-with-microsoft-sentinel/ba-p/4258349">Cowrie honeypot and its Integration with Microsoft Sentinel.</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-use-cases-mapper-workbook/ba-p/4202058">Introducing the Use Cases Mapper workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/level-up-your-security-skills-with-the-new-microsoft-sentinel/ba-p/4260106">Level Up Your Security Skills with the New Microsoft Sentinel Ninja Training!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-global-search-in-unified-security-operations-platform/ba-p/4255122">What's New: Global Search in Unified Security Operations platform includes Sentinel user and devices</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-aitm-phishing-via-3rd-party-network-events-in-unified/ba-p/4224653">Detecting AiTM Phishing via 3rd-Party Network events in Unified Security Operations Platform</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-detect-disabling-windows/ba-p/4236540">The power of Data Collection Rules: Detect Disabling Windows Defender Real-Time Protection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-monitoring-powershell-usage/ba-p/4236527">The power of Data Collection Rules: Monitoring PowerShell usage</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/siem-migration-update-now-migrate-with-contextual-depth-in/ba-p/4241234">SIEM Migration Update: Now Migrate with contextual depth in translations with Microsoft Sentinel!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-collecting-events-for/ba-p/4236486">The power of Data Collection Rules: Collecting events for advanced use cases in Microsoft USOP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-with-microsoft-graph-activity-logs/ba-p/4234632">Hunting with Microsoft Graph activity logs</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-multi-tenancy-in-the-unified-security-operations/ba-p/4225658">What's new: Multi-tenancy in the unified security operations platform experience  in Public Preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/comprehensive-coverage-and-cost-savings-with-microsoft-sentinel/ba-p/4223293">Comprehensive coverage and cost-savings with Microsoft Sentinel’s new data tier</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/revolutionizing-log-collection-with-azure-monitor-agent/ba-p/4218129">Revolutionizing log collection with Azure Monitor Agent</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-amp-cyberint-threat-intel-integration-guide/ba-p/4211883">Microsoft Sentinel &amp; Cyberint Threat Intel Integration Guide</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/frequently-asked-questions-about-the-unified-security-operations/ba-p/4212048">Frequently asked questions about the unified security operations platform</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhancing-security-monitoring-integrating-gitlab-cloud-edition/ba-p/4208519">Enhancing Security Monitoring: Integrating GitLab Cloud Edition with Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-all-in-one-now-available-for-azure-government/ba-p/4204981">Microsoft Sentinel All-In-One now available for Azure Government</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unified-security-operations-platform-technical-faq/ba-p/4189136">Unified Security Operations Platform - Technical FAQ!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-run-playbooks-on-incidents-on-demand-going-ga-in/ba-p/4188713">What's new: Run playbooks on incidents on-demand going GA in unified platform</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-cribl-stream-to-ingest-logs-into-microsoft-sentinel/ba-p/4179790">Using Cribl Stream to ingest logs into Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-soc-optimization-api/ba-p/4176966">Introducing SOC Optimization API</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-create-your-own-codeless-data-connector/ba-p/4174439">What's New: Create your own codeless data connector</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/debugging-playbooks/ba-p/4165374">Debugging Playbooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/public-preview-log-analytics-workspace-replication/ba-p/4150933">Public Preview: Log Analytics Workspace Replication</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/configuring-archive-period-for-tables-at-mass-for-data-retention/ba-p/4118220">Configuring archive period for tables at Mass for Data Retention within Log Analytics Workspace</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/part-3-ingesting-aws-govcloud-microsoft-sentinel-in-azure/ba-p/4138757">PART 3 - Ingesting AWS GovCloud Microsoft Sentinel in Azure Commercial</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/soc-optimization-unlock-the-power-of-precision-driven-security/ba-p/4130589">SOC optimization: unlock the power of precision-driven security management</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-delivering-value-to-your-soc/ba-p/4132040">Microsoft Sentinel: Delivering value to your SOC</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/send-data-to-microsoft-sentinel-using-cribl-stream/ba-p/4129664">Send data to Microsoft Sentinel using Cribl Stream</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/examining-the-deception-infrastructure-in-place-behind-code/ba-p/4124464">Examining the Deception infrastructure in place behind code.microsoft.com</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/setting-up-sentinel-for-kubernetes-monitoring/ba-p/4118593">Setting up Sentinel for Kubernetes Monitoring</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-non-microsoft-cloud-security-data-into-microsoft/ba-p/4114728">Ingesting Non-Microsoft Cloud Security Data into Microsoft Sentinel for Gov &amp; DIB customers part 2</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-non-microsoft-cloud-security-data-into-microsoft/ba-p/4114683">Ingesting Non-Microsoft Cloud Security Data into Microsoft Sentinel for Government &amp; DIB Customers</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhance-the-ingestion-of-aws-cloudwatch-logs-into-microsoft/ba-p/4100565">Enhance the ingestion of AWS CloudWatch logs into Microsoft Sentinel with AWS Lambda</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-easily-migrate-to-microsoft-sentinel-with-the-new/ba-p/4100351">[What's New] Easily migrate to Microsoft Sentinel with the new SIEM migration experience</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-codeless-connectors-with-the-codeless-connector-builder/ba-p/4082050">Create Codeless Connectors with the Codeless Connector Builder (Preview)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-set-up-sentinel-data-connectors-for-kubernetes-and-github/ba-p/4068994">How to Set Up Sentinel Data Connectors for Kubernetes and GitHub</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/monitoring-kubernetes-clusters-image-build-environment-and/ba-p/4062115">Monitoring Kubernetes Clusters, Image Build Environment and Container Registries with Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/upcoming-content-hub-ama-supported-data-connectors/ba-p/4052304">Upcoming Content Hub AMA supported Data Connectors</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-tasks-repository-in-microsoft-sentinel/ba-p/4038563">Create Tasks Repository in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-crowdstrike-falcon-data-replicator-v2-data-connector/ba-p/4046961">What's New: CrowdStrike Falcon Data Replicator V2 Data Connector is now Generally Available!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-full-potential-of-user-and-entity-behavior-analytics/ba-p/4031570">Unleash the full potential of User and Entity Behavior Analytics with our updated workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/querying-watchlists/ba-p/4030714">Querying Watchlists</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/leveraging-cef-with-azure-monitor-agent-ama-for-gcp-hosted/ba-p/3948748">Leveraging CEF with Azure Monitor Agent (AMA) for GCP-Hosted Fortinet Firewall and Syslog Forwarder,</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/use-azure-devops-to-manage-sentinel-for-mssps-and-multi-tenant/ba-p/4008109">Use Azure DevOps to manage Sentinel for MSSPs and Multi-tenant Environments</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-unified-soc-platform-ninja/ba-p/4014565">Become a Microsoft Unified SOC Platform Ninja</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/identifying-adversary-in-the-middle-aitm-phishing-attacks/ba-p/3991358">Identifying Adversary-in-the-Middle (AiTM) Phishing Attacks through 3rd-Party Network Detection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-public-preview-of-microsoft-defender-for/ba-p/3992792">Microsoft Sentinel: Public preview of Microsoft Defender for Cloud to Defender XDR integration</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/sentinel-s-enrichment-widgets-elevating-cybersecurity/ba-p/3985255">Sentinel's Enrichment Widgets: Elevating Cybersecurity Intelligence with Microsoft</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-partner-solution-contributions-update-ignite/ba-p/3982485">Microsoft Sentinel Partner Solution Contributions update - Ignite 2023</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-a-unified-security-operations-platform-with/ba-p/3983341">Introducing a Unified Security Operations Platform with Microsoft Sentinel and Defender XDR</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/architecture-guidance-how-to-ingest-gcp-firewall-vpc-logs-into/ba-p/3974767">Architecture Guidance: How to ingest GCP Firewall\VPC logs into Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-introducing-microsoft-sentinel-web-session-essentials/ba-p/3925274">What’s New: Introducing Microsoft Sentinel Web Session Essentials Solution.</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/fortifying-your-defenses-how-microsoft-sentinel-safeguards-your/ba-p/3934807">Fortifying Your Defenses: How Microsoft Sentinel Safeguards Your Organization from BEC Attacks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerating-zero-trust-alignment-with-microsoft-sentinel/ba-p/3918125">Accelerating Zero Trust Alignment with Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-s-new-incident-experience-is-generally/ba-p/3911534">Microsoft Sentinel's new incident experience is generally available!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-microsoft-sentinel-optimization-workbook/ba-p/3901489">Introducing Microsoft Sentinel Optimization Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-access-to-microsoft-sentinel-workbooks-with-lower-scoped/ba-p/3906280">Manage Access to Microsoft Sentinel Workbooks with Lower Scoped RBAC</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/help-protect-your-exchange-environment-with-microsoft-sentinel/ba-p/3872527">Help Protect your Exchange Environment With Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-tasks-management-to-protect-your-organization-against/ba-p/3884516">Automate tasks management to protect your organization against threats</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/taking-entity-investigation-to-the-next-level-microsoft-sentinel/ba-p/3878382">Taking Entity Investigation to the Next Level: Microsoft Sentinel’s Upgraded Entity Pages</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/future-proof-your-soc-with-the-power-of-the-azure-ecosystem-and/ba-p/3866030">Future Proof your SOC with the Power of the Azure Ecosystem and Defender Threat Intelligence</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-new-microsoft-sentinel-simplified-pricing/ba-p/3869145">Introducing the new Microsoft Sentinel simplified pricing.</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-content-hub-ga-and-ootb-content/ba-p/3854807">[What’s New] Microsoft Sentinel Content Hub GA and OOTB Content Centralization</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-threats-on-your-power-platform-based-no-code-low-code/ba-p/3867162">Detect threats on your Power Platform based no-code/low-code applications with Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-monitor-and-optimize-the-execution-of-your-scheduled/ba-p/3864083">What’s new: Monitor and optimize the execution of your scheduled analytics rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-solution-for-dynamics-365-finance/ba-p/3856210">What's new: Microsoft Sentinel Solution for Dynamics 365 Finance and Operations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/deep-dive-into-microsoft-sentinel-s-new-overview-dashboard/ba-p/3860688">Deep dive into Microsoft Sentinel’s new Overview dashboard</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/split-microsoft-sentinel-tables-with-multi-destination-data/ba-p/3849526">Split Microsoft Sentinel Tables with Multi-Destination Data Collection Rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-microsoft-sentinel-triage-assistant-stat/ba-p/3845846">Introducing the Microsoft Sentinel Triage Assistant (STAT)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ncs-case-study-end-to-end-integration-of-custom-byoml-model-with/ba-p/3817918">NCS Case Study - End-to-End Integration of Custom BYOML model with Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/revolutionize-your-sap-security-with-microsoft-sentinel-s-soar/ba-p/3823857">Revolutionize your SAP Security with Microsoft Sentinel's SOAR Capabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-edit-and-monitor-data-collection-rules-with-the-data/ba-p/3810987">Create, Edit, and Monitor Data Collection Rules with the Data Collection Rule Toolkit</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-public-preview-of-microsoft-sentinel-in-azure-china/ba-p/3800581">Announcing Public Preview of Microsoft Sentinel in Azure China 21Vianet</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-introducing-microsoft-sentinel-dns-essentials/ba-p/3803389">What’s New: Introducing Microsoft Sentinel DNS Essentials solutions.</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/rsac-2023-microsoft-sentinel-empowering-the-soc-with-next-gen/ba-p/3803613">RSAC 2023: Microsoft Sentinel empowering the SOC with next-gen SIEM</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-microsoft-sentinel-all-in-one-v2/ba-p/3800037">Announcing Microsoft Sentinel All-in-One v2</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-workbook-concepts-with-workbooks-202/ba-p/3784676">Advanced Workbook Concepts with Workbooks 202</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-with-microsoft-sentinel-at-secure/ba-p/3780900">What's new with Microsoft Sentinel at Secure</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-sentinel-solution-for-sap-btp/ba-p/3780794">What’s new: Sentinel Solution for SAP BTP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-introducing-microsoft-sentinel-network-session/ba-p/3772746">What’s New: Introducing Microsoft Sentinel Network Session Essentials solution</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/coming-soon-microsoft-sentinel-out-of-the-box-content/ba-p/3764217">[Coming soon] Microsoft Sentinel out-of-the-box content centralization!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/tutorial-get-started-with-azure-waf-investigation-notebook/ba-p/3733438">Tutorial: Get started with Azure WAF investigation Notebook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/acsc-essential-8-health-report-in-microsoft-sentinel/ba-p/3755702">ACSC Essential 8 – Health Report in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/anomaly-detection-and-explanation-with-isolation-forest-and-shap/ba-p/3750086">Anomaly detection and Explanation with Isolation Forest and SHAP using Microsoft Sentinel Notebooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/designs-for-accomplishing-microsoft-sentinel-scalable-ingestion/ba-p/3741516">Designs for Accomplishing Microsoft Sentinel Scalable Ingestion</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-monitor-the-health-and-audit-the-integrity-of-your/ba-p/3736862">What’s new: Monitor the health and audit the integrity of your analytics rules.</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-capture-replay-vulnerabilities-amp-exploits-with-the/ba-p/3727644">Detect capture-replay vulnerabilities &amp; exploits with the Sentinel solution for SAP® applications</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-extract-actionable-intelligence-from-text-based/ba-p/3729508">[What's New] Extract Actionable Intelligence from Text-based Threat Intel using Sentinel Notebook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-new-incident-experience-is-here/ba-p/3717042">The new incident experience is here!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-solution-for-sap-applications-new-data/ba-p/3716881">Microsoft Sentinel Solution for SAP® Applications - New data exfiltration detection rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-incident-investigation-notebook/ba-p/3714612">What’s New: Fusion Incident Investigation Notebook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/a-look-at-different-options-for-storing-and-searching-sentinel/ba-p/3713698">A Look at Different Options for Storing and Searching Sentinel Archived Logs</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/switching-to-key-vault-secrets-usage-for-function-app-based/ba-p/3707181">Switching to Key Vault Secrets usage for Function App based Microsoft Sentinel Data Connectors</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/msticpy-hack-month-february-2023/ba-p/3697450">MSTICPy Hack Month - February 2023</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-more-new-microsoft-sentinel-soar-solutions/ba-p/3696467">What's New: More NEW Microsoft Sentinel SOAR solutions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-active-directory-identity-protection-user-account/ba-p/3695968">Azure Active Directory Identity Protection user account enrichments removed: how to mitigate impact</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-run-playbooks-on-entities-on-demand/ba-p/3694937">What’s new: Run playbooks on entities on-demand</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/arm-your-microsoft-sentinel-platform-with-industry-leading-cyber/ba-p/3693390">Arm Your Microsoft Sentinel Platform with Industry-Leading Cyber Threat Intelligence from CYFIRMA</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-introducing-standalone-and-ootb-content-management-at/ba-p/3693143">[What’s New] Introducing Standalone and OOTB content management at-scale actions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-250-solutions-in-microsoft-sentinel-content-hub/ba-p/3692881">What’s New: 250+ Solutions in Microsoft Sentinel Content hub!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-introducing-microsoft-sentinel-solution-for/ba-p/3692840">What's New: Introducing Microsoft Sentinel solution for ServiceNow bi-directional sync</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/architectural-guidance-azure-monitor-private-links-with/ba-p/3692527">Architectural Guidance – Azure Monitor private links with Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/dynamic-alert-details-the-force-awakens/ba-p/3690747">Dynamic alert details - The force awakens</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-incident-tasks/ba-p/3685669">What’s new: Incident tasks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-monitor-the-health-of-your-automation-rules-and/ba-p/3678696">What’s new: Monitor the health of your automation rules and playbooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/update-to-microsoft-sentinel-s-technical-playbook-for-mssps-is/ba-p/3670838">Update to Microsoft Sentinel’s Technical Playbook for MSSPs is now available (v1.5.1)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-is-named-a-leader-in-the-2022-gartner-magic-quadrant/ba-p/3666566">Microsoft is named a Leader in the 2022 Gartner® Magic Quadrant™ for Security Information and Event</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/upcoming-changes-to-the-commonsecuritylog-table/ba-p/3643232">Upcoming changes to the CommonSecurityLog table</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-sentinel-threat-hunting/ba-p/3650493">What's New in Sentinel Threat Hunting</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-what-s-new-at-microsoft-ignite/ba-p/3649968">Microsoft Sentinel: What's New at Microsoft Ignite</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ueba-essentials-solution-now-available-in-content-hub/ba-p/3651074">UEBA Essentials solution now available in Content Hub!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/public-preview-announcement-defender-for-iot-solution-for/ba-p/3649430">Public preview announcement: Defender for IOT solution for Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-enhanced-microsoft-sentinel-aws-cloudtrail/ba-p/3640884">Announcing the enhanced Microsoft Sentinel AWS CloudTrail solution, powered by new MITRE-Based Rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/anomaly-detection-on-the-sap-audit-log-using-the-microsoft/ba-p/3418709">Anomaly detection on the SAP audit log using the Microsoft Sentinel for SAP solution</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/iot-entity-page-enhance-iot-ot-threat-monitoring-in-your-soc/ba-p/3635012">IoT Entity Page - Enhance IoT/OT Threat Monitoring in Your SOC with Sentinel and Defender for IoT</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/data-collection-rules-creation-impacting-sentinel-ueba-ml-model/ba-p/3619773">Data Collection Rules Creation Impacting Sentinel UEBA ML Model</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introduction-to-machine-learning-notebooks-in-microsoft-sentinel/ba-p/3626534">Introduction to Machine Learning Notebooks in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-customizable-machine-learning-based-anomalies/ba-p/3624436">Microsoft Sentinel customizable machine learning based anomalies is Generally Available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/create-and-delete-incidents-in-microsoft-sentinel/ba-p/3623699">Create and delete incidents in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/power-of-threat-intelligence-sprinkled-across-microsoft-sentinel/ba-p/3602916">Power of Threat Intelligence sprinkled across Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/troubleshoot-amazon-web-services-s3-connector-issues/ba-p/3608072">Troubleshoot Amazon Web Services S3 connector issues</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enabling-ad-fs-security-auditing-and-shipping-event-logs-to/ba-p/3610464">Enabling AD FS Security Auditing 📡 and Shipping Event Logs to Microsoft Sentinel 🛡️</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-soc-process-framework-is-now-live-in-content-hub/ba-p/3590349">What's New: SOC Process Framework is Now Live in Content Hub!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-teams-phishing-with-microsoft-sentinel-defender/ba-p/3601746">Hunting for Teams Phishing with Microsoft Sentinel, Defender, Microsoft Graph and MSTICPy</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-resource-entity-page-your-way-to-investigate-azure/ba-p/3594655">Azure resource entity page - your way to investigate Azure resources</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-ingestion-sampledata-as-a-service-solution-for-a-great-demos/ba-p/3598500">New ingestion-SampleData-as-a-service solution, for a great Demos and simulation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-masqueraded-process-name-anomalies-using-an-ml-notebook/ba-p/3596405">Detect Masqueraded Process Name Anomalies using an ML notebook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-low-and-slow-password-sprays-using-machine-learning/ba-p/3592052">Hunting for Low and Slow Password Sprays Using Machine Learning</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bring-threat-intelligence-from-kaspersky-using-taxii-data/ba-p/3589012">Bring Threat Intelligence from Kaspersky using TAXII data connector</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/protect-critical-information-within-sap-systems-against/ba-p/3586943">Protect critical information within SAP systems against cyberattacks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-threat-intelligence-features-in-microsoft-sentinel/ba-p/3585214">New Threat Intelligence features in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/intro-to-kql-workbook-summer-update/ba-p/3587232">Intro to KQL Workbook - Summer Update</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/discover-the-power-of-ueba-anomalies-in-microsoft-sentinel/ba-p/3576185">Discover the power of UEBA anomalies in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-solution-for-dynamics-365-news-new-oob/ba-p/3487265">Microsoft Sentinel Solution for Dynamics 365 News – New OOB analytics rules templates available now!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-3-send-email/ba-p/3571716">Microsoft Sentinel Automation Tips &amp; Tricks – Part 3: Send email notification options</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-notebooks-msticpy-v2-0-0/ba-p/3565877">What's New in Notebooks - MSTICPy v2.0.0</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-2-playbooks/ba-p/3566369">Microsoft Sentinel Automation Tips &amp; Tricks – Part 2: Playbooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/deploying-microsoft-sentinel-threat-monitoring-for-sap-agent/ba-p/3528040">Deploying Microsoft Sentinel Threat Monitoring for SAP agent into an AKS/Kubernetes cluster</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-centrally-manage-automated-response-to-alerts-with/ba-p/3564284">What’s new: Centrally manage automated response to alerts with automation rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377">Become a Microsoft Sentinel Automation Ninja!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/import-anomali-threatstream-feed-into-microsoft-sentinel/ba-p/3561742">Import Anomali ThreatStream Feed into Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/migration-to-microsoft-sentinel-made-easy/ba-p/3558948">Migration to Microsoft Sentinel made easy</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-1-automation/ba-p/3558454">Microsoft Sentinel Automation Tips &amp; Tricks – Part 1: Automation rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/correlating-microsoft-defender-for-cloud-alerts-in-sentinel/ba-p/3536501">Correlating Microsoft Defender for Cloud alerts in Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-threat-intelligence-matching-analytics-ip-detections/ba-p/3518649">Microsoft Threat Intelligence Matching Analytics: IP Detections</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/i-m-being-attacked-now-what/ba-p/3481937">I'm Being Attacked, Now What?</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/import-pulsedive-feed-into-microsoft-sentinel/ba-p/3478953">Import Pulsedive Feed into Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/plan-track-and-configure-your-microsoft-sentinel-deployment/ba-p/3478988">Plan, Track, and Configure Your Microsoft Sentinel Deployment/Migration with This New Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-microsoft-sentinel-hackathon-spring-2022-winners/ba-p/3473728">Announcing the Microsoft Sentinel Hackathon Spring 2022 winners</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/celebrating-the-microsoft-sentinel-ecosystem-at-rsac-2022/ba-p/3469633">Celebrating the Microsoft Sentinel Ecosystem at RSAC 2022</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/analytic-rules-sentinel-entities-new-entity-type/ba-p/3471330">Analytic rules - 'Sentinel entities' new entity type</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-forcepoint-ngfw-advanced-workbook-to-gain-deep-security/ba-p/3459622">Using Forcepoint NGFW advanced workbook to gain deep security analytics and insights</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/guided-hunting-notebook-azure-resource-explorer/ba-p/3294482">Guided Hunting Notebook: Azure Resource Explorer</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-automate-full-incident-lifecycle-with-incident-update/ba-p/3450306">What’s new: Automate full incident lifecycle with incident update triggers</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/export-historical-log-data-from-microsoft-sentinel/ba-p/3413418">Export Historical Log Data from Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-incident-expansion-relate-alerts-to-incidents/ba-p/3421089">What’s new: incident expansion – relate alerts to incidents</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/import-reversinglab-s-ransomware-feed-into-microsoft-sentinel/ba-p/3423937">Import ReversingLab’s Ransomware Feed into Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-microsoft-sentinel-nist-sp-800-53-solution/ba-p/3381485">Announcing the Microsoft Sentinel: NIST SP 800-53 Solution</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-similar-incidents-in-microsoft-sentinel/ba-p/3376450">What's new: Similar incidents in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-bulk-onboarding-of-azure-iaas-and-paas-resources-into/ba-p/3356727">Automating bulk onboarding of Azure IaaS and PaaS resources into Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/search-investigate-amp-respond-to-indicators-of-compromise-with/ba-p/3365290">Search, Investigate, &amp; Respond to Indicators of Compromise with the Threat Intelligence Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-closer-integration-between-microsoft-sentinel-and/ba-p/3299675">What’s new: Closer integration between Microsoft Sentinel and Microsoft 365 Defender</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-continuous-threat-monitoring-for-github-new/ba-p/3343209">Microsoft Sentinel – Continuous Threat Monitoring for GitHub New OOTB Content</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bring-threat-intelligence-from-sekoia-io-using-taxii-data/ba-p/3302497">Bring Threat Intelligence from SEKOIA.IO using TAXII data connector</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-power-of-modern-secops-with-microsoft-sentinel-soar/ba-p/3302505">Unleash the Power of Modern SecOps with Microsoft Sentinel SOAR</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-for-sap-news-dynamic-sap-security-audit-log/ba-p/3326842">Microsoft Sentinel for SAP News - Dynamic SAP Security Audit Log Monitor feature available now!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-power-up-automation-with-logic-apps-standard/ba-p/3300662">What's new: Power-up automation with Logic Apps Standard</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-microsoft-teams-adaptive-cards-to-enhance-incident/ba-p/3330941">Using Microsoft Teams Adaptive Cards to enhance incident response in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/export-microsoft-sentinel-playbooks-or-azure-logic-apps-with/ba-p/3275898">Export Microsoft Sentinel Playbooks or Azure Logic Apps with Ease</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/transferring-microsoft-sentinel-scheduled-alert-rules-between/ba-p/3269113">Transferring Microsoft Sentinel scheduled alert rules between different workspaces using PowerShell</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-watchlist-actions-available-for-watchlist-automation-using/ba-p/3297851">New watchlist actions available for watchlist automation using Microsoft Sentinel SOAR</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-microsoft-sentinel-cybersecurity-maturity-model/ba-p/3295095">Announcing the Microsoft Sentinel: Cybersecurity Maturity Model Certification (CMMC) 2.0 Solution</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/use-the-bulk-update-feature-with-microsoft-sentinel-watchlists/ba-p/3287241">Use the bulk update feature with Microsoft Sentinel Watchlists</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-search-and-filter-ui-enhancements-in-watchlists/ba-p/3283850">Announcing the search and filter UI enhancements in Watchlists</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/next-evolution-of-the-microsoft-sentinel-zero-trust-tic-3-0/ba-p/3278097">Next Evolution of the Microsoft Sentinel Zero Trust (TIC 3.0) Solution</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-ninja-training-the-march-2022-update/ba-p/3267020">Microsoft Sentinel Ninja Training - the March 2022 update</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/participate-in-the-microsoft-sentinel-hackathon-spring-2022/ba-p/3269187">Participate in the Microsoft Sentinel Hackathon Spring 2022!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/update-microsoft-sentinel-vip-users-watchlist-from-azure-ad/ba-p/3100184">Update Microsoft Sentinel VIP Users Watchlist from Azure AD group using playbooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/common-scenarios-using-watchlists-with-query-examples/ba-p/3259393">Common scenarios using Watchlists (with query examples)!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-microsoft-sentinel-s-soar-capabilities-with-sap/ba-p/3251485">How to use Microsoft Sentinel's SOAR capabilities with SAP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-unified-microsoft-siem-and-xdr-github-community/ba-p/3249533">What’s new: Unified Microsoft SIEM and XDR GitHub Community</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-support-for-ingestion-time-data/ba-p/3244531">Microsoft Sentinel Support for Ingestion-Time Data Transformations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/faq-search-basic-ingestion-archive-and-data-restoration/ba-p/3205600">FAQ: Search, Basic Ingestion, Archive, and Data Restoration</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/configure-a-continuous-data-pipeline-in-microsoft-sentinel-for/ba-p/3242605">Configure a continuous data pipeline in Microsoft Sentinel for big data analytics!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/creating-effective-nrt-detections-in-microsoft-sentinel/ba-p/3242537">Creating effective NRT detections in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/large-watchlist-using-sas-key-is-in-public-preview/ba-p/3242370">Large Watchlist using SAS key is in Public Preview!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/behind-the-scenes-the-ml-approach-for-detecting-advanced/ba-p/3239236">Behind the Scenes: The ML Approach for Detecting Advanced Multistage Attacks with Sentinel Fusion</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/joint-forces-ms-sentinel-and-the-mitre-framework/ba-p/3191589">Joint forces - MS Sentinel and the MITRE framework</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-normalization-is-now-built-in-microsoft-sentinel/ba-p/3100917">New! Normalization is now built-in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-archive-search-and-restore-data-in-microsoft-sentinel/ba-p/3195126">Ingest, Archive, Search, and Restore Data in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-next-in-microsoft-sentinel/ba-p/3179133">What’s Next in Microsoft Sentinel?</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-sap-user-master-data/ba-p/3190034">Microsoft Sentinel - SAP User Master Data</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/run-microsoft-sentinel-playbooks-from-workbooks-on-demand/ba-p/3193074">Run Microsoft Sentinel playbooks from workbooks on-demand</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-run-playbooks-on-incidents-on-demand/ba-p/3161032">What's new: run playbooks on incidents on demand</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/visualize-user-and-app-access-connections-in-azure-using-jupyter/ba-p/3167987">Visualize User and App Access Connections in Azure using Jupyter Notebooks in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/log-sources-and-analytics-rules-coverage-workbook-see-how-your/ba-p/3124444">Log sources and analytics rules coverage workbook: see how your tables are being used</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-consolidating-apache-log4j-related-insights-across/ba-p/3061161">What's New: Consolidating Apache Log4j-related insights across Multiple Tenants and Workspaces</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-continuous-threat-monitoring-for-github/ba-p/3037154">Microsoft Sentinel – continuous threat monitoring for GitHub</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-codeless-connector-platform/ba-p/3095455">The Codeless Connector Platform</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/modernize-log-management-with-the-maturity-model-for-event-log/ba-p/3072842">Modernize Log Management with the Maturity Model for Event Log Management (M-21-31) Solution</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-earn-your-microsoft-sentinel-black-belt-digital-badge/ba-p/3071558">What's new: Earn your Microsoft Sentinel Black Belt Digital Badge!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/single-sign-on-support-for-authentication-in-microsoft-sentinel/ba-p/3060112">Single Sign On Support for authentication in Microsoft Sentinel Notebooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/defending-critical-infrastructure-with-the-microsoft-sentinel-it/ba-p/3061184">Defending Critical Infrastructure with the Microsoft Sentinel: IT/OT Threat Monitoring Solution</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/get-hands-on-kql-practice-with-this-microsoft-sentinel-workbook/ba-p/3055600">Get Hands-On KQL Practice with this Microsoft Sentinel Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-detecting-apache-log4j-vulnerabilities-with-microsoft/ba-p/3040391">What’s New: Detecting Apache Log4j vulnerabilities with Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766">Advanced KQL Framework Workbook - Empowering you to become KQL-savvy</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-jupyter-notebooks-knowledge-check-test/ba-p/3030784">Microsoft Sentinel Jupyter Notebooks knowledge check test</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-sap-continuous-threat-monitoring-workbooks/ba-p/3015630">Microsoft Sentinel - SAP continuous threat monitoring workbooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-microsoft-sentinel-zero-trust-tic3-0-solution/ba-p/3031685">Announcing the Microsoft Sentinel: Zero Trust (TIC3.0) Solution</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/msticpy-hackathon-january-2022/ba-p/3019705">MSTICPy Hackathon - January 2022</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unlock-value-from-your-incidents-using-advanced-incident-search/ba-p/2997243">Unlock value from your incidents using advanced incident search</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/investigating-suspicious-azure-activity-with-microsoft-sentinel/ba-p/2985699">Investigating Suspicious Azure Activity with Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-sap-continuous-threat-monitoring-with-ueba/ba-p/2981154">Microsoft Sentinel - SAP continuous threat monitoring with UEBA entity pages</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/creating-your-first-microsoft-sentinel-notebook/ba-p/2977745">Creating your first Microsoft Sentinel Notebook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-microsoft-purview-insider-risk-management/ba-p/2955786">Announcing the Microsoft Purview Insider Risk Management Solution</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-bring-threat-intelligence-from-sectrio-using/ba-p/2964648">Microsoft Sentinel: Bring Threat Intelligence from Sectrio using TAXII data connector</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-code-snippets-to-build-your-own-sentinel-notebooks/ba-p/2965208">Using Code Snippets to build your own Sentinel Notebooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403">Learning with the Microsoft Sentinel Training Lab</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-public-preview-of-the-microsoft-sentinel-playbook/ba-p/2873858">Announcing the Public Preview of the Microsoft Sentinel Playbook Templates Tab</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-more-with-200-ootb-playbooks/ba-p/2861020">Automate more with 200+ OOTB playbooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enable-continuous-deployment-natively-with-microsoft-sentinel/ba-p/2929413">Enable Continuous Deployment Natively with Microsoft Sentinel Repositories!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunt-with-mitre-att-amp-ck-techniques-using-refreshed-hunting/ba-p/2887881">Hunt with MITRE ATT&amp;CK techniques using refreshed hunting dashboard</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/customize-your-hunting-experience-with-mitre-att-amp-ck/ba-p/2888077">Customize your hunting experience with MITRE ATT&amp;CK techniques and more entity types</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-deception-solution/ba-p/2904945">What’s new: Microsoft Sentinel Deception Solution</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-microsoft-sentinel-near-real-time-detections/ba-p/2935352">How to use Microsoft Sentinel Near Real Time detections</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-microsoft-sentinel-content-hub/ba-p/2928102">Introducing Microsoft Sentinel Content hub!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-emerging-threats-with-microsoft-sentinel-fusion/ba-p/2923835">Detecting Emerging Threats with Microsoft Sentinel Fusion</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detection-tuning-making-the-tuning-process-simple-one-step-at-a/ba-p/2919589">Detection tuning – “Making the tuning process simple - one step at a time.”</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-potential-network-beaconing-patterns-using-apache/ba-p/2916179">Hunting for potential network beaconing patterns using Apache Spark via Azure Synapse – Part 1</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/security-big-data-analytics-with-azure-synapse-and-microsoft/ba-p/2916265">Security big data analytics with Azure Synapse and Microsoft Sentinel Notebooks!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-introduces-enhancements-in-machine-learning/ba-p/2897871">Microsoft Sentinel introduces enhancements in machine learning and productivity at Ignite 2021</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-azure-sentinel-hackathon-2021-winners/ba-p/2892124">Announcing the Azure Sentinel Hackathon 2021 winners!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automation-integrate-azure-data-explorer-as-long-term-log/ba-p/2512703">Automation: Integrate Azure Data Explorer as Long-Term Log Retention for Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-threat-intelligence-workbook/ba-p/2858265">What’s New: Azure Sentinel Threat Intelligence Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/mitre-att-amp-ck-technique-coverage-with-sysmon-for-linux/ba-p/2858219">MITRE ATT&amp;CK technique coverage with Sysmon for Linux</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/a-quick-guide-on-using-sysmon-for-linux-in-azure-sentinel/ba-p/2847305">A Quick Guide on Using Sysmon for Linux  in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-the-deployment-of-sysmon-for-linux-and-azure-sentinel/ba-p/2847054">Automating the deployment of Sysmon for Linux 🐧 and Azure Sentinel in a lab environment 🧪</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/analyzing-endpoints-forensics-azure-sentinel-connector/ba-p/2820973">Analyzing Endpoints Forensics - Azure Sentinel Connector</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/simple-row-based-access-workbook-lab-walk-through-with-azure/ba-p/2804446">Simple Row-Based Access Workbook: Lab Walk-Through with Azure Sentinel and Azure Data Explorer (ADX)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-azure-sentinel-anomalies-simulator/ba-p/2738393">The Azure Sentinel Anomalies Simulator</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/querying-whois-registration-data-access-protocol-rdap-with-azure/ba-p/2774502">Querying WHOIS/Registration Data Access Protocol (RDAP) with Azure Sentinel and Azure Functions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/monitoring-microsoft-sentinel-analytical-rules-push-health/ba-p/2793694">Monitoring Microsoft Sentinel Analytical Rules – Push Health Notifications</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/general-availability-of-azure-sentinel-threat-intelligence-in/ba-p/2525227">General Availability of Azure Sentinel Threat Intelligence in Public and Azure Government cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-to-go-a-linux-lab-with-auoms-set-up-to-learn/ba-p/2772581">Azure Sentinel To-Go! A Linux 🐧 Lab with AUOMS Set Up to Learn About the OMI Vulnerability 💥</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-notebooks-ninja-part-3-overview-of-the-pre/ba-p/2768838">Microsoft Sentinel Notebooks Ninja Part 3: Overview of the Pre-built Notebooks - the Grand List</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-omi-vulnerability-exploitation-with-azure-sentinel/ba-p/2764093">Hunting for OMI Vulnerability Exploitation with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unusual-mirai-variant-looks-for-mining-infrastructure/ba-p/2756669">Unusual MIRAI variant looks for mining infrastructure</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-notebooks-ninja-part-2-getting-started-with/ba-p/2716661">Microsoft Sentinel Notebooks Ninja Part 2: Getting Started with Microsoft Sentinel Notebooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-notebooks-azure-cloud-support-new-visualizations/ba-p/2751268">Azure Sentinel Notebooks - Azure cloud support, new visualizations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-information-model-fall-release-speed-amp-ease/ba-p/2749363">Azure Sentinel Information Model Fall Release: Speed &amp; Ease</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-soc-process-framework-8-part-video/ba-p/2662791">What's New: Azure Sentinel - SOC Process Framework 8 Part Video Series!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/check-the-health-of-your-exported-microsoft-sentinel-logs-in/ba-p/2668363">Check the health of your exported Microsoft Sentinel logs in your ADX cluster</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-ninja-training-the-sept-2021-update/ba-p/2677688">Microsoft Sentinel Ninja Training - the Sept 2021 update</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-azure-sentinel-data-exploration-toolset-asdet/ba-p/2712728">Introducing: Azure Sentinel Data Exploration Toolset (ASDET)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/alert-enrichment-quot-how-to-reduce-incident-triage-and/ba-p/2687271">Alert enrichment "how to reduce incident triage and investigation times using dynamic alert details”</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491">Becoming a Microsoft Sentinel Notebooks Ninja - The Series!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingestion-cost-spike-detection-playbook/ba-p/2591301">Ingestion Cost Spike detection Playbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-ninja-training-knowledge-check/ba-p/2677696">What's new: Microsoft Sentinel Ninja Training Knowledge Check</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-new-onboarding-offboarding-api/ba-p/2640471">What's new: Azure Sentinel new onboarding/offboarding API</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-incident-advanced-search-is-now-public/ba-p/2627590">What's new: Incident advanced search is now public!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-detection-for-ransomware/ba-p/2621373">What’s new: Fusion Detection for Ransomware</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-sql-solution-query-deep-dive/ba-p/2597961">Azure Sentinel SQL Solution Query Deep-Dive</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-watchlists-templates-are-now-in-public-preview/ba-p/2614340">What's new: Watchlists templates are now in public preview!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-asim-file-activity-schema/ba-p/2609732">What's new: ASIM File Activity schema</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/understanding-api-connections-for-your-microsoft-sentinel/ba-p/2593973">Understanding API connections for your Microsoft Sentinel Playbooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-threat-intelligence-matching-analytics/ba-p/2525605">Microsoft Threat Intelligence Matching Analytics</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/software-defined-monitoring-using-automated-notebooks-and-azure/ba-p/2587775">Software Defined Monitoring - Using Automated Notebooks and Azure Sentinel to Improve Sec Ops</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-identityinfo-table-is-now-in-public-preview/ba-p/2571037">What's new: IdentityInfo table is now in public preview!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-updated-microsoft-sentinel-documentation-july-edition/ba-p/2587249">What's New: Updated Microsoft Sentinel Documentation July Edition</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/integrating-siem-xdr-azure-sentinel-and-azure-defender-bi/ba-p/2587343">Integrating SIEM + XDR:  Azure Sentinel and Azure Defender bi-directional incident sync</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-hunting-supports-adx-cross-resource/ba-p/2530678">What’s New: Azure Sentinel Hunting supports ADX cross-resource queries</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-solutions-for-partners-build-combined-value-for-a/ba-p/2547174">Azure Sentinel Solutions for Partners: Build Combined Value for a Wider Audience</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/watchlist-is-now-generally-available/ba-p/2533859">Watchlist is now Generally Available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-asim-authentication-process-registry-and-enhanced/ba-p/2502268">What's new: ASIM Authentication, Process, Registry and enhanced Network schemas</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/testing-the-new-version-of-the-windows-security-events-connector/ba-p/2483369">Testing the New Version of the Windows Security Events Connector with Azure Sentinel To-Go!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/moving-azure-activity-connector-to-an-improved-method/ba-p/2479552">Moving Azure Activity Connector to an improved method</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/join-in-the-azure-sentinel-hackathon-2021/ba-p/2466335">Join in the Azure Sentinel Hackathon 2021!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-sentinel-watchlist-support-for-arm/ba-p/2424429">What's New: Microsoft Sentinel Watchlist Support for ARM Templates!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enhanced-azure-sentinel-alert-remediation-in-the-soc-process/ba-p/2452430">Enhanced Azure Sentinel Alert remediation in the SOC Process Framework</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-update-watchlist-ui-enhancements/ba-p/2451476">What’s New: Azure Sentinel Update Watchlist UI Enhancements</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-information-model-dns-schema-and/ba-p/2429926">What's new: Azure Sentinel Information Model DNS Schema and normalized content now public</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-defender-security-insights-in-azure-sentinel/ba-p/2359705">Microsoft Defender Security Insights in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-pricing-changes-to-azure-sentinel-and-azure-monitor/ba-p/2408416">Announcing pricing changes to Azure Sentinel and Azure Monitor Log Analytics to help you save costs</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-customize-entity-page-timeline/ba-p/2390862">What’s new: customize entity page timeline!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-detect-credential-leaks-using-built-in-azure-sentinel/ba-p/2406042">What’s new: Detect credential leaks using built-in Azure Sentinel notebooks!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-powershell-module-az-securityinsights-has-been/ba-p/2387133">Azure Sentinel PowerShell Module Az.SecurityInsights has been released to GA!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/who-watches-the-soc-team-enabling-audit-risk-teams-to-monitor/ba-p/2355735">Who Watches the SOC Team? Enabling Audit/Risk Teams to Monitor the SOC</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-15-new-azure-sentinel-data-connectors/ba-p/2382077">Announcing 15+ New Azure Sentinel Data Connectors</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/democratize-machine-learning-with-customizable-ml-anomalies/ba-p/2346338">Democratize Machine Learning with Customizable ML Anomalies</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/rsa-conference-2021-new-innovations-for-azure-sentinel/ba-p/2346834">RSA Conference 2021: New innovations for Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-azure-sentinel-solutions/ba-p/2347312">Introducing Azure Sentinel Solutions!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-ip-entity-page/ba-p/2336326">What’s new: IP entity page</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-incident-team-collaborate-in-microsoft-teams/ba-p/2344376">What's new: Incident Team - collaborate in Microsoft Teams</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-hunting-dashboard-refresh/ba-p/2333515">What’s new: Hunting dashboard refresh</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-advanced-multistage-attack-detection-scenarios/ba-p/2337497">What's New: Fusion Advanced Multistage Attack Detection Scenarios with Scheduled Analytics Rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-soc-process-framework-workbook/ba-p/2339315">What's New: Azure Sentinel - SOC Process Framework Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-incident-assignment-with-shifts-for-teams/ba-p/2297549">Automate Incident Assignment with Shifts for Teams</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-splunk-via-eventhub/ba-p/2307029">Azure Sentinel Side-by-Side with Splunk via EventHub</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-zero-trust-tic3-0-workbook/ba-p/2315195">What’s New: Azure Sentinel: Zero Trust (TIC3.0) Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/msticpy-and-jupyter-notebooks-in-azure-sentinel-an-update/ba-p/2279661">MSTICPy and Jupyter Notebooks in Azure Sentinel, an update</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/non-interactive-logins-minimizing-the-blind-spot/ba-p/2287932">Non-interactive logins: minimizing the blind spot</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-incident-timeline/ba-p/2267683">What’s new: Incident timeline</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-azure-sentinel-for-incident-response-orchestration/ba-p/2242397">How to use Azure Sentinel for Incident Response, Orchestration and Automation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/group-ib-threat-intelligence-and-attribution-connector-azure/ba-p/2252904">Group-IB Threat Intelligence and Attribution Connector - Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/iot-asset-discovery-based-on-fw-logs/ba-p/2232851">IoT Asset discovery based on FW logs</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/web-shell-threat-hunting-with-azure-sentinel/ba-p/2234968">Web Shell Threat Hunting with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/best-practices-for-migrating-detection-rules-from-arcsight/ba-p/2216417">Best practices for migrating detection rules from ArcSight, Splunk and QRadar to Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-automation-rules/ba-p/2216926">What’s new: Automation rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/monitoring-the-software-supply-chain-with-azure-sentinel/ba-p/2176463">Monitoring the Software Supply Chain with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-alert-enrichment-custom-details-and-entity-mapping/ba-p/2195409">What’s new: Alert Enrichment – Custom Details and Entity Mapping</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/whats-new-azure-sentinel-and-microsoft-365-defender-incident/ba-p/2191090">Whats new: Azure Sentinel and Microsoft 365 Defender incident integration</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-ignite-2021-blob-and-file-storage-investigations/ba-p/2175138">Microsoft Ignite 2021: Blob and File Storage Investigations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/visibility-of-azure-key-vault-activity-in-sentinel-azure-key/ba-p/2140751">Visibility of Azure key vault activity in Sentinel Azure Key Vault Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/utilize-watchlists-to-drive-efficiency-during-microsoft-sentinel/ba-p/2090711">Utilize Watchlists to Drive Efficiency During Microsoft Sentinel Investigations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-ignite-2021-what-s-new-in-azure-sentinel/ba-p/2175225">Microsoft Ignite 2021: What's New in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/30-new-azure-sentinel-data-connectors/ba-p/2176315">30+ New Azure Sentinel Data Connectors</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/jupyter-notebook-pivot-functions/ba-p/2151112">Jupyter Notebook Pivot Functions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/handling-false-positives-in-azure-sentinel/ba-p/2158352">Handling false positives in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/use-microsoft-azure-sentinel-and-anomali-match-for-actionable/ba-p/2080763">Use Microsoft Azure Sentinel and Anomali Match for actionable threat detection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-user-and-entity-behavior-analytics-ueba-insights-in/ba-p/2138990">What's new: User and Entity Behavior Analytics (UEBA) insights in the entity page!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-toolkit-for-data-driven-socs/ba-p/2143152">The Toolkit for Data-Driven SOCs</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/categorizing-microsoft-alerts-across-data-sources-in-azure/ba-p/1503367">Categorizing Microsoft alerts across data sources in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bring-remediation-steps-into-azure-sentinel/ba-p/2121119">Bring Remediation Steps into Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/migrating-qradar-offenses-to-microsoft-sentinel/ba-p/2102043">Migrating QRadar offenses to Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automatically-disable-on-prem-ad-user-using-a-playbook-triggered/ba-p/2098272">Automatically disable On-prem AD User using a Playbook triggered in Azure</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-cybersecurity-maturity-model-certification-cmmc/ba-p/2111184">What's New: Cybersecurity Maturity Model Certification (CMMC) Workbook in Public Preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/centralize-your-security-response-with-azure-sentinel-amp/ba-p/2110228">Centralize your security response with Azure Sentinel &amp; PagerDuty</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-nxlog-to-enhance-azure-sentinel-s-ingestion-capabilities/ba-p/2110109">Using NXLog to enhance Azure Sentinel’s ingestion capabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-all-in-one-accelerator/ba-p/1807933">Azure Sentinel All-In-One Accelerator</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-support-for-formatted-comments-and-comments-editing/ba-p/2110052">What’s New: Support for formatted comments and comments editing and deleting!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/move-your-microsoft-sentinel-logs-to-long-term-storage-with-ease/ba-p/1407153">Move Your Microsoft Sentinel Logs to Long-Term Storage with Ease</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-year-new-official-azure-sentinel-powershell-module/ba-p/2025041">New Year - New Official Azure Sentinel PowerShell Module!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/protecting-your-docusign-agreements-with-microsoft-sentinel/ba-p/2085502">Protecting your DocuSign Agreements with Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bring-threat-intelligence-from-intsights-using-taxii-data/ba-p/2080178">Bring Threat Intelligence from IntSights Using TAXII Data Connector</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-dedicated-clusters-for-microsoft-sentinel/ba-p/2072539">What’s new: Dedicated clusters for Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-managed-identity-for-azure-sentinel-logic-apps/ba-p/2068204">What’s new: Managed Identity for Azure Sentinel Logic Apps connector</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/handling-ingestion-delay-in-azure-sentinel-scheduled-alert-rules/ba-p/2052851">Handling ingestion delay in Azure Sentinel scheduled alert rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-improved-analytics-preview-graph-in-public-preview/ba-p/2035130">What's New: Improved Analytics Preview Graph in Public Preview !</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-ninja-training-2021-edition-is-out/ba-p/2027400">The Ninja Training 2021 edition is out!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-faq-companion-to-the-azure-sentinel-ninja-training/ba-p/2022485">The FAQ companion to the Azure Sentinel Ninja training</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingestion-cost-alert-playbook/ba-p/2006003">Ingestion Cost Alert Playbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/data-connector-health-push-notification-alerts/ba-p/1996442">Data Connector Health - Push Notification Alerts</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/solarwinds-post-compromise-hunting-with-azure-sentinel/ba-p/1995095">SolarWinds Post-Compromise Hunting with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-cloud-app-security-mcas-activity-log-in-azure-sentinel/ba-p/1849806">Microsoft Cloud App Security (MCAS) Activity Log in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-improvements-to-the-log-analytics-agent/ba-p/1983735">What's new: Improvements to the Log Analytics Agent</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bring-threat-intelligence-from-sixgill-using-taxii-data/ba-p/1965440">Bring threat intelligence from Sixgill using TAXII Data Connector</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-setup-a-canarytoken-and-receive-incident-alerts-on-azure/ba-p/1964076">How to setup a Canarytoken and receive incident alerts on Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-80-out-of-the-box-hunting-queries/ba-p/1892067">What's New: 80 out of the box hunting queries!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-logic-apps-connector-improvements-and/ba-p/1888416">What's New: Azure Sentinel Logic Apps Connector improvements and new capabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-the-virustotal-v3-api-with-msticpy-and-azure-sentinel/ba-p/1893121">Using the VirusTotal V3 API with MSTICPy and Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-export-data-from-splunk-to-azure-sentinel/ba-p/1891237">How to export data from Splunk to Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-azure-data-explorer-for-long-term-retention-of-microsoft/ba-p/1883947">Using Azure Data Explorer for long term retention of Microsoft Sentinel logs</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-barium-using-azure-sentinel/ba-p/1875913">Hunting for Barium using Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-monitoring-your-logic-apps-playbooks-in-azure/ba-p/1873211">What's new: Monitoring your Logic Apps Playbooks in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-365-defender-connector-now-in-public/ba-p/1865651">What’s new: Microsoft 365 Defender connector now in Public Preview for Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-multiple-playbooks-to-one-analytic-rule/ba-p/1805846">What's New: Multiple playbooks to one analytic rule</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/deploying-and-managing-azure-sentinel-ninja-style/ba-p/1858073">Deploying and Managing Azure Sentinel - Ninja style</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-azure-kubernetes-service-aks-security-workbook/ba-p/1867134">New Azure Kubernetes Service (AKS) Security Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/o365-amp-aad-multi-tenant-custom-connector-azure-sentinel/ba-p/1848968">O365 &amp; AAD Multi-Tenant Custom Connector - Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/guided-ueba-investigation-scenarios-to-empower-your-soc/ba-p/1857100">Guided UEBA Investigation Scenarios to empower your SOC</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/soc-prime-o365-rules-and-more-now-offered-free-exclusively-to/ba-p/1843609">SOC Prime O365 rules and more now offered free, exclusively to Azure Sentinel users</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-investigation-insights-workbook/ba-p/1816903">Announcing the Investigation Insights Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/expanding-microsoft-teams-log-data-in-azure-sentinel/ba-p/1811827">Expanding Microsoft Teams Log Data in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-entity-insights-for-convenient-investigation-checks/ba-p/1801496">What’s New: Entity Insights for Convenient Investigation Checks is Now in Public Preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/playbooks-amp-watchlists-part-2-automate-incident-response-for/ba-p/1771676">Playbooks &amp; Watchlists Part 2:  Automate incident response for Deny-list/Allow-list</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/playbooks-amp-watchlists-part-1-inform-the-subscription-owner/ba-p/1768917">Playbooks &amp; Watchlists Part 1: Inform the subscription owner</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-watchlist-is-now-in-public-preview/ba-p/1765887">What's new: Watchlist is now in public preview!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-jupyter-notebook-to-analyze-and-visualize-azure-sentinel/ba-p/1770400">Using Jupyter Notebook to analyze and visualize Azure Sentinel Analytics and Hunting Queries</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/aggregating-insider-risk-management-information-via-azure/ba-p/1743211">Aggregating Insider Risk Management Information via Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-new-fusion-detections-and-byoml-in-public-preview/ba-p/1765990">What's new: New Fusion detections and BYOML in public preview!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-html-and-markdown-support-for-incident-comment/ba-p/1747507">What’s New: HTML and Markdown support for incident comment</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/build-your-own-machine-learning-detections-in-the-ai-immersed/ba-p/1750920">Build-Your-Own Machine Learning detections in the AI immersed Azure Sentinel SIEM</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-to-go-part2-integrating-a-basic-windows-lab-via/ba-p/1742165">Azure Sentinel To-Go (Part2): Integrating a Basic Windows Lab 🧪 via ARM Templates 🚀</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/watching-the-watchers-monitoring-azure-sentinel-query-activity/ba-p/1732450">Watching the Watchers: Monitoring Azure Sentinel Query Activity for Malicious Activity.</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/understanding-microsoft-teams-data-schema-in-azure-sentinel/ba-p/1722876">Understanding Microsoft Teams Data Schema in Azure Sentinel - Analyst / Researcher View</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/auditing-microsoft-sentinel-activities/ba-p/1718328">Auditing Microsoft Sentinel activities</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enriching-windows-security-events-with-parameterized-function/ba-p/1712564">Enriching Windows Security Events with Parameterized Function</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/analysing-web-shell-attacks-with-azure-defender-data-in-azure/ba-p/1724130">Analysing Web Shell Attacks with Azure Defender data in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-user-and-entity-behavior-analytics-in/ba-p/1700953">What's new: Azure Sentinel User and Entity Behavior Analytics in Public Preview!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-powershell-azure-sentinel-notebooks-to-supercharge/ba-p/1695969">What's New: PowerShell+Azure Sentinel notebooks to supercharge your hunting and investigations!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-the-new-azure-sentinel-notebooks-experience-is-now-in/ba-p/1695235">What's new: The new Azure Sentinel Notebooks experience is now in public preview!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-threat-intelligence-menu-item-in-public-preview/ba-p/1646597">What's new: Threat Intelligence menu item in Public Preview!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/stay-ahead-of-threats-with-new-innovations-from-azure-sentinel/ba-p/1693166">Stay ahead of threats with new innovations from Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-align-your-analytics-with-time-windows-in-azure-sentinel/ba-p/1667574">How to align your Analytics with time windows in Azure Sentinel using KQL (Kusto Query Language)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-analytics-filehash-entity-hits-ga/ba-p/1684757">What's new: Analytics FileHash entity hits GA!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-office-365-advanced-threat-protection-connector-in/ba-p/1676950">What’s new: Office 365 Advanced Threat Protection connector in Public Preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-incident-bi-directional-sync-with-servicenow/ba-p/1667771">Microsoft Sentinel Incident Bi-directional sync with ServiceNow</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-cross-workspace-analytics-rules/ba-p/1664211">What’s New: Cross-workspace Analytics Rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-protect-office-365-with-azure-sentinel/ba-p/1656939">How to Protect Office 365 with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-ddos-protection-connector-in-public-preview-for/ba-p/1646681">What’s new: Azure DDoS Protection connector in Public Preview for Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-microsoft-teams-connector-in-public-preview/ba-p/1640003">What’s new: Microsoft Teams connector in Public Preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-integrate-vulnerability-management-in-azure-sentinel/ba-p/1635728">How to integrate vulnerability management in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-firewall-connector-in-public-preview/ba-p/1632764">What’s New: Azure Firewall Connector in Public Preview!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/remediate-vulnerable-secure-channel-connections-with-the/ba-p/1611871">Remediate Vulnerable Secure Channel Connections with the Insecure Protocols Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-query-line-numbering-azure-sentinel-in-the-schema/ba-p/1596990">What’s New: Query line numbering, Azure Sentinel in the schema pane</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/mstic-notebooklets-fast-tracking-cybersec-jupyter-notebooks/ba-p/1594169">MSTIC Notebooklets - Fast Tracking CyberSec Jupyter Notebooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/monitoring-azure-kubernetes-service-aks-with-microsoft-sentinel/ba-p/1583204">Monitoring Azure Kubernetes Service (AKS) with Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-a-new-azure-sentinel-github-leaderboard/ba-p/1582674">Announcing a new Azure Sentinel GitHub Leaderboard!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/accelerate-your-azure-sentinel-deployment-with-this-azure-devops/ba-p/1449414">Accelerate your Azure Sentinel Deployment with this Azure DevOps Boards Template</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/guided-hunting-notebook-base64-encoded-linux-commands/ba-p/1579484">Guided Hunting Notebook: Base64-Encoded Linux Commands</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/secure-your-calls-monitoring-microsoft-teams-callrecords/ba-p/1574600">Secure your Calls- Monitoring Microsoft TEAMS CallRecords Activity Logs using Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-log-files-from-aws-s3-using-aws-lambda/ba-p/1571136">Ingesting log files from AWS S3 using AWS Lambda</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-insecure-protocols-workbook-reimagined/ba-p/1558375">Azure Sentinel Insecure Protocols Workbook Reimagined</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-soc-operational-metrics-now-available-in-microsoft/ba-p/1439002">What’s new: SOC operational metrics now available in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-and-microsoft-defender-atp-improved/ba-p/1562339">What's new: Azure Sentinel and Microsoft Defender ATP improved alert integration</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-azure-sentinel-hackathon-winners/ba-p/1548240">Announcing the Azure Sentinel Hackathon winners</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-incident-auto-refresh-hits-ga/ba-p/1548104">What's New: Incident Auto-refresh hits GA!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enrich-azure-sentinel-security-incidents-with-the-riskiq/ba-p/1534412">Enrich Azure Sentinel security incidents with the RiskIQ Intelligence Connector</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-ninja-training-the-july-2020-update/ba-p/1537247">Azure Sentinel Ninja Training: The July 2020 update</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-azure-sentinel-connectors/ba-p/1535786">New Azure Sentinel connectors</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-the-clues-azure-sentinel-administrative-suspicious/ba-p/1510773">Hunting the Clues- Azure Sentinel Administrative Suspicious Activities Library</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-cross-workspace-hunting-is-now-available/ba-p/1519195">What's New: Cross Workspace Hunting is now available!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-workbooks-101-with-sample-workbook/ba-p/1409216">Azure Sentinel Workbooks 101 (with sample Workbook)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-machine-learning-behavior-analytics/ba-p/1521988">What's New: Azure Sentinel Machine Learning Behavior Analytics: Anomalous RDP Login Detection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-qradar/ba-p/1488333">Azure Sentinel Side-by-Side with QRadar</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-api-101/ba-p/1438928">Microsoft Sentinel API 101</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/handling-sliding-windows-in-azure-sentinel-rules/ba-p/1505394">Handling sliding windows in Azure Sentinel rules</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/monitoring-sql-server-with-azure-sentinel/ba-p/1502960">Monitoring SQL Server with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-azure-sentinel-notebook-experience-and-the-retirement-of-the/ba-p/1502228">New Azure Sentinel notebook experience and the retirement of the Azure Notebooks service preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-anomalous-sessions-in-your-data-with-azure-sentinel/ba-p/1492490">Hunting for anomalous sessions in your data with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-the-onboarding-on-premises-aws-and-gcp-vms-on/ba-p/1488267">Automating the onboarding on-premises, AWS and GCP VMs on Sentinel with Azure Arc</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-ninja-training-the-june-2020-update/ba-p/1473206">Azure Sentinel Ninja Training: The June 2020 update</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-livestream-for-azure-sentinel-is-now-released-for/ba-p/1459972">What's New: Livestream for Azure Sentinel is now released for General Availability</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-external-data-sources-to-enrich-network-logs-using-azure/ba-p/1450345">Using external data sources to enrich network logs using Azure storage and KQL</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/may-the-quot-ti-quot-be-with-you-connect-threatconnect-tip-with/ba-p/1460379">MAY THE "TI" BE WITH YOU: Connect ThreatConnect TIP with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/protecting-your-github-assets-with-azure-sentinel/ba-p/1457721">Protecting your GitHub assets with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/sending-enriched-microsoft-sentinel-alerts-to-3rd-party-siem-and/ba-p/1456976">Sending enriched Microsoft Sentinel alerts to 3rd party SIEM and Ticketing Systems</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/web-shell-threat-hunting-with-azure-sentinel-and-microsoft/ba-p/1448065">Web shell threat hunting with Azure Sentinel and Microsoft Threat Protection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-security-center-auto-connect-to-sentinel/ba-p/1387539">Azure Security Center Auto-connect to Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-threat-hunting-enhancements/ba-p/1433396">What’s New: Azure Sentinel Threat Hunting Enhancements</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/secure-working-from-home-deep-insights-at-enrolled-mem-assets/ba-p/1424255">Secure Working from Home – Deep Insights at Enrolled MEM Assets via Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/protecting-mssp-s-intellectual-property-in-microsoft-sentinel/ba-p/1420941">Protecting MSSP’s Intellectual Property in Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/making-your-microsoft-sentinel-workbooks-multi-tenant-or-multi/ba-p/1402357">Making your Microsoft Sentinel Workbooks multi-tenant (or multi-workspace)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/approximate-partial-and-combined-lookups-in-azure-sentinel/ba-p/1393795">Approximate, partial and combined lookups in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/integrating-open-source-threat-feeds-with-misp-and-sentinel/ba-p/1350371">Integrating open source threat feeds with MISP and Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-azure-playbooks-to-import-text-based-threat-indicators-to/ba-p/1383980">Using Azure Playbooks to import text-based threat indicators to Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-the-sentinel-api-to-view-data-in-a-workbook/ba-p/1386436">Using the Sentinel API to view data in a Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-cross-workspace-incident-view-in-public-preview/ba-p/1379796">What's New: Cross Workspace Incident View in Public Preview!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/kicking-off-the-azure-sentinel-hackathon/ba-p/1364436">Kicking off the Azure Sentinel Hackathon!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/monitoring-windows-virtual-desktop-environments-fall-2019/ba-p/1356632">Monitoring Windows Virtual Desktop environments (Fall 2019 release) with Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/graph-visualization-of-external-teams-collaborations-in-azure/ba-p/1356847">Graph Visualization of External Teams Collaborations in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/monitoring-zoom-with-azure-sentinel/ba-p/1341516">Monitoring Zoom with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-threats-on-linux-with-azure-sentinel/ba-p/1344431">Hunting Threats on Linux with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-sigma-amp-soc-prime-integration-part-3-deploy-to/ba-p/1333674">Azure Sentinel Sigma &amp; SOC Prime Integration (Part 3): Deploy to multiple workspaces and tenants</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/creating-digital-tripwires-with-custom-threat-intelligence-feeds/ba-p/1320981">Creating digital tripwires with custom threat intelligence feeds for Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/gain-compliance-posture-and-protection-insights-with-this-azure/ba-p/1290454">Gain Compliance, Posture, and Protection Insights with this Azure Security Center Related Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310">Become a Microsoft Sentinel Ninja: The complete level 400 training</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/controlling-access-to-azure-sentinel-data-resource-rbac/ba-p/1301463">Controlling access to Azure Sentinel Data: Resource RBAC</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enriching-azure-sentinel-with-azure-ad-information/ba-p/1288805">Enriching Azure Sentinel with Azure AD information</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-sigma-amp-soc-prime-integration-part-2-directly/ba-p/1276337">Azure Sentinel Sigma &amp; SOC Prime Integration (Part 2): Directly deploy to Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/help-for-security-operations-centers-facing-new-challenges/ba-p/1278903">Help for Security Operations Centers facing new challenges</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-improved-incident-closing-experience-is-now-available/ba-p/1278807">What’s New: Improved Incident Closing Experience is now Available!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enabling-security-research-amp-hunting-with-open-source-iot/ba-p/1279037">Enabling security research &amp; hunting with open source IoT attack data</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-resource-terminus-board-here/ba-p/1269252">Azure Sentinel Resource Terminus - board here!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/quick-wins-identify-signs-of-intrusions-in-real-time-with/ba-p/1269745">Quick wins - Identify signs of intrusions in real time with Microsoft Sentinel Livestreams</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/usage-reporting-for-azure-sentinel/ba-p/1267383">Usage reporting for Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/protecting-your-teams-with-azure-sentinel/ba-p/1265761">Protecting your Teams with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-to-go-part1-a-lab-w-prerecorded-data-amp-a-custom/ba-p/1260191">Azure Sentinel To-Go (Part1): A Lab w/ Prerecorded Data 😈 &amp; a Custom Logs Pipe via ARM Templates 🚀</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/compliance-reporting-for-azure/ba-p/1259574">Compliance Reporting for Azure</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-fastly-web-application-firewall-logs-into-azure-sentinel/ba-p/1238804">Ingest Fastly Web Application Firewall logs into Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/access-azure-sentinel-log-analytics-via-api-part-1/ba-p/1248377">Access Azure Sentinel Log Analytics via API (Part 1)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-sigma-and-soc-prime-integration-part-1-convert/ba-p/1232903">Azure Sentinel Sigma and SOC Prime Integration (Part 1): Convert Sigma rules to Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/connect-x-force-exchange-api-on-microsoft-sentinel/ba-p/1246880">Connect X-Force Exchange API on Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-auditd-configured-for-pam-tty-session-key-logging-into/ba-p/1113827">Ingesting Auditd (configured for PAM TTY Session Key Logging) into Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-splunk/ba-p/1211266">Azure Sentinel Side-by-Side with Splunk</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/combining-azure-lighthouse-with-microsoft-sentinel-s-devops/ba-p/1210966">Combining Azure Lighthouse with Microsoft Sentinel’s DevOps capabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-insecure-protocols-workbook-implementation-guide/ba-p/1197564">Azure Sentinel Insecure Protocols Workbook Implementation Guide</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-reduce-alert-noise-with-incident-settings-and-alert/ba-p/1187940">What’s New: Reduce alert noise with Incident settings and alert grouping in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/scaling-up-syslog-cef-collection/ba-p/1185854">Scaling Up Syslog CEF Collection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/office-365-email-activity-and-data-exfiltration-detection/ba-p/1169652">Office 365 Email Activity and Data Exfiltration Detection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bring-your-threat-intelligence-to-microsoft-sentinel/ba-p/1167546">Bring your threat intelligence to Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/explorer-notebook-series-the-linux-host-explorer/ba-p/1138273">Explorer Notebook Series: The Linux Host Explorer</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/deploying-and-managing-microsoft-sentinel-as-code/ba-p/1131928">Deploying and Managing Microsoft Sentinel as Code</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/extending-azure-sentinel-apis-integration-and-management/ba-p/1116885">Extending Azure Sentinel: APIs, Integration and management automation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/implementing-lookups-in-azure-sentinel/ba-p/1091306">Implementing Lookups in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-alien-vault-otx-threat-indicators-into-azure-sentinel/ba-p/1086566">Ingesting Alien Vault OTX Threat Indicators into Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-box-com-activity-events-via-microsoft-cloud-app-security/ba-p/1072849">Ingest Box.com activity events via Microsoft Cloud App Security into Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-sample-cef-data-into-azure-sentinel/ba-p/1064158">Ingest Sample CEF data into Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-correlation-rules-the-join-kql-operator/ba-p/1041500">Azure Sentinel correlation rules: the join KQL operator</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-azure-lighthouse-and-azure-sentinel-to-investigate-attacks/ba-p/1043899">Using Azure Lighthouse and Azure Sentinel to Investigate Attacks Across Multiple Tenants</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-office-365-dlp-events-into-azure-sentinel/ba-p/1031820">Ingest Office 365 DLP Events into Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-correlation-rules-active-lists-out-make-list-in/ba-p/1029225">Azure Sentinel correlation rules: Active Lists  out; make_list() in, the AAD/AWS correlation example</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-capital-one-breach-ttps-in-aws-logs-using-azure/ba-p/1019767">Hunting for Capital One Breach TTPs in AWS logs using Azure Sentinel - Part II</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/best-practices-for-common-event-format-cef-collection-in-azure/ba-p/969990">Best Practices for Common Event Format (CEF) collection in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-capital-one-breach-ttps-in-aws-logs-using-azure/ba-p/1014258">Hunting for Capital One Breach TTPs in AWS logs using Azure Sentinel - Part I</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-microsoft-ignite-2019-recap/ba-p/1006017">Azure Sentinel – Microsoft Ignite 2019 Recap</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-the-new-built-in-url-detonation-in-azure-sentinel/ba-p/996229">Using the new built-in URL detonation in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-and-azure-arc/ba-p/999379">Azure Sentinel and Azure Arc</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/try-azure-sentinel-alongside-your-existing-siem/ba-p/912965">Try Azure Sentinel Alongside Your Existing SIEM</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingesting-office-365-alerts-with-graph-security-api/ba-p/984888">Ingesting Office 365 Alerts with Graph Security API</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/upcoming-azure-sentinel-training-webinars/ba-p/983623">Upcoming Azure Sentinel training webinars</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-azure-sentinel-to-follow-a-users-travel-and-map-their/ba-p/981716">How to use Azure Sentinel to follow a Users travel and map their location</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-azure-monitor-workbooks-to-map-sentinel-data/ba-p/971818">How to use Azure Monitor Workbooks to map Sentinel data</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/table-level-rbac-in-microsoft-sentinel/ba-p/965043">Table Level RBAC In Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-at-microsoft-ignite/ba-p/957559">Azure Sentinel at Microsoft Ignite</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-per-data-type-retention-is-now-available-for-azure-sentinel/ba-p/917316">New: Per data type retention is now available for Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/identifying-threat-hunting-opportunities-in-your-data/ba-p/915721">Identifying Threat Hunting opportunities in your data</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-am-i-looking-at-using-notebooks-to-gain-situational/ba-p/891818">What am I looking at? - Using Notebooks to gain situational awareness.</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-threat-intelligence-in-your-jupyter-notebooks/ba-p/860239">Using Threat Intelligence in your Jupyter Notebooks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-is-now-generally-available/ba-p/873772">Azure Sentinel is now Generally Available!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-creating-custom-connectors/ba-p/864060">Azure Sentinel: Creating Custom Connectors</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/preparing-towards-azure-sentinel-s-ga/ba-p/860694">Preparing towards Azure Sentinel's GA</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/best-practices-for-designing-a-microsoft-sentinel-or-azure/ba-p/832574">Best practices for designing a Microsoft Sentinel or Azure Defender for Cloud workspace</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/upcoming-changes-to-fusion-in-azure-sentinel/ba-p/819251">Upcoming Changes to Fusion in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-agent-collecting-from-servers-and-workstations-on/ba-p/811760">Azure Sentinel Agent: Collecting from servers and workstations, on-prem and in the cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-the-connectors-grand-cef-syslog-direct-agent/ba-p/803891">Azure Sentinel: The connectors grand (CEF, Syslog, Direct, Agent, Custom and more)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-collecting-logs-from-microsoft-services-and/ba-p/792669">Azure Sentinel: Collecting logs from Microsoft Services and Applications</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-network-beaconing-via-intra-request-time-delta-patterns/ba-p/779586">Detect Network beaconing via Intra-Request time delta patterns in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/tip-easily-use-json-fields-in-sentinel/ba-p/768747">Tip: Easily use JSON fields in Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/sending-proofpoint-tap-logs-to-azure-sentinel/ba-p/767727">Sending Proofpoint TAP logs to Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-blog-table-of-contents/ba-p/731727">Microsoft Sentinel Blog - Table of Contents</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-kql-functions-to-speed-up-analysis-in-azure-sentinel/ba-p/712381">Using KQL functions to speed up analysis in Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/msticpy-python-defender-tools/ba-p/648929">msticpy - Python Defender Tools</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/time-series-visualization-of-palo-alto-logs-to-detect-data/ba-p/666344">Time Series visualization of Palo Alto logs to detect data exfiltration</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/importing-sigma-rules-to-azure-sentinel/ba-p/657097">Importing Sigma Rules to Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/looking-for-unknown-anomalies-what-is-normal-time-series/ba-p/555052">Looking for unknown anomalies - what is normal? Time Series analysis &amp; its applications in Security</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/561413">Security Investigation with Azure Sentinel and Jupyter Notebooks – Part 3</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/sending-rest-api-data-to-azure-sentinel/ba-p/558896">Sending REST API data to Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/time-series-analysis-applied-in-a-security-hunting-context/ba-p/472433">Time series analysis applied in a security hunting context</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/483466">Security Investigation with Azure Sentinel and Jupyter Notebooks – Part 2</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/integrating-azure-security-center-with-azure-sentinel/ba-p/482847">Integrating Azure Security Center with Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/why-use-jupyter-for-security-investigations/ba-p/475729">Why Use Jupyter for Security Investigations?</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/432921">Security Investigation with Azure Sentinel and Jupyter Notebooks – Part 1</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-performing-additional-security-monitoring-of-high/ba-p/430740">Azure Sentinel: Performing Additional Security Monitoring of High-Value Accounts</a></li>
+</ul>
+<h2 id="community-blogs">Community Blogs</h2>
+<ul>
+<li><a href="https://medium.com/@benj_774/boost-your-ti-integrating-free-alienvault-otx-iocs-into-microsoft-sentinel-02d6a743ddb9">Boost Your TI: Integrating Free AlienVault OTX IOCs into Microsoft Sentinel</a></li>
+<li><a href="https://medium.com/@benj_774/sentinel-watchlists-a-diamond-in-the-rough-16f214f24416">Sentinel Watchlists: A Diamond in the rough</a></li>
+<li><a href="https://www.itprofessor.cloud/kql-user-audit-playbook/">The KQL User Audit Playbook: Your Template for Investigations</a></li>
+<li><a href="https://cybermohr.ghost.io/2025/05/28/protecting-your-microsoft-sentinel-solution-from-deletion-or-corruption/">Protecting Your Microsoft Sentinel Solution from Deletion or Corruption</a></li>
+<li><a href="https://sentinel.blog/sentinelcodeguard-a-journey-from-concept-to-vs-code-plugin/">SentinelCodeGuard: A Journey from Concept to VS Code Plugin</a></li>
+<li><a href="https://sentinel.blog/sentinelcodeguard-revolutionizing-microsoft-sentinel-rule-development/">SentinelCodeGuard: Revolutionising Microsoft Sentinel Rule Development</a></li>
+<li><a href="https://sentinel.blog/simplifying-azure-log-analytics-table-retention-management-a-modern-approach/">Simplifying Azure Log Analytics Table Retention Management: A Modern Approach</a></li>
+<li><a href="https://www.michalos.net/2025/01/02/automate-ip-enrichment-in-microsoft-sentinel-incidents-with-ip-quality-score-ipqs/">Automate IP enrichment in Microsoft Sentinel incidents with IP Quality Score (IPQS)</a></li>
+<li><a href="https://charbelnemnom.com/sentinel-threat-intelligence-advanced-modeling/">Revolutionizing Threat Intelligence in Microsoft Sentinel: Transitioning to Enhanced Modeling and Advanced Threat Hunting</a></li>
+<li><a href="https://github.com/nicolonsky/ITDR/blob/main/Queries/Sentinel-ThreatIntelIndicators-Migration.md">Sentinel-ThreatIntelIndicators-Migration</a></li>
+<li><a href="https://sentinel.blog/automating-security-creating-microsoft-sentinel-watchlists-from-entra-id-group-membership/">Automating Security: Creating Microsoft Sentinel Watchlists from Entra ID Group Membership</a></li>
+<li><a href="https://www.linkedin.com/pulse/restricting-deletions-incidents-sentinel-jay-kerai-da9te/">Restricting Deletions of Incidents in Sentinel</a></li>
+<li><a href="https://jamescook.dev/connect-azure-devops-sentinel">Monitoring your DevOps platform</a></li>
+<li><a href="https://cyberdom.blog/azure-devops-auditing-with-microsoft-sentinel/">Azure DevOps Auditing with Sentinel</a></li>
+<li><a href="https://www.criticalstart.com/azure-devops-service-security-monitoring-using-azure-sentinel/">Azure DevOps Service security monitoring using Azure Sentinel</a></li>
+<li><a href="https://kqlquery.com/posts/sentinel-summary-rules/">Use Cases For Sentinel Summary Rules</a></li>
+<li><a href="https://modernsecops.com/p/microsoft-sentinel-summary-kql-deep-dive?utm_source=linkedin&amp;utm_medium=organic_post&amp;utm_campaign=summary_kql">Microsoft Sentinel Summary KQL deep dive (From Beginner to Advanced KQL)</a></li>
+<li><a href="https://kqlquery.com/posts/automatic-cisa-vulnerability-notifications/">Sentinel Automation Part 2: Automate CISA Known Exploited Vulnerability Notifications</a></li>
+<li><a href="https://charbelnemnom.com/optimize-microsoft-sentinel-log-retention-adx/?utm_content=cmp-true">Optimize Microsoft Sentinel Log Retention with Azure Data Explorer</a></li>
+<li><a href="https://www.linkedin.com/pulse/ingest-firewall-logs-sentinel-auxiliary-tier-using-logstash-lauren-57djf/">Ingest Firewall logs into Sentinel Auxiliary Logs tier using Logstash with only $0.10/GB</a></li>
+<li><a href="https://charbelnemnom.com/microsoft-sentinel-multi-tier-logging/">Demistifying Microssoft Sentinel Multi-Tier logging</a></li>
+<li><a href="https://modernsecops.com/p/implementing-sentinel-summary-rules">Deep Dive into Microsoft Sentinel Summary Rules</a></li>
+<li><a href="https://www.modernsecurity.nl/soc-optimization-in-microsoft-sentinel/">SOC Optimization in Microsoft Sentinel</a></li>
+<li><a href="https://koosg.medium.com/secure-your-microsoft-sentinel-playbooks-with-managed-identities-fce1f232df3a">Secure your Microsoft Sentinel playbooks with managed identities</a></li>
+<li><a href="https://koosg.medium.com/split-up-your-logs-with-pl1tr-3ab3c76e3125">Split up your logs with $pl1tR</a></li>
+<li><a href="https://koosg.medium.com/unlimited-advanced-hunting-for-microsoft-365-defender-with-azure-data-explorer-646b08307b75">Unlimited Advanced Hunting for Microsoft 365 Defender with Azure Data Explorer</a></li>
+<li><a href="https://koosg.medium.com/unlimited-advanced-hunting-for-microsoft-365-defender-with-azure-data-explorer-4fc30574cf29">Unlimited Advanced Hunting for Microsoft 365 Defender with Azure Data Explorer – Part II</a></li>
+<li><a href="https://www.wpninjas.ch/2024/03/microsoft-sentinel-asim-parser-demystified/">Microsoft Sentinel ASIM Parser demystified</a></li>
+<li><a href="https://ryanperr.in/2024/06/17/microsoft-sentinel-azure-lighthouse/">Microsoft Sentinel - Azure LightHouse</a></li>
+<li><a href="https://ryanperr.in/2024/01/29/microsoft-sentinel-your-first-instance/">Microsoft Sentinel - Your First Instance</a></li>
+<li><a href="https://medium.com/@truvis.thornton/threat-detection-engineering-and-incident-response-with-auditd-and-sentinel-along-how-to-understand-bfae8ba03a43">Part 1 : Threat Detection Engineering and Incident Response with AuditD and Sentinel — along how to understand and use AuditD</a></li>
+<li><a href="https://medium.com/@truvis.thornton/part-2-threat-detection-engineering-and-incident-response-with-auditd-and-sentinel-combine-a3384e1164e6">Part 2: Threat Detection Engineering and Incident Response with AuditD and Sentinel — Combine Events by ID with Laurel before sending to Sentinel as JSON and Parser for event searching and alert building</a></li>
+<li><a href="https://medium.com/@truvis.thornton/how-to-parsing-auditd-syslog-in-microsoft-sentinel-with-a-function-and-combining-the-events-by-eve-a65f418cfef1">How to: KQL Parsing AuditD Syslog in Microsoft Sentinel with a function and combining the events by EventID</a></li>
+<li><a href="https://medium.com/@truvis.thornton/microsoft-azure-sentinel-101-automatically-add-tlp-traffic-light-pattern-to-incidents-with-logic-145f810cd978">Microsoft Azure Sentinel 101: Automatically add TLP(Traffic Light Pattern) to Incidents with logic apps/playbooks and automation by query tagging.</a></li>
+<li><a href="https://medium.com/@truvis.thornton/microsoft-azure-sentinel-101-dynamically-update-and-change-alert-incident-severity-based-on-5fa0665441c0">Microsoft Azure Sentinel 101: Dynamically update and change Alert/Incident Severity — based on query results with automation or logic apps for all alerts</a></li>
+<li><a href="https://medium.com/@truvis.thornton/microsoft-azure-sentinel-101-update-alert-descriptions-dynamically-without-limits-unlimited-f4fc2f857b64">Microsoft Azure Sentinel 101: Update alert descriptions dynamically without limits — Unlimited meta data options with helpful content.</a></li>
+<li><a href="https://tech.nicolonsky.ch/maintaining-microsoft-sentinel-analytic-rules-in-json-and-yaml-with-github-actions/">Maintaining Microsoft Sentinel Analytic Rules in JSON and YAML with GitHub Actions</a></li>
+<li><a href="https://tech.nicolonsky.ch/enriching-microsoft-sentinel-tables-with-eligible-entra-directory-roles/">Enriching Microsoft Sentinel tables with eligible Entra directory roles</a></li>
+<li><a href="https://learnsentinel.blog/2021/10/19/defending-azure-active-directory-with-azure-sentinel/">Defending Azure Active Directory with Azure Sentinel</a></li>
+<li><a href="https://learnsentinel.blog/2021/11/04/keep-an-eye-on-your-azure-ad-guests-with-microsoft-sentinel/">Keep an eye on your Azure AD guests with Microsoft Sentinel</a></li>
+</ul>
+<h2 id="playbooks">Playbooks</h2>
+<ul>
+<li><a href="https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks/Update-NamedLocations-TOR">Synchronize TOR Exit Nodes to Azure AD Named Location List using the free Big Data Cloud API</a></li>
+<li><a href="https://github.com/rod-trent/SentinelPlaybooks">SentinelPlaybooks - Rod Trent</a></li>
+<li><a href="https://github.com/Bert-JanP/Sentinel-Automation">Sentinel Automation - Bert Jan</a></li>
+</ul>
+<h2 id="github">GitHub</h2>
+<ul>
+<li><a href="https://github.com/samikroy/ms-sentinel-scout/">Microsoft Sentinel Scout</a></li>
+<li><a href="https://github.com/noodlemctwoodle/sentinel.blog">SentinelBlog</a></li>
+<li><a href="https://github.com/seyed-nouraie/SecOps?tab=readme-ov-file">GitHub Repo from Seyed A Nouraie</a></li>
+<li><a href="https://github.com/thatlazyadmin/DeathStarScriptHub/tree/main/Microsoft%20Sentinel/UpdateLogAnalyticsTableRetention">Microsoft Azure Log Analytics Table Retention Update Script</a></li>
+<li><a href="https://github.com/alexverboon/SentinelTIUploadToolkit">Sentinel TI Upload Toolkit</a></li>
+<li><a href="https://github.com/Azure/azure-rest-api-specs/tree/main/specification/securityinsights/resource-manager/Microsoft.SecurityInsights">API samples</a></li>
+<li><a href="https://github.com/Azure/Azure-Sentinel">Microsoft Sentinel and Microsoft 365 Defender</a></li>
+<li><a href="https://github.com/OTRF/Microsoft-Sentinel2Go">Microsoft Sentinel To-Go!</a></li>
+<li><a href="https://github.com/netevert/sentinel-attack">Sentinel ATT&amp;CK</a></li>
+<li><a href="https://github.com/Azure/Azure-Sentinel-Notebooks">Microsoft Sentinel Notebooks</a></li>
+<li><a href="https://github.com/briandelmsft/SentinelAutomationModules">Microsoft Sentinel Triage AssistanT (STAT)</a></li>
+<li><a href="https://github.com/eshlomo1/Microsoft-Sentinel-SecOps">Microsoft Sentinel - SEC Operations</a></li>
+<li><a href="https://github.com/TheCloudScout/log-splitr">Log Splitr</a></li>
+<li><a href="https://github.com/alexverboon/Hunting-Queries-Detection-Rules/tree/main/AzureDevOps">Azure DevOps detection rules</a></li>
+</ul>
+<h2 id="learning-and-training">Learning and Training</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Uk9x60grT-o">Optimizing Your Security Operations: Manage Your Data, Costs and Protections with SOC Optimizations</a></li>
+<li><a href="https://www.youtube.com/watch?v=b0rbPZwBuc0">Optimizing your SOC's threat coverage and data value</a></li>
+</ul>
+<h3 id="documentation">Documentation</h3>
+<ul>
+<li><a href="https://learn.microsoft.com/en-us/azure/azure-monitor/logs/custom-logs-migrate">Migrate from the HTTP Data Collector API to the Log Ingestion API to send data to Azure Monitor Logs</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/alexverboon" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/alexverboon" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M459.4 151.7c.3 4.5.3 9.1.3 13.6 0 138.7-105.6 298.6-298.6 298.6-59.5 0-114.7-17.2-161.1-47.1 8.4 1 16.6 1.3 25.3 1.3 49.1 0 94.2-16.6 130.3-44.8-46.1-1-84.8-31.2-98.1-72.8 6.5 1 13 1.6 19.8 1.6 9.4 0 18.8-1.3 27.6-3.6-48.1-9.7-84.1-52-84.1-103v-1.3c14 7.8 30.2 12.7 47.4 13.3-28.3-18.8-46.8-51-46.8-87.4 0-19.5 5.2-37.4 14.3-53C87.4 130.8 165 172.4 252.1 176.9c-1.6-7.8-2.6-15.9-2.6-24C249.5 95.1 296.3 48 354.4 48c30.2 0 57.5 12.7 76.7 33.1 23.7-4.5 46.5-13.3 66.6-25.3-7.8 24.4-24.4 44.8-46.1 57.8 21.1-2.3 41.6-8.1 60.4-16.2-14.3 20.8-32.2 39.3-52.6 54.3"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/in/verboonalex/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77m282.1 320h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.expand", "navigation.indexes", "navigation.instant", "navigation.tabs", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../js/clarity.js"></script>
+      
+    
+  </body>
+</html>
