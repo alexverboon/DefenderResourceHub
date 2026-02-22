@@ -8,6 +8,12 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Accelerate Your UEBA Journey: Introducing the Microsoft Sentinel Behaviors Workbook](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/accelerate-your-ueba-journey-introducing-the-microsoft-sentinel-behaviors-workbo/4488278)
+- [Three ways to run KQL on Microsoft Sentinel data lake: Interactive, Async, or Jobs](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/three-ways-to-run-kql-on-microsoft-sentinel-data-lake-interactive-async-or-jobs/4494657)
+- [Unlocking the power of Notebooks with Microsoft Sentinel data lake](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/unlocking-the-power-of-notebooks-with-microsoft-sentinel-data-lake/4494656)
+- [Public Preview Announcement: Empower Real-Time Security with Microsoft Sentinel’s CCF Push Feature](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/public-preview-announcement-empower-real-time-security-with-microsoft-sentinel%E2%80%99s/4483884)
+- [What’s new in Microsoft Sentinel: February 2026](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-in-microsoft-sentinel-february-2026/4494218)
+- [Data lake tier Ingestion for Microsoft Defender Advanced Hunting Tables is Now Generally Available](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/data-lake-tier-ingestion-for-microsoft-defender-advanced-hunting-tables-is-now-g/4494206)
 - [Announcing AI Entity Analyzer in Microsoft Sentinel MCP Server - Public Preview](https://techcommunity.microsoft.com/blog/microsoft-security-blog/announcing-ai-entity-analyzer-in-microsoft-sentinel-mcp-server---public-preview/4476230)
 - [Microsoft Sentinel Platform: Audit Logs and Where to Find Them](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/microsoft-sentinel-platform-audit-logs-and-where-to-find-them/4481838)
 - [Managing Microsoft Sentinel and Microsoft Defender XDR permissions in Microsoft Defender portal](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/managing-microsoft-sentinel-and-microsoft-defender-xdr-permissions-in-microsoft-/4480583)

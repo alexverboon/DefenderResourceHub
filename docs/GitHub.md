@@ -8,27 +8,6 @@
 
 - [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
 
-## Defender for Endpoint
-
-- [Live Response Scripts from YongRhee](https://github.com/YongRhee-MDE/LiveResponse)
-- [Linux - iOS](https://github.com/microsoft/mdatp-xplat)
-- [GunDog](https://github.com/jangeisbauer/gundog/blob/main/gundog.ps1)
-- [mdatp pwsh](https://github.com/Smalls1652/mdatp-pwsh)
-- [AndyFul - ConfigureDefender](https://github.com/AndyFul/ConfigureDefender)
-- [David Sass - DefenderASR](https://github.com/sassdawe/HardenWindows/tree/master/WindowsDefender/DefenderASR)
-- [Microsoft Defender Advanced Threat Protection PowerShell Module](https://github.com/alexverboon/PSMDATP)
-- [defender-atp-manageability](https://github.com/microsoft/microsoft-defender-atp-manageability)
-- [MDATP PowerBI](https://github.com/microsoft/MDATP-PowerBI-Templates/blob/master/README.md)
-- [Github - Power BI Report templates powered by Microsoft Defender Advanced Threat Protection Advance Hunting Queries](https://github.com/microsoft/MDATP-PowerBI-Templates)
-- [MDATP PowerBI](https://github.com/microsoft/MicrosoftDefenderATP-PowerBI)
-
-## Threat Intelligence
-
-- [MDTI Solutions](https://github.com/Azure/MDTI-Solutions)
-
-## ITDR
-
-- [ITDR - Identity Threat Detection and Response](https://github.com/nicolonsky/ITDR)
 
 ## KQL
 

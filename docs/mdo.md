@@ -116,6 +116,8 @@
 
 ## Community Blogs
 
+- [Shannon Entropy in KQL](https://www.linkedin.com/pulse/shannon-entropy-kql-remco-hofman-exxce/)
+- [Applying Shanon Entropy to SenderDomains via Kusto](https://www.linkedin.com/pulse/applying-entropy-domains-via-threat-hunting-kql-queries-sergio-albea-jbpde/)
 - [AiTM/ MFA phishing attacks in combination with “new” Microsoft protections (2025 edition)](https://jeffreyappel.nl/aitm-mfa-phishing-attacks-in-combination-with-new-microsoft-protections-2023-edt/)
 - [Microsoft gains on Email Security Market](https://thecloudtechnologist.com/2024/06/25/microsoft-gains-on-email-security-market/)
 - [How to protect Microsoft Teams with Microsoft 365 Defender](https://jeffreyappel.nl/how-to-protect-microsoft-teams-with-microsoft-365-defender/)

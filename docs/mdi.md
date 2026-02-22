@@ -82,6 +82,7 @@
 
 - [Raymond Roethof - Defender for Identity Tools](https://github.com/thalpius?tab=repositories)
 - [Defender for Identity Sizing Tool](https://github.com/microsoft/Microsoft-Defender-for-Identity-Sizing-Tool)
+- [ITDR - Identity Threat Detection and Response](https://github.com/nicolonsky/ITDR)
 
 ## Documentation
 

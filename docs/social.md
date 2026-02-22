@@ -25,6 +25,7 @@
 - [Ru Campell](https://bsky.app/profile/campbell.scot)
 - [Suryendu Bhattacharyya](https://bsky.app/profile/crookedbong.bsky.social)
 - [Truls](https://bsky.app/profile/truls.infernux.no)
+- [Rogier Dijkman](https://bsky.app/profile/rogierdijkman.bsky.social)
 
 ## Defenders on X
 
@@ -88,6 +89,7 @@
 - [Nicola Suter](https://twitter.com/nicolonsky)
 - [Olaf Hartong](https://twitter.com/olafhartong)
 - [Oliver Kieselbach](https://twitter.com/okieselb)
+- [Robbe Van den Daele](https://x.com/RobbeVdDaele)
 - [Rogier Dijkman](https://twitter.com/DijkmanRogier)
 - [Ru Campell](https://twitter.com/rucam365)
 - [Sami Lamppu](https://twitter.com/samilamppu)

@@ -1762,6 +1762,9 @@
 
 ## Community Blogs
 
+- [Entra Agent ID Portal explained](https://derkvanderwoude.medium.com/entra-agent-id-portal-explained-4b0118f8e91a)
+- [Remediating Agent Identities for Identity Admins and SOCs](https://hybridbrothers.com/posts/agentid-remediation/)
+- [Introducing ScEntra an advanced permission visualizer](https://azurehacking.com/post.html?slug=introducing-scentra-an-advanced-permission-visualizer)
 - [Disable Entra Connect Seamless SSO – Step-by-Step Guide](https://www.cloudcoffee.ch/microsoft-azure/disable-entra-connect-seamless-sso/)
 - [Some policies I use in Conditional Access](https://conditionalaccess.uk/some-policies-i-use-in-conditional-access/)
 - [Token Theft to Account Takeover: How a Stolen Entra ID Token Can Bypass Two-Factor Authentication (MFA)](https://medium.com/@benj_774/token-theft-to-account-takeover-how-a-stolen-entra-id-token-can-bypass-two-factor-authentication-7d3e37311134)
@@ -1834,6 +1837,8 @@
 
 ## GitHub
 
+- [CIS Microsoft 365 Foundations Benchmark v6.0.0 - Automated Compliance Checker](https://github.com/mohammedsiddiqui6872/CIS-Microsoft-365-Foundations-Benchmark)
+- [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
 - [Maester](https://github.com/maester365/maester)
 - [Daniel Chronlund](https://github.com/DanielChronlund)
 - [Nicola Suter - Conditional Access Documentation](https://github.com/nicolonsky/ConditionalAccessDocumentation)

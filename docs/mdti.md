@@ -80,6 +80,10 @@
 - [Get Ahead of Attacks with Microsoft Defender Threat Intelligence](https://medium.com/@officegarageitpro/get-ahead-of-attacks-with-microsoft-defender-threat-intelligence-97e1d7e78034)
 - [What innovations should we expect from Microsoft Defender Threat Intelligence (MDTI) in the future?](https://medium.com/@vbcloudboy/what-innovations-should-we-expect-from-microsoft-defender-threat-intelligence-mdti-in-the-future-3f1ff9366ce)
 
+## GitHub
+
+- [MDTI Solutions](https://github.com/Azure/MDTI-Solutions)
+
 ## Social Media
 
 - [Microsoft Threat Intelligence](https://twitter.com/MsftSecIntel)
