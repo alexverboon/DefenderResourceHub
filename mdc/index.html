@@ -1,0 +1,1854 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://alexverboon.github.io/DefenderResourceHub/mdc/">
+      
+      
+        <link rel="prev" href="../mdca/">
+      
+      
+        <link rel="next" href="../mdiot/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.2">
+    
+    
+      
+        <title>Microsoft Defender for Cloud - Defender Resource Hub</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+  
+  
+    
+      
+      
+    
+  
+  
+  <style>:root{--md-admonition-icon--<type>:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2016%2016%22%3E%3Cpath%20d%3D%22M6.457%201.047c.659-1.234%202.427-1.234%203.086%200l6.082%2011.378A1.75%201.75%200%200%201%2014.082%2015H1.918a1.75%201.75%200%200%201-1.543-2.575Zm1.763.707a.25.25%200%200%200-.44%200L1.698%2013.132a.25.25%200%200%200%20.22.368h12.164a.25.25%200%200%200%20.22-.368Zm.53%203.996v2.5a.75.75%200%200%201-1.5%200v-2.5a.75.75%200%200%201%201.5%200M9%2011a1%201%200%201%201-2%200%201%201%200%200%201%202%200%22/%3E%3C/svg%3E');}</style>
+
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#microsoft-defender-for-cloud" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Defender Resource Hub" class="md-header__button md-logo" aria-label="Defender Resource Hub" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Defender Resource Hub
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Microsoft Defender for Cloud
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="cyan"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/alexverboon/DefenderResourceHub" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Defender Resource Hub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../entraid/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Microsoft Security stack
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../podcasts/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Podcasts & Newsletters
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../social/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Social Media
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../videos/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Webinars & Videos
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../learn/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Learning & Training
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../books/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Books
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../GitHub/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  GitHub
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../about/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  About this Project
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Defender Resource Hub" class="md-nav__button md-logo" aria-label="Defender Resource Hub" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Defender Resource Hub
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/alexverboon/DefenderResourceHub" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Defender Resource Hub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Security stack
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Microsoft Security stack
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../entraid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft EntraID
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sentinel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Sentinel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../xspm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Security Exposure Management
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdxdr/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender XDR
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mde/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Endpoint
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Identity
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Office 365
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdca/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Cloud Apps
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Cloud
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for Cloud
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#microsoft-tech-community-blogs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Microsoft Tech Community Blogs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community-blogs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Community Blogs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#videos-podcasts" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Videos &amp; Podcasts
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#books-whitepapers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Books &amp; Whitepapers
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#social-media" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Social Media
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#github" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GitHub
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdiot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender for IoT
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdeasm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender External Attack Surface Management
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../securitycopilot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Copilot for Security
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdtvm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Defender Threat and Vulnerability Management
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdti/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Threat Intelligence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../azurenetworksecurity/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Microsoft Azure Network Security
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../podcasts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Podcasts & Newsletters
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../social/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Social Media
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../videos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webinars & Videos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../learn/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learning & Training
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../books/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Books
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../GitHub/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    GitHub
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About this Project
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#microsoft-tech-community-blogs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Microsoft Tech Community Blogs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community-blogs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Community Blogs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#videos-podcasts" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Videos &amp; Podcasts
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#books-whitepapers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Books &amp; Whitepapers
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#social-media" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Social Media
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#github" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GitHub
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="microsoft-defender-for-cloud">Microsoft Defender for Cloud</h1>
+<ul>
+<li><a href="https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-cloud">Microsoft Defender for Cloud</a></li>
+<li><a href="https://learn.microsoft.com/en-us/azure/defender-for-cloud/">Microsoft Defender for Cloud documentation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761">Become a Microsoft Defender for Cloud Ninja</a></li>
+<li><a href="https://docs.azure.cn/en-us/defender-for-cloud/release-notes">What's new in Defender for Cloud features</a></li>
+<li><a href="https://docs.azure.cn/en-us/defender-for-cloud/release-notes-recommendations-alerts">What's new in Defender for Cloud recommendations, alerts, and incidents</a></li>
+</ul>
+<h2 id="microsoft-tech-community-blogs">Microsoft Tech Community Blogs</h2>
+<ul>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/securing-genai-workloads-in-azure-a-complete-guide-to-monitoring-and-threat-prot/4463145">Securing GenAI Workloads in Azure: A Complete Guide to Monitoring and Threat Protection - AIO11Y</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/secure-ai-by-design-series-embedding-security-and-governance-across-the-ai-lifec/4457200">Secure AI by Design Series: Embedding Security and Governance Across the AI Lifecycle</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/defender-for-storage-malware-automated-remediation---from-security-to-protection/4457040">Defender for Storage: Malware Automated Remediation - From Security to Protection</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/automated-remediation-for-malware-detection---defender-for-storage/4454641">Automated Remediation for Malware Detection - Defender for Storage</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/new-feature-in-defender-for-storage-optional-index-tags/4427987">New feature in Defender for Storage: Optional Index Tags</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/optimizing-resource-allocation-with-microsoft-defender-cspm/4427785">Optimizing Resource Allocation with Microsoft Defender CSPM</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-named-a-leader-in-the-idc-marketscape-for-cnapp-key-takeaways-for-secu/4427071">Microsoft Named a Leader in the IDC MarketScape for CNAPP: Key Takeaways for Security Buyers</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/unlocking-api-visibility-defender-for-cloud-expands-api-security-to-function-app/4426864">Unlocking API visibility: Defender for Cloud Expands API security to Function Apps and Logic Apps</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/performing-advanced-risk-hunting-in-defender-for-cloud/4420633">Performing Advanced Risk Hunting in Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/enhancements-for-protecting-hosted-sql-servers-across-clouds-and-hybrid-environm/4414783">Enhancements for protecting hosted SQL servers across clouds and hybrid environments</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/connecting-defender-for-cloud-with-jira/4411691">Connecting Defender for Cloud with Jira</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/plug-play-and-prey-the-security-risks-of-the-model-context-protocol/4410829">Plug, Play, and Prey: The security risks of the Model Context Protocol</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/from-visibility-to-action-the-power-of-cloud-detection-and-response/4411280">From visibility to action: The power of cloud detection and response</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/the-risk-of-default-configuration-how-out-of-the-box-helm-charts-can-breach-your/4409560">The Risk of Default Configuration: How Out-of-the-Box Helm Charts Can Breach Your Cluster</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/guidance-for-handling-cve-2025-31324-using-microsoft-security-capabilities/4409413">Guidance for handling CVE-2025-31324 using Microsoft Security capabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/general-availability-of-on-demand-scanning-in-defender-for-storage/4409365">General Availability of on-demand scanning in Defender for Storage</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/protecting-your-azure-key-vault-why-azure-rbac-is-critical-for-security/4407848">Protecting Your Azure Key Vault: Why Azure RBAC Is Critical for Security</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/protect-what-matters-to-your-organization-using-filtering-in-defender-for-storag/4402993">Protect what matters to your organization using filtering in Defender for Storage</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/guidance-for-handling-cve-2025-30065-using-microsoft-security-capabilities/4401362">Guidance for handling CVE-2025-30065 using Microsoft Security capabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/the-future-of-ciem-in-microsoft-defender-for-cloud/4398169">The Future of CIEM in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/securing-your-organization-from-ingressnightmare-using-microsoft-security-capabi/4397844">Securing your organization from 'IngressNightmare' using Microsoft Security capabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/all-key-vaults-are-critical-but-some-are-more-critical-than-others-finding-the-c/4396706">All Key Vaults Are Critical, But Some Are More Critical Than Others: Finding the Crown Jewels</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/new-innovations-to-protect-custom-ai-applications-with-defender-for-cloud/4396277">New innovations to protect custom AI applications with Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/integrating-security-into-devops-workflows-with-microsoft-defender-cspm/4388094">Integrating Security into DevOps Workflows with Microsoft Defender CSPM</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/strengthening-cloud-compliance-and-governance-with-microsoft-defender-cspm/4385215">Strengthening Cloud Compliance and Governance with Microsoft Defender CSPM</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/secure-containers-software-supply-chain-across-the-sdlc/4384925">Secure containers software supply chain across the SDLC</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/new-and-enhanced-multicloud-regulatory-compliance-standards-in-defender-for-clou/4382616">New and enhanced multicloud regulatory compliance standards in Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/protecting-azure-ai-workloads-using-threat-protection-for-ai-in-defender-for-clo/4378474">Protecting Azure AI Workloads using Threat Protection for AI in Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/unveiling-kubernetes-lateral-movement-and-attack-paths-with-microsoft-defender-f/4374958">Unveiling Kubernetes lateral movement and attack paths with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/boost-security-with-api-security-posture-management/4372385">Boost Security with API Security Posture Management</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/bringing-appsec-and-cloudsec-together-microsoft-defender-for-cloud-integrates-wi/4372366">Bringing AppSec and CloudSec Together: Microsoft Defender for Cloud Integrates with Endor Labs</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-defender-for-cloud---elevating-runtime-protection/4285436">Microsoft Defender for Cloud - Elevating Runtime Protection</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/considerations-for-risk-identification-and-prioritization-in-defender-for-cloud/4359616">Considerations for risk identification and prioritization in Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-defender-for-cloud-named-a-leader-in-frost-radar%E2%84%A2-for-cnapp-for-the-se/4358036">Microsoft Defender for Cloud Named a Leader in Frost Radar™ for CNAPP for the Second Year in a Row!</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/strategy-to-execution-operationalizing-microsoft-defender-cspm/4357354">Strategy to Execution: Operationalizing Microsoft Defender CSPM</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/aks-security-dashboard/4356754">AKS Security Dashboard</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/elevate-your-container-posture-from-agentless-discovery-to-risk-prioritization/4352572">Elevate Your Container Posture: From Agentless Discovery to Risk Prioritization</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/important-update-deprecation-of-%E2%80%9Cbring-your-own-license%E2%80%9D-in-microsoft-defender-f/4341477">Important Update: Deprecation of “Bring Your Own License” in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/prevent-malware-from-spreading-by-scanning-cloud-storage-accounts-on-demand/4336608">Prevent malware from spreading by scanning cloud storage accounts on-demand</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-october-2024/ba-p/4260397">Monthly News - October 2024</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-new-file-integrity-monitoring-with-defender-for/ba-p/4252051">Introducing the new File Integrity Monitoring with Defender for Endpoint integration</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-september-2024/ba-p/4235917">Monthly News - September 2024</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/detect-container-drift-with-microsoft-defender-for-containers/ba-p/4232044">Detect Container Drift with Microsoft Defender for Containers</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-multi-cloud-gen-ai-workloads-using-azure-native/ba-p/4222728">Securing Multi-Cloud Gen AI workloads using Azure Native Solutions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/using-defender-xdr-portal-to-hunt-for-kubernetes-security-issues/ba-p/4217741">Using Defender XDR Portal to hunt for Kubernetes security issues</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/leveraging-azure-native-tooling-to-hunt-kubernetes-security/ba-p/4217705">Leveraging Azure native tooling to hunt Kubernetes security issues</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-august-2024/ba-p/4210674">Monthly News - August 2024</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-power-bi-and-microsoft-defender-for-cloud/ba-p/4190041">Microsoft Power BI and Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-posture-and-contextualization-across-cloud/ba-p/4161703">Cloud security posture and contextualization across cloud boundaries from a single dashboard</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-june-2024/ba-p/4159552">Monthly news - June 2024</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/best-practices-to-manage-and-mitigate-security-recommendations/ba-p/4153869">Best Practices to Manage and Mitigate Security Recommendations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/accelerate-cloud-security-risk-remediation-with-microsoft/ba-p/4143161">Accelerate cloud security risk remediation with Microsoft Copilot for Security</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-api-management-service-from-day-one-with-defender/ba-p/4141620">Securing your API Management service from day one with Defender for APIs</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/vulnerability-assessment-with-defender-for-servers-powered-by/ba-p/4134482">Vulnerability Assessment with Defender for Servers, Powered by Defender Vulnerability Management</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-your-ai-applications-from-code-to-runtime-with-microsoft/ba-p/4127665">Secure your AI applications from code to runtime with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-extends-support-to-enable-increased/ba-p/4127794">Microsoft Defender for Cloud Extends Support to Enable Increased API Security Testing Visibility</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-cloud-native-applications-in-the-age-of-ai-defender-for/ba-p/4129523">Securing cloud-native applications in the age of AI: Defender for Cloud sets a new standard</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/end-to-end-container-security-with-unified-soc-experience/ba-p/4127734">End to end container security with unified SOC experience</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-may-2024/ba-p/4129743">Monthly news - May 2024</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-open-source-relational-databases-now/ba-p/4127655">Microsoft Defender for Open-Source Relational Databases Now Supports Multicloud (AWS RDS)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protecting-containers-a-primer-for-moving-from-an-edr-based/ba-p/4128424">Protecting Containers: A Primer for Moving from an EDR-based Threat Approach</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-our-cnapp-mastery-e-book/ba-p/4118156">Introducing our CNAPP mastery e-book!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/operationalizing-attack-path-insights/ba-p/4121643">Operationalizing Attack Path Insights</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/ebpf-powered-threat-protection-using-inspektor-gadget/ba-p/4115873">eBPF-Powered Threat Protection using Inspektor Gadget</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-adds-full-coverage-for-azure-open/ba-p/4108412">Microsoft Defender for Cloud Adds Full Coverage for Azure Open-Source Relational Databases</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-better-manage-cost-of-api-calls-that-defender-for-cloud/ba-p/4108886">How to better manage cost of API calls that Defender for Cloud makes to AWS</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unleashing-the-power-of-microsoft-defender-for-cloud-unique/ba-p/4102392">Unleashing the Power of Microsoft Defender for Cloud – Unique Capabilities for Robust Protection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-april-2024/ba-p/4104536">Monthly news - April 2024</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-free-trial-per-plan/ba-p/4102865">Microsoft Defender for Cloud  Free Trial per Plan</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secrets-scanning-for-cloud-deployments/ba-p/4102965">Secrets scanning for Cloud deployments</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/native-first-cloud-security-approach/ba-p/4102367">Native-First Cloud Security Approach</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-api-security-estimate-your-plan-cost/ba-p/4099671">Microsoft Defender for API Security - Estimate Your Plan Cost Easily</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/resource-level-billing-change-for-defender-for-servers-customers/ba-p/4098143">Resource-level billing change for Defender for Servers Customers</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/prepare-for-upcoming-transitions-in-defender-for-servers/ba-p/4098135">Prepare for upcoming transitions in Defender for Servers</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-against-owasp-api-top-10-security-risks-using-defender/ba-p/4093913">Protect Against OWASP API Top 10 Security Risks Using Defender for APIs</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/exposure-management-the-evolution-of-vulnerability-management/ba-p/4084587">Exposure Management: The Evolution of Vulnerability Management</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-cspm-enhances-risk-prioritization-remediation-and/ba-p/4082119">Defender CSPM enhances risk prioritization, remediation, and compliance for multicloud environments</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-march-2024/ba-p/4073200">Monthly news - March 2024</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/unlocking-new-dimensions-in-cybersecurity-advanced-export-for/ba-p/4069854">Unlocking New Dimensions in Cybersecurity - Advanced Export for Defender for Cloud  Attack Insights</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-deployment-in-aws-gcp-agents-resources-iam/ba-p/4056127">Defender for Cloud deployment in AWS/GCP - Agents, Resources, IAM and Cleanup options</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enforcement-of-defender-cspm-for-premium-devops-security/ba-p/4053335">Enforcement of Defender CSPM for Premium DevOps Security Capabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-february-2024/ba-p/4048218">Monthly news - February 2024</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bridging-the-gap-between-code-and-cloud-with-defender-for-cloud/ba-p/4042557">Bridging the Gap Between Code and Cloud with Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-container-posture-management-in-multicloud/ba-p/4037481">Agentless Container Posture Management in Multicloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/contextual-risk-estimation-for-effective-prioritization/ba-p/4035425">Contextual Risk Estimation for Effective Prioritization</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-malware-scanning-for-servers-with-defender-for-cloud/ba-p/4033427">Agentless malware scanning for servers with Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-qualys-retirement-plan-for-vulnerability/ba-p/4024533">Defender for Cloud - Qualys retirement plan for Vulnerability assessment on cloud workloads</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-january-2024/ba-p/4022467">Monthly news - January 2024</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-devops-with-microsoft-s-cnapp-defender-for-cloud/ba-p/4014608">Securing DevOps with Microsoft's CNAPP: Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-scanning-for-virtual-machines-in-the-cloud-technical/ba-p/4012256">Agentless scanning for virtual machines in the cloud – technical deep dive</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-december-2023/ba-p/3999331">Monthly news - December 2023</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/better-together-defender-cspm-database-protections/ba-p/3999976">Better Together = Defender CSPM + Database Protections</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-s-agentless-secret-scanning-for-virtual/ba-p/3994018">Defender for cloud's Agentless secret scanning for virtual machines is now generally available!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/simplifying-onboarding-to-microsoft-defender-for-cloud-with/ba-p/3974789">Simplifying Onboarding to Microsoft Defender for Cloud with Terraform</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/effective-novelty-detection-in-cloud-security-domain/ba-p/3987688">Effective novelty detection in cloud security domain</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-unified-vulnerability-assessment-powered-by/ba-p/3990112">Defender for Cloud unified Vulnerability Assessment powered by Defender Vulnerability Management</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-your-gitlab-environment-with-microsoft-defender-for/ba-p/3989278">Securing your GitLab Environment with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-announces-general-availability-of-defender-for-apis/ba-p/3981488">Microsoft Announces General Availability of Defender for APIs</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhancing-defender-cspm-across-the-application-lifecycle/ba-p/3982046">Enhancing Defender CSPM across the application lifecycle</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-new-cnapp-capabilities-in-defender-for-cloud/ba-p/3981941">Announcing new CNAPP capabilities in Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-november-2023/ba-p/3974568">Monthly news - November 2023</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-cloud-resources-assessing-internet-exposure-for/ba-p/3974018">Securing Cloud Resources: Assessing Internet Exposure for Enhanced Defense and Risk Management</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-latest-protection-against/ba-p/3970121">Microsoft Defender for Cloud latest protection against sophisticated abuse of Azure VM Extensions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/e2e-bootstrap-solution-for-malicious-file-scanning-using/ba-p/3972370">E2E Bootstrap Solution for Malicious File Scanning Using Microsoft Defender for Storage in Azure</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-now-supports-cis-azure-security/ba-p/3944860">Microsoft Defender for Cloud Now Supports CIS Azure Security Foundations Benchmark 2.0.0</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/high-severity-curl-vulnerability-prepare-with-microsoft-defender/ba-p/3950812">High severity curl vulnerability: prepare with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/proactively-secure-your-google-cloud-resources-with-microsoft/ba-p/3946460">Proactively secure your Google Cloud Resources with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-october-2023/ba-p/3942602">Monthly news - October 2023</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-expanded-visibility-into-multicloud-data-security-in/ba-p/3913010">New expanded visibility into multicloud data security in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-keep-track-of-defender-for-cloud-coverage/ba-p/3932602">How to keep track of Defender for Cloud Coverage</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-september-2023/ba-p/3917920">Monthly news - September 2023</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/agentless-discovery-for-kubernetes-is-now-offered-as-part-of/ba-p/3915328">Agentless Discovery for Kubernetes is now offered as part of Defender for Containers</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-apis-better-together-with-azure-web-application/ba-p/3907308">Defender for APIs Better Together with Azure Web Application Firewall and Azure API Management</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/proactively-secure-your-aws-cloud-resources-with-microsoft/ba-p/3901698">Proactively secure your AWS Cloud Resources with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-multicloud-cnapp-innovations-in-microsoft-defender-for-cloud/ba-p/3895154">New multicloud CNAPP innovations in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-august-2023/ba-p/3885508">Monthly news - August 2023</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/malware-scanning-for-cloud-storage-ga-announcement-prevent/ba-p/3884470">Malware Scanning for cloud storage GA announcement | prevent malicious content distribution</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-strategy-and-plan-towards-log/ba-p/3883341">Microsoft Defender for Cloud - strategy and plan towards Log Analytics Agent (MMA) deprecation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhanced-cloud-security-value-added-with-defender-cspm-s/ba-p/3880746">Enhanced Cloud Security: Value-Added with Defender CSPM's Agentless Features</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-sql-servers-on-machines-should-have/ba-p/3879850">Microsoft Defender for Cloud - 'SQL servers on machines should have vulnerability findings resolved'</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-microsoft-defender-for-cloud-capabilities-to-counter/ba-p/3876012">Announcing Microsoft Defender for Cloud capabilities to counter identity-based supply chain attacks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/incident-triage-microsoft-defender-for-cloud-attack-path/ba-p/3876015">Incident Triage: Microsoft Defender for Cloud Attack Path Analysis and Microsoft Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/comprehensive-guide-on-agent-based-and-agentless-cloud/ba-p/3866705">Comprehensive Guide on Agent-based and Agentless Cloud Protection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-apis-enriches-defender-cspm-capabilities/ba-p/3866894">Microsoft Defender for APIs enriches Defender CSPM capabilities.</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/correlating-alerts-in-microsoft-defender-for-cloud/ba-p/3839209">Correlating alerts in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-july-2023/ba-p/3861124">Monthly news - July 2023</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/continuous-export-as-trusted-service-to-event-hub/ba-p/3859983">Continuous Export as Trusted Service to Event Hub</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-the-azure-workbook-for-defender-cspm-visualization/ba-p/3853277">Introducing the Azure Workbook for Defender CSPM Visualization: Enhance Your Cloud Security Posture</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-api-security-dashboard/ba-p/3848291">Microsoft Defender for API Security Dashboard</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-sql-vulnerability-assessment-updates/ba-p/3837732">Defender for SQL Vulnerability Assessment Updates</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-june-2023/ba-p/3838969">Monthly news - June 2023</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-automate-notifications-when-new/ba-p/3832385">Microsoft Defender for Cloud - Automate Notifications when new Attack Paths are created</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/your-ultimate-solution-for-catching-container-image-exposure/ba-p/3831733">Your Ultimate Solution for Catching Container Image Exposure Before It Happens</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-onboarding-workbook-v2/ba-p/3828185">Microsoft Defender for Cloud Onboarding workbook V2</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-devops-azure-devops-connector-microsoft/ba-p/3827261">Microsoft Defender for DevOps Azure DevOps Connector - Microsoft Defender for Cloud PoC Series</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/remediating-infrastructure-as-code-misconfigurations-with-devops/ba-p/3824135">Remediating Infrastructure-as-Code Misconfigurations with DevOps Security in Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/one-click-to-cover-containers-amp-kubernetes-in-defender-cspm/ba-p/3822435">One click to cover containers &amp; Kubernetes in Defender CSPM (agentless)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/container-security-with-microsoft-defender-for-cloud/ba-p/3819956">Container Security with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-devops-github-connector-microsoft/ba-p/3818803">Microsoft Defender for DevOps GitHub Connector - Microsoft Defender for Cloud PoC Series</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-microsoft-defender-for-apis-alerts/ba-p/3803874">Validating Microsoft Defender for APIs Alerts</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/creating-custom-recommendations-amp-standards-for-your-workloads/ba-p/3810248">Creating custom recommendations &amp; standards for your workloads with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-may-2023/ba-p/3807889">Monthly news - May 2023</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-bolsters-cloud-native-security-in-defender-for-cloud/ba-p/3801818">Microsoft bolsters cloud-native security in Defender for Cloud with new API security capabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/onboarding-your-aws-gcp-environment-to-microsoft-defender-for/ba-p/3798664">Onboarding your AWS/GCP environment to Microsoft Defender for Cloud with Terraform</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/uncover-the-latest-cloud-data-security-capabilities-from/ba-p/3785632">Uncover the latest cloud data security capabilities from Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-april-2023/ba-p/3778634">Monthly news - April 2023</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-defender-cspm-ga-amp-new-data-security-capabilities/ba-p/3781013">Announcing Defender CSPM GA &amp; new data security capabilities in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/improved-experience-for-managing-the-default-azure-security/ba-p/3776522">Improved experience for managing the default Azure security policies</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-microsoft-cloud-security-benchmark-v1-general/ba-p/3763013">Announcing Microsoft cloud security benchmark v1 (General Availability)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-configure-security-events-collection-with-azure-monitor/ba-p/3770719">How to configure Security Events collection with Azure Monitor Agent</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-poc-series-defender-cspm/ba-p/3768651">Microsoft Defender PoC Series – Defender CSPM</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/prioritize-risk-remediation-with-microsoft-defender-for-cloud/ba-p/3761155">Prioritize Risk remediation with Microsoft Defender for Cloud Attack Path Analysis</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/monthly-news-march-2023/ba-p/3758712">Monthly news - March 2023</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/leveraging-defender-for-containers-to-simplify-policy-management/ba-p/3755757">Leveraging Defender for Containers to simplify policy management in your Kubernetes Clusters</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/proacting-hunting-with-cloud-security-explorer-in-defender-for/ba-p/3749629">Proacting Hunting with Cloud Security Explorer in Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/consuming-microsoft-defender-for-cloud-data/ba-p/3744856">Consuming Microsoft Defender for Cloud Data</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/devops-security-configuration-of-devops-pipeline-classic-and/ba-p/3741317">DevOps Security - Configuration of DevOps Pipeline Classic and YAML method</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-your-storage-resources-against-blob-hunting/ba-p/3735238">Protect your storage resources against blob-hunting</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/remediating-security-issues-in-code-with-pull-request/ba-p/3735066">Remediating Security Issues in Code with Pull Request Annotations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/a-proactive-approach-to-cloud-security-posture-management-with/ba-p/3728913">A Proactive Approach to Cloud Security Posture Management with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-endpoint-for-linux-and-microsoft-defender/ba-p/3702077">Microsoft Defender for Endpoint for Linux and Microsoft Defender for Servers</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-servers-security-alerts-improvements/ba-p/3714175">Defender for Servers Security Alerts Improvements</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/what-you-need-to-know-when-deleting-and-re-creating-the-security/ba-p/3712772">What you need to know when deleting and re-creating the security connector(s) in Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/initial-access-techniques-in-kubernetes-environments-used-by/ba-p/3697975">Initial access techniques in Kubernetes environments used by Kinsing malware</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-express-configuration-for-vulnerability-assessment-in/ba-p/3695390">New express configuration for Vulnerability Assessment in Microsoft Defender for SQL- Public Preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-use-microsoft-defender-for-cloud-ransomware-alerts-to/ba-p/3693825">How-to use Microsoft Defender for Cloud Ransomware alerts to preserve Azure Backup recovery points</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/4-factors-customers-used-in-selecting-microsoft-defender-for/ba-p/3690972">4 Factors Customers Used in Selecting Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-microsoft-cloud-security-benchmark-mcsb-helps-you-succeed-in/ba-p/3689762">How Microsoft cloud security benchmark (MCSB) helps you succeed in your cloud security journey</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-cloud-security-benchmark-azure-compute-benchmark-is/ba-p/3680141">Microsoft cloud security benchmark: Azure compute benchmark is now aligned with CIS!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-openssl-v3-vulnerability-prepare-with-microsoft-defender-for/ba-p/3666487">New OpenSSL v3 vulnerability: prepare with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automate-secops-to-developer-communication-with-devops-security/ba-p/3637669">Automate SecOps to Developer Communication with DevOps Security in Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automate-devops-security-in-defender-for-cloud-recommendation/ba-p/3637678">Automate DevOps Security in Defender for Cloud Recommendation Remediation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/compliance-for-exposed-secrets-discovered-by-devops-security-in/ba-p/3637649">Compliance for Exposed Secrets Discovered by DevOps Security in Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-microsoft-cloud-security-benchmark-public-preview/ba-p/3648818">Announcing Microsoft cloud security benchmark (Public Preview)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/devops-security-workbook/ba-p/3637662">DevOps Security Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/pre-deployment-protection-for-infrastructure-as-code/ba-p/3637645">Pre-Deployment Protection for Infrastructure as Code</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/deploying-and-managing-microsoft-defender-for-cloud-as-code/ba-p/3649653">Deploying and Managing Microsoft Defender for Cloud as Code</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-containers-from-build-to-runtime/ba-p/3612831">Securing Containers from Build to Runtime</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/containers-security-mapping-dashboard/ba-p/3601580">Containers Security Mapping Dashboard</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-onboarding-workbook/ba-p/3597457">Defender for Cloud Onboarding workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/demystifying-dependencies-and-pricing-of-microsoft-defender-for/ba-p/3579250">Demystifying Dependencies and Pricing of Microsoft Defender for Cloud Multicloud Capabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-multicloud-with-aws/ba-p/3573206">Microsoft Defender for Cloud PoC Series - Multicloud with AWS</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-multicloud-with-gcp/ba-p/3565709">Microsoft Defender for Cloud PoC Series - Multicloud with GCP</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/deploy-microsoft-defender-for-cloud-via-terraform/ba-p/3563710">Deploy Microsoft Defender for Cloud via Terraform</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automation-for-responding-to-microsoft-defender-for-key-vault/ba-p/3539417">Automation for responding to Microsoft Defender for Key Vault alerts</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-azure-cosmos-db-now-generally-available/ba-p/3530222">Microsoft Defender for Azure Cosmos DB - now generally available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-servers-plan-2-now-integrates-with-defender-for/ba-p/3527534">Defender for Servers Plan 2 now integrates with Defender for Endpoint unified solution</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/drive-your-organization-to-security-actions-using-governance/ba-p/3477265">Drive your organization to security actions using Governance experience</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-rsa-announcements/ba-p/3449894">Microsoft Defender for Cloud RSA announcements -</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-demonstrate-the-new-containers-features-in-microsoft/ba-p/3281172">How to demonstrate the new containers features in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-endpoint-and-defender-for-cloud-which-dashboard/ba-p/3279558">Defender for Endpoint and Defender for Cloud- which dashboard should you use?</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-posture-management-and-server-protection-for-aws-and/ba-p/3271388">Security posture management and server protection for AWS and GCP are now generally available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-ransomware-recommendation-dashboard-in-microsoft-defender/ba-p/3270472">New Ransomware Recommendation Dashboard in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automation-to-block-compromised-identity-detected-by-microsoft/ba-p/3269257">Automation to block compromised identity detected by Microsoft Defender for Resource Manager</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/policy-distribution-dashboard-for-microsoft-defender-for-cloud/ba-p/3264712">Policy Distribution Dashboard for Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-security-benchmark-v3-workbook/ba-p/3257673">Azure Security Benchmark v3 Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-cost-estimation-dashboard/ba-p/3247622">Microsoft Defender for Cloud Cost Estimation Dashboard</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/detecting-identity-attacks-in-kubernetes/ba-p/3232340">Detecting identity attacks in Kubernetes</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automation-to-block-outgoing-traffic-to-malicious-websites/ba-p/3223286">Automation to Block Outgoing Traffic to Malicious Websites detected by Microsoft Defender for DNS</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-key-vault-deploy-to-azure-synapse/ba-p/3201308">Microsoft Defender for Key Vault - Deploy to Azure Synapse Analytics</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-your-google-cloud-workloads-with-microsoft-defender-for/ba-p/3073360">Protect your Google Cloud workloads with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/7-steps-to-author-develop-and-deploy-custom-recommendations-for/ba-p/3166026">7 steps to author, develop, and deploy custom recommendations for Windows using Guest Configuration</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-alerts-on-microsoft-defender-for-sql-on-machines/ba-p/3070714">Validating Alerts on Microsoft Defender for SQL on machines</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/3064644">Microsoft Defender for Cloud PoC Series - Microsoft Defender for Containers</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-defender-for-cloud-displays-machines-affected-by-log4j/ba-p/3037271">How Defender for Cloud displays machines affected by Log4j vulnerabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-microsoft-defender-for-containers/ba-p/2952317">Introducing Microsoft Defender for Containers</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-use-cases/ba-p/2953619">Microsoft Defender for Cloud   - Use cases</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/a-new-name-for-multi-cloud-security-microsoft-defender-for-cloud/ba-p/2943020">A new name for multi-cloud security: Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-sensitive-data-in-your-cloud-resources/ba-p/2918646">Secure sensitive data in your cloud resources</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-azure-security-benchmark-v3/ba-p/2918566">Announcing Azure Security Benchmark v3</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/ignite-2021-microsoft-defender-for-cloud-news/ba-p/2882807">Ignite 2021: Microsoft Defender for Cloud news</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-enhancements-added-to-network-security-dashboard/ba-p/2896021">New enhancements added to network security dashboard</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automatically-extend-multiple-suppression-rules-on-security/ba-p/2896121">Automatically Extend Multiple Suppression Rules on Security Alerts</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/what-s-new-azure-security-benchmark-workbook-preview/ba-p/2865930">What’s New: Azure Security Benchmark Workbook (Preview)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-server-monitoring-dashboard/ba-p/2869658">Microsoft Defender for Cloud Server Monitoring Dashboard</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-alerts-workbook/ba-p/2841990">Microsoft Defender for Cloud Alerts Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-defender-for-servers/ba-p/2767508">Microsoft Defender for Cloud PoC Series - Defender for Servers</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-defender-for-cloud-finds-vms-affected-by-omi-vulnerabilities/ba-p/2767240">How Defender for Cloud finds VMs affected by OMI vulnerabilities in Azure VM Management Extensions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/sharing-access-to-workbooks-in-microsoft-defender-for-cloud/ba-p/2666440">Sharing access to Workbooks in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/2711503">Microsoft Defender for Cloud PoC Series - Microsoft Defender for Kubernetes</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/2603615">Microsoft Defender for Cloud PoC Series - Microsoft Defender for Container Registries</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/meeting-the-cybersecurity-executive-order-requirements-with/ba-p/2683561">Meeting the Cybersecurity Executive Order requirements with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-microsoft-defender-for-app-service-alerts/ba-p/2656230">Validating Microsoft Defender for App Service Alerts</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/2657459">Microsoft Defender for Cloud PoC Series – Microsoft Defender for SQL</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-and-why-you-should-enforce-defender-for-cloud-plans-with/ba-p/2640146">How and why you should enforce Defender for Cloud plans with Azure policies</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/2652443">Microsoft Defender for Cloud PoC Series – Microsoft Defender for App Service</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/2641138">Microsoft Defender for Cloud PoC Series – Microsoft Defender for Key Vault</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/apply-adaptive-network-hardening-across-multiple-subscriptions/ba-p/2313912">Apply Adaptive Network Hardening across multiple Subscriptions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/2595277">Microsoft Defender for Cloud PoC Series – Microsoft Defender for DNS</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-poc-series-microsoft-defender-for-storage/ba-p/2577311">Microsoft Defender PoC Series – Microsoft Defender for Storage</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/2539915">Microsoft Defender for Cloud PoC Series – Microsoft Defender for Resource Manager</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-secure-score-vs-microsoft-secure-score/ba-p/2459684">Azure Secure Score vs. Microsoft Secure Score</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-storage-price-estimation-dashboard/ba-p/2429724">Microsoft Defender for Storage – Price Estimation Dashboard</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-large-scale-campaign-targets-kubeflow/ba-p/2425750">New large-scale campaign targets Kubeflow</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-endpoint-for-linux-is-coming-soon-to/ba-p/2412258">Microsoft Defender for Endpoint for Linux is coming soon to Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/time-indicators-average-time-taken-to-remediate-resources/ba-p/2404896">Time Indicators - Average Time taken to remediate resources</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-expands-sql-protection-to-open/ba-p/2384972">Microsoft Defender for Cloud expands SQL protection to open-source relational databases</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/general-availability-of-new-capabilities-in-azure-defender-rsa/ba-p/2349382">General availability of new capabilities in Azure Defender – RSA 2021</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/time-indicators-in-microsoft-defender-for-cloud-assessments/ba-p/2343612">Time indicators in Microsoft Defender for Cloud assessments</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/remove-deprecated-user-accounts-across-multiple-subscriptions/ba-p/2275836">Remove Deprecated User Accounts across multiple Subscriptions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-generate-a-microsoft-defender-for-cloud-exemption-and/ba-p/2302899">How to Generate a Microsoft Defender for Cloud exemption and disable policy report</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/planning-your-multi-cloud-adoption-with-microsoft-defender-for/ba-p/2299747">Planning your Multi-Cloud Adoption with Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-non-azure-resources-using-azure-arc-and-microsoft/ba-p/2277215">Protect non-Azure resources using Azure Arc and Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/eliminate-password-based-attacks-on-azure-linux-vms/ba-p/2271139">Eliminate Password-Based Attacks on Azure Linux VMs</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-implement-security-best-practices/ba-p/2269914">Security Control: Implement security best practices</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/detecting-who-is-changing-alert-suppression-rules-in-azure/ba-p/2237577">Detecting who is changing Alert Suppression rules in Azure Defender</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-network-security-using-microsoft-defender-for-cloud/ba-p/2228222">Azure Network Security using Microsoft Defender for Cloud integration with Azure Firewall Manager</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-microsoft-defender-for-dns-alerts/ba-p/2227845">Validating Microsoft Defender for DNS Alerts</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-microsoft-defender-for-resource-manager-alerts/ba-p/2227469">Validating Microsoft Defender for Resource Manager Alerts</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-encrypt-data-in-transit/ba-p/2201008">Security Control: Encrypt data in transit</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-enable-encryption-at-rest/ba-p/2192495">Security Control: Enable encryption at rest</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-defender-and-security-center-ignite-2021-announcements/ba-p/2172231">Azure Defender and Security Center – Ignite 2021 Announcements</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-protect-applications-against-ddos-attacks/ba-p/2169373">Security Control: Protect Applications Against DDoS Attacks</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-apply-system-updates/ba-p/2169206">Security Control: Apply System Updates</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/weekly-secure-score-progress-report/ba-p/2159354">Weekly Secure Score Progress Report</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-enable-audit-and-logging/ba-p/2079589">Security Control: Enable audit and logging</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/mapping-between-azure-security-benchmark-amp-cis-microsoft-azure/ba-p/2114301">Mapping between Azure Security Benchmark &amp; CIS Microsoft Azure Foundations Benchmark available now!</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/continuously-export-secure-score-for-over-time-tracking-and/ba-p/1922779">Continuously Export Secure Score for Over-Time Tracking and Reporting (Preview)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/identifying-subscriptions-that-are-not-managed-by-microsoft/ba-p/2111408">Identifying Subscriptions that are not Managed by Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enhance-your-ci-cd-deployment-by-using-vulnerability-assessments/ba-p/2102516">Enhance your CI/CD deployment by using Vulnerability Assessments from Microsoft Defender for ACR</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/investigate-microsoft-defender-for-cloud-alerts-using-azure/ba-p/1986759">Investigate Microsoft Defender for Cloud alerts using Azure Sentinel</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-apply-adaptive-application-control/ba-p/1954144">Security Control: Apply adaptive application control</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-remediate-security-configurations/ba-p/1946319">Security Control: Remediate Security Configurations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/fileless-attack-detection-for-linux-is-now-generally-available/ba-p/1903892">Fileless Attack Detection for Linux is now Generally Available</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/container-image-scanning-notification-playbook/ba-p/1879316">Container Image Scanning Notification Playbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-key-vault/ba-p/1825055">Microsoft Defender for Key Vault</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-score-over-time-power-bi-dashboard/ba-p/1799954">Secure Score Over Time Power BI Dashboard</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-keep-track-of-resource-exemptions-in-microsoft-defender/ba-p/1770580">How to keep track of Resource Exemptions in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/secure-score-by-groups-workbook/ba-p/1749376">Secure Score by Groups Workbook</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/querying-your-secure-score-across-multiple-subscriptions-in/ba-p/1749193">Querying your Secure Score Across Multiple Subscriptions in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/customizing-endpoint-protection-recommendation-in-microsoft/ba-p/1733217">Customizing Endpoint Protection Recommendation in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-manage-access-and-permissions/ba-p/1720540">Security Control: Manage Access and Permissions</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/ignite-2020-introducing-azure-defender-and-azure-security-center/ba-p/1708769">Ignite 2020 - Introducing Azure Defender and Azure Security Center updates</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/resource-exemption-in-microsoft-defender-for-cloud/ba-p/1703052">Resource exemption in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-security-benchmark-v2-is-now-available-with-expanded/ba-p/1689883">Azure Security Benchmark v2 is now available with expanded security control assessments</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/assigning-permissions-in-microsoft-defender-for-cloud/ba-p/1694069">Assigning Permissions in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/teamtnt-activity-targets-weave-scope-deployments/ba-p/1645968">TeamTNT activity targets Weave Scope deployments</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/continuously-export-security-findings-from-vulnerability/ba-p/1640691">Continuously export security findings from vulnerability assessment solution recommendations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-enable-endpoint-protection/ba-p/1624653">Security Control: Enable Endpoint Protection</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automation-to-block-brute-force-attacked-ip-detected-by/ba-p/1616825">Automation to Block Brute-force Attacked IP detected by Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761">Become a Microsoft Defender for Cloud Ninja</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/threat-protection-for-sql-iaas-vms-running-on-premises-using/ba-p/1599415">Threat Protection for SQL IaaS VMs running on-premises using Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-restrict-unauthorized-network-access/ba-p/1593833">Security Control: Restrict Unauthorized Network Access</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/threat-protection-for-sql-iaas-vms-hosted-on-azure-arc-using/ba-p/1577251">Threat Protection for SQL IaaS VMs hosted on Azure Arc using Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/built-in-vulnerability-assessment-for-vms-in-microsoft-defender/ba-p/1577947">Built-in vulnerability assessment for VMs in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-secure-score-reduction-alert/ba-p/1563403">Microsoft Defender for Cloud Secure Score Reduction Alert</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-enable-mfa/ba-p/1559110">Security Control: Enable MFA</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/asset-inventory-experience-in-azure-security-center/ba-p/1553909">Asset inventory experience in Azure Security Center</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/fileless-attack-detection-for-linux-preview-is-expanding/ba-p/1551766">Fileless Attack Detection for Linux Preview is Expanding</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/threat-protection-for-sql-iaas-vms-using-microsoft-defender/ba-p/1536529">Threat Protection for SQL IaaS VMs using Microsoft Defender</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/creating-a-custom-dashboard-for-azure-security-center-with-azure/ba-p/1518647">Creating a Custom Dashboard for Azure Security Center with Azure Resource Graph</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-secure-management-ports/ba-p/1505770">Security Control: Secure Management Ports</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-secure-score-affects-your-governance/ba-p/1490169">How Secure Score affects your governance</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-security-center-new-security-alerts-experience/ba-p/1463647">Azure Security Center new security alerts experience</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/deliver-a-security-score-weekly-briefing/ba-p/1411515">Deliver a Security Score weekly briefing</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-respond-to-potential-malware-uploaded-to-azure-storage/ba-p/1452005">How to respond to potential Malware uploaded to Azure Storage Blob</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/continuously-export-microsoft-defender-for-cloud-alerts-and/ba-p/1440745">Continuously Export Microsoft Defender for Cloud Alerts and Recommendations via Policy</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-control-remediate-vulnerabilities/ba-p/1430971">Security Control: Remediate Vulnerabilities</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/suppression-rules-for-azure-security-center-alerts-are-now/ba-p/1404920">Suppression rules for Azure Security Center alerts are now available in public preview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-data-flow/ba-p/1382800">Microsoft Defender for Cloud Data Flow</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-controls-in-microsoft-defender-for-cloud-secure-score/ba-p/1358556">Security Controls in Microsoft Defender for Cloud: Secure Score Series - Overview</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/working-with-logic-app-parameters-while-building-azure-security/ba-p/1342121">Working with Logic App Parameters While Building Azure Security Center Automations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-security-center-automating-change-requests-in-servicenow/ba-p/1285670">Azure Security Center – automating Change Requests in ServiceNow using Workflow automation.</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/centralized-policy-management-in-microsoft-defender-for-cloud/ba-p/1276331">Centralized Policy Management in Microsoft Defender for Cloud using Management Groups</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/exporting-azure-container-registry-vulnerability-assessment-in/ba-p/1255244">Exporting Azure Container Registry Vulnerability Assessment in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-isolate-an-azure-vm-using-azure-security-center-s/ba-p/1250985">How to isolate an Azure VM using Azure Security Center’s Workflow automation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-azure-key-vault-threat-detection-in-microsoft/ba-p/1220336">Validating Azure Key Vault Threat Detection in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/send-asc-recommendations-to-azure-resource-stakeholders/ba-p/1216663">Send ASC Recommendations to Azure Resource Stakeholders</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/exporting-vulnerability-assessment-results-in-microsoft-defender/ba-p/1212091">Exporting Vulnerability Assessment Results in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/obtaining-the-direct-link-to-security-recommendations/ba-p/1190726">Obtaining the Direct Link to Security Recommendations</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/closing-an-incident-in-azure-sentinel-and-dismissing-an-alert-in/ba-p/1180208">Closing an Incident in Azure Sentinel and Dismissing an Alert in Azure Security Center</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/the-adventure-of-automating-azure-security-center-part-1/ba-p/1169490">The Adventure of Automating Azure Security Center Part 1</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/using-azure-security-center-api-for-workflow-automation/ba-p/1155619">Using Azure Security Center API for Workflow Automation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/gain-visibility-for-cve-2020-0601-with-azure-security-center/ba-p/1112896">Gain visibility for CVE-2020–0601 with Azure security center recommendation across your tenant.</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-identify-the-user-that-dismissed-an-alert-in-microsoft/ba-p/1108902">How to Identify the User that Dismissed an Alert in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/enumerating-storage-accounts-to-calculate-microsoft-defender-for/ba-p/1105648">Enumerating storage accounts to calculate Microsoft Defender for Storage plan for Storage Cost</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/searching-atp-for-microsoft-defender-for-storage-alerts-in-log/ba-p/1072510">Searching ATP for Microsoft Defender for Storage Alerts in Log Analytics Workspace</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-microsoft-defender-for-storage-detections/ba-p/1068131">Validating Microsoft Defender for Storage Detections</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/sending-emails-when-a-new-recommendation-is-triggered-in/ba-p/1030240">Sending emails when a new recommendation is triggered in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/find-disabled-security-center-recommendations-using-powershell/ba-p/1026345">Find disabled Security Center Recommendations using PowerShell</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/configuring-security-center-resource-type-pricing-with-azure/ba-p/1026242">Configuring Security Center Resource Type Pricing with Azure Policy (contains updated policies)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-demonstrate-the-new-containers-features-in-azure-security/ba-p/1011270">How to demonstrate the new containers features in Azure Security Center</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/ignite-2019-releases-for-azure-security-center-and-azure/ba-p/975570">Ignite 2019 releases for Azure Security Center and Azure platform security</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/asc-powered-by-arg-azure-resource-graph/ba-p/965737">ASC Powered by ARG (Azure Resource Graph)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/accessing-microsoft-defender-for-cloud-alerts-in-splunk-using/ba-p/938228">Accessing Microsoft Defender for Cloud Alerts in Splunk using Graph Security API Integration</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-monitoring-agent-deployment-options/ba-p/817520">Microsoft Defender for Cloud Monitoring Agent Deployment Options</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/survival-guide-to-drive-your-secure-score-up-in-microsoft/ba-p/752649">Survival Guide to Drive your Secure Score Up in Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/identify-azure-vms-which-are-not-monitored-by-security-center/ba-p/733672">Identify Azure VMs which are not monitored by Security Center</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/email-notification-for-alerts-triggered-by-atp-for-azure-storage/ba-p/616261">Email Notification for alerts triggered by ATP for Azure Storage, SQL ATP and Azure Security Center</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-effectively-perform-a-microsoft-defender-for-cloud-poc/ba-p/516874">How to Effectively Perform a Microsoft Defender for Cloud PoC</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/investigating-a-fileless-attack-using-microsoft-defender-for/ba-p/482994">Investigating a Fileless Attack using Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/using-azure-security-center-secure-score-to-strength-your/ba-p/461308">Using Azure Security Center Secure Score to Strength your Security Posture</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/configure-security-center-bundle-pricing-with-azure-policy/ba-p/404035">Configure Security Center bundle pricing with Azure Policy</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/tracking-changes-in-the-pricing-tier-for-microsoft-defender-for/ba-p/390832">Tracking Changes in the Pricing Tier for Microsoft Defender for Cloud</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/configure-security-center-pricings-per-resource-type-using-an/ba-p/343309">Configure Security Center pricings per resource type - using an ARM Template</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/managing-security-center-at-scale-using-arm-templates-and-azure/ba-p/327761">Managing Security Center at scale using ARM templates and Azure Policy</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-security-center-amp-automatic-creation-of-an-incident-in/ba-p/264875">Azure Security Center &amp; automatic creation of an incident in ServiceNow</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automate-azure-security-center-actions-with-playbooks-and/ba-p/264843">Automate Azure Security Center actions with Playbooks and ServiceNow</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/notable-events-in-azure-security-center/ba-p/167596">Notable Events in Azure Security Center</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/using-azure-security-center-search-capability-during-your/ba-p/167190">Using Azure Security Center search capability during your security investigation</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/testing-azure-security-center-detections-capabilities/ba-p/166935">Testing Azure Security Center Detections Capabilities</a></li>
+</ul>
+<h2 id="community-blogs">Community Blogs</h2>
+<ul>
+<li><a href="https://www.itprofessor.cloud/sentinel-storage-account-ransomware-hunting/">Hunting Ransomware in Storage Accounts (When You Can't Afford Defender)</a></li>
+<li><a href="https://jeffreyappel.nl/ai-workload-threat-protection-in-microsoft-defender-for-cloud/">AI workload threat protection in Microsoft Defender for Cloud</a></li>
+<li><a href="https://braropad.medium.com/azure-pentesting-exploiting-the-anonymous-access-to-the-blob-storage-draft-english-d80f3831a590">AZURE PENTESTING — EXPLOITING THE ANONYMOUS ACCESS TO THE BLOB STORAGE — Draft Eng — Updated :)</a></li>
+<li><a href="https://www.basevision.ch/understanding-microsoft-cnapp-how-defender-for-cloud-secures-your-multicloud-workloads/">Understanding Microsoft CNAPP: How Defender for Cloud Secures Your Multicloud Workloads</a></li>
+<li><a href="https://jeffreyappel.nl/configure-file-integrity-monitoring-fim-using-defender-for-endpoint/">Configure File Integrity Monitoring (FIM) using Defender for Endpoint</a></li>
+<li><a href="https://jeffreyappel.nl/how-to-protect-azure-storage-accounts-blob-using-defender-for-storage/">How to protect Azure storage accounts (Blob) using Defender for Storage</a></li>
+<li><a href="https://mccybersec.github.io/defender%20for%20cloud/defender-for-Storage-in-pills/">Microsoft Defender for Storage in pills</a></li>
+<li><a href="https://medium.com/@phaubus/aws-posture-management-with-microsoft-defender-for-cloud-cspm-5d295c6d0023">AWS Posture Management with Microsoft Defender for Cloud CSPM</a></li>
+</ul>
+<h2 id="videos-podcasts">Videos &amp; Podcasts</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL3ZTgFEc7LysiX4PfHhdJPR7S8mGO14YS">Defender for Cloud in the Field</a></li>
+<li><a href="https://runasradio.com/Shows/Show/937">Microsoft Defender for Cloud with Yuri Diogenes</a></li>
+<li><a href="https://youtu.be/ZjipKystggM?si=bUsNihtbYIhcv6sn">Cloud Detection Response experience | Defender for Cloud in the Field #55</a></li>
+<li><a href="https://youtu.be/vK9qxsVMOU4?si=v3BuOhNGFSRXcD-D">Improvements in Container’s Posture Management | Defender for Cloud in the Field #56</a></li>
+<li><a href="https://youtu.be/9KxXlXu8kCI?si=zJK0xYXLvMuSolpN">Secure your AI applications from code to runtime | Defender for Cloud in the Field In the Field #50</a></li>
+</ul>
+<h2 id="books-whitepapers">Books &amp; Whitepapers</h2>
+<ul>
+<li><a href="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Implementing-A-Cloud-Native-Application-Protection-Strategy-Ebook.pdf">Implementing a cloud-native application protection platform (CNAPP) strategy</a></li>
+</ul>
+<h2 id="social-media">Social Media</h2>
+<ul>
+<li><a href="https://twitter.com/yuridiogenes">Yuri Diogenes</a></li>
+</ul>
+<h2 id="github">GitHub</h2>
+<ul>
+<li><a href="https://github.com/Azure/Microsoft-Defender-for-Cloud">Defender for Cloud</a></li>
+<li><a href="https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main">Defender for Cloud - Community Repository</a></li>
+<li><a href="https://github.com/microsoft/Defender-for-Cloud-Attack-Simulation">Defender-for-Cloud-Attack-Simulation</a></li>
+<li><a href="https://microsoft.github.io/Threat-matrix-for-storage-services/">Threat Matrix for Storage Services</a></li>
+<li><a href="https://microsoft.github.io/Azure-Threat-Research-Matrix/">Azure Threat Research Matrix</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/alexverboon" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/alexverboon" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M459.4 151.7c.3 4.5.3 9.1.3 13.6 0 138.7-105.6 298.6-298.6 298.6-59.5 0-114.7-17.2-161.1-47.1 8.4 1 16.6 1.3 25.3 1.3 49.1 0 94.2-16.6 130.3-44.8-46.1-1-84.8-31.2-98.1-72.8 6.5 1 13 1.6 19.8 1.6 9.4 0 18.8-1.3 27.6-3.6-48.1-9.7-84.1-52-84.1-103v-1.3c14 7.8 30.2 12.7 47.4 13.3-28.3-18.8-46.8-51-46.8-87.4 0-19.5 5.2-37.4 14.3-53C87.4 130.8 165 172.4 252.1 176.9c-1.6-7.8-2.6-15.9-2.6-24C249.5 95.1 296.3 48 354.4 48c30.2 0 57.5 12.7 76.7 33.1 23.7-4.5 46.5-13.3 66.6-25.3-7.8 24.4-24.4 44.8-46.1 57.8 21.1-2.3 41.6-8.1 60.4-16.2-14.3 20.8-32.2 39.3-52.6 54.3"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/in/verboonalex/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77m282.1 320h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.expand", "navigation.indexes", "navigation.instant", "navigation.tabs", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../js/clarity.js"></script>
+      
+    
+  </body>
+</html>
