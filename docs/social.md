@@ -87,6 +87,7 @@
 - [Mehmet Ergene](https://twitter.com/Cyb3rMonk)
 - [Nathan McNulty](https://x.com/nathanmcnulty)
 - [Nicola Suter](https://twitter.com/nicolonsky)
+- [Oktay Sari](https://x.com/oktay_sari)
 - [Olaf Hartong](https://twitter.com/olafhartong)
 - [Oliver Kieselbach](https://twitter.com/okieselb)
 - [Robbe Van den Daele](https://x.com/RobbeVdDaele)

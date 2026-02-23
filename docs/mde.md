@@ -266,6 +266,7 @@
 
 ## Community Blogs
 
+- [Hunting Duplicate Device Records in Microsoft Defender](https://allthingscloud.blog/duplicate-device-records-microsoft-defender-endpoint/)
 - [Bind Link – EDR Tampering](https://ipurple.team/2025/12/01/bind-link-edr-tampering/)
 - [Modern Security for Legacy Systems](https://medium.com/@verboonalex/modern-security-for-legacy-systems-0cb96f95a949)
 - [What is Microsoft Defender for Endpoint, for the Endpoint](https://kostaskoutrou.github.io/2025/12/17/what-is-mde.html)
