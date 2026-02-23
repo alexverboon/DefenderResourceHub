@@ -662,6 +662,11 @@
 - [Microsoft Sentinel - SEC Operations](https://github.com/eshlomo1/Microsoft-Sentinel-SecOps)
 - [Log Splitr](https://github.com/TheCloudScout/log-splitr)
 - [Azure DevOps detection rules](https://github.com/alexverboon/Hunting-Queries-Detection-Rules/tree/main/AzureDevOps)
+- [ASIM Parsers Index](https://github.com/oshezaf/sentinelninja/blob/main/Solutions%20Docs/asim/asim-index.md)
+
+## Tools
+
+- [Sentinel Data Lake Cost Calculator](https://tokesi.cloud/exp/datalake)
 
 ## Learning and Training
 
