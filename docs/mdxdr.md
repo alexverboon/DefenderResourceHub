@@ -9,6 +9,10 @@
 
 ## Microsoft Tech Community Blogs
 
+- [From signal to strategy: Closing attack paths with identity intelligence](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/from-signal-to-strategy-closing-attack-paths-with-identity-intelligence/4491856)
+- [Security Copilot for SOC: bringing agentic AI to every defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/security-copilot-for-soc-bringing-agentic-ai-to-every-defender/4470187)
+- [Enhancing visibility into your identity fabric with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/enhancing-visibility-into-your-identity-fabric-with-microsoft-defender/4470662)
+- [Detect more, spend less: the future of threat intelligence correlation](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/detect-more-spend-less-the-future-of-threat-intelligence-correlation/4468778)
 - [Ignite 2025: What's new in Microsoft Defender?](https://techcommunity.microsoft.com/blog/MicrosoftThreatProtectionBlog/ignite-2025-whats-new-in-microsoft-defender/4469996)
 - [Custom detections are now the unified experience for creating detections in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/custom-detections-are-now-the-unified-experience-for-creating-detections-in-micr/4463875)
 - [How Microsoft Defender helps security teams detect prompt injection attacks in Microsoft 365 Copilot](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/how-microsoft-defender-helps-security-teams-detect-prompt-injection-attacks-in-m/4457047)
@@ -106,6 +110,7 @@
 
 ## Community Blogs
 
+- [Defender XDR Unified Detections Meet Sentinel Data Lake](https://tech.nicolonsky.ch/defender-xdr-unified-detections-sentinel-data-lake/)
 - [Migrating Microsoft Sentinel to Microsoft Defender XDR](https://infernux.no/blog/migratingsentineltodefenderxdr/)
 - [The ultimate Defender XDR RBAC visualization](https://vertho.tech/2025/09/29/the-ultimate-defender-xdr-rbac-visualization/)
 - [Remove old or orphaned Sentinels from the XDR Streaming API](https://cloudbrothers.info/remove-orphaned-sentinels-xdr-streaming-api/)

@@ -13,6 +13,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Introducing effective settings: See security configurations enforced on your device](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/introducing-effective-settings-see-security-configurations-enforced-on-your-devi/4499551)
+- [Transparent and customizable onboarding for modern and legacy Windows devices](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/transparent-and-customizable-onboarding-for-modern-and-legacy-windows-devices/4498827)
 - [Introducing library management in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/introducing-library-management-in-microsoft-defender/4494434)
 - [Ignite 2025: Microsoft Defender now prevents threats on endpoints during an attack](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/ignite-2025-microsoft-defender-now-prevents-threats-on-endpoints-during-an-attac/4470805)
 - [End of Windows 10 Support: What Defender Customers Need to Know](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/end-of-windows-10-support-what-defender-customers-need-to-know/4461349)
