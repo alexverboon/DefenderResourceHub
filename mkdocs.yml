@@ -24,7 +24,7 @@ nav:
     - Microsoft Azure Network Security: 'azurenetworksecurity.md'
   - Podcasts & Newsletters: 'podcasts.md'
   - Other Security Resources:
-    - Detection Engineering & Threat Hunting: 'detectionengineering and ThreatHunting.md'
+    - Detection Engineering & Threat Hunting: 'deth.md'
   - Social Media: 'social.md'
   - Webinars & Videos: 'videos.md'
   - Learning & Training: 'learn.md'
