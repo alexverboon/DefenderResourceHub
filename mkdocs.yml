@@ -23,6 +23,8 @@ nav:
     - Microsoft Threat Intelligence: 'mdti.md'
     - Microsoft Azure Network Security: 'azurenetworksecurity.md'
   - Podcasts & Newsletters: 'podcasts.md'
+  - Other Security Resources:
+    - Detection Engineering & Threat Hunting: 'detectionengineering and ThreatHunting.md'
   - Social Media: 'social.md'
   - Webinars & Videos: 'videos.md'
   - Learning & Training: 'learn.md'

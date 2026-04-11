@@ -34,6 +34,7 @@
 ## Interactive Lab Simulations
 
 - [SC-200 Interactive Lab Simulations - Microsoft Security Operations Analyst](https://mslabs.cloudguides.com/guides/SC-200%20Lab%20Simulations%20-%20Microsoft%20Security%20Operations%20Analyst)
+- [HackLab](https://github.com/csu-techhub/scenario-security-labs/tree/main)
 
 ## Entra
 
@@ -52,3 +53,6 @@
 
 - [Docs Tracker](https://docstracker.marshsecurity.org/)
 
+## Azure
+
+ [Azure API Connections: A Red Team Deep Dive](https://azurehacking.com/post.html?slug=azure-api-connections-a-red-team-deep-dive)

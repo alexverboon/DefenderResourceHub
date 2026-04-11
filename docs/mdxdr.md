@@ -9,6 +9,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Security Copilot in Defender: empowering the SOC with assistive and autonomous AI](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/security-copilot-in-defender-empowering-the-soc-with-assistive-and-autonomous-ai/4503047)
+- [RSA 2026: What’s new in Microsoft Defender?](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/rsa-2026-what%E2%80%99s-new-in-microsoft-defender/4503046)
 - [From signal to strategy: Closing attack paths with identity intelligence](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/from-signal-to-strategy-closing-attack-paths-with-identity-intelligence/4491856)
 - [Security Copilot for SOC: bringing agentic AI to every defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/security-copilot-for-soc-bringing-agentic-ai-to-every-defender/4470187)
 - [Enhancing visibility into your identity fabric with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/enhancing-visibility-into-your-identity-fabric-with-microsoft-defender/4470662)
@@ -110,6 +112,7 @@
 
 ## Community Blogs
 
+- [Unlock Different Security Perspectives with Kusto Graph Functions](https://kqlquery.com/posts/kql-graph-security-visualization/)
 - [Defender XDR Unified Detections Meet Sentinel Data Lake](https://tech.nicolonsky.ch/defender-xdr-unified-detections-sentinel-data-lake/)
 - [Migrating Microsoft Sentinel to Microsoft Defender XDR](https://infernux.no/blog/migratingsentineltodefenderxdr/)
 - [The ultimate Defender XDR RBAC visualization](https://vertho.tech/2025/09/29/the-ultimate-defender-xdr-rbac-visualization/)

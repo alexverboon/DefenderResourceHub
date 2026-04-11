@@ -83,6 +83,7 @@
 ## GitHub
 
 - [MDTI Solutions](https://github.com/Azure/MDTI-Solutions)
+- [REDHEBERG — MikroTik Botnet Threat Intelligence](https://github.com/wicked-design/REDHEBERG-botnet)
 
 ## Social Media
 

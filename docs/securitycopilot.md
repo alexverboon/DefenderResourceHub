@@ -7,6 +7,16 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Security Copilot in Defender: empowering the SOC with assistive and autonomous AI](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/security-copilot-in-defender-empowering-the-soc-with-assistive-and-autonomous-ai/4503047)
+- [From alert overload to decisive action: How Security Copilot agents are transforming security and IT](https://techcommunity.microsoft.com/blog/securitycopilotblog/from-alert-overload-to-decisive-action-how-security-copilot-agents-are-transform/4504213)
+- [Introducing Secret Finder: Finding Real Credentials Where Traditional Tools Fail](https://techcommunity.microsoft.com/blog/securitycopilotblog/introducing-secret-finder-finding-real-credentials-where-traditional-tools-fail/4500983)
+- [Where Partners Build and Scale: Partner-Built Security Copilot Agents in Security Store](https://techcommunity.microsoft.com/blog/securitycopilotblog/where-partners-build-and-scale-partner-built-security-copilot-agents-in-security/4488589)
+- [Redefining Cyber Defence with Microsoft Security Exposure Management (MSEM) and Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/redefining-cyber-defence-with-microsoft-security-exposure-management-msem-and-se/4459280)
+- [From idea to Security Copilot agent: Create, customize, and deploy](https://techcommunity.microsoft.com/blog/securitycopilotblog/from-idea-to-security-copilot-agent-create-customize-and-deploy/4458516)
+- [Agentic security your way: Build your own Security Copilot agents](https://techcommunity.microsoft.com/blog/securitycopilotblog/agentic-security-your-way-build-your-own-security-copilot-agents/4454555)
+- [Supercharging Security Copilot with Logic Apps: Best practices and pro tips](https://techcommunity.microsoft.com/blog/securitycopilotblog/supercharging-security-copilot-with-logic-apps-best-practices-and-pro-tips/4456379)
+- [Smarter Prompts for Smarter Investigations: Dynamic Prompt Suggestions in Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/smarter-prompts-for-smarter-investigations-dynamic-prompt-suggestions-in-securit/4432135)
+- [New tools for Security Copilot management and capacity planning](https://techcommunity.microsoft.com/blog/securitycopilotblog/new-tools-for-security-copilot-management-and-capacity-planning/4432723)
 - [Using parameterized functions with KQL-based custom plugins in Microsoft Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/using-parameterized-functions-with-kql-based-custom-plugins-in-microsoft-securit/4419286)
 - [Automating Phishing Email Triage with Microsoft Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/automating-phishing-email-triage-with-microsoft-security-copilot/4416559)
 - [Busting myths on Microsoft Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/busting-myths-on-microsoft-security-copilot/4414844)
@@ -86,6 +96,7 @@
 
 - [Microsoft Copilot For Security Community](https://github.com/Azure/Copilot-For-Security/)
 - [AI Red Teaming Playground Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs)
+- [Security Investigation Automation System](https://github.com/SCStelz/security-investigator)
 
 ## Learning & Training
 

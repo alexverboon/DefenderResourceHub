@@ -1856,6 +1856,7 @@
 ## Podcasts
 
 - [Entra Chat](https://podcasts.apple.com/gb/podcast/entra-chat/id1801200012)
+- [Finding Every MFA Gap: Testing 250 Million Conditional Access Combinations in Under 20 Minutes](https://entra.news/p/finding-every-mfa-gap-testing-250)
 
 ## Tools
 
@@ -1866,6 +1867,8 @@
 - [Tier 0 Table](https://github.com/SpecterOps/TierZeroTable/)
 - [https://www.entradocumentation.com/](https://www.entradocumentation.com/)
 - [Conditional Access Documenter](https://idpowertoys.merill.net/ca)
+- [CA Insight](https://github.com/emiliensocchi/entra-ca-insight)
+- [EntraFalcon](https://github.com/CompassSecurity/EntraFalcon)
 
 ## EntraOps Classification and Automation
 

@@ -7,6 +7,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Redefining identity security for the modern enterprise](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/redefining-identity-security-for-the-modern-enterprise/4503129)
 - [Announcing General Availability: Unified identity and endpoint sensor](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/announcing-general-availability-unified-identity-and-endpoint-sensor/4463585)
 - [Monthly news - October 2025](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/monthly-news---october-2025/4458349)
 - [How Microsoft Defender helps security teams detect prompt injection attacks in Microsoft 365 Copilot](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/how-microsoft-defender-helps-security-teams-detect-prompt-injection-attacks-in-m/4457047)
@@ -87,3 +88,4 @@
 ## Documentation
 
 - [Microsoft Defender for Identity sensor v3.x prerequisites (Preview)](https://learn.microsoft.com/en-us/defender-for-identity/deploy/prerequisites-sensor-version-3)
+- [TechExcel: Defender for Identity (level 300 / CSU) lab](https://microsoft.github.io/TechExcel-Defender-for-Identity/)

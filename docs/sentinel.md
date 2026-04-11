@@ -599,6 +599,7 @@
 
 ## Community Blogs
 
+- [Microsoft Sentinel Log Baseline: Cost vs Detection Value](https://infernux.no/blog/buildingapracticallogbaseline/)
 - [Boost Your TI: Integrating Free AlienVault OTX IOCs into Microsoft Sentinel](https://medium.com/@benj_774/boost-your-ti-integrating-free-alienvault-otx-iocs-into-microsoft-sentinel-02d6a743ddb9)
 - [Sentinel Watchlists: A Diamond in the rough](https://medium.com/@benj_774/sentinel-watchlists-a-diamond-in-the-rough-16f214f24416)
 - [The KQL User Audit Playbook: Your Template for Investigations](https://www.itprofessor.cloud/kql-user-audit-playbook/)
