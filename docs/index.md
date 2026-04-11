@@ -14,8 +14,7 @@ You will find the following type of information:
 
  ![](./img/drhjune2025.png)
 
- Alex Verboon
- Microsoft Security MVP
+ Alex Verboon | Microsoft Security MVP
 
 - [BlueSky](https://bsky.app/profile/vacyber.bsky.social)
 - [X](https://twitter.com/alexverboon)

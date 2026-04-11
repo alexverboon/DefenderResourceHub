@@ -85,6 +85,7 @@ docs_dir: docs
 # Plugins
 plugins:
   - search
+  - sitemap
   #- simple
   #- simple:
   #    include_extensions:

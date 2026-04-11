@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /*.md$
-Disallow: /CNAME
-Disallow: /README.md
-Disallow: /404.html
+Allow: /
+
+Sitemap: https://alexverboon.github.io/DefenderResourceHub/sitemap.xml
