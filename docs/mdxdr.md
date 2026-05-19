@@ -9,6 +9,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Microsoft Defender: New Advanced hunting enhancements](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/microsoft-defender-new-advanced-hunting-enhancements/4514654)
+- [Redefining identity security for the modern enterprise](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/redefining-identity-security-for-the-modern-enterprise/4503129)
 - [Security Copilot in Defender: empowering the SOC with assistive and autonomous AI](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/security-copilot-in-defender-empowering-the-soc-with-assistive-and-autonomous-ai/4503047)
 - [RSA 2026: What’s new in Microsoft Defender?](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/rsa-2026-what%E2%80%99s-new-in-microsoft-defender/4503046)
 - [From signal to strategy: Closing attack paths with identity intelligence](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/from-signal-to-strategy-closing-attack-paths-with-identity-intelligence/4491856)
