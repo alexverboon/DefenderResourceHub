@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alexverboon.github.io/DefenderResourceHub/sitemap.xml
