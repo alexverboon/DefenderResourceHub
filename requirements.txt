@@ -1,7 +1,7 @@
 flake8
 Jinja2
 mike
-mkdocs-awesome-pages-plugin # enables naive configuration of page titles and their order
+# mkdocs-awesome-pages-plugin # enables naive configuration of page titles and their order
 mkdocs-click
 mkdocs-macros-plugin
 mkdocs-material # Material support for MkDocs
