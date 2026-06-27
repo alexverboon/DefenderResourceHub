@@ -28,9 +28,7 @@
 - [Truls](https://bsky.app/profile/truls.infernux.no)
 - [Rogier Dijkman](https://bsky.app/profile/rogierdijkman.bsky.social)
 
-## Defenders on X
-
-### Microsoft
+## Microsoft Defenders on X
 
 - [Microsoft Security](https://twitter.com/msftsecurity)
 - [Microsoft Defender XDR](https://twitter.com/msftdefenderxdr)
@@ -38,7 +36,6 @@
 - [Microsoft Bluehat](https://twitter.com/MSFTBlueHat)
 - [Microsoft EntraID](https://twitter.com/azuread)
 - [Azure Data Explorer](https://x.com/AzDataExplorer)
-
 - [Corina Feuerstein](https://twitter.com/corinaf)
 - [Dan Michelson](https://twitter.com/danm332)
 - [Daniel Naim](https://twitter.com/naimious)
@@ -58,12 +55,15 @@
 - [Yuri Diogenes](https://twitter.com/yuridiogenes)
 - [Merill Fernando](https://twitter.com/merill)
 
-### Community
+## Community
 
 - [Alex Verboon](https://twitter.com/alexverboon)
 - [Alex Benoit](https://x.com/ITPirate)
+- [Alex Teixeira](https://www.linkedin.com/in/inode/)
 - [Aura](https://x.com/SecurityAura)
 - [Adair John Collins](https://x.com/AdairJCollins)
+- [Benjamin Zulliger](https://www.linkedin.com/in/benjamin-zulliger/)
+- [Antonio Russo](https://www.linkedin.com/in/antonio-russo-9295731b/)
 - [Fabian Bader](https://x.com/fabian_bader)
 - [Alex Benoit](https://twitter.com/ITPirate)
 - [Amar Hasayen](https://twitter.com/ammarhasayen)
@@ -79,6 +79,7 @@
 - [Huy](https://twitter.com/DebugPrivilege)
 - [Jan Geisbauer](https://twitter.com/janvonkirchheim)
 - [Jeffrey Appel](https://twitter.com/JeffreyAppel7)
+- [Levi Lee Cailleret](https://www.linkedin.com/in/levi-lee-cailleret/)
 - [Loris Ambrozzo](https://x.com/LorisAmbrozzo)
 - [Louis Mastelinck](https://x.com/LouisMastelinck)
 - [Maarten Goet](https://twitter.com/maarten_goet)

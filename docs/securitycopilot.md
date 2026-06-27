@@ -5,6 +5,7 @@
 - [What's new in Microsoft Copilot for Security?](https://learn.microsoft.com/en-us/copilot/security/whats-new-copilot-security)
 - [Microsoft Copilot for Security News and Insights](https://www.microsoft.com/en-us/security/blog/products/microsoft-copilot-for-security/)
 
+
 ## Microsoft Tech Community Blogs
 
 - [Security Copilot in Defender: empowering the SOC with assistive and autonomous AI](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/security-copilot-in-defender-empowering-the-soc-with-assistive-and-autonomous-ai/4503047)

@@ -8,6 +8,20 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Discover risks in AI model providers and MCP servers with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/discover-risks-in-ai-model-providers-and-mcp-servers-with-microsoft-defender/4440050)
+- [Discover and govern ChatGPT and other AI apps accessing Microsoft 365 with Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/discover-and-govern-chatgpt-and-other-ai-apps-accessing-microsoft-365-with-defen/4433435)
+- [Discover risks in AI model providers and MCP servers with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/discover-risks-in-ai-model-providers-and-mcp-servers-with-microsoft-defender/4440050)
+- [Discover and govern ChatGPT and other AI apps accessing Microsoft 365 with Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/discover-and-govern-chatgpt-and-other-ai-apps-accessing-microsoft-365-with-defen/4433435)
+- [Discover, monitor and protect the use of Generative AI apps](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/discover-monitor-and-protect-the-use-of-generative-ai-apps/3999228)
+- [Using advanced hunting to secure OAuth apps](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/using-advanced-hunting-to-secure-oauth-apps/3939832)
+- [RSA News: Taking XDR for SaaS apps to the next level - App Governance is now included in E5 Security](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/rsa-news-taking-xdr-for-saas-apps-to-the-next-level---app-governance-is-now-incl/3804722)
+- [Simplifying SaaS Security: Deploying Microsoft Defender for Cloud Apps in 4 steps](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/simplifying-saas-security-deploying-microsoft-defender-for-cloud-apps-in-4-steps/3788360)
+- [Protect your sensitive data against malicious apps](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/protect-your-sensitive-data-against-malicious-apps/3708926)
+- [Microsoft Defender for Cloud Apps data protection series: Understand your data types](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/microsoft-defender-for-cloud-apps-data-protection-series-understand-your-data-ty/3681877)
+- [Introducing the Microsoft Defender for Cloud Apps data protection series](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/introducing-the-microsoft-defender-for-cloud-apps-data-protection-series/3665450)
+- [Top Threat Protection use cases in Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/top-threat-protection-use-cases-in-microsoft-defender-for-cloud-apps/3632483)
+- [CloudAppEvents in advanced hunting now includes non-Microsoft apps and new data columns](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/cloudappevents-in-advanced-hunting-now-includes-non-microsoft-apps-and-new-data-/3036692)
+- [Microsoft Cloud App Security: The Hunt for Insider Risk](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/microsoft-cloud-app-security-the-hunt-for-insider-risk/2346242)
 - [Protect SaaS apps from OAuth threats with attack path, advanced hunting and more](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/protect-saas-apps-from-oauth-threats-with-attack-path-advanced-hunting-and-more/4395997)
 - [Get visibility into your DeepSeek use with Defender for Cloud Apps](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/get-visibility-into-your-deepseek-use-with-defender-for-cloud-apps/4372520)
 - [Microsoft Defender for Cloud Apps’ Shadow IT Discovery Capabilities Now Support MacOS](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-for-cloud-apps-shadow-it-discovery/ba-p/4159677)

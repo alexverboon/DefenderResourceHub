@@ -1762,6 +1762,8 @@
 
 ## Community Blogs
 
+- [Entra Agent ID: The blueprint blast radius](https://securitylabs.datadoghq.com/articles/agent-id-blueprint-blast-radius/?)
+- [I built a free Microsoft Entra ID tool that finds roles Microsoft hasn't documented yet](https://blog.aboutcloud.io/i-built-a-free-microsoft-entra-id-tool-that-finds-roles-microsoft-hasnt-documented-yet/)
 - [Entra Agent ID Portal explained](https://derkvanderwoude.medium.com/entra-agent-id-portal-explained-4b0118f8e91a)
 - [Remediating Agent Identities for Identity Admins and SOCs](https://hybridbrothers.com/posts/agentid-remediation/)
 - [Introducing ScEntra an advanced permission visualizer](https://azurehacking.com/post.html?slug=introducing-scentra-an-advanced-permission-visualizer)
@@ -1869,6 +1871,8 @@
 - [Conditional Access Documenter](https://idpowertoys.merill.net/ca)
 - [CA Insight](https://github.com/emiliensocchi/entra-ca-insight)
 - [EntraFalcon](https://github.com/CompassSecurity/EntraFalcon)
+- [Entra RoleLens](https://github.com/arusso-aboutcloud/Entra-Rolelens)
+- [TrustM365](https://github.com/AntoPorter/TrustM365)
 
 ## EntraOps Classification and Automation
 

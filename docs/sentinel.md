@@ -687,6 +687,7 @@
 ## Tools
 
 - [Sentinel Data Lake Cost Calculator](https://tokesi.cloud/exp/datalake)
+- [Microsoft Sentinel Toolkit](https://projectbrioche.cyberguard.srl/)
 
 ## Learning and Training
 

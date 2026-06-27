@@ -13,6 +13,11 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Reduce unnecessary internet exposure with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/reduce-unnecessary-internet-exposure-with-microsoft-defender/4525654)
+- [Introducing scheduled antivirus scans on Microsoft Defender Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/introducing-scheduled-antivirus-scans-on-microsoft-defender-linux/4524578)
+- [Elevate your telemetry using custom data collection in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/elevate-your-telemetry-using-custom-data-collection-in-microsoft-defender/4512530)
+- [Microsoft Defender now monitors RPC activity](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/microsoft-defender-now-monitors-rpc-activity/4523368)
+- [How Microsoft Defender used predictive shielding to proactively disrupt a ransomware attack](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/how-microsoft-defender-used-predictive-shielding-to-proactively-disrupt-a-ransom/4519498)
 - [Introducing effective settings: See security configurations enforced on your device](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/introducing-effective-settings-see-security-configurations-enforced-on-your-devi/4499551)
 - [Transparent and customizable onboarding for modern and legacy Windows devices](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/transparent-and-customizable-onboarding-for-modern-and-legacy-windows-devices/4498827)
 - [Introducing library management in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/introducing-library-management-in-microsoft-defender/4494434)
@@ -368,6 +373,8 @@
 
 ## GitHub
 
+- [EDR-Introspection](https://github.com/evilele/EDR-Introspection)
+- [iEDR](https://github.com/evilele/iEDR)
 - [MDEAutomator](https://github.com/msdirtbag/MDEAutomator)
 - [Defender AV Performance Monitoring and Tuning](https://github.com/nathanmcnulty/nathanmcnulty/tree/master/DefenderForEndpoint/Performance)
 - [MDE_Signature_Update_Detection.ps](https://github.com/ugurkocde/Intune/blob/main/Defender%20for%20Endpoint/MDE_Signature_Update_Detection.ps1)
@@ -393,6 +400,7 @@
 - [MDATP PowerBI](https://github.com/microsoft/MDATP-PowerBI-Templates/blob/master/README.md)
 - [Github - Power BI Report templates powered by Microsoft Defender Advanced Threat Protection Advance Hunting Queries](https://github.com/microsoft/MDATP-PowerBI-Templates)
 - [MDATP PowerBI](https://github.com/microsoft/MicrosoftDefenderATP-PowerBI)
+- [Block outbound connections for mshta.exe using Intune Firewall Rules](https://github.com/seb1k/block-mshta-with-intune)
 
 ## Simulations
 
