@@ -74,6 +74,7 @@
 - [Daniel Chronlund](https://twitter.com/DanielChronlund)
 - [Derk van der Woude](https://twitter.com/DerkVanDerWoude)
 - [Eric Soldierer](https://twitter.com/EricSoldierer)
+- [Erik Lindeboom](https://nl.linkedin.com/in/erik-lindeboom-60980b43)
 - [Frans Oudendorp](https://twitter.com/oudendorp)
 - [Gianni](https://twitter.com/castello_johnny)
 - [Huy](https://twitter.com/DebugPrivilege)
