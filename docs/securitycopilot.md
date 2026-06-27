@@ -8,6 +8,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [From alert overload to decisive action: How Security Copilot agents are transforming security and IT](https://techcommunity.microsoft.com/blog/securitycopilotblog/from-alert-overload-to-decisive-action-how-security-copilot-agents-are-transform/4504213)
 - [Security Copilot in Defender: empowering the SOC with assistive and autonomous AI](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/security-copilot-in-defender-empowering-the-soc-with-assistive-and-autonomous-ai/4503047)
 - [From alert overload to decisive action: How Security Copilot agents are transforming security and IT](https://techcommunity.microsoft.com/blog/securitycopilotblog/from-alert-overload-to-decisive-action-how-security-copilot-agents-are-transform/4504213)
 - [Introducing Secret Finder: Finding Real Credentials Where Traditional Tools Fail](https://techcommunity.microsoft.com/blog/securitycopilotblog/introducing-secret-finder-finding-real-credentials-where-traditional-tools-fail/4500983)

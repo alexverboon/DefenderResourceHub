@@ -9,6 +9,9 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Securing the invisible workforce](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/securing-the-invisible-workforce/4528611)
+- [The next frontier in endpoint security: Securing local AI agents with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/the-next-frontier-in-endpoint-security-securing-local-ai-agents-with-microsoft-d/4524651)
+- [Organize your multitenant view with Tenant Groups in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/organize-your-multitenant-view-with-tenant-groups-in-microsoft-defender/4522992)
 - [Microsoft Defender: New Advanced hunting enhancements](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/microsoft-defender-new-advanced-hunting-enhancements/4514654)
 - [Redefining identity security for the modern enterprise](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/redefining-identity-security-for-the-modern-enterprise/4503129)
 - [Security Copilot in Defender: empowering the SOC with assistive and autonomous AI](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/security-copilot-in-defender-empowering-the-soc-with-assistive-and-autonomous-ai/4503047)
