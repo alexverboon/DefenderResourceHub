@@ -21,6 +21,7 @@
 - [Cyber Threat Intelligence Podcast](https://www.cyberthreatintelligencepodcast.com/)
 - [Beers with Talos Podcast](https://beerswithtalos.talosintelligence.com/)
 - [Defence in Depth](https://cisoseries.com/category/podcast/defense-in-depth/)
+- [Everyday Defender](https://df3ndr.io/)
 - [Talking Security hosted by Frans Oudendorp](https://talkingsecurity.nl/)
 - [Defensive Security Podcast](https://defensivesecurity.org/)
 - [Brakeing Down Security Podcast](https://www.dfir.training/brakeingdown)
