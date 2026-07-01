@@ -80,6 +80,7 @@
 - [Huy](https://twitter.com/DebugPrivilege)
 - [Jan Geisbauer](https://twitter.com/janvonkirchheim)
 - [Jeffrey Appel](https://twitter.com/JeffreyAppel7)
+- [Koos Goossens](https://www.linkedin.com/in/koos-goossens/)
 - [Levi Lee Cailleret](https://www.linkedin.com/in/levi-lee-cailleret/)
 - [Loris Ambrozzo](https://x.com/LorisAmbrozzo)
 - [Louis Mastelinck](https://x.com/LouisMastelinck)
