@@ -98,6 +98,7 @@
 - [Rogier Dijkman](https://twitter.com/DijkmanRogier)
 - [Ru Campell](https://twitter.com/rucam365)
 - [Sami Lamppu](https://twitter.com/samilamppu)
+- [Sándor Tőkési](https://www.linkedin.com/in/sandor-tokesi/)
 - [Thijs](@thijslecomte)
 - [Tom Rolvers](https://x.com/securitywithtom)
 - [Thomas Kurth](https://twitter.com/ThomasKurth_ch)

@@ -9,6 +9,11 @@
 
 ## Microsoft Tech Community Blogs
 
+- [What's new in Agent 365 – July 2026](https://techcommunity.microsoft.com/blog/agent-365-blog/whats-new-in-agent-365-%E2%80%93-july-2026/4543654)
+- [What's new in Agent 365 – June 2026](https://techcommunity.microsoft.com/blog/agent-365-blog/whats-new-in-agent-365-%E2%80%93-june-2026/4535107)
+- [Agent 365 Skills: Bring your agents into Microsoft Agent 365 in minutes](https://techcommunity.microsoft.com/blog/agent-365-blog/agent-365-skills-bring-your-agents-into-microsoft-agent-365-in-minutes/4529838)
+- [Make any agent enterprise-ready with the Agent 365 SDK](https://techcommunity.microsoft.com/blog/agent-365-blog/make-any-agent-enterprise-ready-with-the-agent-365-sdk/4524575)
+- [Microsoft 365 E7 & Agent365: From Where You Are to Enterprise AI at Scale](https://techcommunity.microsoft.com/blog/agent-365-blog/microsoft-365-e7--agent365-from-where-you-are-to-enterprise-ai-at-scale/4519969)
 - [Microsoft Agent 365: The control plane for AI agents](https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-agent-365-the-control-plane-for-ai-agents/)
 - [Microsoft Agent 365, now generally available, expands capabilities and integrations](https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/)
 - [What’s New in Agent 365: May 2026](https://techcommunity.microsoft.com/blog/agent-365-blog/what%E2%80%99s-new-in-agent-365-may-2026/4516340)

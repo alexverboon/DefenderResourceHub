@@ -9,6 +9,14 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Integrated Security Operations Center in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/integrated-security-operations-center-in-microsoft-defender/4559097)
+- [Reimagining Case Management in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/reimagining-case-management-in-microsoft-defender/4558044)
+- [Stop identity attacks before they start with Microsoft ISPM recommendations](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/stop-identity-attacks-before-they-start-with-microsoft-ispm-recommendations/4549692)
+- [Monthly News-August 2026](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/monthly-news-august-2026/4544388)
+- [Detecting CVE-2026-54121 (Certighost) with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/detecting-cve-2026-54121-certighost-with-microsoft-defender/4542861)
+- [MDTI convergence in Microsoft Sentinel and Defender XDR is complete](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/mdti-convergence-in-microsoft-sentinel-and-defender-xdr-is-complete/4541279)
+- [Microsoft Defender now integrates with Dragos, Forescout, & Armis for OT Security](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/microsoft-defender-now-integrates-with-dragos-forescout--armis-for-ot-security/4534936)
+- [Monthly news - July 2026](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/monthly-news---july-2026/4532402)
 - [Securing the invisible workforce](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/securing-the-invisible-workforce/4528611)
 - [The next frontier in endpoint security: Securing local AI agents with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/the-next-frontier-in-endpoint-security-securing-local-ai-agents-with-microsoft-d/4524651)
 - [Organize your multitenant view with Tenant Groups in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/organize-your-multitenant-view-with-tenant-groups-in-microsoft-defender/4522992)
@@ -117,6 +125,11 @@
 
 ## Community Blogs
 
+- [Sentinel Data Lake 2.0](https://tokesi.cloud/blogs/26_09_28_integrated_data_lake/)
+- [Sentinel Protected Tables](https://tokesi.cloud/blogs/26_07_11_sentinel_protected_tables/)
+- [Modern Data Architecture with Sentinel data lake](https://tokesi.cloud/blogs/25_11_14_datalake_pipelines/)
+- [Manage Microsoft Sentinel Table Tiers and Retention as Code with Bicep](https://nicolasuter.ch/sentinel-table-retention-bicep/)
+- [Finally native SOAR in Sentinel?](https://nicolasuter.ch/sentinel-native-soar/)
 - [Unlock Different Security Perspectives with Kusto Graph Functions](https://kqlquery.com/posts/kql-graph-security-visualization/)
 - [Defender XDR Unified Detections Meet Sentinel Data Lake](https://tech.nicolonsky.ch/defender-xdr-unified-detections-sentinel-data-lake/)
 - [Migrating Microsoft Sentinel to Microsoft Defender XDR](https://infernux.no/blog/migratingsentineltodefenderxdr/)

@@ -13,6 +13,7 @@
 
 ## Microsoft Tech Community Blogs
 
+- [New Privileged Token Context Telemetry Boosts Advanced Hunting in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/new-privileged-token-context-telemetry-boosts-advanced-hunting-in-microsoft-defe/4528613)
 - [Reduce unnecessary internet exposure with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/reduce-unnecessary-internet-exposure-with-microsoft-defender/4525654)
 - [Introducing scheduled antivirus scans on Microsoft Defender Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/introducing-scheduled-antivirus-scans-on-microsoft-defender-linux/4524578)
 - [Elevate your telemetry using custom data collection in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/elevate-your-telemetry-using-custom-data-collection-in-microsoft-defender/4512530)
