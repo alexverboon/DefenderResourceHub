@@ -2,7 +2,7 @@
 
 ## KQL
 
-**The Definitive Guide to KQL: Using Kusto Query Language for operations, defending, and threat hunting**
+### The Definitive Guide to KQL: Using Kusto Query Language for operations, defending, and threat hunting
 
 ![The Definitive Guide to KQL: Using Kusto Query Language for operations, defending, and threat hunting](./img/books/book_definitiveguidekql.jpg)
 
@@ -11,37 +11,54 @@
 
 ## Microsoft Defender
 
-**Mastering Microsoft 365 Defender**
+### Mastering Microsoft 365 Defender
 
 ![Mastering Microsoft 365 Defender](./img/books/book_MasteringMicrosoft365Defender.avif)
 
 - [Order here](https://www.packtpub.com/en-ch/product/mastering-microsoft-365-defender-9781803241708)
 - [GitHub](https://github.com/PacktPublishing/Mastering-Microsoft-365-Defender)
 
-**Microsoft Unified XDR and SIEM Solution Handbook**
+### Microsoft Unified XDR and SIEM Solution Handbook
 
-![icrosoft Unified XDR and SIEM Solution Handbook](./img//books/book_MicrosoftUnifiedXDRandSIEMSolutionHandbook.avif)
+![Microsoft Unified XDR and SIEM Solution Handbook](./img/books/book_MicrosoftUnifiedXDRandSIEMSolutionHandbook.avif)
 
 - [Order here](https://www.packtpub.com/en-ch/product/microsoft-unified-xdr-and-siem-solution-handbook-9781835086858)
 
+### Ultimate Microsoft XDR for Full Spectrum Cyber Defence
+
+![Ultimate Microsoft XDR for Full Spectrum Cyber Defence](./img/books/book_ultimate_microsoft_xdr.jpg)
+
+- [Order here](https://www.ebooks2go.com/computers/ultimate-microsoft-xdr-for-full-spectrum-cyber-defence)
+
 ## Microsoft Defender for Endpoint
 
-**Microsoft Defender for Endpoint in Depth**
+### Microsoft Defender for Endpoint in Depth
 
-![Microsoft Defender for Endpoint in Depth](./img//books/book_MicrosoftDefenderforEndpointinDepth.avif)
+![Microsoft Defender for Endpoint in Depth](./img/books/book_MicrosoftDefenderforEndpointinDepth.avif)
 
-[Order here](https://www.packtpub.com/en-ch/product/microsoft-defender-for-endpoint-in-depth-9781804615461)
+- [Order here](https://www.packtpub.com/en-ch/product/microsoft-defender-for-endpoint-in-depth-9781804615461)
 
-## Microsoft Defender for Identity in Depth ##
+## Microsoft Defender for Identity
 
-![Microsoft Defender for Identity in Depth](./img//books/defenderforidentityindepth.png)
+### Microsoft Defender for Identity in Depth
 
-[Order here](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835884492)
+![Microsoft Defender for Identity in Depth](./img/books/defenderforidentityindepth.png)
 
-[Code](https://github.com/PacktPublishing/Microsoft-Defender-for-Identity-in-Depth)
+- [Order here](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835884492)
+- [GitHub](https://github.com/PacktPublishing/Microsoft-Defender-for-Identity-in-Depth)
+
+## Threat Hunting
+
+### CYBER HUNTER Project: A Practical Guide to Threat Hunting - From First Hypothesis to Real-World Investigations
+
+![CYBER HUNTER Project: A Practical Guide to Threat Hunting - From First Hypothesis to Real-World Investigations](./img/books/book_cyber_hunter_project.png)
+
+- [Order here](https://leanpub.com/CYBERHUNTERProject)
 
 ## Securing Microsoft 365
 
+### Securing Microsoft 365
+
 ![Securing Microsoft 365](./img/books/book_securingms365joe.png)
 
-[Order here](https://thecloudtechnologist.com/book/)
+- [Order here](https://thecloudtechnologist.com/book/)

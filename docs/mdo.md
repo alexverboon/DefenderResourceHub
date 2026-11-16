@@ -7,6 +7,11 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Part 4: See, investigate, and measure email and collaboration attacks with Defender reporting](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/part-4-see-investigate-and-measure-email-and-collaboration-attacks-with-defender/4562274)
+
+
+
+
 - [Microsoft Defender for Office 365: Migration & Onboarding](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-defender-for-office-365-migration--onboarding/4462906)
 - [Protection against multi-modal attacks with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/protection-against-multi-modal-attacks-with-microsoft-defender/4438786)
 - [Submissions Response Using AI for Enhanced Result Explainability](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/submissions-response-using-ai-for-enhanced-result-explainability/4423843)
