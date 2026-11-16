@@ -13,6 +13,8 @@
 
 ## Microsoft Tech Community Blogs
 
+- [Now generally available: Discover local AI agents with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/now-generally-available-discover-local-ai-agents-with-microsoft-defender/4568216)
+- [Secure Linux desktops with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/secure-linux-desktops-with-microsoft-defender/4560822)
 - [New Privileged Token Context Telemetry Boosts Advanced Hunting in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/new-privileged-token-context-telemetry-boosts-advanced-hunting-in-microsoft-defe/4528613)
 - [Reduce unnecessary internet exposure with Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/reduce-unnecessary-internet-exposure-with-microsoft-defender/4525654)
 - [Introducing scheduled antivirus scans on Microsoft Defender Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/introducing-scheduled-antivirus-scans-on-microsoft-defender-linux/4524578)
@@ -274,6 +276,9 @@
 
 ## Community Blogs
 
+- [Microsoft Defender for Endpoint: Beyond default telemetry with Custom Data Collection Rules](https://jeffreyappel.nl/microsoft-defender-for-endpoint-beyond-default-telemetry-with-custom-data-collection-rules/?utm_source=chatgpt.com)
+- [How to track browser extension installations with Microsoft Defender](https://jeffreyappel.nl/microsoft-defender-for-endpoint-beyond-default-telemetry-with-custom-data-collection-rules/?utm_source=chatgpt.com)
+- [Auditing Microsoft Defender and Intune Configuration Changes](https://jeffreyappel.nl/auditing-microsoft-defender-and-intune-configuration-changes/?utm_source=chatgpt.com)
 - [Hunting Duplicate Device Records in Microsoft Defender](https://allthingscloud.blog/duplicate-device-records-microsoft-defender-endpoint/)
 - [Bind Link – EDR Tampering](https://ipurple.team/2025/12/01/bind-link-edr-tampering/)
 - [Modern Security for Legacy Systems](https://medium.com/@verboonalex/modern-security-for-legacy-systems-0cb96f95a949)

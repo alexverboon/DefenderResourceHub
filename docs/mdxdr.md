@@ -125,6 +125,8 @@
 
 ## Community Blogs
 
+- [I’m in your logs now: deceiving analysts and blinding EDRs](https://medium.com/falconforce/im-in-your-logs-now-deceiving-analysts-and-blinding-edrs-6adada699be6)
+- [What is ISOC in Microsoft Defender?](https://nicolasuter.ch/microsoft-defender-isoc/)
 - [Sentinel Data Lake 2.0](https://tokesi.cloud/blogs/26_09_28_integrated_data_lake/)
 - [Sentinel Protected Tables](https://tokesi.cloud/blogs/26_07_11_sentinel_protected_tables/)
 - [Modern Data Architecture with Sentinel data lake](https://tokesi.cloud/blogs/25_11_14_datalake_pipelines/)
